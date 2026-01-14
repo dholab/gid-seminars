@@ -29,3 +29,9 @@ last_updated = "2026-01-14"
 # [[exclude_title]]
 # pattern = "Staff Only:.*"
 # reason = "Internal staff events"
+
+# Added from GitHub Issue #2 on 2026-01-14
+# Event: DHO test
+[[exclude_url]]
+url = "http://dho.pathology.wisc.edu"
+reason = "Requested via GitHub issue"
