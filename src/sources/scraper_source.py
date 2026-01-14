@@ -6,14 +6,12 @@ from datetime import datetime
 from typing import Any
 
 from bs4 import BeautifulSoup
-from rich.console import Console
 
 from src.core.keyword_filter import KeywordFilter
 from src.core.models import Seminar
+from src.core.utils import MAX_TITLE_LENGTH, console, parse_datetime
 
 from .base import BaseSource
-
-console = Console()
 
 
 class ScraperSource(BaseSource):
@@ -836,22 +834,5 @@ class ScraperSource(BaseSource):
         return "https://www.iasusa.org/activities/webinars/upcoming-webinars/"
 
     def _parse_datetime(self, dt_str: str) -> datetime | None:
-        """Parse various datetime formats."""
-        formats = [
-            "%B %d, %Y %I:%M %p",
-            "%B %d %Y %I:%M %p",
-            "%B %d, %Y %I:%M%p",
-            "%B %d %Y %I:%M%p",
-            "%B %d, %Y",
-            "%B %d %Y",
-        ]
-
-        dt_str = dt_str.strip()
-
-        for fmt in formats:
-            try:
-                return datetime.strptime(dt_str, fmt)
-            except ValueError:
-                continue
-
-        return None
+        """Parse various datetime formats using shared utility."""
+        return parse_datetime(dt_str)

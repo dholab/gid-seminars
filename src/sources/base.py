@@ -7,14 +7,17 @@ from hashlib import sha256
 from typing import Any
 
 import requests
-from rich.console import Console
 
 from src.core.database import SeminarDatabase
 from src.core.exceptions import NetworkError
 from src.core.keyword_filter import KeywordFilter
 from src.core.models import Seminar, SourceRunStatus
-
-console = Console()
+from src.core.utils import (
+    DEFAULT_MAX_RETRIES,
+    DEFAULT_RETRY_DELAY,
+    DEFAULT_TIMEOUT,
+    console,
+)
 
 
 class BaseSource(ABC):
@@ -43,9 +46,9 @@ class BaseSource(ABC):
         self.require_keywords = config.get("require_keywords", True)  # Default to filtering
 
         # HTTP settings
-        self.timeout = self.http_config.get("timeout", 30)
-        self.max_retries = self.http_config.get("max_retries", 3)
-        self.retry_delay_base = self.http_config.get("retry_delay_base", 2)
+        self.timeout = self.http_config.get("timeout", DEFAULT_TIMEOUT)
+        self.max_retries = self.http_config.get("max_retries", DEFAULT_MAX_RETRIES)
+        self.retry_delay_base = self.http_config.get("retry_delay_base", DEFAULT_RETRY_DELAY)
         self.user_agent = self.http_config.get(
             "user_agent", "GID-Seminars-Aggregator/1.0"
         )

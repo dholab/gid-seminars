@@ -6,14 +6,12 @@ from pathlib import Path
 from typing import Any
 
 import toml
-from rich.console import Console
 
 from src.core.keyword_filter import KeywordFilter
 from src.core.models import AccessRestriction, Seminar
+from src.core.utils import console, parse_datetime
 
 from .base import BaseSource
-
-console = Console()
 
 
 class ManualSource(BaseSource):
@@ -110,19 +108,5 @@ class ManualSource(BaseSource):
         )
 
     def _parse_datetime(self, dt_str: str) -> datetime | None:
-        """Parse datetime string in various formats."""
-        formats = [
-            "%Y-%m-%dT%H:%M:%S",
-            "%Y-%m-%d %H:%M:%S",
-            "%Y-%m-%dT%H:%M",
-            "%Y-%m-%d %H:%M",
-            "%Y-%m-%d",
-        ]
-
-        for fmt in formats:
-            try:
-                return datetime.strptime(dt_str, fmt)
-            except ValueError:
-                continue
-
-        return None
+        """Parse datetime string using shared utility."""
+        return parse_datetime(dt_str)

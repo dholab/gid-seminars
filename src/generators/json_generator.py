@@ -6,12 +6,9 @@ from datetime import datetime
 from pathlib import Path
 from typing import Any
 
-from rich.console import Console
-
 from src.core.database import SeminarDatabase
 from src.core.exclusion_filter import ExclusionFilter
-
-console = Console()
+from src.core.utils import DEFAULT_DAYS_AHEAD, DEFAULT_DAYS_BEHIND, console
 
 
 class JSONGenerator:
@@ -36,8 +33,8 @@ class JSONGenerator:
             Tuple of (output_path, event_count)
         """
         # Get seminars in time window
-        days_behind = self.time_window.get("days_behind", 30)
-        days_ahead = self.time_window.get("days_ahead", 30)
+        days_behind = self.time_window.get("days_behind", DEFAULT_DAYS_BEHIND)
+        days_ahead = self.time_window.get("days_ahead", DEFAULT_DAYS_AHEAD)
 
         seminars = self.database.get_seminars_in_window(
             days_behind=days_behind,

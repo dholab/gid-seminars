@@ -7,13 +7,11 @@ from typing import Any
 
 import pytz
 from icalendar import Alarm, Calendar, Event
-from rich.console import Console
 
 from src.core.database import SeminarDatabase
 from src.core.exclusion_filter import ExclusionFilter
 from src.core.models import Seminar
-
-console = Console()
+from src.core.utils import DEFAULT_DAYS_AHEAD, DEFAULT_DAYS_BEHIND, console
 
 
 class ICSGenerator:
@@ -57,8 +55,8 @@ class ICSGenerator:
         )
 
         # Get seminars in time window
-        days_behind = self.time_window.get("days_behind", 30)
-        days_ahead = self.time_window.get("days_ahead", 30)
+        days_behind = self.time_window.get("days_behind", DEFAULT_DAYS_BEHIND)
+        days_ahead = self.time_window.get("days_ahead", DEFAULT_DAYS_AHEAD)
 
         seminars = self.database.get_seminars_in_window(
             days_behind=days_behind,

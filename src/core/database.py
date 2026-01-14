@@ -8,12 +8,9 @@ from datetime import datetime, timedelta
 from pathlib import Path
 from typing import Any, Generator
 
-from rich.console import Console
-
 from .exceptions import DatabaseError
 from .models import Seminar, SourceRun, SourceRunStatus
-
-console = Console()
+from .utils import DEFAULT_DAYS_AHEAD, DEFAULT_DAYS_BEHIND
 
 
 class SeminarDatabase:
@@ -222,8 +219,8 @@ class SeminarDatabase:
 
     def get_seminars_in_window(
         self,
-        days_behind: int = 30,
-        days_ahead: int = 30,
+        days_behind: int = DEFAULT_DAYS_BEHIND,
+        days_ahead: int = DEFAULT_DAYS_AHEAD,
         source_ids: list[str] | None = None,
         categories: list[str] | None = None,
     ) -> list[Seminar]:

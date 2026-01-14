@@ -4,14 +4,17 @@
 from datetime import datetime
 from pathlib import Path
 from typing import Any
-
-from rich.console import Console
+from urllib.parse import quote
 
 from src.core.database import SeminarDatabase
 from src.core.exclusion_filter import ExclusionFilter
 from src.core.models import Seminar
-
-console = Console()
+from src.core.utils import (
+    DEFAULT_DAYS_AHEAD,
+    DEFAULT_DAYS_BEHIND,
+    MAX_DESCRIPTION_PREVIEW,
+    console,
+)
 
 # Color constants for consistent styling
 COLORS = {
@@ -52,8 +55,8 @@ class HTMLGenerator:
             Tuple of (output_path, event_count)
         """
         # Get seminars
-        days_behind = self.time_window.get("days_behind", 30)
-        days_ahead = self.time_window.get("days_ahead", 30)
+        days_behind = self.time_window.get("days_behind", DEFAULT_DAYS_BEHIND)
+        days_ahead = self.time_window.get("days_ahead", DEFAULT_DAYS_AHEAD)
 
         seminars = self.database.get_seminars_in_window(
             days_behind=days_behind,
@@ -390,8 +393,8 @@ class HTMLGenerator:
         # Build description preview
         desc_preview = ""
         if seminar.description:
-            desc = seminar.description[:200]
-            if len(seminar.description) > 200:
+            desc = seminar.description[:MAX_DESCRIPTION_PREVIEW]
+            if len(seminar.description) > MAX_DESCRIPTION_PREVIEW:
                 desc += "..."
             desc_preview = f'<p style="font-size: 0.9em; color: {COLORS["secondary"]}; margin: 8px 0; line-height: 1.5;">{desc}</p>'
 
@@ -407,7 +410,6 @@ class HTMLGenerator:
         links_html = " | ".join(links) if links else ""
 
         # Hide event link - creates a GitHub Issue to exclude this event
-        hide_url = seminar.url or ""
         hide_title = seminar.title.replace('"', "'")[:60]
         hide_issue_title = f"Hide Event: {hide_title}"
         hide_issue_body = f"""**Event to hide:**
@@ -421,7 +423,7 @@ class HTMLGenerator:
 
 ---
 *Submitted via the events page*"""
-        hide_link = f"https://github.com/dholab/gid-seminars/issues/new?title={hide_issue_title}&labels=hide-event&body=" + hide_issue_body.replace("\n", "%0A").replace(" ", "%20").replace(":", "%3A").replace("/", "%2F")
+        hide_link = f"https://github.com/dholab/gid-seminars/issues/new?title={quote(hide_issue_title)}&labels=hide-event&body={quote(hide_issue_body)}"
 
         # Access restriction badge
         access_badge = ""

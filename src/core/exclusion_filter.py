@@ -6,11 +6,9 @@ from pathlib import Path
 from typing import Any
 
 import toml
-from rich.console import Console
 
 from .models import Seminar
-
-console = Console()
+from .utils import console
 
 
 class ExclusionFilter:

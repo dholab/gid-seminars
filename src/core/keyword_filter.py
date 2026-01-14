@@ -4,11 +4,7 @@
 import re
 from typing import Any
 
-from rich.console import Console
-
 from src.core.models import Seminar
-
-console = Console()
 
 
 class KeywordFilter:

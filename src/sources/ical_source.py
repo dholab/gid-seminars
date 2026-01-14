@@ -6,13 +6,11 @@ from typing import Any
 
 import pytz
 from icalendar import Calendar
-from rich.console import Console
 
 from src.core.models import Seminar
+from src.core.utils import MAX_DESCRIPTION_LENGTH, console, extract_url_from_text
 
 from .base import BaseSource
-
-console = Console()
 
 
 class ICalSource(BaseSource):
@@ -77,7 +75,7 @@ class ICalSource(BaseSource):
         # Get URL - check explicit field first, then look in description
         url = str(event.get("url", "")).strip() or None
         if not url and description:
-            url = self._extract_url_from_text(description)
+            url = extract_url_from_text(description)
 
         # Get location
         location = str(event.get("location", "")).strip() or "Online"
@@ -103,7 +101,7 @@ class ICalSource(BaseSource):
         return Seminar(
             source_id=self.source_id,
             title=title,
-            description=description[:2000] if description else None,
+            description=description[:MAX_DESCRIPTION_LENGTH] if description else None,
             url=url,
             start_datetime=start_datetime,
             end_datetime=end_datetime,
@@ -113,16 +111,6 @@ class ICalSource(BaseSource):
             category=category,
             raw_data={"uid": uid} if uid else None,
         )
-
-    def _extract_url_from_text(self, text: str) -> str | None:
-        """Extract URL from text (description)."""
-        import re
-        # Look for URLs in the text
-        url_pattern = r'https?://[^\s<>"\')\]]+[^\s<>"\')\].,;:!?]'
-        match = re.search(url_pattern, text)
-        if match:
-            return match.group(0)
-        return None
 
     def _parse_ical_datetime(self, dt: Any) -> datetime | None:
         """Parse iCal datetime to Python datetime."""

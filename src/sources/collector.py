@@ -5,10 +5,10 @@ from pathlib import Path
 from typing import Any
 
 import toml
-from rich.console import Console
 
 from src.core.database import SeminarDatabase
 from src.core.keyword_filter import KeywordFilter
+from src.core.utils import console
 
 from .base import BaseSource
 from .bluesky_source import BlueskySource
@@ -19,8 +19,6 @@ from .podcast_source import PodcastSource
 from .rss_source import RSSSource
 from .scraper_source import ScraperSource
 from .who_source import WHOSource
-
-console = Console()
 
 
 class SourceCollector:

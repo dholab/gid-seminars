@@ -4,14 +4,11 @@
 from datetime import datetime
 from typing import Any
 
-from rich.console import Console
-
 from src.core.keyword_filter import KeywordFilter
 from src.core.models import Seminar
+from src.core.utils import console
 
 from .base import BaseSource
-
-console = Console()
 
 
 class WHOSource(BaseSource):

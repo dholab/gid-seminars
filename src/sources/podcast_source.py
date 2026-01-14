@@ -1,19 +1,16 @@
 # GID Seminars - Podcast Source
 """Fetch recent podcast episodes from RSS feeds."""
 
+import xml.etree.ElementTree as ET
 from datetime import datetime, timedelta
 from email.utils import parsedate_to_datetime
 from typing import Any
-import xml.etree.ElementTree as ET
-
-from rich.console import Console
 
 from src.core.keyword_filter import KeywordFilter
 from src.core.models import Seminar
+from src.core.utils import DEFAULT_DAYS_BEHIND, console
 
 from .base import BaseSource
-
-console = Console()
 
 
 class PodcastSource(BaseSource):
@@ -28,7 +25,7 @@ class PodcastSource(BaseSource):
         keyword_filter: KeywordFilter | None = None,
     ):
         super().__init__(source_id, config, database, http_config, keyword_filter)
-        self.days_back = config.get("days_back", 30)
+        self.days_back = config.get("days_back", DEFAULT_DAYS_BEHIND)
         self.max_episodes = config.get("max_episodes", 10)
 
     def fetch_seminars(self) -> list[Seminar]:

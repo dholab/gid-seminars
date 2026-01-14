@@ -6,14 +6,12 @@ from pathlib import Path
 from typing import Any
 
 import toml
-from rich.console import Console
 
 from src.core.keyword_filter import KeywordFilter
 from src.core.models import Seminar
+from src.core.utils import console
 
 from .base import BaseSource
-
-console = Console()
 
 
 class ConferenceSource(BaseSource):

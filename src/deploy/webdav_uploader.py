@@ -9,11 +9,9 @@ from typing import Any
 import requests
 import toml
 from requests.auth import HTTPBasicAuth
-from rich.console import Console
 
 from src.core.exceptions import DeploymentError
-
-console = Console()
+from src.core.utils import DEFAULT_MAX_RETRIES, DEFAULT_RETRY_DELAY, console
 
 # Load environment variables
 try:
@@ -55,8 +53,8 @@ class LabKeyWebDAVUploader:
         self.session.auth = HTTPBasicAuth("apikey", self.api_key)
 
         # Retry settings
-        self.max_retries = config.get("deployment", {}).get("max_retries", 3)
-        self.retry_delay = config.get("deployment", {}).get("retry_delay", 2)
+        self.max_retries = config.get("deployment", {}).get("max_retries", DEFAULT_MAX_RETRIES)
+        self.retry_delay = config.get("deployment", {}).get("retry_delay", DEFAULT_RETRY_DELAY)
 
     def get_csrf_token(self, url: str) -> str | None:
         """Get CSRF token from LabKey server via OPTIONS request."""

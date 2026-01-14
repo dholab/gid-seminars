@@ -11,14 +11,16 @@ import re
 from datetime import datetime, timedelta
 from typing import Any
 
-from rich.console import Console
-
 from src.core.keyword_filter import KeywordFilter
 from src.core.models import Seminar
+from src.core.utils import (
+    MAX_DESCRIPTION_LENGTH,
+    MAX_TITLE_LENGTH,
+    console,
+    parse_date_time_parts,
+)
 
 from .base import BaseSource
-
-console = Console()
 
 
 class BlueskySource(BaseSource):
@@ -194,7 +196,7 @@ class BlueskySource(BaseSource):
         return Seminar(
             source_id=self.source_id,
             title=title,
-            description=text[:2000],
+            description=text[:MAX_DESCRIPTION_LENGTH],
             url=event_url or post_url,
             start_datetime=event_datetime,
             timezone=self.default_timezone,
@@ -247,12 +249,12 @@ class BlueskySource(BaseSource):
         first_line = re.sub(r"\s*#\w+\s*$", "", first_line)
 
         # If first line is too long, truncate
-        if len(first_line) > 150:
-            first_line = first_line[:147] + "..."
+        if len(first_line) > MAX_TITLE_LENGTH:
+            first_line = first_line[:MAX_TITLE_LENGTH - 3] + "..."
 
         # If first line is too short, use more of the text
         if len(first_line) < 20 and len(lines) > 1:
-            first_line = " ".join(lines[:2])[:150]
+            first_line = " ".join(lines[:2])[:MAX_TITLE_LENGTH]
 
         return first_line if first_line else None
 
@@ -280,46 +282,8 @@ class BlueskySource(BaseSource):
         return None
 
     def _parse_date_time(self, date_str: str, time_str: str) -> datetime | None:
-        """Parse date and time strings into datetime."""
-        time_str = time_str.upper().replace(" ", "")
-
-        date_formats = [
-            "%B %d, %Y",
-            "%B %d %Y",
-            "%b %d, %Y",
-            "%b %d %Y",
-            "%m/%d/%Y",
-            "%b %d",
-        ]
-
-        parsed_date = None
-        for fmt in date_formats:
-            try:
-                parsed_date = datetime.strptime(date_str.strip(), fmt)
-                if "%Y" not in fmt:
-                    now = datetime.utcnow()
-                    parsed_date = parsed_date.replace(year=now.year)
-                    if parsed_date < now - timedelta(days=30):
-                        parsed_date = parsed_date.replace(year=now.year + 1)
-                break
-            except ValueError:
-                continue
-
-        if not parsed_date:
-            return None
-
-        time_formats = ["%I:%M%p", "%I%p", "%I:%M %p", "%I %p"]
-        for fmt in time_formats:
-            try:
-                parsed_time = datetime.strptime(time_str, fmt)
-                return parsed_date.replace(
-                    hour=parsed_time.hour,
-                    minute=parsed_time.minute
-                )
-            except ValueError:
-                continue
-
-        return parsed_date.replace(hour=12, minute=0)
+        """Parse date and time strings into datetime using shared utility."""
+        return parse_date_time_parts(date_str, time_str)
 
     def _uri_to_url(self, uri: str, handle: str) -> str:
         """Convert AT URI to Bluesky web URL."""

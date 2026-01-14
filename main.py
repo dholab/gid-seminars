@@ -10,17 +10,15 @@ import sys
 from pathlib import Path
 
 import toml
-from rich.console import Console
 
 from src.core.database import SeminarDatabase
 from src.core.exclusion_filter import ExclusionFilter
+from src.core.utils import console
 from src.deploy.webdav_uploader import upload_to_labkey
 from src.generators.html_generator import HTMLGenerator
 from src.generators.ics_generator import ICSGenerator
 from src.generators.json_generator import JSONGenerator
 from src.sources.collector import SourceCollector
-
-console = Console()
 
 
 def main(skip_upload: bool = False) -> int:

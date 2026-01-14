@@ -7,13 +7,11 @@ from html import unescape
 from typing import Any
 
 import feedparser
-from rich.console import Console
 
 from src.core.models import AccessRestriction, Seminar
+from src.core.utils import MAX_DESCRIPTION_LENGTH, console, parse_datetime
 
 from .base import BaseSource
-
-console = Console()
 
 
 class RSSSource(BaseSource):
@@ -82,7 +80,7 @@ class RSSSource(BaseSource):
         return Seminar(
             source_id=self.source_id,
             title=title,
-            description=description[:2000] if description else None,  # Limit length
+            description=description[:MAX_DESCRIPTION_LENGTH] if description else None,
             url=url,
             start_datetime=start_datetime,
             timezone=self.default_timezone,
@@ -142,24 +140,8 @@ class RSSSource(BaseSource):
         return None
 
     def _parse_date_string(self, date_str: str) -> datetime | None:
-        """Parse various date string formats."""
-        formats = [
-            "%m/%d/%Y %I:%M:%S %p",
-            "%m/%d/%Y %I:%M %p",
-            "%m/%d/%Y",
-            "%Y-%m-%d %H:%M:%S",
-            "%Y-%m-%d",
-            "%a, %d %b %Y %H:%M:%S %z",
-            "%a, %d %b %Y %H:%M:%S",
-        ]
-
-        for fmt in formats:
-            try:
-                return datetime.strptime(date_str.strip(), fmt)
-            except ValueError:
-                continue
-
-        return None
+        """Parse various date string formats using shared utility."""
+        return parse_datetime(date_str)
 
     def _parse_access_restriction(self, title: str) -> AccessRestriction:
         """Determine access restriction from title."""
