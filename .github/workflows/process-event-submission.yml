@@ -2,7 +2,7 @@ name: Process Event Submission
 
 on:
   issues:
-    types: [labeled]
+    types: [opened, labeled]
 
 permissions:
   contents: write
@@ -10,8 +10,10 @@ permissions:
 
 jobs:
   process-submission:
-    # Only run when the 'event-submission' label is added
-    if: github.event.label.name == 'event-submission'
+    # Run when issue is opened with "Event:" prefix OR when 'event-submission' label is added
+    if: |
+      (github.event.action == 'opened' && startsWith(github.event.issue.title, 'Event:')) ||
+      (github.event.action == 'labeled' && github.event.label.name == 'event-submission')
     runs-on: ubuntu-latest
 
     steps:

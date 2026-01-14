@@ -127,61 +127,6 @@
         .btn-success:hover {
             background: #218838;
         }
-        .output-container {
-            background: #ffffff;
-            padding: 30px;
-            border-radius: 8px;
-            box-shadow: 0 2px 4px rgba(0,0,0,0.05);
-            margin-bottom: 20px;
-            display: none;
-        }
-        .output-container.visible {
-            display: block;
-        }
-        .output-container h2 {
-            margin-top: 0;
-            color: #343a40;
-        }
-        .toml-output {
-            background: #1e1e1e;
-            color: #d4d4d4;
-            padding: 20px;
-            border-radius: 6px;
-            font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace;
-            font-size: 0.9em;
-            overflow-x: auto;
-            white-space: pre-wrap;
-            word-break: break-all;
-        }
-        .submission-options {
-            background: #f8f9fa;
-            padding: 20px;
-            border-radius: 6px;
-            margin-top: 20px;
-        }
-        .submission-options h3 {
-            margin-top: 0;
-            color: #343a40;
-        }
-        .submission-options ul {
-            margin: 0;
-            padding-left: 20px;
-        }
-        .submission-options li {
-            margin-bottom: 10px;
-        }
-        .submission-options a {
-            color: #2c5aa0;
-        }
-        .copy-btn {
-            margin-top: 15px;
-        }
-        .copy-success {
-            display: none;
-            color: #28a745;
-            margin-left: 10px;
-            font-size: 0.9em;
-        }
         .info-box {
             background: #e7f3ff;
             border: 1px solid #b6d4fe;
@@ -214,8 +159,8 @@
 
 <div class="info-box">
     <strong>How this works:</strong>
-    Fill out the form below and click "Add to Calendar". Your event will be <strong>automatically added</strong>
-    within minutes - no manual review required for valid submissions!
+    Fill out the form and click "Add to Calendar". You'll be taken to GitHub to confirm the submission
+    (just click the green "Submit new issue" button). Your event will be automatically added within minutes!
 </div>
 
 <div class="form-container">
@@ -364,26 +309,6 @@
     </form>
 </div>
 
-<div class="output-container" id="output-container">
-    <h2>Almost there!</h2>
-    <p>Click the button below to add your event. You'll need a GitHub account (free to create).</p>
-
-    <div style="text-align: center; margin: 25px 0;">
-        <a id="github-submit-link" href="#" target="_blank" class="btn btn-success" style="font-size: 1.2em; padding: 16px 32px;">
-            Add to Calendar
-        </a>
-    </div>
-
-    <details style="margin-top: 20px;">
-        <summary style="cursor: pointer; color: #868e96; font-size: 0.9em;">View generated entry (for manual submission)</summary>
-        <div class="toml-output" id="toml-output" style="margin-top: 10px;"></div>
-        <div class="copy-btn">
-            <button class="btn btn-secondary" onclick="copyToClipboard()">Copy to Clipboard</button>
-            <span class="copy-success" id="copy-success">Copied!</span>
-        </div>
-    </details>
-</div>
-
 <div style="
     margin-top: 30px;
     padding: 20px;
@@ -402,14 +327,11 @@
 <script>
 function formatDatetimeForToml(dateStr) {
     if (!dateStr) return null;
-    // datetime-local gives us "2026-01-15T14:00"
-    // We need "2026-01-15T14:00:00"
     return dateStr + ':00';
 }
 
 function escapeTomlString(str) {
     if (!str) return '';
-    // Escape quotes and backslashes
     return str.replace(/\\/g, '\\\\').replace(/"/g, '\\"').replace(/\n/g, '\\n');
 }
 
@@ -477,36 +399,13 @@ document.getElementById('event-form').addEventListener('submit', function(e) {
     var toml = generateToml();
     var title = document.getElementById('title').value;
 
-    document.getElementById('toml-output').textContent = toml;
-    document.getElementById('output-container').classList.add('visible');
-
-    // Build GitHub Issue URL with pre-filled content
+    // Build GitHub Issue URL - title starts with "Event:" to trigger automatic processing
     var issueTitle = encodeURIComponent('Event: ' + title.substring(0, 60));
     var issueBody = encodeURIComponent('```toml\n' + toml + '```\n\n---\n*Submitted via the [event submission form](https://dholab.github.io/gid-seminars/submit.html)*');
-    var githubUrl = 'https://github.com/dholab/gid-seminars/issues/new?title=' + issueTitle + '&labels=event-submission&body=' + issueBody;
+    var githubUrl = 'https://github.com/dholab/gid-seminars/issues/new?title=' + issueTitle + '&body=' + issueBody;
 
-    document.getElementById('github-submit-link').href = githubUrl;
-
-    // Scroll to output
-    document.getElementById('output-container').scrollIntoView({ behavior: 'smooth' });
-});
-
-function copyToClipboard() {
-    var tomlText = document.getElementById('toml-output').textContent;
-    navigator.clipboard.writeText(tomlText).then(function() {
-        var successMsg = document.getElementById('copy-success');
-        successMsg.style.display = 'inline';
-        setTimeout(function() {
-            successMsg.style.display = 'none';
-        }, 2000);
-    });
-}
-
-// Reset form also hides output
-document.getElementById('event-form').addEventListener('reset', function() {
-    setTimeout(function() {
-        document.getElementById('output-container').classList.remove('visible');
-    }, 10);
+    // Redirect to GitHub to create the issue
+    window.location.href = githubUrl;
 });
 </script>
 
