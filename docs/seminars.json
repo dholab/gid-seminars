@@ -2,12 +2,12 @@
   "metadata": {
     "title": "GID Seminars Feed",
     "description": "Aggregated seminars and webinars for Global Infectious Disease research",
-    "generated_at": "2026-01-14T22:22:08.352294Z",
+    "generated_at": "2026-01-14T22:42:53.626645Z",
     "time_window": {
       "days_behind": 30,
       "days_ahead": 30
     },
-    "total_events": 57,
+    "total_events": 56,
     "sources": [
       "astmh_events",
       "avac_events",
@@ -623,23 +623,6 @@
       "organizer": "Tue, 20 Jan 2026 20:00:00 GMT",
       "source": "nih_videocast_upcoming",
       "category": "Health",
-      "tags": [],
-      "access_restriction": "Public",
-      "registration_url": null,
-      "recording_url": null
-    },
-    {
-      "id": "a653debaa9535cda",
-      "title": "Petra Kuppers | Planting Disabled Futures: A Virtual Reality Eco Soma Worlding",
-      "description": "Petra Kuppers will talk about her Planting Disabled Futures project, a virtual reality/community performance experience. The Planting Disabled Futures project uses live performance approaches and virtual reality technologies to share environmental connection and energy, creaturely liveliness and ongoingness, crip joy and experiences of pain.\n\nIn the development of the Virtual Reality (VR) components of the project, we asked: How can VR allow us to celebrate difference, rather than engage in hyper-mobile fantasies of overcoming and of disembodied life? How can our disabled bodymindspirits develop non-extractive intimacies, in energetic touch, using VR as a tool toward connecting with plants, with the world, even in pain, in climate emergency, in our ongoing COVID world?\nJoin Petra to find out what this experience looks and feels like, and how it both breaches and respects boundaries in an eco soma (stumbling, limping, deliciously crippy) exploratory dance.\n\nRegister to join online \n \n\nAbout the Speaker\n\nPetra Kuppers (she/her) is a disability culture activist and a community performance artist. She grounds herself in disability culture methods, and uses somatics, performance, media work, and speculative writing to engage audiences toward more socially just and enjoyable futures. Her latest academic study is the award-winning Eco Soma: Pain and Joy in Speculative Performance Encounters (Univiersity of Minnesota Press, 2022, open access). She teaches at the University of Michigan, was a 2022 Dance/USA Fellow, and a 2023 Guggenheim Fellow. She is the Artistic Director of The Olimpias, an international disability culture collective, and co-directs Turtle Disco, a somatic writing studio.\n\nLunch will begin at 11:45 a.m. for in-person attendees.",
-      "url": "https://events.stanford.edu/event/petra-kuppers-planting-disabled-futures-a-virtual-reality-eco-soma-worlding",
-      "start_datetime": "2026-01-20T20:15:00",
-      "end_datetime": "2026-01-20T21:15:00",
-      "timezone": "America/Los_Angeles",
-      "location": "Building 160, Wallenberg Hall, 433A",
-      "organizer": null,
-      "source": "stanford_virtual",
-      "category": "Class/Seminar",
       "tags": [],
       "access_restriction": "Public",
       "registration_url": null,
