@@ -11,7 +11,7 @@ SUMMARY:Clinical Center Grand Rounds: Harnessing The Extracellular Matrix
  to Treat Lung Diseases
 DTSTART;TZID=America/New_York:20251217T120000
 DTEND;TZID=America/New_York:20251217T130000
-DTSTAMP:20260114T200358Z
+DTSTAMP:20260114T202343Z
 UID:9cd3763d6a26abef@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Clinical Center Grand Rounds
 DESCRIPTION:Clinical Center Grand Rounds: Harnessing The Extracellular Mat
@@ -33,7 +33,7 @@ SUMMARY:WALS- Astute Clinician Lecture: Clinical Encounters in Neurogeneti
  Therapeutic Approaches
 DTSTART;TZID=America/New_York:20251217T140000
 DTEND;TZID=America/New_York:20251217T150000
-DTSTAMP:20260114T200358Z
+DTSTAMP:20260114T202343Z
 UID:60967858094cbf42@gid-seminars.wnprc.wisc.edu
 CATEGORIES:WALS - Wednesday Afternoon Lectures
 DESCRIPTION:WALS- Astute Clinician Lecture: Clinical Encounters in Neuroge
@@ -52,10 +52,231 @@ TRIGGER:-PT1H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:TWiV 1280: Clinical update with Dr. Daniel Griffin
+DTSTART:20251220T062333Z
+DTEND:20251220T072333Z
+DTSTAMP:20260114T202343Z
+UID:596ac7049928888e@gid-seminars.wnprc.wisc.edu
+CATEGORIES:Podcast - TWiV
+DESCRIPTION:[Podcast: This Week in Virology]\n\nIn his weekly clinical upd
+ ate\, Dr. Griffin and Vincent Racaniello protest Vinjay Prasad\, head of C
+ BER FDA Nov memo stating administration of the COVID-19 vaccine resulted i
+ n 10 children’s deaths\, but are cautiously delighted by the December me
+ mo from those in CBER who dispute this data-less claim\, how in 31 states 
+ pertussis vaccination rates have declined before Dr. Griffin then deep div
+ es into recent statistics on the measles epidemic\, RSV\, influenza and SA
+ RS-CoV-2 infections\, the Wasterwater Scan dashboard\, Johns Hopkins measl
+ es tracker\, of clinical outcomes of oseltamivir versus baloxavir for trea
+ ting influenza infection\, number deaths associated with COVID-19 hospital
+ izations and disease associated economic burden\, where to find PEMGARDA\,
+  how to access and pay for Paxlovid\, long COVID treatment center\, where 
+ to go for answers to your long COVID questions\, how the German government
+  is committed to research into long COVID and contacting your federal gove
+ rnment representative to stop the assault on science and biomedical resear
+ ch. Click arrow to play Download&nbsp\; TWiV 1280 (22 MB .mp3\, 37 min) Su
+ bscribe (free):&nbsp\; Apple Podcasts \, RSS \,&nbsp\; email Become a&nbsp
+ \; patron &nbsp\;of&nbsp\;TWiV! Links for this episode Industry laments Pr
+ asad vaccine memo (Politico) 2:05 Scoop: FDA vaccine chief’s memo cited 
+ 10 pediatric Covid-19 vaccine deaths—but the agency’s own analysis fou
+ nd 0–7 (Inside Medicine) 1:30 Whooping cough cases soar as vaccination r
+ ates drop (NBC News) 3:50 Ma\n\nEvent URL: https://www.microbe.tv/twiv/twi
+ v-1280/\n\nSource: twiv_podcast
+LOCATION:Podcast
+URL:https://www.microbe.tv/twiv/twiv-1280/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: TWiV 1280: Clinical update with Dr. Daniel Griffin
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TWiV 1281: Sex\, herpes\, and plankton
+DTSTART:20251221T130755Z
+DTEND:20251221T140755Z
+DTSTAMP:20260114T202343Z
+UID:2672406f33187faa@gid-seminars.wnprc.wisc.edu
+CATEGORIES:Podcast - TWiV
+DESCRIPTION:[Podcast: This Week in Virology]\n\nVincent travels to Tegerns
+ ee\, Germany for the Sixth Ringberg Symposium on Giant Viruses\, where he 
+ talks with John Archibald\, Susana Coelho\, and Tom Delmont about their wo
+ rk on &#8211\; you guessed it &#8211\; giant viruses. Host:&nbsp\; Vincent
+  Racaniello Guests: John Archibald \, Susana Coelho \, and Tom Delmont Cli
+ ck arrow to play Download TWiV 1281 (50 MB .mp3\, 83 min) Subscribe (free)
+ :&nbsp\; Apple Podcasts \,&nbsp\; RSS \,&nbsp\; email Become a&nbsp\; patr
+ on &nbsp\;of&nbsp\;TWiV! Links for this episode Transposable elements shap
+ ing Ectocarpus genome (Genome Biol) 17:07 Mirusviruses link herpesviruses 
+ to giant viruses (Nature) 30:41\, 32:46 Mirusviruses predicted to reproduc
+ e in nuclei (Nat Micro) 47:10 Persistent mirusvirus infection in the marin
+ e protist Aurantiochytrium (Nat Com) 42:09 Timestamps by&nbsp\; Jolene Ram
+ sey. Thanks! Intro music is by&nbsp\; Ronald Jenkees Send your virology qu
+ estions and comments to twiv@microbe.tv Content in this podcast should not
+  be construed as medical advice. The post TWiV 1281: Sex\, herpes\, and pl
+ ankton first appeared on This Week in Virology .\n\nEvent URL: https://www
+ .microbe.tv/twiv/twiv-1281/\n\nSource: twiv_podcast
+LOCATION:Podcast
+URL:https://www.microbe.tv/twiv/twiv-1281/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: TWiV 1281: Sex\, herpes\, and plankton
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TWiV 1282: Clinical update with Dr. Daniel Griffin
+DTSTART:20251227T050000Z
+DTEND:20251227T060000Z
+DTSTAMP:20260114T202343Z
+UID:0752aac72552f2d2@gid-seminars.wnprc.wisc.edu
+CATEGORIES:Podcast - TWiV
+DESCRIPTION:[Podcast: This Week in Virology]\n\nCalling out “Happy Chris
+ tmas to all and to all a good-night“\, Dr. Griffin and Vincent Racaniell
+ o discuss high path influenza in dairy herds in Wisconsin and Marburg viru
+ s in Ethiopia before Dr. Griffin then deep dives into recent statistics on
+  the measles epidemic\, RSV\, influenza and SARS-CoV-2 infections\, the Wa
+ stewater Scan dashboard\, Johns Hopkins measles tracker\, the slightly hig
+ her association of COVID-19 infection with death than following influenza 
+ infection\, benefit of passive infant immunization with niresevimab\, asso
+ ciation of COVID-19 vaccine immunogenicity protection against severe disea
+ se in vulnerable populations\, where to find PEMGARDA\, how to access and 
+ pay for Paxlovid\, long COVID treatment center\, effect of remdesivir and 
+ nirmatrelvir/ritonavir on COVID-19 associated mortality\, where to go for 
+ answers to your long COVID questions\, and contacting your federal governm
+ ent representative to stop the assault on science and biomedical research.
+  Click arrow to play Download&nbsp\; TWiV 1282 (26 MB .mp3\, 43 min) Subsc
+ ribe (free):&nbsp\; Apple Podcasts \, RSS \,&nbsp\; email Become a&nbsp\; 
+ patron &nbsp\;of&nbsp\;TWiV! Links for this episode IUSDA Confirms Highly 
+ Pathogenic Avian Influenza in a Dairy Herd in Wisconsin (USDA Animal and P
+ lant Health Inspection Service) 3:50 Update: Genetic Sequencing Results fo
+ r Wisconsin Dairy Herd Detection of Highly Pathogenic Avian Influenza (USD
+ A Animal and Plant Health Inspection Service) Marburg Outbreak in Ethiopia
+  : Current Situation \n\nEvent URL: https://www.microbe.tv/twiv/twiv-1282/
+ \n\nSource: twiv_podcast
+LOCATION:Podcast
+URL:https://www.microbe.tv/twiv/twiv-1282/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: TWiV 1282: Clinical update with Dr. Daniel Griffin
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TWiV 1283: Myocarditis and mimicry
+DTSTART:20251228T050000Z
+DTEND:20251228T060000Z
+DTSTAMP:20260114T202343Z
+UID:86bf41f7d665aad3@gid-seminars.wnprc.wisc.edu
+CATEGORIES:Podcast - TWiV
+DESCRIPTION:[Podcast: This Week in Virology]\n\nTWiV explains studies whic
+ h reveal that Inhibition of CXCL10 and IFN-γ mitigates myocarditis associ
+ ated with SARS-CoV-2 mRNA vaccination\, and identification of a bacterioph
+ age T7 protein that antagonizes the DNA restriction system of the host by 
+ mimicking B form DNA. Hosts:&nbsp\; Vincent Racaniello and Jolene Ramsey C
+ lick arrow to play Download TWiV 1280 (71 MB .mp3\, 118 min) Subscribe (fr
+ ee):&nbsp\; Apple Podcasts \,&nbsp\; RSS \,&nbsp\; email Become a&nbsp\; p
+ atron &nbsp\;of&nbsp\;TWiV! Links for this episode Support science educati
+ on at MicrobeTV 9:05 ASV 2026 10:37 Understanding mRNA vaccine-associated 
+ myocarditis (Sci Transl Med) 12:23 T7 protein overcomes DNA restriction of
+  host (J Mol Biol) 43:40 Structure of T7 protein that mimics DNA (Mol Cell
+ ) 59:45 Letters read on TWiV 1283 1:12:43 Timestamps by&nbsp\; Jolene Rams
+ ey. Thanks! Weekly Picks 1:49:23 Jolene &#8211\; Book series Dinosaur Ther
+ apy\, Dinosaur Philosophy\, &amp\; Dinosaur Friendship Vincent &#8211\; On
+ e Plus One Equals One: Symbiosis and the evolution of complex life by John
+  Archibald Listener Picks Terry &#8211\; Arcadia by Tom Stoppard Greg &#82
+ 11\; Charctic Interactive Sea Ice Graph | National Snow and Ice Data Cente
+ r Intro music is by&nbsp\; Ronald Jenkees Send your virology questions and
+  comments to twiv@microbe.tv Content in this podcast should not be constru
+ ed as medical advice. The post TWiV 1283: Myocarditis and mimicry first ap
+ peared on This Week in Virology .\n\nEvent URL: https://www.microbe.tv/twi
+ v/twiv-1283/\n\nSource: twiv_podcast
+LOCATION:Podcast
+URL:https://www.microbe.tv/twiv/twiv-1283/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: TWiV 1283: Myocarditis and mimicry
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TWiV 1284: Clinical update with Dr. Daniel Griffin
+DTSTART:20260103T050000Z
+DTEND:20260103T060000Z
+DTSTAMP:20260114T202343Z
+UID:0969a9d47cf05afd@gid-seminars.wnprc.wisc.edu
+CATEGORIES:Podcast - TWiV
+DESCRIPTION:[Podcast: This Week in Virology]\n\nRecording after the ball d
+ rops\, Dr. Griffin and Vincent Racaniello wish everyone a Happy New Year\,
+  discuss an evidence-based approach to teaching and practice medicine and 
+ reminisce on the history of vaccine development and use before their discu
+ ssion about the whooping cough outbreak of 2025 in the US and falling leve
+ ls of tetanus vaccination\, then Dr. Griffin then deep dives into recent s
+ tatistics on the measles epidemic\, RSV\, influenza and SARS-CoV-2 infecti
+ ons\, the Wasterwater Scan dashboard\, Johns Hopkins measles tracker\, how
+  NY state reported the greatest number of influenza confirmed infections e
+ ver in one week during the week ending Dec 20\, &nbsp\;where to find PEMGA
+ RDA\, how to access and pay for Paxlovid\, long COVID treatment center\, w
+ here to go for answers to your long COVID questions\, and contacting your 
+ federal government representative to stop the assault on science and biome
+ dical research. Click arrow to play Download&nbsp\; TWiV 1284 (18 MB .mp3\
+ , 30 min) Subscribe (free):&nbsp\; Apple Podcasts \, RSS \,&nbsp\; email B
+ ecome a&nbsp\; patron &nbsp\;of&nbsp\;TWiV! Links for this episode Evidenc
+ e-Based Medicine: A New Approach to Teaching the Practice of Medicine (JAM
+ A) 3:10 The US has seen nearly 28\,000 whooping cough cases this year. Her
+ e’s what you need to know (CNN) 5:06 Vaccine History: Developments by Ye
+ ar (CHOP\, Children’s hospital of Philadelphia: Vaccine History) Reporte
+ d Incidence of notable diseases in United States: 1952 Morbidity and Morta
+ lity Weekly Report\, Vol\n\nEvent URL: https://www.microbe.tv/twiv/twiv-12
+ 84/\n\nSource: twiv_podcast
+LOCATION:Podcast
+URL:https://www.microbe.tv/twiv/twiv-1284/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: TWiV 1284: Clinical update with Dr. Daniel Griffin
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TWiV 1285: Encapsidating viruses 2025
+DTSTART:20260104T050000Z
+DTEND:20260104T060000Z
+DTSTAMP:20260114T202343Z
+UID:38b6c22c60014436@gid-seminars.wnprc.wisc.edu
+CATEGORIES:Podcast - TWiV
+DESCRIPTION:[Podcast: This Week in Virology]\n\nTWiV reviews compelling vi
+ rology themes for 2024\, as heard in our 98 episodes\, including 22 guests
+ . Hosts:&nbsp\; Vincent Racaniello and Kathy Spindler Click arrow to play 
+ Download TWiV 1285 (65 MB .mp3\, 108 min) Subscribe (free):&nbsp\; Apple P
+ odcasts \,&nbsp\; RSS \,&nbsp\; email Become a&nbsp\; patron &nbsp\;of&nbs
+ p\;TWiV! Links for this episode Support science education at MicrobeTV 3:0
+ 0 ASV 2026 4:13 Dismantling of science and public health in the US includi
+ ng TWiV 1199 \, TWiV 1191 \, TWiV 1197 \, TWiV 1203 \, TWiV 1205 \, TWiV 1
+ 209 \, TWiV 1211 \, TWiV 1215 \, TWiV 1217 \, TWiV 1219 \, TWiV 1221 \, TW
+ iV 1223 \, TWiV 1225 \, TWiV 1227 \, TWiV 1231 \, TWiV 1233 \, TWiV 1241 \
+ , TWiV 1243 \, TWiV 1245 \, TWiV 1285 19:57 Herpesviruses and dementia TWi
+ V 1187 \, TWiV 1207 \, TWiV 1249 \, TWiV 1263 \, TWIV 1233 29:30 Hepatitis
+  B\, C TWiV 1213 \, TWIV 1237 \, Chari Cohen \, Stephan Urban\, Thomas Tu 
+ \, TWiV 1279 33:14 POTW themes/highlights 39:40 Dickson Despommier passes 
+ TWIV 1195 \, TWiP 254 \, YouTube excerpt\, DDD Photography \, ‘ Despommi
+ er’s Parasitic Diseases ’ 53:54 H5N1 in dairy cattle TWiV 1193 \, TWiV
+  1257 \, TWiV 1259 (goats)\, TWiV 1211 56:35 EBV and Lupus TWiV 1273 58:56
+  Vaccines TWiV 1209 \, TWiV 1265 \, TWiV 1267 1:00:56 Some classic papers 
+ TWIV 1241 \, TWiV 1273 \, TWiV 1275 \, TWiV 1279 \, TWiV 1269 1:08:55 Resp
+ iratory infections awaken dormant breast cancer cells TWiV 1243 1:12:41 Ph
+ ages TWiV 1261 \, TWiV 1181 1:14:18 Letters read on TWiV 1285 1:17:31 Time
+ stamps by&nbsp\; Jolene Ramsey. Thanks! Weekly Picks 1:3\n\nEvent URL: htt
+ ps://www.microbe.tv/twiv/twiv-1285/\n\nSource: twiv_podcast
+LOCATION:Podcast
+URL:https://www.microbe.tv/twiv/twiv-1285/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: TWiV 1285: Encapsidating viruses 2025
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:WALS: Bill Paul Lecture- Immune Control of Host Physiology
 DTSTART;TZID=America/New_York:20260107T140000
 DTEND;TZID=America/New_York:20260107T150000
-DTSTAMP:20260114T200358Z
+DTSTAMP:20260114T202343Z
 UID:1570a2223c42f26a@gid-seminars.wnprc.wisc.edu
 CATEGORIES:WALS - Wednesday Afternoon Lectures
 DESCRIPTION:WALS: Bill Paul Lecture- Immune Control of Host Physiology Pre
@@ -75,7 +296,7 @@ BEGIN:VEVENT
 SUMMARY:WALS: Bill Paul Lecture- Immune Control of Host Physiology
 DTSTART;TZID=America/New_York:20260107T140000
 DTEND;TZID=America/New_York:20260107T150000
-DTSTAMP:20260114T200358Z
+DTSTAMP:20260114T202343Z
 UID:e5fcff7294e4b19d@gid-seminars.wnprc.wisc.edu
 CATEGORIES:WALS - Wednesday Afternoon Lectures
 DESCRIPTION:WALS: Bill Paul Lecture- Immune Control of Host Physiology Pre
@@ -92,10 +313,85 @@ TRIGGER:-PT1H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:TWiV 1286: Clinical update with Dr. Daniel Griffin
+DTSTART:20260110T050000Z
+DTEND:20260110T060000Z
+DTSTAMP:20260114T202343Z
+UID:e5d36393523d05fe@gid-seminars.wnprc.wisc.edu
+CATEGORIES:Podcast - TWiV
+DESCRIPTION:[Podcast: This Week in Virology]\n\nIn his weekly clinical upd
+ ate\, Dr. Griffin and Vincent Racaniello are bewildered and dismayed by RF
+ K Jr’s announced changes in the routine childhood immunization schedule\
+ , though not unpredicted\, and highlight the science and evidence which ev
+ iscerate these changes\, then deep dives into recent statistics on the mea
+ sles epidemic- in particular in South Carolina\, RSV\, influenza and SARS-
+ CoV-2 infections\, the Wasterwater Scan dashboard\, Johns Hopkins measles 
+ tracker\, estimated societal burden of COVID-19 illness\, deaths and hospi
+ talizations\, benefit of maternal COVID-19 vaccination\, where to find PEM
+ GARDA\, how to access and pay for Paxlovid\, long COVID treatment center\,
+  where to go for answers to your long COVID questions\, neurodevelopmental
+  consequences of in-utero SARS-CoV-2 infection and contacting your federal
+  government representative to stop the assault on science and biomedical r
+ esearch. Click arrow to play Download TWiV 1286 (26 MB .mp3\, 43 min) Subs
+ cribe (free): Apple Podcasts \, RSS \, email Become a&nbsp\; patron &nbsp\
+ ;of&nbsp\;TWiV! Links for this episode Childhood Immunization Schedule by 
+ Recommendation Group (US Health and Human Service) Recommended Child and A
+ dolescent Immunization Schedule for Ages 18 Years or Younger (American Aca
+ demy of Pediatrics) Kennedy Scales Back the Number of Vaccines Recommended
+  for Children (NY Times) There RFK Jr. Goes Again . . .(Wall Street Journa
+ l) Hepatitis B Vaccination is an Essential Safety Net for Newborns (Johns 
+ Hopkins Bloomberg \n\nEvent URL: https://www.microbe.tv/twiv/twiv-1286/\n\
+ nSource: twiv_podcast
+LOCATION:Podcast
+URL:https://www.microbe.tv/twiv/twiv-1286/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: TWiV 1286: Clinical update with Dr. Daniel Griffin
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TWiV 1287: Ancient herpesviruses and modern dementia
+DTSTART:20260111T050000Z
+DTEND:20260111T060000Z
+DTSTAMP:20260114T202343Z
+UID:1bc73daeb6010716@gid-seminars.wnprc.wisc.edu
+CATEGORIES:Podcast - TWiV
+DESCRIPTION:[Podcast: This Week in Virology]\n\nTWiV explain the tracing o
+ f 2500 years of human betaherpesvirus 6A and 6B diversity through ancient 
+ human DNA\, the effect of shingles vaccination at different stages of the 
+ dementia disease course. Hosts:&nbsp\; Vincent Racaniello \, Alan Dove \, 
+ Rich Condit \, and Brianne Barker Click arrow to play Download TWiV 1287 (
+ 63 MB .mp3\, 105 min) Subscribe (free):&nbsp\; Apple Podcasts \,&nbsp\; RS
+ S \,&nbsp\; email Become a&nbsp\; patron &nbsp\;of&nbsp\;TWiV! Links for t
+ his episode Support science education at MicrobeTV ASV 2026 Positions in R
+ osenfeld Lab (email) Ancient human herpesvirus 6 (Sci Adv) First through s
+ ixth diseases (Merck Manual) Effect of shingle vaccination on different st
+ ages of dementia (Cell) Letters read on TWiV 1287 Timestamps by&nbsp\; Jol
+ ene Ramsey. Thanks! Weekly Picks Brianne &#8211\; TWiM Annotations and Res
+ ources Book for Teaching Alan &#8211\; Starter Villain \, by John Scalzi R
+ ich &#8211\; Redshirts: A Novel with Three Codas \, by John Scalzi Vincent
+  &#8211\; Mina&#8217\;s Matchbox by Yoko Ogawa Listener Picks Rona &#8211\
+ ; Maggie and Millie and Molly and May by Natalie Merchant Owen &#8211\; Ho
+ w to get the vaccines you need now Intro music is by&nbsp\; Ronald Jenkees
+  Send your virology questions and comments to twiv@microbe.tv Content in t
+ his podcast should not be construed as medical advice. The post TWiV 1287:
+  Ancient herpesviruses and modern dementia first appeared on This Week in 
+ Virology .\n\nEvent URL: https://www.microbe.tv/twiv/twiv-1287/\n\nSource:
+  twiv_podcast
+LOCATION:Podcast
+URL:https://www.microbe.tv/twiv/twiv-1287/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: TWiV 1287: Ancient herpesviruses and modern dementia
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:NIH-FDA Immunology Interest Group (IIG) seminar series
 DTSTART;TZID=America/New_York:20260114T160000
 DTEND;TZID=America/New_York:20260114T170000
-DTSTAMP:20260114T200358Z
+DTSTAMP:20260114T202343Z
 UID:eff4747386081212@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Health
 DESCRIPTION:IIG weekly seminar series features the world-renown experts in
@@ -117,7 +413,7 @@ SUMMARY:No Mo’ FOMO 2026: In Case You Missed It—Recent Changes in Guid
  elines\, New Publications\, and Updates From Recent Conferences
 DTSTART;TZID=America/Los_Angeles:20260115T100000
 DTEND;TZID=America/Los_Angeles:20260115T110000
-DTSTAMP:20260114T200358Z
+DTSTAMP:20260114T202343Z
 UID:27a247ff97afae09@gid-seminars.wnprc.wisc.edu
 CATEGORIES:IAS-USA
 DESCRIPTION:\nEvent URL: https://www.iasusa.org/events/webinar-2026-bedimo
@@ -137,7 +433,7 @@ SUMMARY:NIH ProtIG seminar by Peder Lund: Fatty acid metabolism as a symbi
  otic link between the gut microbiota and host epithelial cells
 DTSTART;TZID=America/New_York:20260115T110000
 DTEND;TZID=America/New_York:20260115T120000
-DTSTAMP:20260114T200358Z
+DTSTAMP:20260114T202343Z
 UID:285b58c24b90d7ca@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Health
 DESCRIPTION:The intestinal epithelium is a critical mucosal barrier that c
@@ -180,10 +476,39 @@ TRIGGER:-PT1H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Center for AIDS and STD Seminar Series with Chibuzor Babalola\, MD
+ \, MPH & Jeffrey D. Klausner\, MD\, MPH
+DTSTART;TZID=America/Los_Angeles:20260116T000000
+DTEND;TZID=America/Los_Angeles:20260116T010000
+DTSTAMP:20260114T202343Z
+UID:2929cdbbf551f900@gid-seminars.wnprc.wisc.edu
+CATEGORIES:Fred Hutch Center for AIDS Research (CFAR)
+DESCRIPTION:Event interval: Single day event\nAccessibility Contact: cfas@
+ uw.edu\nEvent Types: Lectures/Seminars\n\nWe welcome your attendance at th
+ e January 2026 UW Center for AIDS & STD (CFAS): \nhttp://depts.washington.
+ edu/cfas/ Research Seminar. \n \nPlease join us on Thursday\, January 15\,
+  2026 at 4 PM PST on Zoom. \nFor Zoom info: Please email CFAS@uw.edu or cl
+ ick here to be added to the mailing list: \nhttp://docs.google.com/forms/d
+ /e/1FAIpQLSeBLOZoWLDhU5wTra_LeNAbN5iAfoW1ARO4E9Z2pFKtHRpXLA/viewform. \n\n
+ Topic TBA\n\nChibuzor Babalola\, MD\, MPH\nDepartment of Population and Pu
+ blic Health Sciences\n​​​​​​​USC Keck School of Medicine\n\n
+ Jeffrey D. Klausner\, MD\, MPH\nProfessor of Medicine and Public Health\nU
+ SC Keck School of Medicine\n\nEvent URL: http://depts.washington.edu/cfas/
+ \n\nSource: uw_cfar
+LOCATION:Zoom
+URL:http://depts.washington.edu/cfas/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Center for AIDS and STD Seminar Series with Chibuzor
+  Babalola\, MD\, MPH & Jeffrey D. Klausner\, MD\, MPH
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Outbreak Behind Bars
 DTSTART;TZID=America/New_York:20260116T141500
 DTEND;TZID=America/New_York:20260116T151500
-DTSTAMP:20260114T200358Z
+DTSTAMP:20260114T202343Z
 UID:7656bfb7a076fcd3@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Friday Morning Conference Series
 DESCRIPTION:Homer Venters\, MD MS is the former Chief Medical Officer of t
@@ -202,11 +527,35 @@ TRIGGER:-PT1H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:REDCap Workshop: REDCap Mobile
+DTSTART;TZID=America/Los_Angeles:20260116T180000
+DTEND;TZID=America/Los_Angeles:20260116T200000
+DTSTAMP:20260114T202343Z
+UID:22b17d924b5d2bc6@gid-seminars.wnprc.wisc.edu
+CATEGORIES:Fred Hutch Center for AIDS Research (CFAR)
+DESCRIPTION:Event interval: Single day event\nCampus location: Hans Roslin
+ g Center for Population Health (HRC)\nCampus room: HRC 101\nAccessibility 
+ Contact: Cfarbic@uw.edu\nEvent Types: Workshops\nEvent sponsors: Center fo
+ r AIDS Research (CFAR) - Behavioral Innovations Core (BIC)\n\nThis worksho
+ p focuses on how to conduct offline data collection using the REDCap Mobil
+ e App. Please download the REDCap Mobile App to your device (phone or tabl
+ et) in advance\, using your device’s app store. We will be using a test 
+ project to practice set up and collection procedures\, but if you would li
+ ke to use your own REDCap project\, ensure you have an active REDCap accou
+ nt and a project created.\n\n\nSource: uw_cfar
+LOCATION:Hans Rosling Center for Population Health (HRC)
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: REDCap Workshop: REDCap Mobile
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The Future of HIV Prevention: A People’s Research Agenda for Spe
  ed\, Scale and Equity
 DTSTART;TZID=America/New_York:20260120T000000
 DTEND;TZID=America/New_York:20260120T010000
-DTSTAMP:20260114T200358Z
+DTSTAMP:20260114T202343Z
 UID:b69e9e9b23f521fe@gid-seminars.wnprc.wisc.edu
 CATEGORIES:AVAC
 DESCRIPTION:\nEvent URL: https://avac.org/event/pra-2025-webinar/\n\nSourc
@@ -221,11 +570,29 @@ TRIGGER:-PT1H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:BIA Dilemmas Day 2026
+DTSTART;TZID=America/New_York:20260120T000000
+DTEND;TZID=America/New_York:20260120T010000
+DTSTAMP:20260114T202343Z
+UID:25a1fd3cb24658d6@gid-seminars.wnprc.wisc.edu
+CATEGORIES:ASTMH
+DESCRIPTION:\nEvent URL: https://www.astmh.org/news-events/events-calendar
+ /bia-dilemmas-day-2026\n\nSource: astmh_events
+LOCATION:Manchester Conference Centre
+URL:https://www.astmh.org/news-events/events-calendar/bia-dilemmas-day-202
+ 6
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: BIA Dilemmas Day 2026
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Demystifying Medicine—The Epidemic That Won't Quit: Unraveling t
  he HIV Crisis
 DTSTART;TZID=America/New_York:20260120T150000
 DTEND;TZID=America/New_York:20260120T160000
-DTSTAMP:20260114T200358Z
+DTSTAMP:20260114T202343Z
 UID:c2d9e80cbd4ed46b@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Health
 DESCRIPTION:This week's speakers in the Demystifying Medicine Series are J
@@ -258,7 +625,7 @@ BEGIN:VEVENT
 SUMMARY:January GPP Screeners Meeting
 DTSTART;TZID=America/New_York:20260121T143000
 DTEND;TZID=America/New_York:20260121T153000
-DTSTAMP:20260114T200358Z
+DTSTAMP:20260114T202343Z
 UID:bb9682b0d11751e8@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Talks
 DESCRIPTION:"In vivo screens identify modifiers of CAR T cell function in 
@@ -279,7 +646,7 @@ BEGIN:VEVENT
 SUMMARY:NIH-FDA Immunology Interest Group (IIG) seminar series
 DTSTART;TZID=America/New_York:20260121T160000
 DTEND;TZID=America/New_York:20260121T170000
-DTSTAMP:20260114T200358Z
+DTSTAMP:20260114T202343Z
 UID:8a74f02608c8129a@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Health
 DESCRIPTION:IIG weekly seminar series features the world-renown experts in
@@ -301,7 +668,7 @@ SUMMARY:Outbreak Analytics and Disease Modeling to Inform Public Health De
  cision-Making
 DTSTART;TZID=America/New_York:20260123T141500
 DTEND;TZID=America/New_York:20260123T151500
-DTSTAMP:20260114T200358Z
+DTSTAMP:20260114T202343Z
 UID:5dbef9e3f6fe916b@gid-seminars.wnprc.wisc.edu
 CATEGORIES:CFAR Events
 DESCRIPTION:Drs. Kimberly Powers and Justin Lessler are faculty members in
@@ -327,7 +694,7 @@ SUMMARY:Lung as the Gateway for Environmental Exposures in Pulmonary and C
  ardiovascular Disease - Day 1
 DTSTART;TZID=America/New_York:20260126T100000
 DTEND;TZID=America/New_York:20260126T110000
-DTSTAMP:20260114T200358Z
+DTSTAMP:20260114T202343Z
 UID:2eed6f77adfe8bb2@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Health
 DESCRIPTION:The National Heart\, Lung\, and Blood Institute’s Division o
@@ -373,7 +740,7 @@ SUMMARY:Lung as the Gateway for Environmental Exposures in Pulmonary and C
  ardiovascular Disease - Day 2
 DTSTART;TZID=America/New_York:20260127T100000
 DTEND;TZID=America/New_York:20260127T110000
-DTSTAMP:20260114T200358Z
+DTSTAMP:20260114T202343Z
 UID:c991d9a637770519@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Health
 DESCRIPTION:The National Heart\, Lung\, and Blood Institute’s Division o
@@ -419,7 +786,7 @@ SUMMARY:Drug-Drug Interactions\, Dosing\, Formulations\, and Other Pharmac
  ologic Issues in HIV Treatment
 DTSTART;TZID=America/Los_Angeles:20260127T120000
 DTEND;TZID=America/Los_Angeles:20260127T130000
-DTSTAMP:20260114T200358Z
+DTSTAMP:20260114T202343Z
 UID:6e0612b14422f905@gid-seminars.wnprc.wisc.edu
 CATEGORIES:IAS-USA
 DESCRIPTION:\nEvent URL: https://www.iasusa.org/events/webinar-2026-burger
@@ -434,10 +801,30 @@ TRIGGER:-PT1H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:TEPHI Grand Rounds Seminar | Re-Emergence of Pertussis in the US: 
+ Risks and Prevention
+DTSTART;TZID=America/Chicago:20260127T150000
+DTEND;TZID=America/Chicago:20260127T160000
+DTSTAMP:20260114T202343Z
+UID:05ae81f60ff7a932@gid-seminars.wnprc.wisc.edu
+CATEGORIES:TEPHI
+DESCRIPTION:\nEvent URL: https://tephi.texas.gov/events/event?id=2c2fb300-
+ 50a3-4f6f-9e0a-470560b402cf\n\nSource: tephi_events
+LOCATION:Virtual
+URL:https://tephi.texas.gov/events/event?id=2c2fb300-50a3-4f6f-9e0a-470560
+ b402cf
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: TEPHI Grand Rounds Seminar | Re-Emergence of Pertuss
+ is in the US: Risks and Prevention
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:WALS- Rolla E. Dyer Lecture- A Cure for Hepatitis C: Now What?
 DTSTART;TZID=America/New_York:20260128T140000
 DTEND;TZID=America/New_York:20260128T150000
-DTSTAMP:20260114T200358Z
+DTSTAMP:20260114T202343Z
 UID:f385ed8004eadd09@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Health
 DESCRIPTION:Dr. Rice has co-authored over 500 articles in the field of vir
@@ -463,7 +850,7 @@ BEGIN:VEVENT
 SUMMARY:NIH-FDA Immunology Interest Group (IIG) seminar series
 DTSTART;TZID=America/New_York:20260128T160000
 DTEND;TZID=America/New_York:20260128T170000
-DTSTAMP:20260114T200358Z
+DTSTAMP:20260114T202343Z
 UID:aad3f41747f4365d@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Health
 DESCRIPTION:IIG weekly seminar series features the world-renown experts in
@@ -484,7 +871,7 @@ BEGIN:VEVENT
 SUMMARY:70th Office of AIDS Research Advisory Council Meeting
 DTSTART;TZID=America/New_York:20260129T123000
 DTEND;TZID=America/New_York:20260129T133000
-DTSTAMP:20260114T200358Z
+DTSTAMP:20260114T202343Z
 UID:270ef0cd2aa95a95@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Health
 DESCRIPTION:The 70th OARAC meeting will include a report from the OAR Dire
@@ -505,7 +892,7 @@ SUMMARY:Trust in Science and Research – Community Perceptions of HIV Vac
  cine Trial Participation
 DTSTART;TZID=America/New_York:20260130T141500
 DTEND;TZID=America/New_York:20260130T151500
-DTSTAMP:20260114T200358Z
+DTSTAMP:20260114T202343Z
 UID:403e5ee0e73e4f45@gid-seminars.wnprc.wisc.edu
 CATEGORIES:CFAR Events
 DESCRIPTION:Ronald P. Strauss\, DMD PhD is the Adams Distinguished Profess
@@ -531,10 +918,28 @@ TRIGGER:-PT1H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Antimicrobial Chemotherapy Conference (ACC2026)
+DTSTART;TZID=America/New_York:20260204T000000
+DTEND;TZID=America/New_York:20260205T000000
+DTSTAMP:20260114T202343Z
+UID:4f5d4cbbe54685db@gid-seminars.wnprc.wisc.edu
+CATEGORIES:ASTMH
+DESCRIPTION:\nEvent URL: https://www.astmh.org/news-events/events-calendar
+ /antimicrobial-chemotherapy-conference-(acc2026)\n\nSource: astmh_events
+LOCATION:Virtual
+URL:https://www.astmh.org/news-events/events-calendar/antimicrobial-chemot
+ herapy-conference-(acc2026)
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Antimicrobial Chemotherapy Conference (ACC2026)
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:NIH-FDA Immunology Interest Group (IIG) seminar series
 DTSTART;TZID=America/New_York:20260204T160000
 DTEND;TZID=America/New_York:20260204T170000
-DTSTAMP:20260114T200358Z
+DTSTAMP:20260114T202343Z
 UID:b9233a470bc7c320@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Health
 DESCRIPTION:IIG weekly seminar series features the world-renown experts in
@@ -552,10 +957,35 @@ TRIGGER:-PT1H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:CFAR Seminar with Dr. Achilles Katamba - February 5\, 2026
+DTSTART;TZID=America/Los_Angeles:20260205T170000
+DTEND;TZID=America/Los_Angeles:20260205T180000
+DTSTAMP:20260114T202343Z
+UID:61bb95a7d71a547e@gid-seminars.wnprc.wisc.edu
+CATEGORIES:Fred Hutch Center for AIDS Research (CFAR)
+DESCRIPTION:Event interval: Single day event\nOnline Meeting Link: https:/
+ /washington.zoom.us/meeting/register/sg4s2w9KQPWrMrQrQ0eUQg\nAccessibility
+  Contact: cfar@uw.edu\nEvent Types: Lectures/Seminars\n\nREGISTER NOW!\nRe
+ gister via this link for virtual attendance\nzoom registration: \nhttps://
+ washington.zoom.us/meeting/register/sg4s2w9KQPWrMrQrQ0eUQg\n--------------
+ ------------------------------------------------------------------\n9:00am
+  - 10:00am\nVIRTUAL\nCFAR Seminar Speaker: Achilles Katamba\n\nEvent URL: 
+ https://washington.zoom.us/meeting/register/sg4s2w9KQPWrMrQrQ0eUQg\n\nSour
+ ce: uw_cfar
+LOCATION:Zoom
+URL:https://washington.zoom.us/meeting/register/sg4s2w9KQPWrMrQrQ0eUQg
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: CFAR Seminar with Dr. Achilles Katamba - February 5\
+ , 2026
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Siddhartha Thakur\, PhD
 DTSTART;TZID=America/New_York:20260206T141500
 DTEND;TZID=America/New_York:20260206T151500
-DTSTAMP:20260114T200358Z
+DTSTAMP:20260114T202343Z
 UID:39b8efb762823ace@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Friday Morning Conference Series
 DESCRIPTION:Dr. Siddhartha “Sid” Thakur is the Executive Director of G
@@ -576,10 +1006,32 @@ TRIGGER:-PT1H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:REDCap Workshop: Intro to REDCap
+DTSTART;TZID=America/Los_Angeles:20260206T180000
+DTEND;TZID=America/Los_Angeles:20260206T200000
+DTSTAMP:20260114T202343Z
+UID:836850ddae7b9c1e@gid-seminars.wnprc.wisc.edu
+CATEGORIES:Fred Hutch Center for AIDS Research (CFAR)
+DESCRIPTION:Event interval: Single day event\nCampus location: Hans Roslin
+ g Center for Population Health (HRC)\nCampus room: HRC 101\nAccessibility 
+ Contact: Cfarbic@uw.edu\nEvent Types: Workshops\nEvent sponsors: Center fo
+ r AIDS Research (CFAR) - Behavioral Innovations Core (BIC)\n\nCourse is ta
+ rgeted to individuals who are new to REDCap or would like to gain more exp
+ erience with the REDCap system. In this two hour course\, we will use REDC
+ ap to demonstrate and practice entering\, storing\, and managing epidemiol
+ ogic data.\n\n\nSource: uw_cfar
+LOCATION:Hans Rosling Center for Population Health (HRC)
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: REDCap Workshop: Intro to REDCap
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Fourth Annual Global Health Scholars Symposium
 DTSTART;TZID=America/New_York:20260213T141500
 DTEND;TZID=America/New_York:20260213T170000
-DTSTAMP:20260114T200358Z
+DTSTAMP:20260114T202343Z
 UID:93e24673c561393f@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Friday Morning Conference Series
 DESCRIPTION:Save the Date! Presented by the UNC Institute for Global Healt
