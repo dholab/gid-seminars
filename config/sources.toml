@@ -152,8 +152,30 @@ description = "University of Pennsylvania Immunology Graduate Group Colloquium"
 require_keywords = false  # Topic-specific
 
 # =============================================================================
-# Web Scraper Sources (Phase 2)
+# Web Scraper Sources
 # =============================================================================
+
+[source.iasusa_webinars]
+enabled = true
+name = "IAS-USA HIV Webinars"
+type = "scraper"
+scraper_type = "iasusa"
+url = "https://www.iasusa.org/activities/webinars/upcoming-webinars/"
+category = "IAS-USA"
+default_timezone = "America/Los_Angeles"
+description = "IAS-USA HIV treatment and prevention webinars"
+require_keywords = false  # Topic-specific (HIV focused)
+
+[source.avac_events]
+enabled = true
+name = "AVAC HIV Prevention Events"
+type = "scraper"
+scraper_type = "avac"
+url = "https://avac.org/events-and-webinars/"
+category = "AVAC"
+default_timezone = "America/New_York"
+description = "AVAC HIV prevention advocacy webinars and events"
+require_keywords = false  # Topic-specific (HIV focused)
 
 [source.asm_webinars]
 enabled = false  # Enable when scraper is implemented

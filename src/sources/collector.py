@@ -15,6 +15,7 @@ from .bluesky_source import BlueskySource
 from .ical_source import ICalSource
 from .manual_source import ManualSource
 from .rss_source import RSSSource
+from .scraper_source import ScraperSource
 
 console = Console()
 
@@ -28,6 +29,7 @@ class SourceCollector:
         "ical": ICalSource,
         "manual": ManualSource,
         "bluesky": BlueskySource,
+        "scraper": ScraperSource,
     }
 
     def __init__(
