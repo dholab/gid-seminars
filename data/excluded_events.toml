@@ -35,3 +35,9 @@ last_updated = "2026-01-14"
 [[exclude_url]]
 url = "http://dho.pathology.wisc.edu"
 reason = "Requested via GitHub issue"
+
+# Added from GitHub Issue #3 on 2026-01-14
+# Event: Petra Kuppers | Planting Disabled Futures: A Virtual Reality
+[[exclude_url]]
+url = "https://events.stanford.edu/event/petra-kuppers-planting-disabled-futures-a-virtual-reality-eco-soma-worlding"
+reason = "Requested via GitHub issue"
