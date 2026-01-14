@@ -299,6 +299,20 @@ search_accounts = [
 ]
 
 # =============================================================================
+# API Sources
+# =============================================================================
+
+[source.who_events]
+enabled = true
+name = "WHO Events"
+type = "who"
+category = "WHO"
+default_timezone = "UTC"
+description = "World Health Organization events, webinars, and meetings"
+require_keywords = true  # Broad source - filter for ID relevant
+max_events = 50
+
+# =============================================================================
 # Organization RSS Feeds
 # =============================================================================
 

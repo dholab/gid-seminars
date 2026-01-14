@@ -18,6 +18,7 @@ from .manual_source import ManualSource
 from .podcast_source import PodcastSource
 from .rss_source import RSSSource
 from .scraper_source import ScraperSource
+from .who_source import WHOSource
 
 console = Console()
 
@@ -34,6 +35,7 @@ class SourceCollector:
         "scraper": ScraperSource,
         "podcast": PodcastSource,
         "conference": ConferenceSource,
+        "who": WHOSource,
     }
 
     def __init__(
