@@ -10,7 +10,7 @@ BEGIN:VEVENT
 SUMMARY:ORS Fall Town Hall
 DTSTART;TZID=America/New_York:20251216T103000
 DTEND;TZID=America/New_York:20251216T113000
-DTSTAMP:20260114T173736Z
+DTSTAMP:20260114T174123Z
 UID:1d8ef5c74858de58@gid-seminars.wnprc.wisc.edu
 CATEGORIES:NIH Only
 DESCRIPTION:ORS Fall Town Hall Presented by: Colleen McGowan Category: NIH
@@ -29,7 +29,7 @@ SUMMARY:Clinical Center Grand Rounds: Harnessing The Extracellular Matrix
  to Treat Lung Diseases
 DTSTART;TZID=America/New_York:20251217T120000
 DTEND;TZID=America/New_York:20251217T130000
-DTSTAMP:20260114T173736Z
+DTSTAMP:20260114T174123Z
 UID:e0133c2fba43ffbb@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Clinical Center Grand Rounds
 DESCRIPTION:Clinical Center Grand Rounds: Harnessing The Extracellular Mat
@@ -50,7 +50,7 @@ SUMMARY:Strengthening and Modernizing Biosafety Oversight: Region 2 Listen
  ing Session
 DTSTART;TZID=America/New_York:20251217T130000
 DTEND;TZID=America/New_York:20251217T140000
-DTSTAMP:20260114T173736Z
+DTSTAMP:20260114T174123Z
 UID:b683c0874bb2b025@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Special
 DESCRIPTION:Strengthening and Modernizing Biosafety Oversight: Region 2 Li
@@ -72,7 +72,7 @@ SUMMARY:WALS- Astute Clinician Lecture: Clinical Encounters in Neurogeneti
  Therapeutic Approaches
 DTSTART;TZID=America/New_York:20251217T140000
 DTEND;TZID=America/New_York:20251217T150000
-DTSTAMP:20260114T173736Z
+DTSTAMP:20260114T174123Z
 UID:d32619f7f64adb78@gid-seminars.wnprc.wisc.edu
 CATEGORIES:WALS - Wednesday Afternoon Lectures
 DESCRIPTION:WALS- Astute Clinician Lecture: Clinical Encounters in Neuroge
@@ -95,7 +95,7 @@ BEGIN:VEVENT
 SUMMARY:NIH-FDA Immunology Interest Group (IIG) seminar series
 DTSTART;TZID=America/New_York:20251217T160000
 DTEND;TZID=America/New_York:20251217T170000
-DTSTAMP:20260114T173736Z
+DTSTAMP:20260114T174123Z
 UID:e5674754cdf8aa54@gid-seminars.wnprc.wisc.edu
 CATEGORIES:HHS Only
 DESCRIPTION:NIH-FDA Immunology Interest Group (IIG) seminar series Present
@@ -115,7 +115,7 @@ BEGIN:VEVENT
 SUMMARY:Annual CC CEO Awards Ceremony 2025
 DTSTART;TZID=America/New_York:20251218T130000
 DTEND;TZID=America/New_York:20251218T140000
-DTSTAMP:20260114T173736Z
+DTSTAMP:20260114T174123Z
 UID:06143440d7740650@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Special
 DESCRIPTION:Annual CC CEO Awards Ceremony 2025 Presented by: Mr. Pius A. A
@@ -134,7 +134,7 @@ BEGIN:VEVENT
 SUMMARY:Muscular Dystrophy Coordinating Committee (MDCC) Meeting
 DTSTART;TZID=America/New_York:20251222T100000
 DTEND;TZID=America/New_York:20251222T110000
-DTSTAMP:20260114T173736Z
+DTSTAMP:20260114T174123Z
 UID:8474ba1567892f52@gid-seminars.wnprc.wisc.edu
 CATEGORIES:National Institute of Neurological Disorders and Stroke
 DESCRIPTION:Muscular Dystrophy Coordinating Committee (MDCC) Meeting Prese
@@ -155,7 +155,7 @@ SUMMARY:Demystifying Medicine—Pandemics on the Horizon: Are We Ready for
   the Next Global Threat?
 DTSTART;TZID=America/New_York:20260106T150000
 DTEND;TZID=America/New_York:20260106T160000
-DTSTAMP:20260114T173736Z
+DTSTAMP:20260114T174123Z
 UID:8e0f4d1b01108aa8@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Demystifying Medicine
 DESCRIPTION:Demystifying Medicine—Pandemics on the Horizon: Are We Ready
@@ -176,7 +176,7 @@ BEGIN:VEVENT
 SUMMARY:Clinical Center Grand Rounds: Vision For NIH
 DTSTART;TZID=America/New_York:20260107T120000
 DTEND;TZID=America/New_York:20260107T130000
-DTSTAMP:20260114T173736Z
+DTSTAMP:20260114T174123Z
 UID:c8f47a3b53c9af45@gid-seminars.wnprc.wisc.edu
 CATEGORIES:NIH Only
 DESCRIPTION:Clinical Center Grand Rounds: Vision For NIH Presented by: Jay
@@ -195,7 +195,7 @@ BEGIN:VEVENT
 SUMMARY:WALS: Bill Paul Lecture- Immune Control of Host Physiology
 DTSTART;TZID=America/New_York:20260107T140000
 DTEND;TZID=America/New_York:20260107T150000
-DTSTAMP:20260114T173736Z
+DTSTAMP:20260114T174123Z
 UID:e5fcff7294e4b19d@gid-seminars.wnprc.wisc.edu
 CATEGORIES:WALS - Wednesday Afternoon Lectures
 DESCRIPTION:WALS: Bill Paul Lecture- Immune Control of Host Physiology Pre
@@ -217,7 +217,7 @@ SUMMARY:NHLBI Obesity\, Nutrition\, and Physical Activity (ONPA) Seminar S
   Treatments
 DTSTART;TZID=America/New_York:20260108T120000
 DTEND;TZID=America/New_York:20260108T130000
-DTSTAMP:20260114T173736Z
+DTSTAMP:20260114T174123Z
 UID:70fbd9e006c6dc9e@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Special
 DESCRIPTION:NHLBI Obesity\, Nutrition\, and Physical Activity (ONPA) Semin
@@ -240,7 +240,7 @@ SUMMARY:NIH Director's Seminar Series: Cells and Circuits for a Pain Rheos
  tat in the Brain
 DTSTART;TZID=America/New_York:20260109T120000
 DTEND;TZID=America/New_York:20260109T130000
-DTSTAMP:20260114T173736Z
+DTSTAMP:20260114T174123Z
 UID:5e88491f2905ee83@gid-seminars.wnprc.wisc.edu
 CATEGORIES:HHS Only
 DESCRIPTION:NIH Director's Seminar Series: Cells and Circuits for a Pain R
@@ -261,7 +261,7 @@ SUMMARY:WALS: Neonatal Genomic Sequencing: The Past\, The Present\, and th
  e Unchartered\, Controversial Future
 DTSTART;TZID=America/New_York:20260114T140000
 DTEND;TZID=America/New_York:20260114T150000
-DTSTAMP:20260114T173736Z
+DTSTAMP:20260114T174123Z
 UID:0c6d191ad347cf18@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Health
 DESCRIPTION:Dr. Maron comes to Women & Infants Hospital with a wealth of e
@@ -292,7 +292,7 @@ BEGIN:VEVENT
 SUMMARY:NIH-FDA Immunology Interest Group (IIG) seminar series
 DTSTART;TZID=America/New_York:20260114T160000
 DTEND;TZID=America/New_York:20260114T170000
-DTSTAMP:20260114T173736Z
+DTSTAMP:20260114T174123Z
 UID:eff4747386081212@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Health
 DESCRIPTION:IIG weekly seminar series features the world-renown experts in
@@ -314,7 +314,7 @@ SUMMARY:NIH ProtIG seminar by Peder Lund: Fatty acid metabolism as a symbi
  otic link between the gut microbiota and host epithelial cells
 DTSTART;TZID=America/New_York:20260115T110000
 DTEND;TZID=America/New_York:20260115T120000
-DTSTAMP:20260114T173736Z
+DTSTAMP:20260114T174123Z
 UID:285b58c24b90d7ca@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Health
 DESCRIPTION:The intestinal epithelium is a critical mucosal barrier that c
@@ -361,7 +361,7 @@ SUMMARY:Modernizing and Strengthening Biosafety Oversight: Region 3 Listen
  ing Session
 DTSTART;TZID=America/New_York:20260115T130000
 DTEND;TZID=America/New_York:20260115T140000
-DTSTAMP:20260114T173736Z
+DTSTAMP:20260114T174123Z
 UID:42c9537a5c2ef6c9@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Health
 DESCRIPTION:Listening Session Air date: 1/15/2026 1:00:00 PM Eastern Time\
@@ -380,7 +380,7 @@ BEGIN:VEVENT
 SUMMARY:Technology Transfer in the NIH Intramural Research Program
 DTSTART;TZID=America/New_York:20260115T150000
 DTEND;TZID=America/New_York:20260115T160000
-DTSTAMP:20260114T173736Z
+DTSTAMP:20260114T174123Z
 UID:7011b5627fda7c4b@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Health
 DESCRIPTION:The NIH Office of Technology Transfer (OTT) supports the effor
@@ -406,7 +406,7 @@ BEGIN:VEVENT
 SUMMARY:Outbreak Behind Bars
 DTSTART;TZID=America/New_York:20260116T141500
 DTEND;TZID=America/New_York:20260116T151500
-DTSTAMP:20260114T173736Z
+DTSTAMP:20260114T174123Z
 UID:7656bfb7a076fcd3@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Friday Morning Conference Series
 DESCRIPTION:Homer Venters\, MD MS is the former Chief Medical Officer of t
@@ -428,7 +428,7 @@ BEGIN:VEVENT
 SUMMARY:Digital Health Scientific Interest Group Seminar Series
 DTSTART;TZID=America/New_York:20260120T110000
 DTEND;TZID=America/New_York:20260120T120000
-DTSTAMP:20260114T173736Z
+DTSTAMP:20260114T174123Z
 UID:ef7d5569609dcae6@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Health
 DESCRIPTION:N/A Air date: 1/20/2026 11:00:00 AM Eastern Time\n\nEvent URL:
@@ -446,7 +446,7 @@ BEGIN:VEVENT
 SUMMARY:Clinical Center CEO Quarterly Town Hall
 DTSTART;TZID=America/New_York:20260120T130000
 DTEND;TZID=America/New_York:20260120T140000
-DTSTAMP:20260114T173736Z
+DTSTAMP:20260114T174123Z
 UID:9530de52ccc82dab@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Health
 DESCRIPTION:The CC CEO Town Hall sessions provide updates on CC activities
@@ -468,7 +468,7 @@ SUMMARY:Demystifying Medicine—The Epidemic That Won't Quit: Unraveling t
  he HIV Crisis
 DTSTART;TZID=America/New_York:20260120T150000
 DTEND;TZID=America/New_York:20260120T160000
-DTSTAMP:20260114T173736Z
+DTSTAMP:20260114T174123Z
 UID:c2d9e80cbd4ed46b@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Health
 DESCRIPTION:This week's speakers in the Demystifying Medicine Series are J
@@ -502,7 +502,7 @@ SUMMARY:National Advisory Dental and Craniofacial Research Council - Janua
  ry 2026
 DTSTART;TZID=America/New_York:20260121T111500
 DTEND;TZID=America/New_York:20260121T121500
-DTSTAMP:20260114T173736Z
+DTSTAMP:20260114T174123Z
 UID:490ed99d8111ffe6@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Health
 DESCRIPTION:The National Institute of Dental and Craniofacial Research (NI
@@ -531,7 +531,7 @@ BEGIN:VEVENT
 SUMMARY:2026 NLM Colloquia Series
 DTSTART;TZID=America/New_York:20260121T120000
 DTEND;TZID=America/New_York:20260121T130000
-DTSTAMP:20260114T173736Z
+DTSTAMP:20260114T174123Z
 UID:5fbb01a2dbec490d@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Health
 DESCRIPTION:The NLM Division of Intramural Research (DIR) is pleased to we
@@ -555,7 +555,7 @@ SUMMARY:Clinical Center Grand Rounds: Emerging Critical Roles of the Scien
  ce of Aging and Resilience in Population Health
 DTSTART;TZID=America/New_York:20260121T120000
 DTEND;TZID=America/New_York:20260121T130000
-DTSTAMP:20260114T173736Z
+DTSTAMP:20260114T174123Z
 UID:b1d579aed725fade@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Health
 DESCRIPTION:Emerging Critical Roles of the Science of Aging and Resilience
@@ -577,7 +577,7 @@ BEGIN:VEVENT
 SUMMARY:WALS: The Emotional Brain: Role in Depression and Addiction
 DTSTART;TZID=America/New_York:20260121T140000
 DTEND;TZID=America/New_York:20260121T150000
-DTSTAMP:20260114T173736Z
+DTSTAMP:20260114T174123Z
 UID:eb68da67c9b141ea@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Health
 DESCRIPTION:Huda Akil is a neuroscientist whose research has contributed t
@@ -615,7 +615,7 @@ BEGIN:VEVENT
 SUMMARY:NIH-FDA Immunology Interest Group (IIG) seminar series
 DTSTART;TZID=America/New_York:20260121T160000
 DTEND;TZID=America/New_York:20260121T170000
-DTSTAMP:20260114T173736Z
+DTSTAMP:20260114T174123Z
 UID:8a74f02608c8129a@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Health
 DESCRIPTION:IIG weekly seminar series features the world-renown experts in
@@ -637,7 +637,7 @@ SUMMARY:National Deafness and Other Communication Disorders Advisory Counc
  il January 2026
 DTSTART;TZID=America/New_York:20260122T130000
 DTEND;TZID=America/New_York:20260122T140000
-DTSTAMP:20260114T173736Z
+DTSTAMP:20260114T174123Z
 UID:bf0c3775fa5e6bc7@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Health
 DESCRIPTION:Advises the Secretary\, HHS\; the Director\, NIH\; and the Dir
@@ -661,7 +661,7 @@ SUMMARY:Outbreak Analytics and Disease Modeling to Inform Public Health De
  cision-Making
 DTSTART;TZID=America/New_York:20260123T141500
 DTEND;TZID=America/New_York:20260123T151500
-DTSTAMP:20260114T173736Z
+DTSTAMP:20260114T174123Z
 UID:5dbef9e3f6fe916b@gid-seminars.wnprc.wisc.edu
 CATEGORIES:CFAR Events
 DESCRIPTION:Drs. Kimberly Powers and Justin Lessler are faculty members in
@@ -687,7 +687,7 @@ SUMMARY:Lung as the Gateway for Environmental Exposures in Pulmonary and C
  ardiovascular Disease - Day 1
 DTSTART;TZID=America/New_York:20260126T100000
 DTEND;TZID=America/New_York:20260126T110000
-DTSTAMP:20260114T173736Z
+DTSTAMP:20260114T174123Z
 UID:2eed6f77adfe8bb2@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Health
 DESCRIPTION:The National Heart\, Lung\, and Blood Institute’s Division o
@@ -733,7 +733,7 @@ SUMMARY:January 2026 National Advisory Child Health and Human Development
  (NACHHD) Council Meeting
 DTSTART;TZID=America/New_York:20260126T120000
 DTEND;TZID=America/New_York:20260126T130000
-DTSTAMP:20260114T173736Z
+DTSTAMP:20260114T174123Z
 UID:59e780002f64f6b4@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Health
 DESCRIPTION:January 2026 National Advisory Child Health and Human Developm
@@ -753,7 +753,7 @@ BEGIN:VEVENT
 SUMMARY:NIAMS Advisory Council - January 2026
 DTSTART;TZID=America/New_York:20260127T093000
 DTEND;TZID=America/New_York:20260127T103000
-DTSTAMP:20260114T173736Z
+DTSTAMP:20260114T174123Z
 UID:b1b0dc970529fffd@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Health
 DESCRIPTION:119th Meeting National Arthritis and Musculoskeletal and Skin 
@@ -774,7 +774,7 @@ SUMMARY:Lung as the Gateway for Environmental Exposures in Pulmonary and C
  ardiovascular Disease - Day 2
 DTSTART;TZID=America/New_York:20260127T100000
 DTEND;TZID=America/New_York:20260127T110000
-DTSTAMP:20260114T173736Z
+DTSTAMP:20260114T174123Z
 UID:c991d9a637770519@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Health
 DESCRIPTION:The National Heart\, Lung\, and Blood Institute’s Division o
@@ -819,7 +819,7 @@ BEGIN:VEVENT
 SUMMARY:118th NACNR Council Meeting
 DTSTART;TZID=America/New_York:20260127T100000
 DTEND;TZID=America/New_York:20260127T110000
-DTSTAMP:20260114T173736Z
+DTSTAMP:20260114T174123Z
 UID:57d3f4cdfee2876f@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Health
 DESCRIPTION:This is the 118 meeting of the National Advisory Council for N
@@ -839,7 +839,7 @@ BEGIN:VEVENT
 SUMMARY:National Advisory Council on Aging
 DTSTART;TZID=America/New_York:20260127T110000
 DTEND;TZID=America/New_York:20260127T120000
-DTSTAMP:20260114T173736Z
+DTSTAMP:20260114T174123Z
 UID:8f5b4ff46b48106d@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Health
 DESCRIPTION:The National Advisory Council on Aging (NACA) advises the Secr
@@ -861,7 +861,7 @@ BEGIN:VEVENT
 SUMMARY:2025 NINDS Director's Awards Ceremony
 DTSTART;TZID=America/New_York:20260127T130000
 DTEND;TZID=America/New_York:20260127T140000
-DTSTAMP:20260114T173736Z
+DTSTAMP:20260114T174123Z
 UID:71f2f4647bf415d5@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Health
 DESCRIPTION:The NINDS Director's Awards Ceremony will be held on Tuesday\,
@@ -886,7 +886,7 @@ SUMMARY:Demystifying Medicine—Finding the Invisible: Frontiers in Cancer
   Detection
 DTSTART;TZID=America/New_York:20260127T150000
 DTEND;TZID=America/New_York:20260127T160000
-DTSTAMP:20260114T173736Z
+DTSTAMP:20260114T174123Z
 UID:e4dfd084bf8b1928@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Health
 DESCRIPTION:This week's speakers in the Demystifying Medicine Series are S
@@ -919,7 +919,7 @@ SUMMARY:National Advisory Council for Biomedical Imaging and Bioengineerin
  g
 DTSTART;TZID=America/New_York:20260128T120000
 DTEND;TZID=America/New_York:20260128T130000
-DTSTAMP:20260114T173736Z
+DTSTAMP:20260114T174123Z
 UID:945c4c8529fa3d32@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Health
 DESCRIPTION:This is the 70th meeting of the National Advisory Council for 
@@ -940,7 +940,7 @@ SUMMARY:Clinical Center: Adventure At C: Ascorbic Acid (Vitamin C) In Heal
  th and Disease
 DTSTART;TZID=America/New_York:20260128T120000
 DTEND;TZID=America/New_York:20260128T130000
-DTSTAMP:20260114T173736Z
+DTSTAMP:20260114T174123Z
 UID:2f9ca4bf6d7bf1f1@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Health
 DESCRIPTION:Mark Levine\, MD Section Chief Molecular and Clinical Nutritio
@@ -961,7 +961,7 @@ BEGIN:VEVENT
 SUMMARY:WALS- Rolla E. Dyer Lecture- A Cure for Hepatitis C: Now What?
 DTSTART;TZID=America/New_York:20260128T140000
 DTEND;TZID=America/New_York:20260128T150000
-DTSTAMP:20260114T173736Z
+DTSTAMP:20260114T174123Z
 UID:f385ed8004eadd09@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Health
 DESCRIPTION:Dr. Rice has co-authored over 500 articles in the field of vir
@@ -987,7 +987,7 @@ BEGIN:VEVENT
 SUMMARY:NIH-FDA Immunology Interest Group (IIG) seminar series
 DTSTART;TZID=America/New_York:20260128T160000
 DTEND;TZID=America/New_York:20260128T170000
-DTSTAMP:20260114T173736Z
+DTSTAMP:20260114T174123Z
 UID:aad3f41747f4365d@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Health
 DESCRIPTION:IIG weekly seminar series features the world-renown experts in
@@ -1009,7 +1009,7 @@ SUMMARY:Cardiopulmonary Complications of Hematopoietic Stem Cell Transplan
  tation (HCT) and Gene Therapy
 DTSTART;TZID=America/New_York:20260129T080000
 DTEND;TZID=America/New_York:20260129T090000
-DTSTAMP:20260114T173736Z
+DTSTAMP:20260114T174123Z
 UID:a69cc7d8bd13c4a8@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Health
 DESCRIPTION:Join us for an exclusive\, hybrid workshop where multidiscipli
@@ -1035,7 +1035,7 @@ BEGIN:VEVENT
 SUMMARY:NIH Council of Councils
 DTSTART;TZID=America/New_York:20260129T080000
 DTEND;TZID=America/New_York:20260129T090000
-DTSTAMP:20260114T173736Z
+DTSTAMP:20260114T174123Z
 UID:3b1197c4a6d433c0@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Health
 DESCRIPTION:The NIH Council of Councils advises the NIH Director on the po
@@ -1059,7 +1059,7 @@ BEGIN:VEVENT
 SUMMARY:BRAIN Neuroethics Working Group (NEWG) Meeting
 DTSTART;TZID=America/New_York:20260129T120000
 DTEND;TZID=America/New_York:20260129T130000
-DTSTAMP:20260114T173736Z
+DTSTAMP:20260114T174123Z
 UID:1a5c0f12aa66d3fa@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Health
 DESCRIPTION:The NEWG is a group of experts in neuroethics and neuroscience
@@ -1084,7 +1084,7 @@ BEGIN:VEVENT
 SUMMARY:70th Office of AIDS Research Advisory Council Meeting
 DTSTART;TZID=America/New_York:20260129T123000
 DTEND;TZID=America/New_York:20260129T133000
-DTSTAMP:20260114T173736Z
+DTSTAMP:20260114T174123Z
 UID:270ef0cd2aa95a95@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Health
 DESCRIPTION:The 70th OARAC meeting will include a report from the OAR Dire
@@ -1105,7 +1105,7 @@ SUMMARY:National Center for Advancing Translational Sciences Advisory Coun
  cil
 DTSTART;TZID=America/New_York:20260129T130000
 DTEND;TZID=America/New_York:20260129T140000
-DTSTAMP:20260114T173736Z
+DTSTAMP:20260114T174123Z
 UID:48e3a551ae3a2ca6@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Health
 DESCRIPTION:The NCATS Advisory Council will convene a virtual meeting on J
@@ -1127,7 +1127,7 @@ SUMMARY:Cardiopulmonary Complications of Hematopoietic Stem Cell Transplan
  tation (HCT) and Gene Therapy
 DTSTART;TZID=America/New_York:20260130T080000
 DTEND;TZID=America/New_York:20260130T090000
-DTSTAMP:20260114T173736Z
+DTSTAMP:20260114T174123Z
 UID:3e2ab925582eb43d@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Health
 DESCRIPTION:Join us for an exclusive\, hybrid workshop where multidiscipli
@@ -1153,7 +1153,7 @@ BEGIN:VEVENT
 SUMMARY:Clinical Center Research Hospital Board Meeting
 DTSTART;TZID=America/New_York:20260130T090000
 DTEND;TZID=America/New_York:20260130T100000
-DTSTAMP:20260114T173736Z
+DTSTAMP:20260114T174123Z
 UID:165b047deac22091@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Health
 DESCRIPTION:The NIH Clinical Center is the nation's premier research hospi
@@ -1176,7 +1176,7 @@ BEGIN:VEVENT
 SUMMARY:BRAIN Multi-Council Working Group (MCWG) Meeting
 DTSTART;TZID=America/New_York:20260130T120000
 DTEND;TZID=America/New_York:20260130T130000
-DTSTAMP:20260114T173736Z
+DTSTAMP:20260114T174123Z
 UID:f6eea139890c6bcc@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Health
 DESCRIPTION:The BRAIN Initiative Multi-Council Working Group (MCWG) ensure
@@ -1216,7 +1216,7 @@ SUMMARY:Trust in Science and Research – Community Perceptions of HIV Vac
  cine Trial Participation
 DTSTART;TZID=America/New_York:20260130T141500
 DTEND;TZID=America/New_York:20260130T151500
-DTSTAMP:20260114T173736Z
+DTSTAMP:20260114T174123Z
 UID:403e5ee0e73e4f45@gid-seminars.wnprc.wisc.edu
 CATEGORIES:CFAR Events
 DESCRIPTION:Ronald P. Strauss\, DMD PhD is the Adams Distinguished Profess
@@ -1245,7 +1245,7 @@ BEGIN:VEVENT
 SUMMARY:152nd Meeting of the National Advisory Council on Drug Abuse
 DTSTART;TZID=America/New_York:20260203T124500
 DTEND;TZID=America/New_York:20260203T134500
-DTSTAMP:20260114T173736Z
+DTSTAMP:20260114T174123Z
 UID:27d9a20fc91d5ed9@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Health
 DESCRIPTION:The Council meets three times a year\, usually in February\, M
@@ -1275,7 +1275,7 @@ BEGIN:VEVENT
 SUMMARY:NIH-FDA Immunology Interest Group (IIG) seminar series
 DTSTART;TZID=America/New_York:20260204T160000
 DTEND;TZID=America/New_York:20260204T170000
-DTSTAMP:20260114T173736Z
+DTSTAMP:20260114T174123Z
 UID:b9233a470bc7c320@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Health
 DESCRIPTION:IIG weekly seminar series features the world-renown experts in
@@ -1296,7 +1296,7 @@ BEGIN:VEVENT
 SUMMARY:NAGMS February 2025 Council Open Session
 DTSTART;TZID=America/New_York:20260205T093000
 DTEND;TZID=America/New_York:20260205T103000
-DTSTAMP:20260114T173736Z
+DTSTAMP:20260114T174123Z
 UID:fe4f3699db507746@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Health
 DESCRIPTION:This is a public broadcast of the National Advisory General Me
@@ -1316,7 +1316,7 @@ SUMMARY:Meeting of the NCAB ad hoc Working Group (WG) on Extramural Resear
  ch Concepts and Programs
 DTSTART;TZID=America/New_York:20260206T090000
 DTEND;TZID=America/New_York:20260206T100000
-DTSTAMP:20260114T173736Z
+DTSTAMP:20260114T174123Z
 UID:8580c59e11f7c5a8@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Health
 DESCRIPTION:1st regular Meeting of the NCAB ad hoc Working Group (WG) on E
@@ -1336,7 +1336,7 @@ BEGIN:VEVENT
 SUMMARY:National advisor council on minority health and health disparities
 DTSTART;TZID=America/New_York:20260206T093000
 DTEND;TZID=America/New_York:20260206T103000
-DTSTAMP:20260114T173736Z
+DTSTAMP:20260114T174123Z
 UID:db928fd12fc84527@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Health
 DESCRIPTION:Public Health Service Act section 464z-3(j)\, 42 U.S.C. 285t(j
@@ -1362,7 +1362,7 @@ BEGIN:VEVENT
 SUMMARY:Siddhartha Thakur\, PhD
 DTSTART;TZID=America/New_York:20260206T141500
 DTEND;TZID=America/New_York:20260206T151500
-DTSTAMP:20260114T173736Z
+DTSTAMP:20260114T174123Z
 UID:39b8efb762823ace@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Friday Morning Conference Series
 DESCRIPTION:Dr. Siddhartha “Sid” Thakur is the Executive Director of G
@@ -1386,7 +1386,7 @@ BEGIN:VEVENT
 SUMMARY:FNIH Biomarkers Consortium 20th Anniversary Symposium
 DTSTART;TZID=America/New_York:20260209T090000
 DTEND;TZID=America/New_York:20260209T100000
-DTSTAMP:20260114T173736Z
+DTSTAMP:20260114T174123Z
 UID:cd5a48f81414c7e0@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Health
 DESCRIPTION:The Foundation for the National Institutes of Health (FNIH) Bi
@@ -1414,7 +1414,7 @@ BEGIN:VEVENT
 SUMMARY:NLM Board of Regents Meeting
 DTSTART;TZID=America/New_York:20260209T120000
 DTEND;TZID=America/New_York:20260209T130000
-DTSTAMP:20260114T173736Z
+DTSTAMP:20260114T174123Z
 UID:e033b91ec9d61524@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Health
 DESCRIPTION:NLM Board of Regents Meeting Air date: 2/9/2026 12:00:00 PM Ea
@@ -1432,7 +1432,7 @@ BEGIN:VEVENT
 SUMMARY:FNIH Biomarkers Consortium 20th Anniversary Symposium - Day 2
 DTSTART;TZID=America/New_York:20260210T090000
 DTEND;TZID=America/New_York:20260210T100000
-DTSTAMP:20260114T173736Z
+DTSTAMP:20260114T174123Z
 UID:b7f7acfe0b9fd1d9@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Health
 DESCRIPTION:The Foundation for the National Institutes of Health (FNIH) Bi
@@ -1460,7 +1460,7 @@ BEGIN:VEVENT
 SUMMARY:NLM Board of Regents Meeting
 DTSTART;TZID=America/New_York:20260210T100000
 DTEND;TZID=America/New_York:20260210T110000
-DTSTAMP:20260114T173736Z
+DTSTAMP:20260114T174123Z
 UID:8ffe9abb00c19204@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Health
 DESCRIPTION:Board of Regents Members Air date: 2/10/2026 10:00:00 AM Easte
@@ -1478,7 +1478,7 @@ BEGIN:VEVENT
 SUMMARY:Sayer Vision Research Lecture and Award 2026
 DTSTART;TZID=America/New_York:20260210T150000
 DTEND;TZID=America/New_York:20260210T160000
-DTSTAMP:20260114T173736Z
+DTSTAMP:20260114T174123Z
 UID:652330e3c0be97f4@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Health
 DESCRIPTION:In 2006\, Dr. Jane Sayer\, an NIH research scientist in the Na
@@ -1510,7 +1510,7 @@ BEGIN:VEVENT
 SUMMARY:National Advisory Eye Council - February 2026 Meeting
 DTSTART;TZID=America/New_York:20260213T090000
 DTEND;TZID=America/New_York:20260213T100000
-DTSTAMP:20260114T173736Z
+DTSTAMP:20260114T174123Z
 UID:d5f8a687a655a279@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Health
 DESCRIPTION:The National Advisory Eye Council (NAEC) advises the Secretary
@@ -1537,7 +1537,7 @@ BEGIN:VEVENT
 SUMMARY:Fourth Annual Global Health Scholars Symposium
 DTSTART;TZID=America/New_York:20260213T141500
 DTEND;TZID=America/New_York:20260213T170000
-DTSTAMP:20260114T173736Z
+DTSTAMP:20260114T174123Z
 UID:93e24673c561393f@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Friday Morning Conference Series
 DESCRIPTION:Save the Date! Presented by the UNC Institute for Global Healt
