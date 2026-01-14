@@ -8,6 +8,7 @@ from typing import Any
 from rich.console import Console
 
 from src.core.database import SeminarDatabase
+from src.core.exclusion_filter import ExclusionFilter
 from src.core.models import Seminar
 
 console = Console()
@@ -31,9 +32,15 @@ COLORS = {
 class HTMLGenerator:
     """Generate HTML page with collapsible sections."""
 
-    def __init__(self, config: dict[str, Any], database: SeminarDatabase):
+    def __init__(
+        self,
+        config: dict[str, Any],
+        database: SeminarDatabase,
+        exclusion_filter: ExclusionFilter | None = None,
+    ):
         self.config = config
         self.database = database
+        self.exclusion_filter = exclusion_filter
         self.time_window = config.get("time_window", {})
         self.calendar_config = config.get("calendar", {})
 
@@ -52,6 +59,10 @@ class HTMLGenerator:
             days_behind=days_behind,
             days_ahead=days_ahead,
         )
+
+        # Apply exclusion filter
+        if self.exclusion_filter:
+            seminars = self.exclusion_filter.filter_seminars(seminars)
 
         # Split into upcoming and past
         now = datetime.utcnow()
@@ -395,6 +406,23 @@ class HTMLGenerator:
 
         links_html = " | ".join(links) if links else ""
 
+        # Hide event link - creates a GitHub Issue to exclude this event
+        hide_url = seminar.url or ""
+        hide_title = seminar.title.replace('"', "'")[:60]
+        hide_issue_title = f"Hide Event: {hide_title}"
+        hide_issue_body = f"""**Event to hide:**
+- Title: {seminar.title}
+- URL: {seminar.url or 'N/A'}
+- Source: {seminar.source_id}
+- Date: {date_str}
+
+**Reason for hiding:**
+(Please describe why this event should be removed from the calendar)
+
+---
+*Submitted via the events page*"""
+        hide_link = f"https://github.com/dholab/gid-seminars/issues/new?title={hide_issue_title}&labels=hide-event&body=" + hide_issue_body.replace("\n", "%0A").replace(" ", "%20").replace(":", "%3A").replace("/", "%2F")
+
         # Access restriction badge
         access_badge = ""
         if seminar.access_restriction and seminar.access_restriction != "Public":
@@ -428,6 +456,9 @@ class HTMLGenerator:
     </h3>
     {desc_preview}
     {f'<div style="margin-top: 12px;">{links_html}</div>' if links_html else ''}
+    <div style="margin-top: 8px; text-align: right;">
+        <a href="{hide_link}" target="_blank" style="color: {COLORS['muted']}; text-decoration: none; font-size: 0.75em; opacity: 0.7;">Hide this event</a>
+    </div>
 </div>"""
 
     def _generate_footer(self) -> str:

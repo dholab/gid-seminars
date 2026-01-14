@@ -1,0 +1,140 @@
+name: Process Hide Event Request
+
+on:
+  issues:
+    types: [opened, labeled]
+
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  process-hide-request:
+    # Run when issue is opened with "Hide Event:" prefix OR when 'hide-event' label is added
+    if: |
+      (github.event.action == 'opened' && startsWith(github.event.issue.title, 'Hide Event:')) ||
+      (github.event.action == 'labeled' && github.event.label.name == 'hide-event')
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install toml
+
+      - name: Extract event details and add to exclusions
+        id: extract
+        env:
+          ISSUE_BODY: ${{ github.event.issue.body }}
+          ISSUE_TITLE: ${{ github.event.issue.title }}
+          ISSUE_NUMBER: ${{ github.event.issue.number }}
+        run: |
+          python << 'EOF'
+          import os
+          import re
+          import sys
+          from datetime import datetime
+
+          issue_body = os.environ.get('ISSUE_BODY', '')
+          issue_title = os.environ.get('ISSUE_TITLE', '')
+          issue_number = os.environ.get('ISSUE_NUMBER', '')
+
+          # Extract event title from issue title
+          event_title = issue_title.replace('Hide Event:', '').strip()
+
+          # Extract URL from issue body
+          url_match = re.search(r'URL:\s*(https?://[^\s\n]+)', issue_body)
+          event_url = url_match.group(1) if url_match else None
+
+          # Extract reason from issue body
+          reason_match = re.search(r'Reason for hiding:\s*\n\s*(.+?)(?:\n---|\Z)', issue_body, re.DOTALL)
+          reason = reason_match.group(1).strip() if reason_match else "Requested via GitHub issue"
+
+          if not event_url:
+              print("::error::Could not extract event URL from issue body")
+              sys.exit(1)
+
+          # Write exclusion entry to file
+          exclusion_entry = f'''
+# Added from GitHub Issue #{issue_number} on {datetime.utcnow().strftime('%Y-%m-%d')}
+# Event: {event_title[:60]}
+[[exclude_url]]
+url = "{event_url}"
+reason = "{reason[:100].replace('"', "'")}"
+'''
+
+          with open('data/excluded_events.toml', 'a') as f:
+              f.write(exclusion_entry)
+
+          # Output for commit message
+          with open(os.environ['GITHUB_OUTPUT'], 'a') as f:
+              f.write(f"event_title={event_title[:50]}\n")
+              f.write(f"valid=true\n")
+
+          print(f"Successfully added exclusion for: {event_title}")
+          EOF
+
+      - name: Commit changes
+        if: steps.extract.outputs.valid == 'true'
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add data/excluded_events.toml
+          git commit -m "Hide event: ${{ steps.extract.outputs.event_title }}
+
+          Closes #${{ github.event.issue.number }}
+
+          🤖 Generated with [Claude Code](https://claude.com/claude-code)
+
+          Co-Authored-By: Claude <noreply@anthropic.com>"
+          git push
+
+      - name: Close issue with success message
+        if: steps.extract.outputs.valid == 'true'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            await github.rest.issues.createComment({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.issue.number,
+              body: `✅ **Event hidden successfully!**
+
+            The event "${{ steps.extract.outputs.event_title }}" has been added to the exclusion list.
+
+            It will be removed from the calendar after the next scheduled update (runs daily at 6:00 AM UTC).
+
+            Thank you for helping keep the calendar relevant! 🙏`
+            });
+
+            await github.rest.issues.update({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.issue.number,
+              state: 'closed'
+            });
+
+      - name: Comment on invalid request
+        if: failure()
+        uses: actions/github-script@v7
+        with:
+          script: |
+            await github.rest.issues.createComment({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.issue.number,
+              body: `❌ **Unable to process hide request**
+
+            There was an issue processing your request. The event URL could not be extracted.
+
+            Please make sure the issue body contains a valid URL in the format:
+            \`URL: https://example.org/event\`
+
+            You can edit this issue to fix the format, or a maintainer can manually add the exclusion.`
+            });

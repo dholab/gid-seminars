@@ -13,6 +13,7 @@ import toml
 from rich.console import Console
 
 from src.core.database import SeminarDatabase
+from src.core.exclusion_filter import ExclusionFilter
 from src.deploy.webdav_uploader import upload_to_labkey
 from src.generators.html_generator import HTMLGenerator
 from src.generators.ics_generator import ICSGenerator
@@ -68,6 +69,11 @@ def main(skip_upload: bool = False) -> int:
             console.print("\n[red]All sources failed. Aborting.[/red]")
             return 1
 
+        # Load exclusion filter
+        console.print("\n[bold]Loading exclusion filter...[/bold]")
+        exclusions_path = base_dir / "data" / "excluded_events.toml"
+        exclusion_filter = ExclusionFilter(exclusions_path)
+
         # Step 2: Generate outputs
         console.print("\n[bold]Step 2: Generating outputs...[/bold]")
         output_config = settings_config.get("output", {})
@@ -75,17 +81,17 @@ def main(skip_upload: bool = False) -> int:
         output_dir.mkdir(parents=True, exist_ok=True)
 
         # Generate ICS
-        ics_generator = ICSGenerator(settings_config, database)
+        ics_generator = ICSGenerator(settings_config, database, exclusion_filter)
         ics_path = output_dir / output_config.get("ics_filename", "gid_seminars.ics")
         ics_generator.generate(ics_path)
 
         # Generate HTML
-        html_generator = HTMLGenerator(settings_config, database)
+        html_generator = HTMLGenerator(settings_config, database, exclusion_filter)
         html_path = output_dir / output_config.get("html_filename", "index.html")
         html_generator.generate(html_path)
 
         # Generate JSON
-        json_generator = JSONGenerator(settings_config, database)
+        json_generator = JSONGenerator(settings_config, database, exclusion_filter)
         json_path = output_dir / output_config.get("json_filename", "seminars.json")
         json_generator.generate(json_path)
 

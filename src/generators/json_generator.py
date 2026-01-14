@@ -9,6 +9,7 @@ from typing import Any
 from rich.console import Console
 
 from src.core.database import SeminarDatabase
+from src.core.exclusion_filter import ExclusionFilter
 
 console = Console()
 
@@ -16,9 +17,15 @@ console = Console()
 class JSONGenerator:
     """Generate JSON feed from seminars."""
 
-    def __init__(self, config: dict[str, Any], database: SeminarDatabase):
+    def __init__(
+        self,
+        config: dict[str, Any],
+        database: SeminarDatabase,
+        exclusion_filter: ExclusionFilter | None = None,
+    ):
         self.config = config
         self.database = database
+        self.exclusion_filter = exclusion_filter
         self.time_window = config.get("time_window", {})
 
     def generate(self, output_path: Path) -> tuple[Path, int]:
@@ -36,6 +43,10 @@ class JSONGenerator:
             days_behind=days_behind,
             days_ahead=days_ahead,
         )
+
+        # Apply exclusion filter
+        if self.exclusion_filter:
+            seminars = self.exclusion_filter.filter_seminars(seminars)
 
         # Get statistics
         stats = self.database.get_statistics()

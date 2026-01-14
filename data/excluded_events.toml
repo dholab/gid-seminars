@@ -1,0 +1,31 @@
+# Excluded Events
+# Use this file to exclude specific events from appearing on the calendar.
+# Events can be excluded by exact URL match or by title pattern (regex).
+#
+# This works for both auto-scraped events AND manually submitted events.
+# To remove an event, add its URL or a title pattern below.
+
+[metadata]
+description = "Events excluded from the GID Seminars calendar"
+last_updated = "2026-01-14"
+
+# Exclude by exact URL match
+# Add the full URL of events you want to hide
+[[exclude_url]]
+# url = "https://example.org/event-to-hide"
+# reason = "Not relevant to GID"
+
+# Exclude by title pattern (regex)
+# Use Python regex syntax - patterns are case-insensitive
+[[exclude_title]]
+# pattern = "Internal Meeting.*"
+# reason = "Internal events only"
+
+# Examples:
+# [[exclude_url]]
+# url = "https://example.org/private-event"
+# reason = "Private event, not open to public"
+#
+# [[exclude_title]]
+# pattern = "Staff Only:.*"
+# reason = "Internal staff events"

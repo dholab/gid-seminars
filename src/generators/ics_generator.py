@@ -10,6 +10,7 @@ from icalendar import Alarm, Calendar, Event
 from rich.console import Console
 
 from src.core.database import SeminarDatabase
+from src.core.exclusion_filter import ExclusionFilter
 from src.core.models import Seminar
 
 console = Console()
@@ -18,9 +19,15 @@ console = Console()
 class ICSGenerator:
     """Generate iCalendar files from seminars."""
 
-    def __init__(self, config: dict[str, Any], database: SeminarDatabase):
+    def __init__(
+        self,
+        config: dict[str, Any],
+        database: SeminarDatabase,
+        exclusion_filter: ExclusionFilter | None = None,
+    ):
         self.config = config
         self.database = database
+        self.exclusion_filter = exclusion_filter
         self.calendar_config = config.get("calendar", {})
         self.time_window = config.get("time_window", {})
 
@@ -57,6 +64,10 @@ class ICSGenerator:
             days_behind=days_behind,
             days_ahead=days_ahead,
         )
+
+        # Apply exclusion filter
+        if self.exclusion_filter:
+            seminars = self.exclusion_filter.filter_seminars(seminars)
 
         # Add events
         for seminar in seminars:
