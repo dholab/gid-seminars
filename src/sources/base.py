@@ -11,6 +11,7 @@ from rich.console import Console
 
 from src.core.database import SeminarDatabase
 from src.core.exceptions import NetworkError
+from src.core.keyword_filter import KeywordFilter
 from src.core.models import Seminar, SourceRunStatus
 
 console = Console()
@@ -25,11 +26,13 @@ class BaseSource(ABC):
         config: dict[str, Any],
         database: SeminarDatabase,
         http_config: dict[str, Any] | None = None,
+        keyword_filter: KeywordFilter | None = None,
     ):
         self.source_id = source_id
         self.config = config
         self.database = database
         self.http_config = http_config or {}
+        self.keyword_filter = keyword_filter
 
         # Source metadata from config
         self.name = config.get("name", source_id)
@@ -37,6 +40,7 @@ class BaseSource(ABC):
         self.category = config.get("category")
         self.default_timezone = config.get("default_timezone", "America/New_York")
         self.url = config.get("url")
+        self.require_keywords = config.get("require_keywords", True)  # Default to filtering
 
         # HTTP settings
         self.timeout = self.http_config.get("timeout", 30)
@@ -74,6 +78,19 @@ class BaseSource(ABC):
             seminars = self.fetch_seminars()
             stats["found"] = len(seminars)
 
+            # Apply keyword filtering if required
+            stats["filtered"] = 0
+            if self.keyword_filter and self.require_keywords:
+                seminars, filtered_count = self.keyword_filter.filter_seminars(
+                    seminars, require_keywords=True
+                )
+                stats["filtered"] = filtered_count
+                if filtered_count > 0:
+                    console.print(
+                        f"    Filtered: {filtered_count} (not matching keywords)",
+                        style="dim"
+                    )
+
             # Upsert each seminar
             current_ids = []
             for seminar in seminars:
@@ -100,7 +117,10 @@ class BaseSource(ABC):
             )
 
             # Log results
-            console.print(f"    Found: {stats['found']}", style="green")
+            found_msg = f"    Found: {stats['found']}"
+            if stats["filtered"] > 0:
+                found_msg += f" ({len(seminars)} after filtering)"
+            console.print(found_msg, style="green")
             if stats["added"] > 0:
                 console.print(f"    Added: {stats['added']}", style="green")
             if stats["updated"] > 0:

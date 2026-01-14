@@ -7,35 +7,17 @@ X-WR-CALDESC:Aggregated seminars and webinars for Global Infectious Diseas
  e research
 X-WR-CALNAME:GID Seminars
 BEGIN:VEVENT
-SUMMARY:ORS Fall Town Hall
-DTSTART;TZID=America/New_York:20251216T103000
-DTEND;TZID=America/New_York:20251216T113000
-DTSTAMP:20260114T174346Z
-UID:1d8ef5c74858de58@gid-seminars.wnprc.wisc.edu
-CATEGORIES:NIH Only
-DESCRIPTION:ORS Fall Town Hall Presented by: Colleen McGowan Category: NIH
-  Only Aired date: 12/16/2025\n\nEvent URL: http://videocast.nih.gov/Summar
- y.asp?file=35853\n\nSource: nih_videocast_past
-LOCATION:Online
-URL:http://videocast.nih.gov/Summary.asp?file=35853
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: ORS Fall Town Hall
-TRIGGER:-PT1H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Clinical Center Grand Rounds: Harnessing The Extracellular Matrix 
  to Treat Lung Diseases
 DTSTART;TZID=America/New_York:20251217T120000
 DTEND;TZID=America/New_York:20251217T130000
-DTSTAMP:20260114T174346Z
-UID:e0133c2fba43ffbb@gid-seminars.wnprc.wisc.edu
+DTSTAMP:20260114T175919Z
+UID:9cd3763d6a26abef@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Clinical Center Grand Rounds
 DESCRIPTION:Clinical Center Grand Rounds: Harnessing The Extracellular Mat
  rix to Treat Lung Diseases Presented by: Stavros Garantziotis\, MD Categor
  y: Clinical Center Grand Rounds Aired date: 12/17/2025\n\nEvent URL: http:
- //videocast.nih.gov/Summary.asp?file=35852\n\nSource: nih_videocast_past
+ //videocast.nih.gov/Summary.asp?file=35852\n\nSource: nih_fogarty
 LOCATION:Online
 URL:http://videocast.nih.gov/Summary.asp?file=35852
 BEGIN:VALARM
@@ -46,41 +28,19 @@ TRIGGER:-PT1H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Strengthening and Modernizing Biosafety Oversight: Region 2 Listen
- ing Session
-DTSTART;TZID=America/New_York:20251217T130000
-DTEND;TZID=America/New_York:20251217T140000
-DTSTAMP:20260114T174346Z
-UID:b683c0874bb2b025@gid-seminars.wnprc.wisc.edu
-CATEGORIES:Special
-DESCRIPTION:Strengthening and Modernizing Biosafety Oversight: Region 2 Li
- stening Session Presented by: NIH Office of Science Policy Category: Speci
- al Aired date: 12/17/2025\n\nEvent URL: http://videocast.nih.gov/Summary.a
- sp?file=35855\n\nSource: nih_videocast_past
-LOCATION:Online
-URL:http://videocast.nih.gov/Summary.asp?file=35855
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Strengthening and Modernizing Biosafety Oversight: R
- egion 2 Listening Session
-TRIGGER:-PT1H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:WALS- Astute Clinician Lecture: Clinical Encounters in Neurogeneti
  cs: Taking Cues from Single Patients to Discover Genes\, Mechanisms\, and 
  Therapeutic Approaches
 DTSTART;TZID=America/New_York:20251217T140000
 DTEND;TZID=America/New_York:20251217T150000
-DTSTAMP:20260114T174346Z
-UID:d32619f7f64adb78@gid-seminars.wnprc.wisc.edu
+DTSTAMP:20260114T175919Z
+UID:60967858094cbf42@gid-seminars.wnprc.wisc.edu
 CATEGORIES:WALS - Wednesday Afternoon Lectures
 DESCRIPTION:WALS- Astute Clinician Lecture: Clinical Encounters in Neuroge
  netics: Taking Cues from Single Patients to Discover Genes\, Mechanisms\, 
  and Therapeutic Approaches Presented by: Carsten G. Bönnemann\, M.D. Cate
  gory: WALS - Wednesday Afternoon Lectures Aired date: 12/17/2025\n\nEvent 
- URL: http://videocast.nih.gov/Summary.asp?file=35854\n\nSource: nih_videoc
- ast_past
+ URL: http://videocast.nih.gov/Summary.asp?file=35854\n\nSource: nih_niaid
 LOCATION:Online
 URL:http://videocast.nih.gov/Summary.asp?file=35854
 BEGIN:VALARM
@@ -95,7 +55,7 @@ BEGIN:VEVENT
 SUMMARY:NIH-FDA Immunology Interest Group (IIG) seminar series
 DTSTART;TZID=America/New_York:20251217T160000
 DTEND;TZID=America/New_York:20251217T170000
-DTSTAMP:20260114T174346Z
+DTSTAMP:20260114T175919Z
 UID:e5674754cdf8aa54@gid-seminars.wnprc.wisc.edu
 CATEGORIES:HHS Only
 DESCRIPTION:NIH-FDA Immunology Interest Group (IIG) seminar series Present
@@ -112,82 +72,22 @@ TRIGGER:-PT1H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Annual CC CEO Awards Ceremony 2025
-DTSTART;TZID=America/New_York:20251218T130000
-DTEND;TZID=America/New_York:20251218T140000
-DTSTAMP:20260114T174346Z
-UID:06143440d7740650@gid-seminars.wnprc.wisc.edu
-CATEGORIES:Special
-DESCRIPTION:Annual CC CEO Awards Ceremony 2025 Presented by: Mr. Pius A. A
- iyelawo\, Acting CEO\, NIH Clinical Center Category: Special Aired date: 1
- 2/18/2025\n\nEvent URL: http://videocast.nih.gov/Summary.asp?file=35857\n\
- nSource: nih_videocast_past
+SUMMARY:WALS: Bill Paul Lecture- Immune Control of Host Physiology
+DTSTART;TZID=America/New_York:20260107T140000
+DTEND;TZID=America/New_York:20260107T150000
+DTSTAMP:20260114T175919Z
+UID:1570a2223c42f26a@gid-seminars.wnprc.wisc.edu
+CATEGORIES:WALS - Wednesday Afternoon Lectures
+DESCRIPTION:WALS: Bill Paul Lecture- Immune Control of Host Physiology Pre
+ sented by: Yasmine Belkaid\, Ph.D. Category: WALS - Wednesday Afternoon Le
+ ctures Aired date: 01/07/2026\n\nEvent URL: http://videocast.nih.gov/Summa
+ ry.asp?file=35868\n\nSource: nih_niaid
 LOCATION:Online
-URL:http://videocast.nih.gov/Summary.asp?file=35857
+URL:http://videocast.nih.gov/Summary.asp?file=35868
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Reminder: Annual CC CEO Awards Ceremony 2025
-TRIGGER:-PT1H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Muscular Dystrophy Coordinating Committee (MDCC) Meeting
-DTSTART;TZID=America/New_York:20251222T100000
-DTEND;TZID=America/New_York:20251222T110000
-DTSTAMP:20260114T174346Z
-UID:8474ba1567892f52@gid-seminars.wnprc.wisc.edu
-CATEGORIES:National Institute of Neurological Disorders and Stroke
-DESCRIPTION:Muscular Dystrophy Coordinating Committee (MDCC) Meeting Prese
- nted by: NIH Category: National Institute of Neurological Disorders and St
- roke Aired date: 12/22/2025\n\nEvent URL: http://videocast.nih.gov/Summary
- .asp?file=35865\n\nSource: nih_videocast_past
-LOCATION:Online
-URL:http://videocast.nih.gov/Summary.asp?file=35865
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Muscular Dystrophy Coordinating Committee (MDCC) Mee
- ting
-TRIGGER:-PT1H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Demystifying Medicine—Pandemics on the Horizon: Are We Ready for
-  the Next Global Threat?
-DTSTART;TZID=America/New_York:20260106T150000
-DTEND;TZID=America/New_York:20260106T160000
-DTSTAMP:20260114T174346Z
-UID:8e0f4d1b01108aa8@gid-seminars.wnprc.wisc.edu
-CATEGORIES:Demystifying Medicine
-DESCRIPTION:Demystifying Medicine—Pandemics on the Horizon: Are We Ready
-  for the Next Global Threat? Presented by: Jeffery Taubenberger\, M.D.\, P
- h.D. and Arturo Casadevall\, M.D.\, Ph.D. Category: Demystifying Medicine 
- Aired date: 01/06/2026\n\nEvent URL: http://videocast.nih.gov/Summary.asp?
- file=35867\n\nSource: nih_videocast_past
-LOCATION:Online
-URL:http://videocast.nih.gov/Summary.asp?file=35867
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Demystifying Medicine—Pandemics on the Horizon: Ar
- e We Ready for the Next Global Threat?
-TRIGGER:-PT1H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Clinical Center Grand Rounds: Vision For NIH
-DTSTART;TZID=America/New_York:20260107T120000
-DTEND;TZID=America/New_York:20260107T130000
-DTSTAMP:20260114T174346Z
-UID:c8f47a3b53c9af45@gid-seminars.wnprc.wisc.edu
-CATEGORIES:NIH Only
-DESCRIPTION:Clinical Center Grand Rounds: Vision For NIH Presented by: Jay
-  Bhattacharya\, MD\, PhD Category: NIH Only Aired date: 01/07/2026\n\nEven
- t URL: http://videocast.nih.gov/Summary.asp?file=35866\n\nSource: nih_vide
- ocast_past
-LOCATION:Online
-URL:http://videocast.nih.gov/Summary.asp?file=35866
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Clinical Center Grand Rounds: Vision For NIH
+DESCRIPTION:Reminder: WALS: Bill Paul Lecture- Immune Control of Host Phys
+ iology
 TRIGGER:-PT1H
 END:VALARM
 END:VEVENT
@@ -195,7 +95,7 @@ BEGIN:VEVENT
 SUMMARY:WALS: Bill Paul Lecture- Immune Control of Host Physiology
 DTSTART;TZID=America/New_York:20260107T140000
 DTEND;TZID=America/New_York:20260107T150000
-DTSTAMP:20260114T174346Z
+DTSTAMP:20260114T175919Z
 UID:e5fcff7294e4b19d@gid-seminars.wnprc.wisc.edu
 CATEGORIES:WALS - Wednesday Afternoon Lectures
 DESCRIPTION:WALS: Bill Paul Lecture- Immune Control of Host Physiology Pre
@@ -212,87 +112,10 @@ TRIGGER:-PT1H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:NHLBI Obesity\, Nutrition\, and Physical Activity (ONPA) Seminar S
- eries: Behavioral and Nutritional Considerations in Incretin-Based Obesity
-  Treatments
-DTSTART;TZID=America/New_York:20260108T120000
-DTEND;TZID=America/New_York:20260108T130000
-DTSTAMP:20260114T174346Z
-UID:70fbd9e006c6dc9e@gid-seminars.wnprc.wisc.edu
-CATEGORIES:Special
-DESCRIPTION:NHLBI Obesity\, Nutrition\, and Physical Activity (ONPA) Semin
- ar Series: Behavioral and Nutritional Considerations in Incretin-Based Obe
- sity Treatments Presented by: Michelle Cardel\, Ph.D.\, M.S.\, RD\, FTOS C
- ategory: Special Aired date: 01/08/2026\n\nEvent URL: http://videocast.nih
- .gov/Summary.asp?file=35870\n\nSource: nih_videocast_past
-LOCATION:Online
-URL:http://videocast.nih.gov/Summary.asp?file=35870
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: NHLBI Obesity\, Nutrition\, and Physical Activity (O
- NPA) Seminar Series: Behavioral and Nutritional Considerations in Incretin
- -Based Obesity Treatments
-TRIGGER:-PT1H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NIH Director's Seminar Series: Cells and Circuits for a Pain Rheos
- tat in the Brain
-DTSTART;TZID=America/New_York:20260109T120000
-DTEND;TZID=America/New_York:20260109T130000
-DTSTAMP:20260114T174346Z
-UID:5e88491f2905ee83@gid-seminars.wnprc.wisc.edu
-CATEGORIES:HHS Only
-DESCRIPTION:NIH Director's Seminar Series: Cells and Circuits for a Pain R
- heostat in the Brain Presented by: Yarimar Carrasquillo\, PhD Category: HH
- S Only Aired date: 01/09/2026\n\nEvent URL: http://videocast.nih.gov/Summa
- ry.asp?file=35869\n\nSource: nih_videocast_past
-LOCATION:Online
-URL:http://videocast.nih.gov/Summary.asp?file=35869
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: NIH Director's Seminar Series: Cells and Circuits fo
- r a Pain Rheostat in the Brain
-TRIGGER:-PT1H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:WALS: Neonatal Genomic Sequencing: The Past\, The Present\, and th
- e Unchartered\, Controversial Future
-DTSTART;TZID=America/New_York:20260114T140000
-DTEND;TZID=America/New_York:20260114T150000
-DTSTAMP:20260114T174346Z
-UID:0c6d191ad347cf18@gid-seminars.wnprc.wisc.edu
-CATEGORIES:Health
-DESCRIPTION:Dr. Maron comes to Women & Infants Hospital with a wealth of e
- xperience\, and someone who is regarded as a well-respected expert in her 
- field. She has been a gifted clinician\, researcher and mentor at Tufts MC
-  since finishing her fellowship in Newborn Medicine in 2006. In the past 1
- 5 years\, she has built a strong reputation as an international leader in 
- the development and integration of salivary and genetic diagnostic platfor
- ms to rapidly assess genetic disorders\, neonatal morbidities and potentia
- l developmental disorders in newborns. Dr. Maron also currently serves as 
- Principal Investigator (PI) on three NIH-funded multicenter clinical trial
- s. She has published extensively in the field. She also serves as Professo
- r of Pediatrics at Tufts University School of Medicine\, with a secondary 
- Professorship appointment in Obstetrics & Gynecology. For more information
-  go to https://oir.nih.gov/wals Air date: 1/14/2026 2:00:00 PM Eastern Tim
- e\n\nEvent URL: https://videocast.nih.gov/watch=57179\n\nSource: nih_video
- cast_upcoming
-LOCATION:Online
-URL:https://videocast.nih.gov/watch=57179
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: WALS: Neonatal Genomic Sequencing: The Past\, The Pr
- esent\, and the Unchartered\, Controversial Future
-TRIGGER:-PT1H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:NIH-FDA Immunology Interest Group (IIG) seminar series
 DTSTART;TZID=America/New_York:20260114T160000
 DTEND;TZID=America/New_York:20260114T170000
-DTSTAMP:20260114T174346Z
+DTSTAMP:20260114T175919Z
 UID:eff4747386081212@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Health
 DESCRIPTION:IIG weekly seminar series features the world-renown experts in
@@ -314,7 +137,7 @@ SUMMARY:NIH ProtIG seminar by Peder Lund: Fatty acid metabolism as a symbi
  otic link between the gut microbiota and host epithelial cells
 DTSTART;TZID=America/New_York:20260115T110000
 DTEND;TZID=America/New_York:20260115T120000
-DTSTAMP:20260114T174346Z
+DTSTAMP:20260114T175919Z
 UID:285b58c24b90d7ca@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Health
 DESCRIPTION:The intestinal epithelium is a critical mucosal barrier that c
@@ -357,56 +180,10 @@ TRIGGER:-PT1H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Modernizing and Strengthening Biosafety Oversight: Region 3 Listen
- ing Session
-DTSTART;TZID=America/New_York:20260115T130000
-DTEND;TZID=America/New_York:20260115T140000
-DTSTAMP:20260114T174346Z
-UID:42c9537a5c2ef6c9@gid-seminars.wnprc.wisc.edu
-CATEGORIES:Health
-DESCRIPTION:Listening Session Air date: 1/15/2026 1:00:00 PM Eastern Time\
- n\nEvent URL: https://videocast.nih.gov/watch=57218\n\nSource: nih_videoca
- st_upcoming
-LOCATION:Online
-URL:https://videocast.nih.gov/watch=57218
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Modernizing and Strengthening Biosafety Oversight: R
- egion 3 Listening Session
-TRIGGER:-PT1H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Technology Transfer in the NIH Intramural Research Program
-DTSTART;TZID=America/New_York:20260115T150000
-DTEND;TZID=America/New_York:20260115T160000
-DTSTAMP:20260114T174346Z
-UID:7011b5627fda7c4b@gid-seminars.wnprc.wisc.edu
-CATEGORIES:Health
-DESCRIPTION:The NIH Office of Technology Transfer (OTT) supports the effor
- ts of technology transfer offices at the NIH’s institutes and centers\, 
- providing critical infrastructure for patenting\, licensing\, and other te
- chnology transfer activities. During the presentation\, Dr Tara Kirby\, Di
- rector of the NIH OTT will address the following issues: What Does “Tech
- nology Transfer” mean at the NIH? How Technology Transfer is Organized i
- n the IRP What exactly does NIH OTT do? Quick Primer on NIH Patenting and 
- Licensing Technology Transfer Impacts in the Real World Air date: 1/15/202
- 6 3:00:00 PM Eastern Time\n\nEvent URL: https://videocast.nih.gov/watch=57
- 137\n\nSource: nih_videocast_upcoming
-LOCATION:Online
-URL:https://videocast.nih.gov/watch=57137
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Technology Transfer in the NIH Intramural Research P
- rogram
-TRIGGER:-PT1H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Outbreak Behind Bars
 DTSTART;TZID=America/New_York:20260116T141500
 DTEND;TZID=America/New_York:20260116T151500
-DTSTAMP:20260114T174346Z
+DTSTAMP:20260114T175919Z
 UID:7656bfb7a076fcd3@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Friday Morning Conference Series
 DESCRIPTION:Homer Venters\, MD MS is the former Chief Medical Officer of t
@@ -425,50 +202,11 @@ TRIGGER:-PT1H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Digital Health Scientific Interest Group Seminar Series
-DTSTART;TZID=America/New_York:20260120T110000
-DTEND;TZID=America/New_York:20260120T120000
-DTSTAMP:20260114T174346Z
-UID:ef7d5569609dcae6@gid-seminars.wnprc.wisc.edu
-CATEGORIES:Health
-DESCRIPTION:N/A Air date: 1/20/2026 11:00:00 AM Eastern Time\n\nEvent URL:
-  https://videocast.nih.gov/watch=57171\n\nSource: nih_videocast_upcoming
-LOCATION:Online
-URL:https://videocast.nih.gov/watch=57171
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Digital Health Scientific Interest Group Seminar Ser
- ies
-TRIGGER:-PT1H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Clinical Center CEO Quarterly Town Hall
-DTSTART;TZID=America/New_York:20260120T130000
-DTEND;TZID=America/New_York:20260120T140000
-DTSTAMP:20260114T174346Z
-UID:9530de52ccc82dab@gid-seminars.wnprc.wisc.edu
-CATEGORIES:Health
-DESCRIPTION:The CC CEO Town Hall sessions provide updates on CC activities
-  and solicit input from CC staff. This session will include Length of Serv
- ice recognition for CC employees who have achieved milestone anniversaries
-  for federal service and conclude with a Q and A component. Air date: 1/20
- /2026 1:00:00 PM Eastern Time\n\nEvent URL: https://videocast.nih.gov/watc
- h=57206\n\nSource: nih_videocast_upcoming
-LOCATION:Online
-URL:https://videocast.nih.gov/watch=57206
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Clinical Center CEO Quarterly Town Hall
-TRIGGER:-PT1H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Demystifying Medicine—The Epidemic That Won't Quit: Unraveling t
  he HIV Crisis
 DTSTART;TZID=America/New_York:20260120T150000
 DTEND;TZID=America/New_York:20260120T160000
-DTSTAMP:20260114T174346Z
+DTSTAMP:20260114T175919Z
 UID:c2d9e80cbd4ed46b@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Health
 DESCRIPTION:This week's speakers in the Demystifying Medicine Series are J
@@ -498,124 +236,10 @@ TRIGGER:-PT1H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:National Advisory Dental and Craniofacial Research Council - Janua
- ry 2026
-DTSTART;TZID=America/New_York:20260121T111500
-DTEND;TZID=America/New_York:20260121T121500
-DTSTAMP:20260114T174346Z
-UID:490ed99d8111ffe6@gid-seminars.wnprc.wisc.edu
-CATEGORIES:Health
-DESCRIPTION:The National Institute of Dental and Craniofacial Research (NI
- DCR) supports basic\, translational\, and clinical research as well as res
- earch training and career development to improve overall health for all. T
- o help achieve the goals of the NIDCR\, the National Advisory Dental and C
- raniofacial Research Council (NADCRC) advises\, consults with\, and makes 
- recommendations to the Secretary\, DHHS\, and the Director\, NIDCR\, on ma
- tters relating to the direction of research\, research support\, training 
- and career development supported by the Institute. Included in this respon
- sibility is the conduct of the secondary review of research grant applicat
- ions with a focus on NIDCR scientific program priorities and program balan
- ce as well as the conduct of research by the Division of Intramural Resear
- ch\, NIDCR. Air date: 1/21/2026 11:15:00 AM Eastern Time\n\nEvent URL: htt
- ps://videocast.nih.gov/watch=57120\n\nSource: nih_videocast_upcoming
-LOCATION:Online
-URL:https://videocast.nih.gov/watch=57120
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: National Advisory Dental and Craniofacial Research C
- ouncil - January 2026
-TRIGGER:-PT1H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:2026 NLM Colloquia Series
-DTSTART;TZID=America/New_York:20260121T120000
-DTEND;TZID=America/New_York:20260121T130000
-DTSTAMP:20260114T174346Z
-UID:5fbb01a2dbec490d@gid-seminars.wnprc.wisc.edu
-CATEGORIES:Health
-DESCRIPTION:The NLM Division of Intramural Research (DIR) is pleased to we
- lcome Li Shen\, PhD\, Professor of Informatics and Radiology at Perelman S
- chool of Medicine\, University of Pennsylvania\, to present his lecture en
- titled “Harnessing AI and Informatics for Dementia and Aging Research”
-  at our upcoming NLM Colloquia on Biomedical Data Science and Computationa
- l Biology Research. Air date: 1/21/2026 12:00:00 PM Eastern Time\n\nEvent 
- URL: https://videocast.nih.gov/watch=57208\n\nSource: nih_videocast_upcomi
- ng
-LOCATION:Online
-URL:https://videocast.nih.gov/watch=57208
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: 2026 NLM Colloquia Series
-TRIGGER:-PT1H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Clinical Center Grand Rounds: Emerging Critical Roles of the Scien
- ce of Aging and Resilience in Population Health
-DTSTART;TZID=America/New_York:20260121T120000
-DTEND;TZID=America/New_York:20260121T130000
-DTSTAMP:20260114T174346Z
-UID:b1d579aed725fade@gid-seminars.wnprc.wisc.edu
-CATEGORIES:Health
-DESCRIPTION:Emerging Critical Roles of the Science of Aging and Resilience
-  in Population Health Luigi Ferrucci\, MD\, PhD Scientific Director &amp\;
-  Senior Investigator Longitudinal Studies Section National Institute on Ag
- ing For more information go to https://www.cc.nih.gov/events/cme Air date:
-  1/21/2026 12:00:00 PM Eastern Time\n\nEvent URL: https://videocast.nih.go
- v/watch=57203\n\nSource: nih_videocast_upcoming
-LOCATION:Online
-URL:https://videocast.nih.gov/watch=57203
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Clinical Center Grand Rounds: Emerging Critical Role
- s of the Science of Aging and Resilience in Population Health
-TRIGGER:-PT1H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:WALS: The Emotional Brain: Role in Depression and Addiction
-DTSTART;TZID=America/New_York:20260121T140000
-DTEND;TZID=America/New_York:20260121T150000
-DTSTAMP:20260114T174346Z
-UID:eb68da67c9b141ea@gid-seminars.wnprc.wisc.edu
-CATEGORIES:Health
-DESCRIPTION:Huda Akil is a neuroscientist whose research has contributed t
- o the understanding of the neurobiology of emotions\, including pain\, anx
- iety\, depression\, and substance abuse. Akil and her colleagues are best 
- known for providing the first physiological evidence for a role of endorph
- ins in the brain and demonstrating that endorphins are activated by stress
-  and can cause pain inhibition. Akil is a Gardner C. Quarton Distinguished
-  Professor of Neurosciences in the Department of Psychiatry at the Univers
- ity of Michigan Medical School. She previously served as co-director of th
- e Molecular and Behavioral Neuroscience institute and the University of Mi
- chigan node of the Pritzker Neuropsychiatric Disorders Research Consortium
-  with her husband\, Stanley Watson. Akil is also one of seven leading scie
- ntists that comprise the Hope For Depression Research Task Force\, whom de
- veloped a research plan that combines the currently most advanced knowledg
- e in genetics\, epigenetics\, molecular biology\, electrophysiology\, and 
- brain imaging in an effort to accelerate cutting-edge scientific research 
- pertaining to depression and its related mood and emotional disorders. Thr
- oughout her career\, she has been honored with numerous awards and members
- hip to various societies\, most notably she served as a past President of 
- the Society for Neuroscience\, the largest neuroscience organization in th
- e world. For more information go to https://oir.nih.gov/wals Air date: 1/2
- 1/2026 2:00:00 PM Eastern Time\n\nEvent URL: https://videocast.nih.gov/wat
- ch=57180\n\nSource: nih_videocast_upcoming
-LOCATION:Online
-URL:https://videocast.nih.gov/watch=57180
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: WALS: The Emotional Brain: Role in Depression and Ad
- diction
-TRIGGER:-PT1H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:NIH-FDA Immunology Interest Group (IIG) seminar series
 DTSTART;TZID=America/New_York:20260121T160000
 DTEND;TZID=America/New_York:20260121T170000
-DTSTAMP:20260114T174346Z
+DTSTAMP:20260114T175919Z
 UID:8a74f02608c8129a@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Health
 DESCRIPTION:IIG weekly seminar series features the world-renown experts in
@@ -633,35 +257,11 @@ TRIGGER:-PT1H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:National Deafness and Other Communication Disorders Advisory Counc
- il January 2026
-DTSTART;TZID=America/New_York:20260122T130000
-DTEND;TZID=America/New_York:20260122T140000
-DTSTAMP:20260114T174346Z
-UID:bf0c3775fa5e6bc7@gid-seminars.wnprc.wisc.edu
-CATEGORIES:Health
-DESCRIPTION:Advises the Secretary\, HHS\; the Director\, NIH\; and the Dir
- ector\, NIDCD\, on matters relating to the conduct and support of research
-  and research training\, health information dissemination\, and other prog
- rams with respect to normal and disordered processes of hearing\, balance\
- , taste\, smell\, voice\, speech\, and language. Air date: 1/22/2026 1:00:
- 00 PM Eastern Time\n\nEvent URL: https://videocast.nih.gov/watch=57170\n\n
- Source: nih_videocast_upcoming
-LOCATION:Online
-URL:https://videocast.nih.gov/watch=57170
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: National Deafness and Other Communication Disorders 
- Advisory Council January 2026
-TRIGGER:-PT1H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Outbreak Analytics and Disease Modeling to Inform Public Health De
  cision-Making
 DTSTART;TZID=America/New_York:20260123T141500
 DTEND;TZID=America/New_York:20260123T151500
-DTSTAMP:20260114T174346Z
+DTSTAMP:20260114T175919Z
 UID:5dbef9e3f6fe916b@gid-seminars.wnprc.wisc.edu
 CATEGORIES:CFAR Events
 DESCRIPTION:Drs. Kimberly Powers and Justin Lessler are faculty members in
@@ -687,7 +287,7 @@ SUMMARY:Lung as the Gateway for Environmental Exposures in Pulmonary and C
  ardiovascular Disease - Day 1
 DTSTART;TZID=America/New_York:20260126T100000
 DTEND;TZID=America/New_York:20260126T110000
-DTSTAMP:20260114T174346Z
+DTSTAMP:20260114T175919Z
 UID:2eed6f77adfe8bb2@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Health
 DESCRIPTION:The National Heart\, Lung\, and Blood Institute’s Division o
@@ -729,52 +329,11 @@ TRIGGER:-PT1H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:January 2026 National Advisory Child Health and Human Development 
- (NACHHD) Council Meeting
-DTSTART;TZID=America/New_York:20260126T120000
-DTEND;TZID=America/New_York:20260126T130000
-DTSTAMP:20260114T174346Z
-UID:59e780002f64f6b4@gid-seminars.wnprc.wisc.edu
-CATEGORIES:Health
-DESCRIPTION:January 2026 National Advisory Child Health and Human Developm
- ent (NACHHD) Council Meeting Air date: 1/26/2026 12:00:00 PM Eastern Time\
- n\nEvent URL: https://videocast.nih.gov/watch=57182\n\nSource: nih_videoca
- st_upcoming
-LOCATION:Online
-URL:https://videocast.nih.gov/watch=57182
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: January 2026 National Advisory Child Health and Huma
- n Development (NACHHD) Council Meeting
-TRIGGER:-PT1H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NIAMS Advisory Council - January 2026
-DTSTART;TZID=America/New_York:20260127T093000
-DTEND;TZID=America/New_York:20260127T103000
-DTSTAMP:20260114T174346Z
-UID:b1b0dc970529fffd@gid-seminars.wnprc.wisc.edu
-CATEGORIES:Health
-DESCRIPTION:119th Meeting National Arthritis and Musculoskeletal and Skin 
- Diseases Advisory Council\, Lindsey Criswell\, M.D.\, M.P.H.\, D.Sc\, Chai
- r\, Virtual\, January 27\, 2026 Air date: 1/27/2026 9:30:00 AM Eastern Tim
- e\n\nEvent URL: https://videocast.nih.gov/watch=57112\n\nSource: nih_video
- cast_upcoming
-LOCATION:Online
-URL:https://videocast.nih.gov/watch=57112
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: NIAMS Advisory Council - January 2026
-TRIGGER:-PT1H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Lung as the Gateway for Environmental Exposures in Pulmonary and C
  ardiovascular Disease - Day 2
 DTSTART;TZID=America/New_York:20260127T100000
 DTEND;TZID=America/New_York:20260127T110000
-DTSTAMP:20260114T174346Z
+DTSTAMP:20260114T175919Z
 UID:c991d9a637770519@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Health
 DESCRIPTION:The National Heart\, Lung\, and Blood Institute’s Division o
@@ -816,152 +375,10 @@ TRIGGER:-PT1H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:118th NACNR Council Meeting
-DTSTART;TZID=America/New_York:20260127T100000
-DTEND;TZID=America/New_York:20260127T110000
-DTSTAMP:20260114T174346Z
-UID:57d3f4cdfee2876f@gid-seminars.wnprc.wisc.edu
-CATEGORIES:Health
-DESCRIPTION:This is the 118 meeting of the National Advisory Council for N
- ursing Research. NINR will discuss topics of interest with its Council Mem
- bers and share information with the public. Air date: 1/27/2026 10:00:00 A
- M Eastern Time\n\nEvent URL: https://videocast.nih.gov/watch=57201\n\nSour
- ce: nih_videocast_upcoming
-LOCATION:Online
-URL:https://videocast.nih.gov/watch=57201
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: 118th NACNR Council Meeting
-TRIGGER:-PT1H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:National Advisory Council on Aging
-DTSTART;TZID=America/New_York:20260127T110000
-DTEND;TZID=America/New_York:20260127T120000
-DTSTAMP:20260114T174346Z
-UID:8f5b4ff46b48106d@gid-seminars.wnprc.wisc.edu
-CATEGORIES:Health
-DESCRIPTION:The National Advisory Council on Aging (NACA) advises the Secr
- etary of the U.S. Department off Health and Human Services\, the Director 
- of NIH and the Director of NIA on it's mission. The Council meets three ti
- mes a year to consider applications for research and training grants. For 
- more information go to https://www.nia.nih.gov/about/naca Air date: 1/27/2
- 026 11:00:00 AM Eastern Time\n\nEvent URL: https://videocast.nih.gov/watch
- =57154\n\nSource: nih_videocast_upcoming
-LOCATION:Online
-URL:https://videocast.nih.gov/watch=57154
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: National Advisory Council on Aging
-TRIGGER:-PT1H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:2025 NINDS Director's Awards Ceremony
-DTSTART;TZID=America/New_York:20260127T130000
-DTEND;TZID=America/New_York:20260127T140000
-DTSTAMP:20260114T174346Z
-UID:71f2f4647bf415d5@gid-seminars.wnprc.wisc.edu
-CATEGORIES:Health
-DESCRIPTION:The NINDS Director's Awards Ceremony will be held on Tuesday\,
-  January 27\, 2026. The ceremony is held annually to recognize individuals
-  whose dedication and efforts support the institute's mission. These indiv
- iduals have demonstrated superior service and achievements in NINDS progra
- ms and initiatives\, deserving of special honorary recognition for their e
- xemplary efforts throughout the past calendar year. The NINDS Director wil
- l award individual and group awards to staff across the IC. Air date: 1/27
- /2026 1:00:00 PM Eastern Time\n\nEvent URL: https://videocast.nih.gov/watc
- h=57157\n\nSource: nih_videocast_upcoming
-LOCATION:Online
-URL:https://videocast.nih.gov/watch=57157
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: 2025 NINDS Director's Awards Ceremony
-TRIGGER:-PT1H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Demystifying Medicine—Finding the Invisible: Frontiers in Cancer
-  Detection
-DTSTART;TZID=America/New_York:20260127T150000
-DTEND;TZID=America/New_York:20260127T160000
-DTSTAMP:20260114T174346Z
-UID:e4dfd084bf8b1928@gid-seminars.wnprc.wisc.edu
-CATEGORIES:Health
-DESCRIPTION:This week's speakers in the Demystifying Medicine Series are S
- tephen Chanock\, M.D. (NIH NCI) and Pardis Sabeti\, M.D.\, Ph.D. (Broad In
- stitute). The theme of the complementary lectures is "Finding the Invisibl
- e: Frontiers in Cancer Detection". The Demystifying Medicine Series\, join
- tly sponsored by FAES and NIH\, includes presentations on pathology\, diag
- nosis\, and therapy in the context of major disease problems and current r
- esearch. Primarily directed toward PhD students\, clinicians and program m
- anagers\, this series is designed to help bridge the gap between advances 
- in biology and their application to major human diseases. Each session inc
- ludes clinical and basic science components presented by NIH staff and inv
- itees. All students\, trainees\, fellows\, and staff are welcome to partic
- ipate. Individuals who need reasonable accommodation to participate in thi
- s event should contact Ms. Diana Gomez at WALSoffice@od.nih.gov or 301-594
- -6747 For more information go to https://demystifyingmedicine.od.nih.gov/ 
- Air date: 1/27/2026 3:00:00 PM Eastern Time\n\nEvent URL: https://videocas
- t.nih.gov/watch=57189\n\nSource: nih_videocast_upcoming
-LOCATION:Online
-URL:https://videocast.nih.gov/watch=57189
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Demystifying Medicine—Finding the Invisible: Front
- iers in Cancer Detection
-TRIGGER:-PT1H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:National Advisory Council for Biomedical Imaging and Bioengineerin
- g
-DTSTART;TZID=America/New_York:20260128T120000
-DTEND;TZID=America/New_York:20260128T130000
-DTSTAMP:20260114T174346Z
-UID:945c4c8529fa3d32@gid-seminars.wnprc.wisc.edu
-CATEGORIES:Health
-DESCRIPTION:This is the 70th meeting of the National Advisory Council for 
- Biomedical Imaging and Bioengineering Air date: 1/28/2026 12:00:00 PM East
- ern Time\n\nEvent URL: https://videocast.nih.gov/watch=57210\n\nSource: ni
- h_videocast_upcoming
-LOCATION:Online
-URL:https://videocast.nih.gov/watch=57210
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: National Advisory Council for Biomedical Imaging and
-  Bioengineering
-TRIGGER:-PT1H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Clinical Center: Adventure At C: Ascorbic Acid (Vitamin C) In Heal
- th and Disease
-DTSTART;TZID=America/New_York:20260128T120000
-DTEND;TZID=America/New_York:20260128T130000
-DTSTAMP:20260114T174346Z
-UID:2f9ca4bf6d7bf1f1@gid-seminars.wnprc.wisc.edu
-CATEGORIES:Health
-DESCRIPTION:Mark Levine\, MD Section Chief Molecular and Clinical Nutritio
- n Section Digestive Disease Branch National Institute of Diabetes and Dige
- stive and Kidney Diseases For more information go to https://www.cc.nih.go
- v/events/cme Air date: 1/28/2026 12:00:00 PM Eastern Time\n\nEvent URL: ht
- tps://videocast.nih.gov/watch=57204\n\nSource: nih_videocast_upcoming
-LOCATION:Online
-URL:https://videocast.nih.gov/watch=57204
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Clinical Center: Adventure At C: Ascorbic Acid (Vita
- min C) In Health and Disease
-TRIGGER:-PT1H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:WALS- Rolla E. Dyer Lecture- A Cure for Hepatitis C: Now What?
 DTSTART;TZID=America/New_York:20260128T140000
 DTEND;TZID=America/New_York:20260128T150000
-DTSTAMP:20260114T174346Z
+DTSTAMP:20260114T175919Z
 UID:f385ed8004eadd09@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Health
 DESCRIPTION:Dr. Rice has co-authored over 500 articles in the field of vir
@@ -987,7 +404,7 @@ BEGIN:VEVENT
 SUMMARY:NIH-FDA Immunology Interest Group (IIG) seminar series
 DTSTART;TZID=America/New_York:20260128T160000
 DTEND;TZID=America/New_York:20260128T170000
-DTSTAMP:20260114T174346Z
+DTSTAMP:20260114T175919Z
 UID:aad3f41747f4365d@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Health
 DESCRIPTION:IIG weekly seminar series features the world-renown experts in
@@ -1005,86 +422,10 @@ TRIGGER:-PT1H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Cardiopulmonary Complications of Hematopoietic Stem Cell Transplan
- tation (HCT) and Gene Therapy
-DTSTART;TZID=America/New_York:20260129T080000
-DTEND;TZID=America/New_York:20260129T090000
-DTSTAMP:20260114T174346Z
-UID:a69cc7d8bd13c4a8@gid-seminars.wnprc.wisc.edu
-CATEGORIES:Health
-DESCRIPTION:Join us for an exclusive\, hybrid workshop where multidiscipli
- nary experts come together to explore groundbreaking research\, spark coll
- aboration\, and chart the future of hematopoietic stem cell transplantatio
- n (HCT) and gene therapy in sickle cell disease. This workshop is an oppor
- tunity to be at the forefront of scientific discovery and innovation\, hel
- ping shape the treatment and care of patients experiencing pulmonary compl
- ications. For more information go to https://www.nhlbi.nih.gov/events/2026
- /cardiopulmonary-complications-hematopoietic-stem-cell-transplantation-hct
- -and-gene Air date: 1/29/2026 8:00:00 AM Eastern Time\n\nEvent URL: https:
- //videocast.nih.gov/watch=57211\n\nSource: nih_videocast_upcoming
-LOCATION:Online
-URL:https://videocast.nih.gov/watch=57211
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Cardiopulmonary Complications of Hematopoietic Stem 
- Cell Transplantation (HCT) and Gene Therapy
-TRIGGER:-PT1H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NIH Council of Councils
-DTSTART;TZID=America/New_York:20260129T080000
-DTEND;TZID=America/New_York:20260129T090000
-DTSTAMP:20260114T174346Z
-UID:3b1197c4a6d433c0@gid-seminars.wnprc.wisc.edu
-CATEGORIES:Health
-DESCRIPTION:The NIH Council of Councils advises the NIH Director on the po
- licies and activities of the Division of Program Coordination\, Planning\,
-  and Strategic Initiatives (DPCPSI) in the Office of the Director (OD)\, N
- IH. The Council meets three times per year to review DPCPSI policies and p
- rograms\, and to conduct concept clearance and second-level review of sele
- cted DPCPSI and OD grant applications. For more information go to https://
- dpcpsi.nih.gov/council Air date: 1/29/2026 8:00:00 AM Eastern Time\n\nEven
- t URL: https://videocast.nih.gov/watch=57194\n\nSource: nih_videocast_upco
- ming
-LOCATION:Online
-URL:https://videocast.nih.gov/watch=57194
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: NIH Council of Councils
-TRIGGER:-PT1H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:BRAIN Neuroethics Working Group (NEWG) Meeting
-DTSTART;TZID=America/New_York:20260129T120000
-DTEND;TZID=America/New_York:20260129T130000
-DTSTAMP:20260114T174346Z
-UID:1a5c0f12aa66d3fa@gid-seminars.wnprc.wisc.edu
-CATEGORIES:Health
-DESCRIPTION:The NEWG is a group of experts in neuroethics and neuroscience
-  that serves to provide the NIH BRAIN Initiative with input relating to ne
- uroethics. The group was formed in the summer of 2015. The NEWG is one par
- t of the neuroethics efforts of the NIH BRAIN Initiative\, which includes 
- a multi-part strategy to achieve proactive\, ongoing assessment and manage
- ment of the neuroethical implications of the development and application o
- f BRAIN-funded tools and neurotechnologies. For more information go to htt
- ps://braininitiative.nih.gov/news-events/events Air date: 1/29/2026 12:00:
- 00 PM Eastern Time\n\nEvent URL: https://videocast.nih.gov/watch=57118\n\n
- Source: nih_videocast_upcoming
-LOCATION:Online
-URL:https://videocast.nih.gov/watch=57118
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: BRAIN Neuroethics Working Group (NEWG) Meeting
-TRIGGER:-PT1H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:70th Office of AIDS Research Advisory Council Meeting
 DTSTART;TZID=America/New_York:20260129T123000
 DTEND;TZID=America/New_York:20260129T133000
-DTSTAMP:20260114T174346Z
+DTSTAMP:20260114T175919Z
 UID:270ef0cd2aa95a95@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Health
 DESCRIPTION:The 70th OARAC meeting will include a report from the OAR Dire
@@ -1101,122 +442,11 @@ TRIGGER:-PT1H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:National Center for Advancing Translational Sciences Advisory Coun
- cil
-DTSTART;TZID=America/New_York:20260129T130000
-DTEND;TZID=America/New_York:20260129T140000
-DTSTAMP:20260114T174346Z
-UID:48e3a551ae3a2ca6@gid-seminars.wnprc.wisc.edu
-CATEGORIES:Health
-DESCRIPTION:The NCATS Advisory Council will convene a virtual meeting on J
- an 29\, 2026. For more information go to https://ncats.nih.gov/about/advis
- ory-committees/advisory-council/meetings Air date: 1/29/2026 1:00:00 PM Ea
- stern Time\n\nEvent URL: https://videocast.nih.gov/watch=57190\n\nSource: 
- nih_videocast_upcoming
-LOCATION:Online
-URL:https://videocast.nih.gov/watch=57190
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: National Center for Advancing Translational Sciences
-  Advisory Council
-TRIGGER:-PT1H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Cardiopulmonary Complications of Hematopoietic Stem Cell Transplan
- tation (HCT) and Gene Therapy
-DTSTART;TZID=America/New_York:20260130T080000
-DTEND;TZID=America/New_York:20260130T090000
-DTSTAMP:20260114T174346Z
-UID:3e2ab925582eb43d@gid-seminars.wnprc.wisc.edu
-CATEGORIES:Health
-DESCRIPTION:Join us for an exclusive\, hybrid workshop where multidiscipli
- nary experts come together to explore groundbreaking research\, spark coll
- aboration\, and chart the future of hematopoietic stem cell transplantatio
- n (HCT) and gene therapy in sickle cell disease. This workshop is an oppor
- tunity to be at the forefront of scientific discovery and innovation\, hel
- ping shape the treatment and care of patients experiencing pulmonary compl
- ications. For more information go to https://www.nhlbi.nih.gov/events/2026
- /cardiopulmonary-complications-hematopoietic-stem-cell-transplantation-hct
- -and-gene Air date: 1/30/2026 8:00:00 AM Eastern Time\n\nEvent URL: https:
- //videocast.nih.gov/watch=57219\n\nSource: nih_videocast_upcoming
-LOCATION:Online
-URL:https://videocast.nih.gov/watch=57219
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Cardiopulmonary Complications of Hematopoietic Stem 
- Cell Transplantation (HCT) and Gene Therapy
-TRIGGER:-PT1H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Clinical Center Research Hospital Board Meeting
-DTSTART;TZID=America/New_York:20260130T090000
-DTEND;TZID=America/New_York:20260130T100000
-DTSTAMP:20260114T174346Z
-UID:165b047deac22091@gid-seminars.wnprc.wisc.edu
-CATEGORIES:Health
-DESCRIPTION:The NIH Clinical Center is the nation's premier research hospi
- tal\, serving more than 10\,000 new patients each year. Some 1\,200 physic
- ians\, dentists\, and doctoral-level researchers and more than 600 nurses 
- and 450 allied health care professionals provide care to patients and supp
- ort the research activities of more than 1\,600 laboratories. For more inf
- ormation go to https://ccrhb.od.nih.gov/ Air date: 1/30/2026 9:00:00 AM Ea
- stern Time\n\nEvent URL: https://videocast.nih.gov/watch=57131\n\nSource: 
- nih_videocast_upcoming
-LOCATION:Online
-URL:https://videocast.nih.gov/watch=57131
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Clinical Center Research Hospital Board Meeting
-TRIGGER:-PT1H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:BRAIN Multi-Council Working Group (MCWG) Meeting
-DTSTART;TZID=America/New_York:20260130T120000
-DTEND;TZID=America/New_York:20260130T130000
-DTSTAMP:20260114T174346Z
-UID:f6eea139890c6bcc@gid-seminars.wnprc.wisc.edu
-CATEGORIES:Health
-DESCRIPTION:The BRAIN Initiative Multi-Council Working Group (MCWG) ensure
- s a coordinated and focused effort across NIH and includes representatives
-  from each of the 10 Institutes and Centers (ICs) that contribute to the N
- IH BRAIN Initiative\, with additional at-large members appointed to supple
- ment the working group’s expertise. In addition\, the working group incl
- udes ex officio members from federal partners Defense Advanced Research Pr
- ojects Agency (DARPA)\, U.S. Food and Drug Administration (FDA)\, Intellig
- ence Advanced Research Projects Activity (IARPA)\, and National Science Fo
- undation (NSF)\, and one non-federal partner from the BRAIN Initiative All
- iance. Several MCWG members also serve on the BRAIN Initiative Neuroethics
-  Working Group (NEWG)\, a group of experts in neuroethics and neuroscience
-  that serves to provide the NIH BRAIN Initiative with input relating to ne
- uroethics. The MCWG provides ongoing oversight of the long-term scientific
-  vision of the BRAIN Initiative and regularly offers an assessment of the 
- progress of current BRAIN projects and programs. It also serves as a forum
-  for initial "concept clearance\," the review of ideas for new initiatives
-  before they can become funding opportunities. Importantly\, the working g
- roup ensures that each of the BRAIN IC Advisory Councils is informed about
-  BRAIN programs\, awards\, and progress – as the individual IC Advisory 
- Councils will perform the formal concept clearance and secondary level of 
- review of BRAIN Initiative applications. For more information go to https:
- //braininitiative.nih.gov/news-events/events Air date: 1/30/2026 12:00:00 
- PM Eastern Time\n\nEvent URL: https://videocast.nih.gov/watch=57119\n\nSou
- rce: nih_videocast_upcoming
-LOCATION:Online
-URL:https://videocast.nih.gov/watch=57119
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: BRAIN Multi-Council Working Group (MCWG) Meeting
-TRIGGER:-PT1H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Trust in Science and Research – Community Perceptions of HIV Vac
  cine Trial Participation
 DTSTART;TZID=America/New_York:20260130T141500
 DTEND;TZID=America/New_York:20260130T151500
-DTSTAMP:20260114T174346Z
+DTSTAMP:20260114T175919Z
 UID:403e5ee0e73e4f45@gid-seminars.wnprc.wisc.edu
 CATEGORIES:CFAR Events
 DESCRIPTION:Ronald P. Strauss\, DMD PhD is the Adams Distinguished Profess
@@ -1242,40 +472,10 @@ TRIGGER:-PT1H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:152nd Meeting of the National Advisory Council on Drug Abuse
-DTSTART;TZID=America/New_York:20260203T124500
-DTEND;TZID=America/New_York:20260203T134500
-DTSTAMP:20260114T174346Z
-UID:27d9a20fc91d5ed9@gid-seminars.wnprc.wisc.edu
-CATEGORIES:Health
-DESCRIPTION:The Council meets three times a year\, usually in February\, M
- ay\, and September for 1 day. Typically\, the first part of the meeting is
-  a two-hour session devoted to reviewing grant applications\, and this is 
- closed to the public. The second part is the open session\, and issues suc
- h as training\, research dissemination\, programs\, and policy are discuss
- ed. The NIDA Director presents scientific and administrative topics in the
-  Director's Report. Council subcommittees report on their progress\, and s
- taff and other speakers also present various topics. Please see earlier Co
- uncil agendas for an appreciation of the breadth of issues covered by the 
- National Advisory Council on Drug Abuse. For more information go to https:
- //nida.nih.gov/about-nida/advisory-boards-review-groups/national-advisory-
- council-drug-abuse-nacda Air date: 2/3/2026 12:45:00 PM Eastern Time\n\nEv
- ent URL: https://videocast.nih.gov/watch=57212\n\nSource: nih_videocast_up
- coming
-LOCATION:Online
-URL:https://videocast.nih.gov/watch=57212
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: 152nd Meeting of the National Advisory Council on Dr
- ug Abuse
-TRIGGER:-PT1H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:NIH-FDA Immunology Interest Group (IIG) seminar series
 DTSTART;TZID=America/New_York:20260204T160000
 DTEND;TZID=America/New_York:20260204T170000
-DTSTAMP:20260114T174346Z
+DTSTAMP:20260114T175919Z
 UID:b9233a470bc7c320@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Health
 DESCRIPTION:IIG weekly seminar series features the world-renown experts in
@@ -1293,76 +493,10 @@ TRIGGER:-PT1H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:NAGMS February 2025 Council Open Session
-DTSTART;TZID=America/New_York:20260205T093000
-DTEND;TZID=America/New_York:20260205T103000
-DTSTAMP:20260114T174346Z
-UID:fe4f3699db507746@gid-seminars.wnprc.wisc.edu
-CATEGORIES:Health
-DESCRIPTION:This is a public broadcast of the National Advisory General Me
- dical Sciences (NAGMS) September 2025 Open Session for Council. Air date: 
- 2/5/2026 9:30:00 AM Eastern Time\n\nEvent URL: https://videocast.nih.gov/w
- atch=57214\n\nSource: nih_videocast_upcoming
-LOCATION:Online
-URL:https://videocast.nih.gov/watch=57214
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: NAGMS February 2025 Council Open Session
-TRIGGER:-PT1H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Meeting of the NCAB ad hoc Working Group (WG) on Extramural Resear
- ch Concepts and Programs
-DTSTART;TZID=America/New_York:20260206T090000
-DTEND;TZID=America/New_York:20260206T100000
-DTSTAMP:20260114T174346Z
-UID:8580c59e11f7c5a8@gid-seminars.wnprc.wisc.edu
-CATEGORIES:Health
-DESCRIPTION:1st regular Meeting of the NCAB ad hoc Working Group (WG) on E
- xtramural Research Concepts and Programs Air date: 2/6/2026 9:00:00 AM Eas
- tern Time\n\nEvent URL: https://videocast.nih.gov/watch=57215\n\nSource: n
- ih_videocast_upcoming
-LOCATION:Online
-URL:https://videocast.nih.gov/watch=57215
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Meeting of the NCAB ad hoc Working Group (WG) on Ext
- ramural Research Concepts and Programs
-TRIGGER:-PT1H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:National advisor council on minority health and health disparities
-DTSTART;TZID=America/New_York:20260206T093000
-DTEND;TZID=America/New_York:20260206T103000
-DTSTAMP:20260114T174346Z
-UID:db928fd12fc84527@gid-seminars.wnprc.wisc.edu
-CATEGORIES:Health
-DESCRIPTION:Public Health Service Act section 464z-3(j)\, 42 U.S.C. 285t(j
- )\, gives the Secretary of Health and Human Services the authority to esta
- blish an advisory council to provide advice regarding the Institute's rese
- arch and research training activities with respect to minority health issu
- es. The National Advisory Council on Minority Health and Health Disparitie
- s (NACMHD) advises the Secretary of Health and Human Services\, the NIH Di
- rector\, and the NIMHD Director on matters related to the NIMHD’s missio
- n. This is the 71st meeting. Air date: 2/6/2026 9:30:00 AM Eastern Time\n\
- nEvent URL: https://videocast.nih.gov/watch=57216\n\nSource: nih_videocast
- _upcoming
-LOCATION:Online
-URL:https://videocast.nih.gov/watch=57216
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: National advisor council on minority health and heal
- th disparities
-TRIGGER:-PT1H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Siddhartha Thakur\, PhD
 DTSTART;TZID=America/New_York:20260206T141500
 DTEND;TZID=America/New_York:20260206T151500
-DTSTAMP:20260114T174346Z
+DTSTAMP:20260114T175919Z
 UID:39b8efb762823ace@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Friday Morning Conference Series
 DESCRIPTION:Dr. Siddhartha “Sid” Thakur is the Executive Director of G
@@ -1383,161 +517,10 @@ TRIGGER:-PT1H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FNIH Biomarkers Consortium 20th Anniversary Symposium
-DTSTART;TZID=America/New_York:20260209T090000
-DTEND;TZID=America/New_York:20260209T100000
-DTSTAMP:20260114T174346Z
-UID:cd5a48f81414c7e0@gid-seminars.wnprc.wisc.edu
-CATEGORIES:Health
-DESCRIPTION:The Foundation for the National Institutes of Health (FNIH) Bi
- omarkers Consortium proudly marks 20 years of advancing biomarker science 
- to enable earlier interventions\, personalized treatments\, and better out
- comes in disease prevention\, detection\, diagnosis\, and therapy. To comm
- emorate this milestone\, we are hosting a scientific symposium celebrating
-  the Biomarkers Consortium’s impact over the past two decades. The event
-  will showcase breakthrough collaborations\, highlight real-world applicat
- ions\, and foster future planning and cross-sector partnerships within the
-  biomarker community. For more information go to https://fnih.org/our-prog
- rams/biomarkers-consortium/biomarkers-consortium-symposium/ Air date: 2/9/
- 2026 9:00:00 AM Eastern Time\n\nEvent URL: https://videocast.nih.gov/watch
- =57168\n\nSource: nih_videocast_upcoming
-LOCATION:Online
-URL:https://videocast.nih.gov/watch=57168
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: FNIH Biomarkers Consortium 20th Anniversary Symposiu
- m
-TRIGGER:-PT1H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NLM Board of Regents Meeting
-DTSTART;TZID=America/New_York:20260209T120000
-DTEND;TZID=America/New_York:20260209T130000
-DTSTAMP:20260114T174346Z
-UID:e033b91ec9d61524@gid-seminars.wnprc.wisc.edu
-CATEGORIES:Health
-DESCRIPTION:NLM Board of Regents Meeting Air date: 2/9/2026 12:00:00 PM Ea
- stern Time\n\nEvent URL: https://videocast.nih.gov/watch=57166\n\nSource: 
- nih_videocast_upcoming
-LOCATION:Online
-URL:https://videocast.nih.gov/watch=57166
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: NLM Board of Regents Meeting
-TRIGGER:-PT1H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:FNIH Biomarkers Consortium 20th Anniversary Symposium - Day 2
-DTSTART;TZID=America/New_York:20260210T090000
-DTEND;TZID=America/New_York:20260210T100000
-DTSTAMP:20260114T174346Z
-UID:b7f7acfe0b9fd1d9@gid-seminars.wnprc.wisc.edu
-CATEGORIES:Health
-DESCRIPTION:The Foundation for the National Institutes of Health (FNIH) Bi
- omarkers Consortium proudly marks 20 years of advancing biomarker science 
- to enable earlier interventions\, personalized treatments\, and better out
- comes in disease prevention\, detection\, diagnosis\, and therapy. To comm
- emorate this milestone\, we are hosting a scientific symposium celebrating
-  the Biomarkers Consortium’s impact over the past two decades. The event
-  will showcase breakthrough collaborations\, highlight real-world applicat
- ions\, and foster future planning and cross-sector partnerships within the
-  biomarker community. For more information go to https://fnih.org/our-prog
- rams/biomarkers-consortium/biomarkers-consortium-symposium/ Air date: 2/10
- /2026 9:00:00 AM Eastern Time\n\nEvent URL: https://videocast.nih.gov/watc
- h=57169\n\nSource: nih_videocast_upcoming
-LOCATION:Online
-URL:https://videocast.nih.gov/watch=57169
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: FNIH Biomarkers Consortium 20th Anniversary Symposiu
- m - Day 2
-TRIGGER:-PT1H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NLM Board of Regents Meeting
-DTSTART;TZID=America/New_York:20260210T100000
-DTEND;TZID=America/New_York:20260210T110000
-DTSTAMP:20260114T174346Z
-UID:8ffe9abb00c19204@gid-seminars.wnprc.wisc.edu
-CATEGORIES:Health
-DESCRIPTION:Board of Regents Members Air date: 2/10/2026 10:00:00 AM Easte
- rn Time\n\nEvent URL: https://videocast.nih.gov/watch=57172\n\nSource: nih
- _videocast_upcoming
-LOCATION:Online
-URL:https://videocast.nih.gov/watch=57172
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: NLM Board of Regents Meeting
-TRIGGER:-PT1H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sayer Vision Research Lecture and Award 2026
-DTSTART;TZID=America/New_York:20260210T150000
-DTEND;TZID=America/New_York:20260210T160000
-DTSTAMP:20260114T174346Z
-UID:652330e3c0be97f4@gid-seminars.wnprc.wisc.edu
-CATEGORIES:Health
-DESCRIPTION:In 2006\, Dr. Jane Sayer\, an NIH research scientist in the Na
- tional Institute of Diabetes and Digestive and Kidney Diseases (NIDDK)\, e
- stablished the Sayer Vision Research Lecture and Award at the Foundation f
- or the National Institutes of Health (FNIH)\, in partnership with the Nati
- onal Eye Institute (NEI) at NIH\, to honor her family and the memory of he
- r parents\, Winthrop and Laura Sayer. The lecture and award series provide
- s an opportunity for honorees to explore areas of interdisciplinary resear
- ch that may lead to advances in diverse medical specialties with relevance
-  to vision research. Dr. Przemyslaw (Mike) Sapieha is the Wolfe Professor 
- in Translational Vision Research at the University of Montreal and holds t
- he Canada Research Chair in Retinal Cell Biology. His work focuses on iden
- tifying novel\, druggable mechanisms for retinal vascular diseases such as
-  age-related macular degeneration and diabetic retinopathy. Dr. Sapieha wi
- ll present recent examples in which fundamental research from his lab is b
- eing translated to potential therapeutic treatments. Air date: 2/10/2026 3
- :00:00 PM Eastern Time\n\nEvent URL: https://videocast.nih.gov/watch=57217
- \n\nSource: nih_videocast_upcoming
-LOCATION:Online
-URL:https://videocast.nih.gov/watch=57217
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Sayer Vision Research Lecture and Award 2026
-TRIGGER:-PT1H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:National Advisory Eye Council - February 2026 Meeting
-DTSTART;TZID=America/New_York:20260213T090000
-DTEND;TZID=America/New_York:20260213T100000
-DTSTAMP:20260114T174346Z
-UID:d5f8a687a655a279@gid-seminars.wnprc.wisc.edu
-CATEGORIES:Health
-DESCRIPTION:The National Advisory Eye Council (NAEC) advises the Secretary
-  of Health and Human Services\, the Director\, National Institutes of Heal
- th\, and the Director\, National Eye Institute on all policies and activit
- ies relating to the conduct and support of vision research\, research trai
- ning\, and other programs of the Institute. Michael Chiang\, MD\, is the D
- irector of the National Eye Institute\, and Anna Han\, PhD\, is the Execut
- ive Secretary of the NAEC. The meeting is open to the public on February 1
- 3\, 2026 For more information go to https://www.nei.nih.gov/about/advisory
- -committees/national-advisory-eye-council-naec Air date: 2/13/2026 9:00:00
-  AM Eastern Time\n\nEvent URL: https://videocast.nih.gov/watch=57191\n\nSo
- urce: nih_videocast_upcoming
-LOCATION:Online
-URL:https://videocast.nih.gov/watch=57191
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: National Advisory Eye Council - February 2026 Meetin
- g
-TRIGGER:-PT1H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Fourth Annual Global Health Scholars Symposium
 DTSTART;TZID=America/New_York:20260213T141500
 DTEND;TZID=America/New_York:20260213T170000
-DTSTAMP:20260114T174346Z
+DTSTAMP:20260114T175919Z
 UID:93e24673c561393f@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Friday Morning Conference Series
 DESCRIPTION:Save the Date! Presented by the UNC Institute for Global Healt

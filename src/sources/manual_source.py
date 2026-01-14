@@ -8,6 +8,7 @@ from typing import Any
 import toml
 from rich.console import Console
 
+from src.core.keyword_filter import KeywordFilter
 from src.core.models import AccessRestriction, Seminar
 
 from .base import BaseSource
@@ -24,9 +25,10 @@ class ManualSource(BaseSource):
         config: dict[str, Any],
         database: Any,
         http_config: dict[str, Any] | None = None,
+        keyword_filter: KeywordFilter | None = None,
         base_dir: Path | None = None,
     ):
-        super().__init__(source_id, config, database, http_config)
+        super().__init__(source_id, config, database, http_config, keyword_filter)
         self.base_dir = base_dir or Path.cwd()
         self.file_path = self.base_dir / config.get("file_path", "data/manual_seminars.toml")
 

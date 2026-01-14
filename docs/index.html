@@ -4,16 +4,114 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>GID Seminars - Global Infectious Disease Webinars &amp; Seminars</title>
+    <style>
+        * { box-sizing: border-box; }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+            line-height: 1.6;
+            color: #343a40;
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #f8f9fa;
+        }
+        .section-header {
+            background: #ffffff;
+            padding: 15px 20px;
+            border-radius: 8px;
+            margin: 20px 0 10px 0;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+            cursor: pointer;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            user-select: none;
+        }
+        .section-header:hover {
+            background: #f8f9fa;
+        }
+        .section-title {
+            font-size: 1.3em;
+            font-weight: 600;
+            color: #343a40;
+            margin: 0;
+        }
+        .section-count {
+            background: #2c5aa0;
+            color: white;
+            padding: 4px 12px;
+            border-radius: 20px;
+            font-size: 0.9em;
+        }
+        .section-toggle {
+            font-size: 1.5em;
+            color: #868e96;
+            transition: transform 0.2s;
+        }
+        .section-content {
+            overflow: hidden;
+            transition: max-height 0.3s ease-out;
+        }
+        .section-content.collapsed {
+            max-height: 0 !important;
+        }
+        .seminar-card {
+            background: #ffffff;
+            border-radius: 8px;
+            padding: 20px;
+            margin-bottom: 16px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+        }
+        .filter-container {
+            background: #ffffff;
+            padding: 20px;
+            border-radius: 8px;
+            margin-bottom: 20px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+        }
+        .filter-row {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 15px;
+            align-items: center;
+        }
+        .filter-group {
+            flex: 1;
+            min-width: 200px;
+        }
+        .filter-group.search {
+            flex: 2;
+            min-width: 250px;
+        }
+        .filter-label {
+            display: block;
+            font-size: 0.85em;
+            color: #868e96;
+            margin-bottom: 4px;
+        }
+        .filter-select, .filter-input {
+            width: 100%;
+            padding: 8px 12px;
+            border: 1px solid #ddd;
+            border-radius: 6px;
+            font-size: 1em;
+            background: white;
+        }
+        .badge {
+            display: inline-block;
+            padding: 2px 10px;
+            border-radius: 4px;
+            font-size: 0.75em;
+            margin-right: 6px;
+        }
+        .no-results {
+            text-align: center;
+            padding: 40px;
+            color: #868e96;
+        }
+    </style>
 </head>
-<body style="
-    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
-    line-height: 1.6;
-    color: #343a40;
-    max-width: 1200px;
-    margin: 0 auto;
-    padding: 20px;
-    background-color: #f8f9fa;
-">
+<body>
 
 <div style="
     background: linear-gradient(135deg, #2c5aa0 0%, #4a90e2 100%);
@@ -28,86 +126,43 @@
         Global Infectious Disease Webinars &amp; Seminars
     </p>
     <p style="margin: 10px 0 0 0; font-size: 0.9em; opacity: 0.8;">
-        <span id="visible-count">62</span> events | Last updated: 2026-01-14 17:43 UTC
+        <span id="visible-count">20</span> events
+        (<span id="upcoming-visible">14</span> upcoming,
+        <span id="past-visible">6</span> past) |
+        Last updated: 2026-01-14 17:59 UTC
     </p>
 </div>
 
-<div style="
-    background: #ffffff;
-    padding: 20px;
-    border-radius: 8px;
-    margin-bottom: 20px;
-    box-shadow: 0 2px 4px rgba(0,0,0,0.05);
-">
-    <div style="display: flex; flex-wrap: wrap; gap: 15px; align-items: center;">
-        <div style="flex: 1; min-width: 200px;">
-            <label style="display: block; font-size: 0.85em; color: #868e96; margin-bottom: 4px;">Source</label>
-            <select id="filter-source" onchange="filterSeminars()" style="
-                width: 100%;
-                padding: 8px 12px;
-                border: 1px solid #ddd;
-                border-radius: 6px;
-                font-size: 1em;
-                background: white;
-            ">
+<div class="filter-container">
+    <div class="filter-row">
+        <div class="filter-group">
+            <label class="filter-label">Source</label>
+            <select id="filter-source" class="filter-select">
                 <option value="all">All Sources</option>
+        <option value="nih_fogarty">nih_fogarty</option>
+        <option value="nih_niaid">nih_niaid</option>
         <option value="nih_videocast_past">nih_videocast_past</option>
         <option value="nih_videocast_upcoming">nih_videocast_upcoming</option>
         <option value="unc_global_health">unc_global_health</option>
 
             </select>
         </div>
-        <div style="flex: 1; min-width: 200px;">
-            <label style="display: block; font-size: 0.85em; color: #868e96; margin-bottom: 4px;">Category</label>
-            <select id="filter-category" onchange="filterSeminars()" style="
-                width: 100%;
-                padding: 8px 12px;
-                border: 1px solid #ddd;
-                border-radius: 6px;
-                font-size: 1em;
-                background: white;
-            ">
+        <div class="filter-group">
+            <label class="filter-label">Category</label>
+            <select id="filter-category" class="filter-select">
                 <option value="all">All Categories</option>
         <option value="CFAR Events">CFAR Events</option>
         <option value="Clinical Center Grand Rounds">Clinical Center Grand Rounds</option>
-        <option value="Demystifying Medicine">Demystifying Medicine</option>
         <option value="Friday Morning Conference Series">Friday Morning Conference Series</option>
         <option value="HHS Only">HHS Only</option>
         <option value="Health">Health</option>
-        <option value="NIH Only">NIH Only</option>
-        <option value="National Institute of Neurological Disorders and Stroke">National Institute of Neurological Disorders and Stroke</option>
-        <option value="Special">Special</option>
         <option value="WALS - Wednesday Afternoon Lectures">WALS - Wednesday Afternoon Lectures</option>
 
             </select>
         </div>
-        <div style="flex: 1; min-width: 200px;">
-            <label style="display: block; font-size: 0.85em; color: #868e96; margin-bottom: 4px;">Time</label>
-            <select id="filter-time" onchange="filterSeminars()" style="
-                width: 100%;
-                padding: 8px 12px;
-                border: 1px solid #ddd;
-                border-radius: 6px;
-                font-size: 1em;
-                background: white;
-            ">
-                <option value="all">All Times</option>
-                <option value="upcoming">Upcoming Only</option>
-                <option value="today">Today</option>
-                <option value="week">This Week</option>
-                <option value="past">Past (Recordings)</option>
-            </select>
-        </div>
-        <div style="flex: 2; min-width: 250px;">
-            <label style="display: block; font-size: 0.85em; color: #868e96; margin-bottom: 4px;">Search</label>
-            <input type="text" id="search-box" onkeyup="filterSeminars()" placeholder="Search titles and descriptions..." style="
-                width: 100%;
-                padding: 8px 12px;
-                border: 1px solid #ddd;
-                border-radius: 6px;
-                font-size: 1em;
-                box-sizing: border-box;
-            ">
+        <div class="filter-group search">
+            <label class="filter-label">Search</label>
+            <input type="text" id="search-box" class="filter-input" placeholder="Search titles and descriptions...">
         </div>
     </div>
 </div>
@@ -133,7 +188,6 @@
         text-decoration: none;
         border-radius: 6px;
         font-size: 0.9em;
-        transition: background 0.2s;
     ">Download .ics Calendar</a>
     <a href="seminars.json" style="
         display: inline-flex;
@@ -147,600 +201,30 @@
     ">JSON Feed</a>
 </div>
 
-<div id="seminar-list">
+<div class="section-header" id="upcoming-header">
+    <div style="display: flex; align-items: center; gap: 15px;">
+        <h2 class="section-title" style="color: #28a745;">Upcoming Seminars</h2>
+        <span class="section-count" id="upcoming-count" style="background: #28a745;">14</span>
+    </div>
+    <span class="section-toggle" id="upcoming-toggle">▼</span>
+</div>
+<div class="section-content" id="upcoming-content">
     
 <div class="seminar-card"
-     data-source="nih_videocast_past"
-     data-category="NIH Only"
-     data-timestamp="1765881000000"
-     data-search="ORS Fall Town Hall ORS Fall Town Hall Presented by: Colleen McGowan Category: NIH Only Aired date: 12/16/2025 "
-     style="
-         background: #ffffff;
-         border-radius: 8px;
-         border-left: 4px solid #6c757d;
-         padding: 20px;
-         margin-bottom: 16px;
-         box-shadow: 0 2px 4px rgba(0,0,0,0.05);
-         opacity: 0.85;
-     ">
-    <div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: flex-start; margin-bottom: 8px;">
-        <div style="font-size: 0.9em; color: #868e96;">
-            Tue, Dec 16, 2025 at 10:30 AM (America/New_York)
-        </div>
-        <div>
-            <span style="background: #6c757d; color: white; padding: 2px 8px; border-radius: 4px; font-size: 0.75em;">Recording Available</span>
-        </div>
-    </div>
-    <div style="margin-bottom: 8px;">
-        <span style="
-            display: inline-block;
-            background: #17a2b8;
-            color: white;
-            padding: 2px 10px;
-            border-radius: 4px;
-            font-size: 0.75em;
-        ">nih_videocast_past</span>
-        <span style="display: inline-block; background: #f8f9fa; color: #343a40; padding: 2px 10px; border-radius: 4px; font-size: 0.75em; margin-left: 6px;">NIH Only</span>
-        
-    </div>
-    <h3 style="margin: 8px 0; font-size: 1.15em; color: #343a40; font-weight: 600;">
-        ORS Fall Town Hall
-    </h3>
-    <p style="font-size: 0.9em; color: #6c757d; margin: 8px 0; line-height: 1.5;">ORS Fall Town Hall Presented by: Colleen McGowan Category: NIH Only Aired date: 12/16/2025</p>
-    <div style="margin-top: 12px;"><a href="http://videocast.nih.gov/Summary.asp?file=35853" target="_blank" style="color: #2c5aa0; text-decoration: none; font-size: 0.9em;">View Event</a></div>
-</div>
-<div class="seminar-card"
-     data-source="nih_videocast_past"
-     data-category="Clinical Center Grand Rounds"
-     data-timestamp="1765972800000"
-     data-search="Clinical Center Grand Rounds: Harnessing The Extracellular Matrix to Treat Lung Diseases Clinical Center Grand Rounds: Harnessing The Extracellular Matrix to Treat Lung Diseases Presented by: Stavros Garantziotis, MD Category: Clinical Center Grand Rounds Aired date: 12/17/2025 "
-     style="
-         background: #ffffff;
-         border-radius: 8px;
-         border-left: 4px solid #6c757d;
-         padding: 20px;
-         margin-bottom: 16px;
-         box-shadow: 0 2px 4px rgba(0,0,0,0.05);
-         opacity: 0.85;
-     ">
-    <div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: flex-start; margin-bottom: 8px;">
-        <div style="font-size: 0.9em; color: #868e96;">
-            Wed, Dec 17, 2025 at 12:00 PM (America/New_York)
-        </div>
-        <div>
-            <span style="background: #6c757d; color: white; padding: 2px 8px; border-radius: 4px; font-size: 0.75em;">Recording Available</span>
-        </div>
-    </div>
-    <div style="margin-bottom: 8px;">
-        <span style="
-            display: inline-block;
-            background: #17a2b8;
-            color: white;
-            padding: 2px 10px;
-            border-radius: 4px;
-            font-size: 0.75em;
-        ">nih_videocast_past</span>
-        <span style="display: inline-block; background: #f8f9fa; color: #343a40; padding: 2px 10px; border-radius: 4px; font-size: 0.75em; margin-left: 6px;">Clinical Center Grand Rounds</span>
-        
-    </div>
-    <h3 style="margin: 8px 0; font-size: 1.15em; color: #343a40; font-weight: 600;">
-        Clinical Center Grand Rounds: Harnessing The Extracellular Matrix to Treat Lung Diseases
-    </h3>
-    <p style="font-size: 0.9em; color: #6c757d; margin: 8px 0; line-height: 1.5;">Clinical Center Grand Rounds: Harnessing The Extracellular Matrix to Treat Lung Diseases Presented by: Stavros Garantziotis, MD Category: Clinical Center Grand Rounds Aired date: 12/17/2025</p>
-    <div style="margin-top: 12px;"><a href="http://videocast.nih.gov/Summary.asp?file=35852" target="_blank" style="color: #2c5aa0; text-decoration: none; font-size: 0.9em;">View Event</a></div>
-</div>
-<div class="seminar-card"
-     data-source="nih_videocast_past"
-     data-category="Special"
-     data-timestamp="1765976400000"
-     data-search="Strengthening and Modernizing Biosafety Oversight: Region 2 Listening Session Strengthening and Modernizing Biosafety Oversight: Region 2 Listening Session Presented by: NIH Office of Science Policy Category: Special Aired date: 12/17/2025 "
-     style="
-         background: #ffffff;
-         border-radius: 8px;
-         border-left: 4px solid #6c757d;
-         padding: 20px;
-         margin-bottom: 16px;
-         box-shadow: 0 2px 4px rgba(0,0,0,0.05);
-         opacity: 0.85;
-     ">
-    <div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: flex-start; margin-bottom: 8px;">
-        <div style="font-size: 0.9em; color: #868e96;">
-            Wed, Dec 17, 2025 at 01:00 PM (America/New_York)
-        </div>
-        <div>
-            <span style="background: #6c757d; color: white; padding: 2px 8px; border-radius: 4px; font-size: 0.75em;">Recording Available</span>
-        </div>
-    </div>
-    <div style="margin-bottom: 8px;">
-        <span style="
-            display: inline-block;
-            background: #17a2b8;
-            color: white;
-            padding: 2px 10px;
-            border-radius: 4px;
-            font-size: 0.75em;
-        ">nih_videocast_past</span>
-        <span style="display: inline-block; background: #f8f9fa; color: #343a40; padding: 2px 10px; border-radius: 4px; font-size: 0.75em; margin-left: 6px;">Special</span>
-        
-    </div>
-    <h3 style="margin: 8px 0; font-size: 1.15em; color: #343a40; font-weight: 600;">
-        Strengthening and Modernizing Biosafety Oversight: Region 2 Listening Session
-    </h3>
-    <p style="font-size: 0.9em; color: #6c757d; margin: 8px 0; line-height: 1.5;">Strengthening and Modernizing Biosafety Oversight: Region 2 Listening Session Presented by: NIH Office of Science Policy Category: Special Aired date: 12/17/2025</p>
-    <div style="margin-top: 12px;"><a href="http://videocast.nih.gov/Summary.asp?file=35855" target="_blank" style="color: #2c5aa0; text-decoration: none; font-size: 0.9em;">View Event</a></div>
-</div>
-<div class="seminar-card"
-     data-source="nih_videocast_past"
-     data-category="WALS - Wednesday Afternoon Lectures"
-     data-timestamp="1765980000000"
-     data-search="WALS- Astute Clinician Lecture: Clinical Encounters in Neurogenetics: Taking Cues from Single Patients to Discover Genes, Mechanisms, and Therapeutic Approaches WALS- Astute Clinician Lecture: Clinical Encounters in Neurogenetics: Taking Cues from Single Patients to Discover Genes, Mechanisms, and Therapeutic Approaches Presented by: Carsten G. Bönnemann, M.D. Category: WALS - Wednesday Afternoon Lectures Aired date: 12/17/2025 "
-     style="
-         background: #ffffff;
-         border-radius: 8px;
-         border-left: 4px solid #6c757d;
-         padding: 20px;
-         margin-bottom: 16px;
-         box-shadow: 0 2px 4px rgba(0,0,0,0.05);
-         opacity: 0.85;
-     ">
-    <div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: flex-start; margin-bottom: 8px;">
-        <div style="font-size: 0.9em; color: #868e96;">
-            Wed, Dec 17, 2025 at 02:00 PM (America/New_York)
-        </div>
-        <div>
-            <span style="background: #6c757d; color: white; padding: 2px 8px; border-radius: 4px; font-size: 0.75em;">Recording Available</span>
-        </div>
-    </div>
-    <div style="margin-bottom: 8px;">
-        <span style="
-            display: inline-block;
-            background: #17a2b8;
-            color: white;
-            padding: 2px 10px;
-            border-radius: 4px;
-            font-size: 0.75em;
-        ">nih_videocast_past</span>
-        <span style="display: inline-block; background: #f8f9fa; color: #343a40; padding: 2px 10px; border-radius: 4px; font-size: 0.75em; margin-left: 6px;">WALS - Wednesday Afternoon Lectures</span>
-        
-    </div>
-    <h3 style="margin: 8px 0; font-size: 1.15em; color: #343a40; font-weight: 600;">
-        WALS- Astute Clinician Lecture: Clinical Encounters in Neurogenetics: Taking Cues from Single Patients to Discover Genes, Mechanisms, and Therapeutic Approaches
-    </h3>
-    <p style="font-size: 0.9em; color: #6c757d; margin: 8px 0; line-height: 1.5;">WALS- Astute Clinician Lecture: Clinical Encounters in Neurogenetics: Taking Cues from Single Patients to Discover Genes, Mechanisms, and Therapeutic Approaches Presented by: Carsten G. Bönnemann, M.D...</p>
-    <div style="margin-top: 12px;"><a href="http://videocast.nih.gov/Summary.asp?file=35854" target="_blank" style="color: #2c5aa0; text-decoration: none; font-size: 0.9em;">View Event</a></div>
-</div>
-<div class="seminar-card"
-     data-source="nih_videocast_past"
-     data-category="HHS Only"
-     data-timestamp="1765987200000"
-     data-search="NIH-FDA Immunology Interest Group (IIG) seminar series NIH-FDA Immunology Interest Group (IIG) seminar series Presented by: Claudia Kemper Category: HHS Only Aired date: 12/17/2025 "
-     style="
-         background: #ffffff;
-         border-radius: 8px;
-         border-left: 4px solid #6c757d;
-         padding: 20px;
-         margin-bottom: 16px;
-         box-shadow: 0 2px 4px rgba(0,0,0,0.05);
-         opacity: 0.85;
-     ">
-    <div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: flex-start; margin-bottom: 8px;">
-        <div style="font-size: 0.9em; color: #868e96;">
-            Wed, Dec 17, 2025 at 04:00 PM (America/New_York)
-        </div>
-        <div>
-            <span style="background: #6c757d; color: white; padding: 2px 8px; border-radius: 4px; font-size: 0.75em;">Recording Available</span>
-        </div>
-    </div>
-    <div style="margin-bottom: 8px;">
-        <span style="
-            display: inline-block;
-            background: #17a2b8;
-            color: white;
-            padding: 2px 10px;
-            border-radius: 4px;
-            font-size: 0.75em;
-        ">nih_videocast_past</span>
-        <span style="display: inline-block; background: #f8f9fa; color: #343a40; padding: 2px 10px; border-radius: 4px; font-size: 0.75em; margin-left: 6px;">HHS Only</span>
-        
-    </div>
-    <h3 style="margin: 8px 0; font-size: 1.15em; color: #343a40; font-weight: 600;">
-        NIH-FDA Immunology Interest Group (IIG) seminar series
-    </h3>
-    <p style="font-size: 0.9em; color: #6c757d; margin: 8px 0; line-height: 1.5;">NIH-FDA Immunology Interest Group (IIG) seminar series Presented by: Claudia Kemper Category: HHS Only Aired date: 12/17/2025</p>
-    <div style="margin-top: 12px;"><a href="http://videocast.nih.gov/Summary.asp?file=35856" target="_blank" style="color: #2c5aa0; text-decoration: none; font-size: 0.9em;">View Event</a></div>
-</div>
-<div class="seminar-card"
-     data-source="nih_videocast_past"
-     data-category="Special"
-     data-timestamp="1766062800000"
-     data-search="Annual CC CEO Awards Ceremony 2025 Annual CC CEO Awards Ceremony 2025 Presented by: Mr. Pius A. Aiyelawo, Acting CEO, NIH Clinical Center Category: Special Aired date: 12/18/2025 "
-     style="
-         background: #ffffff;
-         border-radius: 8px;
-         border-left: 4px solid #6c757d;
-         padding: 20px;
-         margin-bottom: 16px;
-         box-shadow: 0 2px 4px rgba(0,0,0,0.05);
-         opacity: 0.85;
-     ">
-    <div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: flex-start; margin-bottom: 8px;">
-        <div style="font-size: 0.9em; color: #868e96;">
-            Thu, Dec 18, 2025 at 01:00 PM (America/New_York)
-        </div>
-        <div>
-            <span style="background: #6c757d; color: white; padding: 2px 8px; border-radius: 4px; font-size: 0.75em;">Recording Available</span>
-        </div>
-    </div>
-    <div style="margin-bottom: 8px;">
-        <span style="
-            display: inline-block;
-            background: #17a2b8;
-            color: white;
-            padding: 2px 10px;
-            border-radius: 4px;
-            font-size: 0.75em;
-        ">nih_videocast_past</span>
-        <span style="display: inline-block; background: #f8f9fa; color: #343a40; padding: 2px 10px; border-radius: 4px; font-size: 0.75em; margin-left: 6px;">Special</span>
-        
-    </div>
-    <h3 style="margin: 8px 0; font-size: 1.15em; color: #343a40; font-weight: 600;">
-        Annual CC CEO Awards Ceremony 2025
-    </h3>
-    <p style="font-size: 0.9em; color: #6c757d; margin: 8px 0; line-height: 1.5;">Annual CC CEO Awards Ceremony 2025 Presented by: Mr. Pius A. Aiyelawo, Acting CEO, NIH Clinical Center Category: Special Aired date: 12/18/2025</p>
-    <div style="margin-top: 12px;"><a href="http://videocast.nih.gov/Summary.asp?file=35857" target="_blank" style="color: #2c5aa0; text-decoration: none; font-size: 0.9em;">View Event</a></div>
-</div>
-<div class="seminar-card"
-     data-source="nih_videocast_past"
-     data-category="National Institute of Neurological Disorders and Stroke"
-     data-timestamp="1766397600000"
-     data-search="Muscular Dystrophy Coordinating Committee (MDCC) Meeting Muscular Dystrophy Coordinating Committee (MDCC) Meeting Presented by: NIH Category: National Institute of Neurological Disorders and Stroke Aired date: 12/22/2025 "
-     style="
-         background: #ffffff;
-         border-radius: 8px;
-         border-left: 4px solid #6c757d;
-         padding: 20px;
-         margin-bottom: 16px;
-         box-shadow: 0 2px 4px rgba(0,0,0,0.05);
-         opacity: 0.85;
-     ">
-    <div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: flex-start; margin-bottom: 8px;">
-        <div style="font-size: 0.9em; color: #868e96;">
-            Mon, Dec 22, 2025 at 10:00 AM (America/New_York)
-        </div>
-        <div>
-            <span style="background: #6c757d; color: white; padding: 2px 8px; border-radius: 4px; font-size: 0.75em;">Recording Available</span>
-        </div>
-    </div>
-    <div style="margin-bottom: 8px;">
-        <span style="
-            display: inline-block;
-            background: #17a2b8;
-            color: white;
-            padding: 2px 10px;
-            border-radius: 4px;
-            font-size: 0.75em;
-        ">nih_videocast_past</span>
-        <span style="display: inline-block; background: #f8f9fa; color: #343a40; padding: 2px 10px; border-radius: 4px; font-size: 0.75em; margin-left: 6px;">National Institute of Neurological Disorders and Stroke</span>
-        
-    </div>
-    <h3 style="margin: 8px 0; font-size: 1.15em; color: #343a40; font-weight: 600;">
-        Muscular Dystrophy Coordinating Committee (MDCC) Meeting
-    </h3>
-    <p style="font-size: 0.9em; color: #6c757d; margin: 8px 0; line-height: 1.5;">Muscular Dystrophy Coordinating Committee (MDCC) Meeting Presented by: NIH Category: National Institute of Neurological Disorders and Stroke Aired date: 12/22/2025</p>
-    <div style="margin-top: 12px;"><a href="http://videocast.nih.gov/Summary.asp?file=35865" target="_blank" style="color: #2c5aa0; text-decoration: none; font-size: 0.9em;">View Event</a></div>
-</div>
-<div class="seminar-card"
-     data-source="nih_videocast_past"
-     data-category="Demystifying Medicine"
-     data-timestamp="1767711600000"
-     data-search="Demystifying Medicine—Pandemics on the Horizon: Are We Ready for the Next Global Threat? Demystifying Medicine—Pandemics on the Horizon: Are We Ready for the Next Global Threat? Presented by: Jeffery Taubenberger, M.D., Ph.D. and Arturo Casadevall, M.D., Ph.D. Category: Demystifying Medicine Aired date: 01/06/2026 "
-     style="
-         background: #ffffff;
-         border-radius: 8px;
-         border-left: 4px solid #6c757d;
-         padding: 20px;
-         margin-bottom: 16px;
-         box-shadow: 0 2px 4px rgba(0,0,0,0.05);
-         opacity: 0.85;
-     ">
-    <div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: flex-start; margin-bottom: 8px;">
-        <div style="font-size: 0.9em; color: #868e96;">
-            Tue, Jan 06, 2026 at 03:00 PM (America/New_York)
-        </div>
-        <div>
-            <span style="background: #6c757d; color: white; padding: 2px 8px; border-radius: 4px; font-size: 0.75em;">Recording Available</span>
-        </div>
-    </div>
-    <div style="margin-bottom: 8px;">
-        <span style="
-            display: inline-block;
-            background: #17a2b8;
-            color: white;
-            padding: 2px 10px;
-            border-radius: 4px;
-            font-size: 0.75em;
-        ">nih_videocast_past</span>
-        <span style="display: inline-block; background: #f8f9fa; color: #343a40; padding: 2px 10px; border-radius: 4px; font-size: 0.75em; margin-left: 6px;">Demystifying Medicine</span>
-        
-    </div>
-    <h3 style="margin: 8px 0; font-size: 1.15em; color: #343a40; font-weight: 600;">
-        Demystifying Medicine—Pandemics on the Horizon: Are We Ready for the Next Global Threat?
-    </h3>
-    <p style="font-size: 0.9em; color: #6c757d; margin: 8px 0; line-height: 1.5;">Demystifying Medicine—Pandemics on the Horizon: Are We Ready for the Next Global Threat? Presented by: Jeffery Taubenberger, M.D., Ph.D. and Arturo Casadevall, M.D., Ph.D. Category: Demystifying Medic...</p>
-    <div style="margin-top: 12px;"><a href="http://videocast.nih.gov/Summary.asp?file=35867" target="_blank" style="color: #2c5aa0; text-decoration: none; font-size: 0.9em;">View Event</a></div>
-</div>
-<div class="seminar-card"
-     data-source="nih_videocast_past"
-     data-category="NIH Only"
-     data-timestamp="1767787200000"
-     data-search="Clinical Center Grand Rounds: Vision For NIH Clinical Center Grand Rounds: Vision For NIH Presented by: Jay Bhattacharya, MD, PhD Category: NIH Only Aired date: 01/07/2026 "
-     style="
-         background: #ffffff;
-         border-radius: 8px;
-         border-left: 4px solid #6c757d;
-         padding: 20px;
-         margin-bottom: 16px;
-         box-shadow: 0 2px 4px rgba(0,0,0,0.05);
-         opacity: 0.85;
-     ">
-    <div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: flex-start; margin-bottom: 8px;">
-        <div style="font-size: 0.9em; color: #868e96;">
-            Wed, Jan 07, 2026 at 12:00 PM (America/New_York)
-        </div>
-        <div>
-            <span style="background: #6c757d; color: white; padding: 2px 8px; border-radius: 4px; font-size: 0.75em;">Recording Available</span>
-        </div>
-    </div>
-    <div style="margin-bottom: 8px;">
-        <span style="
-            display: inline-block;
-            background: #17a2b8;
-            color: white;
-            padding: 2px 10px;
-            border-radius: 4px;
-            font-size: 0.75em;
-        ">nih_videocast_past</span>
-        <span style="display: inline-block; background: #f8f9fa; color: #343a40; padding: 2px 10px; border-radius: 4px; font-size: 0.75em; margin-left: 6px;">NIH Only</span>
-        
-    </div>
-    <h3 style="margin: 8px 0; font-size: 1.15em; color: #343a40; font-weight: 600;">
-        Clinical Center Grand Rounds: Vision For NIH
-    </h3>
-    <p style="font-size: 0.9em; color: #6c757d; margin: 8px 0; line-height: 1.5;">Clinical Center Grand Rounds: Vision For NIH Presented by: Jay Bhattacharya, MD, PhD Category: NIH Only Aired date: 01/07/2026</p>
-    <div style="margin-top: 12px;"><a href="http://videocast.nih.gov/Summary.asp?file=35866" target="_blank" style="color: #2c5aa0; text-decoration: none; font-size: 0.9em;">View Event</a></div>
-</div>
-<div class="seminar-card"
-     data-source="nih_videocast_past"
-     data-category="WALS - Wednesday Afternoon Lectures"
-     data-timestamp="1767794400000"
-     data-search="WALS: Bill Paul Lecture- Immune Control of Host Physiology WALS: Bill Paul Lecture- Immune Control of Host Physiology Presented by: Yasmine Belkaid, Ph.D. Category: WALS - Wednesday Afternoon Lectures Aired date: 01/07/2026 "
-     style="
-         background: #ffffff;
-         border-radius: 8px;
-         border-left: 4px solid #6c757d;
-         padding: 20px;
-         margin-bottom: 16px;
-         box-shadow: 0 2px 4px rgba(0,0,0,0.05);
-         opacity: 0.85;
-     ">
-    <div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: flex-start; margin-bottom: 8px;">
-        <div style="font-size: 0.9em; color: #868e96;">
-            Wed, Jan 07, 2026 at 02:00 PM (America/New_York)
-        </div>
-        <div>
-            <span style="background: #6c757d; color: white; padding: 2px 8px; border-radius: 4px; font-size: 0.75em;">Recording Available</span>
-        </div>
-    </div>
-    <div style="margin-bottom: 8px;">
-        <span style="
-            display: inline-block;
-            background: #17a2b8;
-            color: white;
-            padding: 2px 10px;
-            border-radius: 4px;
-            font-size: 0.75em;
-        ">nih_videocast_past</span>
-        <span style="display: inline-block; background: #f8f9fa; color: #343a40; padding: 2px 10px; border-radius: 4px; font-size: 0.75em; margin-left: 6px;">WALS - Wednesday Afternoon Lectures</span>
-        
-    </div>
-    <h3 style="margin: 8px 0; font-size: 1.15em; color: #343a40; font-weight: 600;">
-        WALS: Bill Paul Lecture- Immune Control of Host Physiology
-    </h3>
-    <p style="font-size: 0.9em; color: #6c757d; margin: 8px 0; line-height: 1.5;">WALS: Bill Paul Lecture- Immune Control of Host Physiology Presented by: Yasmine Belkaid, Ph.D. Category: WALS - Wednesday Afternoon Lectures Aired date: 01/07/2026</p>
-    <div style="margin-top: 12px;"><a href="http://videocast.nih.gov/Summary.asp?file=35868" target="_blank" style="color: #2c5aa0; text-decoration: none; font-size: 0.9em;">View Event</a></div>
-</div>
-<div class="seminar-card"
-     data-source="nih_videocast_past"
-     data-category="Special"
-     data-timestamp="1767873600000"
-     data-search="NHLBI Obesity, Nutrition, and Physical Activity (ONPA) Seminar Series: Behavioral and Nutritional Considerations in Incretin-Based Obesity Treatments NHLBI Obesity, Nutrition, and Physical Activity (ONPA) Seminar Series: Behavioral and Nutritional Considerations in Incretin-Based Obesity Treatments Presented by: Michelle Cardel, Ph.D., M.S., RD, FTOS Category: Special Aired date: 01/08/2026 "
-     style="
-         background: #ffffff;
-         border-radius: 8px;
-         border-left: 4px solid #6c757d;
-         padding: 20px;
-         margin-bottom: 16px;
-         box-shadow: 0 2px 4px rgba(0,0,0,0.05);
-         opacity: 0.85;
-     ">
-    <div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: flex-start; margin-bottom: 8px;">
-        <div style="font-size: 0.9em; color: #868e96;">
-            Thu, Jan 08, 2026 at 12:00 PM (America/New_York)
-        </div>
-        <div>
-            <span style="background: #6c757d; color: white; padding: 2px 8px; border-radius: 4px; font-size: 0.75em;">Recording Available</span>
-        </div>
-    </div>
-    <div style="margin-bottom: 8px;">
-        <span style="
-            display: inline-block;
-            background: #17a2b8;
-            color: white;
-            padding: 2px 10px;
-            border-radius: 4px;
-            font-size: 0.75em;
-        ">nih_videocast_past</span>
-        <span style="display: inline-block; background: #f8f9fa; color: #343a40; padding: 2px 10px; border-radius: 4px; font-size: 0.75em; margin-left: 6px;">Special</span>
-        
-    </div>
-    <h3 style="margin: 8px 0; font-size: 1.15em; color: #343a40; font-weight: 600;">
-        NHLBI Obesity, Nutrition, and Physical Activity (ONPA) Seminar Series: Behavioral and Nutritional Considerations in Incretin-Based Obesity Treatments
-    </h3>
-    <p style="font-size: 0.9em; color: #6c757d; margin: 8px 0; line-height: 1.5;">NHLBI Obesity, Nutrition, and Physical Activity (ONPA) Seminar Series: Behavioral and Nutritional Considerations in Incretin-Based Obesity Treatments Presented by: Michelle Cardel, Ph.D., M.S., RD, FT...</p>
-    <div style="margin-top: 12px;"><a href="http://videocast.nih.gov/Summary.asp?file=35870" target="_blank" style="color: #2c5aa0; text-decoration: none; font-size: 0.9em;">View Event</a></div>
-</div>
-<div class="seminar-card"
-     data-source="nih_videocast_past"
-     data-category="HHS Only"
-     data-timestamp="1767960000000"
-     data-search="NIH Director's Seminar Series: Cells and Circuits for a Pain Rheostat in the Brain NIH Director's Seminar Series: Cells and Circuits for a Pain Rheostat in the Brain Presented by: Yarimar Carrasquillo, PhD Category: HHS Only Aired date: 01/09/2026 "
-     style="
-         background: #ffffff;
-         border-radius: 8px;
-         border-left: 4px solid #6c757d;
-         padding: 20px;
-         margin-bottom: 16px;
-         box-shadow: 0 2px 4px rgba(0,0,0,0.05);
-         opacity: 0.85;
-     ">
-    <div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: flex-start; margin-bottom: 8px;">
-        <div style="font-size: 0.9em; color: #868e96;">
-            Fri, Jan 09, 2026 at 12:00 PM (America/New_York)
-        </div>
-        <div>
-            <span style="background: #6c757d; color: white; padding: 2px 8px; border-radius: 4px; font-size: 0.75em;">Recording Available</span>
-        </div>
-    </div>
-    <div style="margin-bottom: 8px;">
-        <span style="
-            display: inline-block;
-            background: #17a2b8;
-            color: white;
-            padding: 2px 10px;
-            border-radius: 4px;
-            font-size: 0.75em;
-        ">nih_videocast_past</span>
-        <span style="display: inline-block; background: #f8f9fa; color: #343a40; padding: 2px 10px; border-radius: 4px; font-size: 0.75em; margin-left: 6px;">HHS Only</span>
-        
-    </div>
-    <h3 style="margin: 8px 0; font-size: 1.15em; color: #343a40; font-weight: 600;">
-        NIH Director's Seminar Series: Cells and Circuits for a Pain Rheostat in the Brain
-    </h3>
-    <p style="font-size: 0.9em; color: #6c757d; margin: 8px 0; line-height: 1.5;">NIH Director's Seminar Series: Cells and Circuits for a Pain Rheostat in the Brain Presented by: Yarimar Carrasquillo, PhD Category: HHS Only Aired date: 01/09/2026</p>
-    <div style="margin-top: 12px;"><a href="http://videocast.nih.gov/Summary.asp?file=35869" target="_blank" style="color: #2c5aa0; text-decoration: none; font-size: 0.9em;">View Event</a></div>
-</div>
-<div class="seminar-card"
      data-source="nih_videocast_upcoming"
      data-category="Health"
-     data-timestamp="1768399200000"
-     data-search="WALS: Neonatal Genomic Sequencing: The Past, The Present, and the Unchartered, Controversial Future Dr. Maron comes to Women & Infants Hospital with a wealth of experience, and someone who is regarded as a well-respected expert in her field. She has been a gifted clinician, researcher and mentor at Tufts MC since finishing her fellowship in Newborn Medicine in 2006. In the past 15 years, she has built a strong reputation as an international leader in the development and integration of salivary and genetic diagnostic platforms to rapidly assess genetic disorders, neonatal morbidities and potential developmental disorders in newborns. Dr. Maron also currently serves as Principal Investigator (PI) on three NIH-funded multicenter clinical trials. She has published extensively in the field. She also serves as Professor of Pediatrics at Tufts University School of Medicine, with a secondary Professorship appointment in Obstetrics & Gynecology. For more information go to https://oir.nih.gov/wals Air date: 1/14/2026 2:00:00 PM Eastern Time Wed, 14 Jan 2026 19:00:00 GMT"
-     style="
-         background: #ffffff;
-         border-radius: 8px;
-         border-left: 4px solid #6c757d;
-         padding: 20px;
-         margin-bottom: 16px;
-         box-shadow: 0 2px 4px rgba(0,0,0,0.05);
-         opacity: 0.85;
-     ">
-    <div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: flex-start; margin-bottom: 8px;">
-        <div style="font-size: 0.9em; color: #868e96;">
-            Wed, Jan 14, 2026 at 02:00 PM (America/New_York)
-        </div>
-        <div>
-            <span style="background: #6c757d; color: white; padding: 2px 8px; border-radius: 4px; font-size: 0.75em;">Recording Available</span>
-        </div>
-    </div>
-    <div style="margin-bottom: 8px;">
-        <span style="
-            display: inline-block;
-            background: #17a2b8;
-            color: white;
-            padding: 2px 10px;
-            border-radius: 4px;
-            font-size: 0.75em;
-        ">nih_videocast_upcoming</span>
-        <span style="display: inline-block; background: #f8f9fa; color: #343a40; padding: 2px 10px; border-radius: 4px; font-size: 0.75em; margin-left: 6px;">Health</span>
-        
-    </div>
-    <h3 style="margin: 8px 0; font-size: 1.15em; color: #343a40; font-weight: 600;">
-        WALS: Neonatal Genomic Sequencing: The Past, The Present, and the Unchartered, Controversial Future
-    </h3>
-    <p style="font-size: 0.9em; color: #6c757d; margin: 8px 0; line-height: 1.5;">Dr. Maron comes to Women & Infants Hospital with a wealth of experience, and someone who is regarded as a well-respected expert in her field. She has been a gifted clinician, researcher and mentor at ...</p>
-    <div style="margin-top: 12px;"><a href="https://videocast.nih.gov/watch=57179" target="_blank" style="color: #2c5aa0; text-decoration: none; font-size: 0.9em;">View Event</a></div>
-</div>
-<div class="seminar-card"
-     data-source="nih_videocast_upcoming"
-     data-category="Health"
-     data-timestamp="1768406400000"
-     data-search="NIH-FDA Immunology Interest Group (IIG) seminar series IIG weekly seminar series features the world-renown experts in the field of immunology. The speakers are nominated by the members of immunology community from the NIH and FDA. Air date: 1/14/2026 4:00:00 PM Eastern Time Wed, 14 Jan 2026 21:00:00 GMT"
-     style="
-         background: #ffffff;
-         border-radius: 8px;
-         border-left: 4px solid #6c757d;
-         padding: 20px;
-         margin-bottom: 16px;
-         box-shadow: 0 2px 4px rgba(0,0,0,0.05);
-         opacity: 0.85;
-     ">
-    <div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: flex-start; margin-bottom: 8px;">
-        <div style="font-size: 0.9em; color: #868e96;">
-            Wed, Jan 14, 2026 at 04:00 PM (America/New_York)
-        </div>
-        <div>
-            <span style="background: #6c757d; color: white; padding: 2px 8px; border-radius: 4px; font-size: 0.75em;">Recording Available</span>
-        </div>
-    </div>
-    <div style="margin-bottom: 8px;">
-        <span style="
-            display: inline-block;
-            background: #17a2b8;
-            color: white;
-            padding: 2px 10px;
-            border-radius: 4px;
-            font-size: 0.75em;
-        ">nih_videocast_upcoming</span>
-        <span style="display: inline-block; background: #f8f9fa; color: #343a40; padding: 2px 10px; border-radius: 4px; font-size: 0.75em; margin-left: 6px;">Health</span>
-        
-    </div>
-    <h3 style="margin: 8px 0; font-size: 1.15em; color: #343a40; font-weight: 600;">
-        NIH-FDA Immunology Interest Group (IIG) seminar series
-    </h3>
-    <p style="font-size: 0.9em; color: #6c757d; margin: 8px 0; line-height: 1.5;">IIG weekly seminar series features the world-renown experts in the field of immunology. The speakers are nominated by the members of immunology community from the NIH and FDA. Air date: 1/14/2026 4:00...</p>
-    <div style="margin-top: 12px;"><a href="https://videocast.nih.gov/watch=57090" target="_blank" style="color: #2c5aa0; text-decoration: none; font-size: 0.9em;">View Event</a></div>
-</div>
-<div class="seminar-card"
-     data-source="nih_videocast_upcoming"
-     data-category="Health"
-     data-timestamp="1768474800000"
+     data-section="upcoming"
      data-search="NIH ProtIG seminar by Peder Lund: Fatty acid metabolism as a symbiotic link between the gut microbiota and host epithelial cells The intestinal epithelium is a critical mucosal barrier that confines the gut microbiota to the lumen, preventing these generally beneficial microbes from invading host tissues and triggering overt inflammation. While gut homeostasis requires this physical separation of the microbiota and host, it also depends on symbiotic interactions between them, which often occur through small molecule metabolites. For instance, by converting indigestible fiber into short-chain fatty acids (SCFA), the microbiota provides colonic epithelial cells with a fuel source to power fatty acid oxidation (FAO) and energy production. Accordingly, intestinal tissues from germ-free mice show signs of energy deprivation, and the clinical significance of this metabolic integration is evident from studies correlating inflammatory bowel disease (IBD) with impaired FAO and changes in microbiota composition. However, the mechanisms by which these alterations could contribute to IBD remain unclear, highlighting the need to understand the pathways linking epithelial cell metabolism with microbial metabolism and whether disruptions in this symbiosis could promote inflammation. In a recent study to investigate metabolic contributions from the microbiota to the host, we performed stable isotope tracing in a mouse model and found that acetylated histones and numerous metabolites in epithelial cells contain microbiota-derived carbon. Treatment with DSS, a chemical irritant that induces inflammation, suppressed the isotopic labeling of molecules bearing fatty acid chains, coinciding with shifts in microbiota composition and decreased expression of genes related to FAO. In ongoing work, we are employing cell and organoid models to trace the anabolic and catabolic pathways by which epithelial cells metabolize microbiota-derived carbon. Overall, we aim to generate mechanistic insight into how metabolic interactions between the gut microbiota and host promote tissue homeostasis and how a disruption in this sym Thu, 15 Jan 2026 16:00:00 GMT"
-     style="
-         background: #ffffff;
-         border-radius: 8px;
-         border-left: 4px solid #2c5aa0;
-         padding: 20px;
-         margin-bottom: 16px;
-         box-shadow: 0 2px 4px rgba(0,0,0,0.05);
-         opacity: 1;
-     ">
+     style="border-left: 4px solid #2c5aa0; opacity: 1;">
     <div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: flex-start; margin-bottom: 8px;">
         <div style="font-size: 0.9em; color: #868e96;">
             Thu, Jan 15, 2026 at 11:00 AM (America/New_York)
         </div>
-        <div>
-            
-        </div>
+        <div></div>
     </div>
     <div style="margin-bottom: 8px;">
-        <span style="
-            display: inline-block;
-            background: #17a2b8;
-            color: white;
-            padding: 2px 10px;
-            border-radius: 4px;
-            font-size: 0.75em;
-        ">nih_videocast_upcoming</span>
-        <span style="display: inline-block; background: #f8f9fa; color: #343a40; padding: 2px 10px; border-radius: 4px; font-size: 0.75em; margin-left: 6px;">Health</span>
+        <span class="badge" style="background: #17a2b8; color: white;">nih_videocast_upcoming</span>
+        <span class="badge" style="background: #f8f9fa; color: #343a40;">Health</span>
         
     </div>
     <h3 style="margin: 8px 0; font-size: 1.15em; color: #343a40; font-weight: 600;">
@@ -750,117 +234,20 @@
     <div style="margin-top: 12px;"><a href="https://videocast.nih.gov/watch=57205" target="_blank" style="color: #2c5aa0; text-decoration: none; font-size: 0.9em;">View Event</a></div>
 </div>
 <div class="seminar-card"
-     data-source="nih_videocast_upcoming"
-     data-category="Health"
-     data-timestamp="1768482000000"
-     data-search="Modernizing and Strengthening Biosafety Oversight: Region 3 Listening Session Listening Session Air date: 1/15/2026 1:00:00 PM Eastern Time Thu, 15 Jan 2026 18:00:00 GMT"
-     style="
-         background: #ffffff;
-         border-radius: 8px;
-         border-left: 4px solid #2c5aa0;
-         padding: 20px;
-         margin-bottom: 16px;
-         box-shadow: 0 2px 4px rgba(0,0,0,0.05);
-         opacity: 1;
-     ">
-    <div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: flex-start; margin-bottom: 8px;">
-        <div style="font-size: 0.9em; color: #868e96;">
-            Thu, Jan 15, 2026 at 01:00 PM (America/New_York)
-        </div>
-        <div>
-            
-        </div>
-    </div>
-    <div style="margin-bottom: 8px;">
-        <span style="
-            display: inline-block;
-            background: #17a2b8;
-            color: white;
-            padding: 2px 10px;
-            border-radius: 4px;
-            font-size: 0.75em;
-        ">nih_videocast_upcoming</span>
-        <span style="display: inline-block; background: #f8f9fa; color: #343a40; padding: 2px 10px; border-radius: 4px; font-size: 0.75em; margin-left: 6px;">Health</span>
-        
-    </div>
-    <h3 style="margin: 8px 0; font-size: 1.15em; color: #343a40; font-weight: 600;">
-        Modernizing and Strengthening Biosafety Oversight: Region 3 Listening Session
-    </h3>
-    <p style="font-size: 0.9em; color: #6c757d; margin: 8px 0; line-height: 1.5;">Listening Session Air date: 1/15/2026 1:00:00 PM Eastern Time</p>
-    <div style="margin-top: 12px;"><a href="https://videocast.nih.gov/watch=57218" target="_blank" style="color: #2c5aa0; text-decoration: none; font-size: 0.9em;">View Event</a></div>
-</div>
-<div class="seminar-card"
-     data-source="nih_videocast_upcoming"
-     data-category="Health"
-     data-timestamp="1768489200000"
-     data-search="Technology Transfer in the NIH Intramural Research Program The NIH Office of Technology Transfer (OTT) supports the efforts of technology transfer offices at the NIH’s institutes and centers, providing critical infrastructure for patenting, licensing, and other technology transfer activities. During the presentation, Dr Tara Kirby, Director of the NIH OTT will address the following issues: What Does “Technology Transfer” mean at the NIH? How Technology Transfer is Organized in the IRP What exactly does NIH OTT do? Quick Primer on NIH Patenting and Licensing Technology Transfer Impacts in the Real World Air date: 1/15/2026 3:00:00 PM Eastern Time Thu, 15 Jan 2026 20:00:00 GMT"
-     style="
-         background: #ffffff;
-         border-radius: 8px;
-         border-left: 4px solid #2c5aa0;
-         padding: 20px;
-         margin-bottom: 16px;
-         box-shadow: 0 2px 4px rgba(0,0,0,0.05);
-         opacity: 1;
-     ">
-    <div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: flex-start; margin-bottom: 8px;">
-        <div style="font-size: 0.9em; color: #868e96;">
-            Thu, Jan 15, 2026 at 03:00 PM (America/New_York)
-        </div>
-        <div>
-            
-        </div>
-    </div>
-    <div style="margin-bottom: 8px;">
-        <span style="
-            display: inline-block;
-            background: #17a2b8;
-            color: white;
-            padding: 2px 10px;
-            border-radius: 4px;
-            font-size: 0.75em;
-        ">nih_videocast_upcoming</span>
-        <span style="display: inline-block; background: #f8f9fa; color: #343a40; padding: 2px 10px; border-radius: 4px; font-size: 0.75em; margin-left: 6px;">Health</span>
-        
-    </div>
-    <h3 style="margin: 8px 0; font-size: 1.15em; color: #343a40; font-weight: 600;">
-        Technology Transfer in the NIH Intramural Research Program
-    </h3>
-    <p style="font-size: 0.9em; color: #6c757d; margin: 8px 0; line-height: 1.5;">The NIH Office of Technology Transfer (OTT) supports the efforts of technology transfer offices at the NIH’s institutes and centers, providing critical infrastructure for patenting, licensing, and oth...</p>
-    <div style="margin-top: 12px;"><a href="https://videocast.nih.gov/watch=57137" target="_blank" style="color: #2c5aa0; text-decoration: none; font-size: 0.9em;">View Event</a></div>
-</div>
-<div class="seminar-card"
      data-source="unc_global_health"
      data-category="Friday Morning Conference Series"
-     data-timestamp="1768572900000"
+     data-section="upcoming"
      data-search="Outbreak Behind Bars Homer Venters, MD MS is the former Chief Medical Officer of the NYC Jail System, and currently works as a Court- appointed monitor and inspector of health services in jails and prisons. He is also the author of Life and Death in Rikers Island (2019), Outbreaks Behind Bars (2025) and is part of the Adjunct Faculty at the NYU School of Global Public Health. "
-     style="
-         background: #ffffff;
-         border-radius: 8px;
-         border-left: 4px solid #2c5aa0;
-         padding: 20px;
-         margin-bottom: 16px;
-         box-shadow: 0 2px 4px rgba(0,0,0,0.05);
-         opacity: 1;
-     ">
+     style="border-left: 4px solid #2c5aa0; opacity: 1;">
     <div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: flex-start; margin-bottom: 8px;">
         <div style="font-size: 0.9em; color: #868e96;">
             Fri, Jan 16, 2026 at 02:15 PM (America/New_York)
         </div>
-        <div>
-            
-        </div>
+        <div></div>
     </div>
     <div style="margin-bottom: 8px;">
-        <span style="
-            display: inline-block;
-            background: #17a2b8;
-            color: white;
-            padding: 2px 10px;
-            border-radius: 4px;
-            font-size: 0.75em;
-        ">unc_global_health</span>
-        <span style="display: inline-block; background: #f8f9fa; color: #343a40; padding: 2px 10px; border-radius: 4px; font-size: 0.75em; margin-left: 6px;">Friday Morning Conference Series</span>
+        <span class="badge" style="background: #17a2b8; color: white;">unc_global_health</span>
+        <span class="badge" style="background: #f8f9fa; color: #343a40;">Friday Morning Conference Series</span>
         
     </div>
     <h3 style="margin: 8px 0; font-size: 1.15em; color: #343a40; font-weight: 600;">
@@ -872,115 +259,18 @@
 <div class="seminar-card"
      data-source="nih_videocast_upcoming"
      data-category="Health"
-     data-timestamp="1768906800000"
-     data-search="Digital Health Scientific Interest Group Seminar Series N/A Air date: 1/20/2026 11:00:00 AM Eastern Time Tue, 20 Jan 2026 16:00:00 GMT"
-     style="
-         background: #ffffff;
-         border-radius: 8px;
-         border-left: 4px solid #2c5aa0;
-         padding: 20px;
-         margin-bottom: 16px;
-         box-shadow: 0 2px 4px rgba(0,0,0,0.05);
-         opacity: 1;
-     ">
-    <div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: flex-start; margin-bottom: 8px;">
-        <div style="font-size: 0.9em; color: #868e96;">
-            Tue, Jan 20, 2026 at 11:00 AM (America/New_York)
-        </div>
-        <div>
-            
-        </div>
-    </div>
-    <div style="margin-bottom: 8px;">
-        <span style="
-            display: inline-block;
-            background: #17a2b8;
-            color: white;
-            padding: 2px 10px;
-            border-radius: 4px;
-            font-size: 0.75em;
-        ">nih_videocast_upcoming</span>
-        <span style="display: inline-block; background: #f8f9fa; color: #343a40; padding: 2px 10px; border-radius: 4px; font-size: 0.75em; margin-left: 6px;">Health</span>
-        
-    </div>
-    <h3 style="margin: 8px 0; font-size: 1.15em; color: #343a40; font-weight: 600;">
-        Digital Health Scientific Interest Group Seminar Series
-    </h3>
-    <p style="font-size: 0.9em; color: #6c757d; margin: 8px 0; line-height: 1.5;">N/A Air date: 1/20/2026 11:00:00 AM Eastern Time</p>
-    <div style="margin-top: 12px;"><a href="https://videocast.nih.gov/watch=57171" target="_blank" style="color: #2c5aa0; text-decoration: none; font-size: 0.9em;">View Event</a></div>
-</div>
-<div class="seminar-card"
-     data-source="nih_videocast_upcoming"
-     data-category="Health"
-     data-timestamp="1768914000000"
-     data-search="Clinical Center CEO Quarterly Town Hall The CC CEO Town Hall sessions provide updates on CC activities and solicit input from CC staff. This session will include Length of Service recognition for CC employees who have achieved milestone anniversaries for federal service and conclude with a Q and A component. Air date: 1/20/2026 1:00:00 PM Eastern Time Tue, 20 Jan 2026 18:00:00 GMT"
-     style="
-         background: #ffffff;
-         border-radius: 8px;
-         border-left: 4px solid #2c5aa0;
-         padding: 20px;
-         margin-bottom: 16px;
-         box-shadow: 0 2px 4px rgba(0,0,0,0.05);
-         opacity: 1;
-     ">
-    <div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: flex-start; margin-bottom: 8px;">
-        <div style="font-size: 0.9em; color: #868e96;">
-            Tue, Jan 20, 2026 at 01:00 PM (America/New_York)
-        </div>
-        <div>
-            
-        </div>
-    </div>
-    <div style="margin-bottom: 8px;">
-        <span style="
-            display: inline-block;
-            background: #17a2b8;
-            color: white;
-            padding: 2px 10px;
-            border-radius: 4px;
-            font-size: 0.75em;
-        ">nih_videocast_upcoming</span>
-        <span style="display: inline-block; background: #f8f9fa; color: #343a40; padding: 2px 10px; border-radius: 4px; font-size: 0.75em; margin-left: 6px;">Health</span>
-        
-    </div>
-    <h3 style="margin: 8px 0; font-size: 1.15em; color: #343a40; font-weight: 600;">
-        Clinical Center CEO Quarterly Town Hall
-    </h3>
-    <p style="font-size: 0.9em; color: #6c757d; margin: 8px 0; line-height: 1.5;">The CC CEO Town Hall sessions provide updates on CC activities and solicit input from CC staff. This session will include Length of Service recognition for CC employees who have achieved milestone ann...</p>
-    <div style="margin-top: 12px;"><a href="https://videocast.nih.gov/watch=57206" target="_blank" style="color: #2c5aa0; text-decoration: none; font-size: 0.9em;">View Event</a></div>
-</div>
-<div class="seminar-card"
-     data-source="nih_videocast_upcoming"
-     data-category="Health"
-     data-timestamp="1768921200000"
+     data-section="upcoming"
      data-search="Demystifying Medicine—The Epidemic That Won't Quit: Unraveling the HIV Crisis This week's speakers in the Demystifying Medicine Series are John Coffin, Ph.D. (Tufts School of Medicine) and Carlos Del Rio, M.D. (Emory School of Medicine). The theme of the complementary lectures is 'The Epidemic That Won't Quit: Unraveling the HIV Crisis'. The Demystifying Medicine Series, jointly sponsored by FAES and NIH, includes presentations on pathology, diagnosis, and therapy in the context of major disease problems and current research. Primarily directed toward PhD students, clinicians and program managers, this series is designed to help bridge the gap between advances in biology and their application to major human diseases. Each session includes clinical and basic science components presented by NIH staff and invitees. All students, trainees, fellows, and staff are welcome to participate. Individuals who need reasonable accommodation to participate in this event should contact Ms. Diana Gomez at WALSoffice@od.nih.gov or 301-594-6747. For more information go to https://demystifyingmedicine.od.nih.gov/ Air date: 1/20/2026 3:00:00 PM Eastern Time Tue, 20 Jan 2026 20:00:00 GMT"
-     style="
-         background: #ffffff;
-         border-radius: 8px;
-         border-left: 4px solid #2c5aa0;
-         padding: 20px;
-         margin-bottom: 16px;
-         box-shadow: 0 2px 4px rgba(0,0,0,0.05);
-         opacity: 1;
-     ">
+     style="border-left: 4px solid #2c5aa0; opacity: 1;">
     <div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: flex-start; margin-bottom: 8px;">
         <div style="font-size: 0.9em; color: #868e96;">
             Tue, Jan 20, 2026 at 03:00 PM (America/New_York)
         </div>
-        <div>
-            
-        </div>
+        <div></div>
     </div>
     <div style="margin-bottom: 8px;">
-        <span style="
-            display: inline-block;
-            background: #17a2b8;
-            color: white;
-            padding: 2px 10px;
-            border-radius: 4px;
-            font-size: 0.75em;
-        ">nih_videocast_upcoming</span>
-        <span style="display: inline-block; background: #f8f9fa; color: #343a40; padding: 2px 10px; border-radius: 4px; font-size: 0.75em; margin-left: 6px;">Health</span>
+        <span class="badge" style="background: #17a2b8; color: white;">nih_videocast_upcoming</span>
+        <span class="badge" style="background: #f8f9fa; color: #343a40;">Health</span>
         
     </div>
     <h3 style="margin: 8px 0; font-size: 1.15em; color: #343a40; font-weight: 600;">
@@ -992,195 +282,18 @@
 <div class="seminar-card"
      data-source="nih_videocast_upcoming"
      data-category="Health"
-     data-timestamp="1768994100000"
-     data-search="National Advisory Dental and Craniofacial Research Council - January 2026 The National Institute of Dental and Craniofacial Research (NIDCR) supports basic, translational, and clinical research as well as research training and career development to improve overall health for all. To help achieve the goals of the NIDCR, the National Advisory Dental and Craniofacial Research Council (NADCRC) advises, consults with, and makes recommendations to the Secretary, DHHS, and the Director, NIDCR, on matters relating to the direction of research, research support, training and career development supported by the Institute. Included in this responsibility is the conduct of the secondary review of research grant applications with a focus on NIDCR scientific program priorities and program balance as well as the conduct of research by the Division of Intramural Research, NIDCR. Air date: 1/21/2026 11:15:00 AM Eastern Time Wed, 21 Jan 2026 16:15:00 GMT"
-     style="
-         background: #ffffff;
-         border-radius: 8px;
-         border-left: 4px solid #2c5aa0;
-         padding: 20px;
-         margin-bottom: 16px;
-         box-shadow: 0 2px 4px rgba(0,0,0,0.05);
-         opacity: 1;
-     ">
-    <div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: flex-start; margin-bottom: 8px;">
-        <div style="font-size: 0.9em; color: #868e96;">
-            Wed, Jan 21, 2026 at 11:15 AM (America/New_York)
-        </div>
-        <div>
-            
-        </div>
-    </div>
-    <div style="margin-bottom: 8px;">
-        <span style="
-            display: inline-block;
-            background: #17a2b8;
-            color: white;
-            padding: 2px 10px;
-            border-radius: 4px;
-            font-size: 0.75em;
-        ">nih_videocast_upcoming</span>
-        <span style="display: inline-block; background: #f8f9fa; color: #343a40; padding: 2px 10px; border-radius: 4px; font-size: 0.75em; margin-left: 6px;">Health</span>
-        
-    </div>
-    <h3 style="margin: 8px 0; font-size: 1.15em; color: #343a40; font-weight: 600;">
-        National Advisory Dental and Craniofacial Research Council - January 2026
-    </h3>
-    <p style="font-size: 0.9em; color: #6c757d; margin: 8px 0; line-height: 1.5;">The National Institute of Dental and Craniofacial Research (NIDCR) supports basic, translational, and clinical research as well as research training and career development to improve overall health fo...</p>
-    <div style="margin-top: 12px;"><a href="https://videocast.nih.gov/watch=57120" target="_blank" style="color: #2c5aa0; text-decoration: none; font-size: 0.9em;">View Event</a></div>
-</div>
-<div class="seminar-card"
-     data-source="nih_videocast_upcoming"
-     data-category="Health"
-     data-timestamp="1768996800000"
-     data-search="2026 NLM Colloquia Series The NLM Division of Intramural Research (DIR) is pleased to welcome Li Shen, PhD, Professor of Informatics and Radiology at Perelman School of Medicine, University of Pennsylvania, to present his lecture entitled “Harnessing AI and Informatics for Dementia and Aging Research” at our upcoming NLM Colloquia on Biomedical Data Science and Computational Biology Research. Air date: 1/21/2026 12:00:00 PM Eastern Time Wed, 21 Jan 2026 17:00:00 GMT"
-     style="
-         background: #ffffff;
-         border-radius: 8px;
-         border-left: 4px solid #2c5aa0;
-         padding: 20px;
-         margin-bottom: 16px;
-         box-shadow: 0 2px 4px rgba(0,0,0,0.05);
-         opacity: 1;
-     ">
-    <div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: flex-start; margin-bottom: 8px;">
-        <div style="font-size: 0.9em; color: #868e96;">
-            Wed, Jan 21, 2026 at 12:00 PM (America/New_York)
-        </div>
-        <div>
-            
-        </div>
-    </div>
-    <div style="margin-bottom: 8px;">
-        <span style="
-            display: inline-block;
-            background: #17a2b8;
-            color: white;
-            padding: 2px 10px;
-            border-radius: 4px;
-            font-size: 0.75em;
-        ">nih_videocast_upcoming</span>
-        <span style="display: inline-block; background: #f8f9fa; color: #343a40; padding: 2px 10px; border-radius: 4px; font-size: 0.75em; margin-left: 6px;">Health</span>
-        
-    </div>
-    <h3 style="margin: 8px 0; font-size: 1.15em; color: #343a40; font-weight: 600;">
-        2026 NLM Colloquia Series
-    </h3>
-    <p style="font-size: 0.9em; color: #6c757d; margin: 8px 0; line-height: 1.5;">The NLM Division of Intramural Research (DIR) is pleased to welcome Li Shen, PhD, Professor of Informatics and Radiology at Perelman School of Medicine, University of Pennsylvania, to present his lect...</p>
-    <div style="margin-top: 12px;"><a href="https://videocast.nih.gov/watch=57208" target="_blank" style="color: #2c5aa0; text-decoration: none; font-size: 0.9em;">View Event</a></div>
-</div>
-<div class="seminar-card"
-     data-source="nih_videocast_upcoming"
-     data-category="Health"
-     data-timestamp="1768996800000"
-     data-search="Clinical Center Grand Rounds: Emerging Critical Roles of the Science of Aging and Resilience in Population Health Emerging Critical Roles of the Science of Aging and Resilience in Population Health Luigi Ferrucci, MD, PhD Scientific Director &amp; Senior Investigator Longitudinal Studies Section National Institute on Aging For more information go to https://www.cc.nih.gov/events/cme Air date: 1/21/2026 12:00:00 PM Eastern Time Wed, 21 Jan 2026 17:00:00 GMT"
-     style="
-         background: #ffffff;
-         border-radius: 8px;
-         border-left: 4px solid #2c5aa0;
-         padding: 20px;
-         margin-bottom: 16px;
-         box-shadow: 0 2px 4px rgba(0,0,0,0.05);
-         opacity: 1;
-     ">
-    <div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: flex-start; margin-bottom: 8px;">
-        <div style="font-size: 0.9em; color: #868e96;">
-            Wed, Jan 21, 2026 at 12:00 PM (America/New_York)
-        </div>
-        <div>
-            
-        </div>
-    </div>
-    <div style="margin-bottom: 8px;">
-        <span style="
-            display: inline-block;
-            background: #17a2b8;
-            color: white;
-            padding: 2px 10px;
-            border-radius: 4px;
-            font-size: 0.75em;
-        ">nih_videocast_upcoming</span>
-        <span style="display: inline-block; background: #f8f9fa; color: #343a40; padding: 2px 10px; border-radius: 4px; font-size: 0.75em; margin-left: 6px;">Health</span>
-        
-    </div>
-    <h3 style="margin: 8px 0; font-size: 1.15em; color: #343a40; font-weight: 600;">
-        Clinical Center Grand Rounds: Emerging Critical Roles of the Science of Aging and Resilience in Population Health
-    </h3>
-    <p style="font-size: 0.9em; color: #6c757d; margin: 8px 0; line-height: 1.5;">Emerging Critical Roles of the Science of Aging and Resilience in Population Health Luigi Ferrucci, MD, PhD Scientific Director &amp; Senior Investigator Longitudinal Studies Section National Institut...</p>
-    <div style="margin-top: 12px;"><a href="https://videocast.nih.gov/watch=57203" target="_blank" style="color: #2c5aa0; text-decoration: none; font-size: 0.9em;">View Event</a></div>
-</div>
-<div class="seminar-card"
-     data-source="nih_videocast_upcoming"
-     data-category="Health"
-     data-timestamp="1769004000000"
-     data-search="WALS: The Emotional Brain: Role in Depression and Addiction Huda Akil is a neuroscientist whose research has contributed to the understanding of the neurobiology of emotions, including pain, anxiety, depression, and substance abuse. Akil and her colleagues are best known for providing the first physiological evidence for a role of endorphins in the brain and demonstrating that endorphins are activated by stress and can cause pain inhibition. Akil is a Gardner C. Quarton Distinguished Professor of Neurosciences in the Department of Psychiatry at the University of Michigan Medical School. She previously served as co-director of the Molecular and Behavioral Neuroscience institute and the University of Michigan node of the Pritzker Neuropsychiatric Disorders Research Consortium with her husband, Stanley Watson. Akil is also one of seven leading scientists that comprise the Hope For Depression Research Task Force, whom developed a research plan that combines the currently most advanced knowledge in genetics, epigenetics, molecular biology, electrophysiology, and brain imaging in an effort to accelerate cutting-edge scientific research pertaining to depression and its related mood and emotional disorders. Throughout her career, she has been honored with numerous awards and membership to various societies, most notably she served as a past President of the Society for Neuroscience, the largest neuroscience organization in the world. For more information go to https://oir.nih.gov/wals Air date: 1/21/2026 2:00:00 PM Eastern Time Wed, 21 Jan 2026 19:00:00 GMT"
-     style="
-         background: #ffffff;
-         border-radius: 8px;
-         border-left: 4px solid #2c5aa0;
-         padding: 20px;
-         margin-bottom: 16px;
-         box-shadow: 0 2px 4px rgba(0,0,0,0.05);
-         opacity: 1;
-     ">
-    <div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: flex-start; margin-bottom: 8px;">
-        <div style="font-size: 0.9em; color: #868e96;">
-            Wed, Jan 21, 2026 at 02:00 PM (America/New_York)
-        </div>
-        <div>
-            
-        </div>
-    </div>
-    <div style="margin-bottom: 8px;">
-        <span style="
-            display: inline-block;
-            background: #17a2b8;
-            color: white;
-            padding: 2px 10px;
-            border-radius: 4px;
-            font-size: 0.75em;
-        ">nih_videocast_upcoming</span>
-        <span style="display: inline-block; background: #f8f9fa; color: #343a40; padding: 2px 10px; border-radius: 4px; font-size: 0.75em; margin-left: 6px;">Health</span>
-        
-    </div>
-    <h3 style="margin: 8px 0; font-size: 1.15em; color: #343a40; font-weight: 600;">
-        WALS: The Emotional Brain: Role in Depression and Addiction
-    </h3>
-    <p style="font-size: 0.9em; color: #6c757d; margin: 8px 0; line-height: 1.5;">Huda Akil is a neuroscientist whose research has contributed to the understanding of the neurobiology of emotions, including pain, anxiety, depression, and substance abuse. Akil and her colleagues are...</p>
-    <div style="margin-top: 12px;"><a href="https://videocast.nih.gov/watch=57180" target="_blank" style="color: #2c5aa0; text-decoration: none; font-size: 0.9em;">View Event</a></div>
-</div>
-<div class="seminar-card"
-     data-source="nih_videocast_upcoming"
-     data-category="Health"
-     data-timestamp="1769011200000"
+     data-section="upcoming"
      data-search="NIH-FDA Immunology Interest Group (IIG) seminar series IIG weekly seminar series features the world-renown experts in the field of immunology. The speakers are nominated by the members of immunology community from the NIH and FDA. Air date: 1/21/2026 4:00:00 PM Eastern Time Wed, 21 Jan 2026 21:00:00 GMT"
-     style="
-         background: #ffffff;
-         border-radius: 8px;
-         border-left: 4px solid #2c5aa0;
-         padding: 20px;
-         margin-bottom: 16px;
-         box-shadow: 0 2px 4px rgba(0,0,0,0.05);
-         opacity: 1;
-     ">
+     style="border-left: 4px solid #2c5aa0; opacity: 1;">
     <div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: flex-start; margin-bottom: 8px;">
         <div style="font-size: 0.9em; color: #868e96;">
             Wed, Jan 21, 2026 at 04:00 PM (America/New_York)
         </div>
-        <div>
-            
-        </div>
+        <div></div>
     </div>
     <div style="margin-bottom: 8px;">
-        <span style="
-            display: inline-block;
-            background: #17a2b8;
-            color: white;
-            padding: 2px 10px;
-            border-radius: 4px;
-            font-size: 0.75em;
-        ">nih_videocast_upcoming</span>
-        <span style="display: inline-block; background: #f8f9fa; color: #343a40; padding: 2px 10px; border-radius: 4px; font-size: 0.75em; margin-left: 6px;">Health</span>
+        <span class="badge" style="background: #17a2b8; color: white;">nih_videocast_upcoming</span>
+        <span class="badge" style="background: #f8f9fa; color: #343a40;">Health</span>
         
     </div>
     <h3 style="margin: 8px 0; font-size: 1.15em; color: #343a40; font-weight: 600;">
@@ -1190,77 +303,20 @@
     <div style="margin-top: 12px;"><a href="https://videocast.nih.gov/watch=57091" target="_blank" style="color: #2c5aa0; text-decoration: none; font-size: 0.9em;">View Event</a></div>
 </div>
 <div class="seminar-card"
-     data-source="nih_videocast_upcoming"
-     data-category="Health"
-     data-timestamp="1769086800000"
-     data-search="National Deafness and Other Communication Disorders Advisory Council January 2026 Advises the Secretary, HHS; the Director, NIH; and the Director, NIDCD, on matters relating to the conduct and support of research and research training, health information dissemination, and other programs with respect to normal and disordered processes of hearing, balance, taste, smell, voice, speech, and language. Air date: 1/22/2026 1:00:00 PM Eastern Time Thu, 22 Jan 2026 18:00:00 GMT"
-     style="
-         background: #ffffff;
-         border-radius: 8px;
-         border-left: 4px solid #2c5aa0;
-         padding: 20px;
-         margin-bottom: 16px;
-         box-shadow: 0 2px 4px rgba(0,0,0,0.05);
-         opacity: 1;
-     ">
-    <div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: flex-start; margin-bottom: 8px;">
-        <div style="font-size: 0.9em; color: #868e96;">
-            Thu, Jan 22, 2026 at 01:00 PM (America/New_York)
-        </div>
-        <div>
-            
-        </div>
-    </div>
-    <div style="margin-bottom: 8px;">
-        <span style="
-            display: inline-block;
-            background: #17a2b8;
-            color: white;
-            padding: 2px 10px;
-            border-radius: 4px;
-            font-size: 0.75em;
-        ">nih_videocast_upcoming</span>
-        <span style="display: inline-block; background: #f8f9fa; color: #343a40; padding: 2px 10px; border-radius: 4px; font-size: 0.75em; margin-left: 6px;">Health</span>
-        
-    </div>
-    <h3 style="margin: 8px 0; font-size: 1.15em; color: #343a40; font-weight: 600;">
-        National Deafness and Other Communication Disorders Advisory Council January 2026
-    </h3>
-    <p style="font-size: 0.9em; color: #6c757d; margin: 8px 0; line-height: 1.5;">Advises the Secretary, HHS; the Director, NIH; and the Director, NIDCD, on matters relating to the conduct and support of research and research training, health information dissemination, and other pr...</p>
-    <div style="margin-top: 12px;"><a href="https://videocast.nih.gov/watch=57170" target="_blank" style="color: #2c5aa0; text-decoration: none; font-size: 0.9em;">View Event</a></div>
-</div>
-<div class="seminar-card"
      data-source="unc_global_health"
      data-category="CFAR Events"
-     data-timestamp="1769177700000"
+     data-section="upcoming"
      data-search="Outbreak Analytics and Disease Modeling to Inform Public Health Decision-Making Drs. Kimberly Powers and Justin Lessler are faculty members in the UNC Department of Epidemiology and co-Directors of the Atlantic Coast Center for Infectious Disease Dynamics and Analytics (ACCIDDA). Both specialize in researching infectious disease dynamics, with the goal of informing transmission prevention strategies, policy decisions, and public health programs. Justin has a particular interest in SARS-CoV-2, influenza, cholera, and dengue, while much of Kim’s work has focused on HIV, syphilis, and other STIs. "
-     style="
-         background: #ffffff;
-         border-radius: 8px;
-         border-left: 4px solid #2c5aa0;
-         padding: 20px;
-         margin-bottom: 16px;
-         box-shadow: 0 2px 4px rgba(0,0,0,0.05);
-         opacity: 1;
-     ">
+     style="border-left: 4px solid #2c5aa0; opacity: 1;">
     <div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: flex-start; margin-bottom: 8px;">
         <div style="font-size: 0.9em; color: #868e96;">
             Fri, Jan 23, 2026 at 02:15 PM (America/New_York)
         </div>
-        <div>
-            
-        </div>
+        <div></div>
     </div>
     <div style="margin-bottom: 8px;">
-        <span style="
-            display: inline-block;
-            background: #17a2b8;
-            color: white;
-            padding: 2px 10px;
-            border-radius: 4px;
-            font-size: 0.75em;
-        ">unc_global_health</span>
-        <span style="display: inline-block; background: #f8f9fa; color: #343a40; padding: 2px 10px; border-radius: 4px; font-size: 0.75em; margin-left: 6px;">CFAR Events</span>
+        <span class="badge" style="background: #17a2b8; color: white;">unc_global_health</span>
+        <span class="badge" style="background: #f8f9fa; color: #343a40;">CFAR Events</span>
         
     </div>
     <h3 style="margin: 8px 0; font-size: 1.15em; color: #343a40; font-weight: 600;">
@@ -1272,35 +328,18 @@
 <div class="seminar-card"
      data-source="nih_videocast_upcoming"
      data-category="Health"
-     data-timestamp="1769421600000"
+     data-section="upcoming"
      data-search="Lung as the Gateway for Environmental Exposures in Pulmonary and Cardiovascular Disease - Day 1 The National Heart, Lung, and Blood Institute’s Division of Lung Diseases is hosting the virtual workshop “Lung as the Gateway for Environmental Exposures in Pulmonary and Cardiovascular Disease” on Tuesday, October 14, 2025, from 10:00 a.m. to 4:00 p.m. (EDT) and Wednesday October 15, 2025, from 10:00 a.m. to 4:00 p.m. (EDT). Dr. Nadia N. Hansel (Professor of Medicine at the Johns Hopkins University School of Medicine) and Dr. Mary B. Rice (Associate Professor of Medicine at Harvard Medical School) are the workshop co-chairs. This workshop will bring together basic scientists, primary care physicians, pediatricians, neonatologists, pulmonologists, pharmacists, epidemiologists, environmentalists, toxicologists, implementation scientists, data scientists, community representatives, etc., to discuss the unique role of the lung as the interface with the environment, and the pulmonary and cardiovascular consequences of inhalational exposures. Specific objectives include consideration of research gaps and priorities in the following areas: Mechanistic research to understand the pathogenesis of specific pulmonary and cardiovascular diseases following inhaled environmental exposures such as natural disasters and health emergencies (e.g., extreme temperatures, hurricanes, wildfires, etc.): Role of the lung as a sensor and as an immune organ; Understand characteristics of resilient and susceptible airway tree structure (airway dysanapsis); Mechanisms of pulmonary cellular senescence following inhaled exposures over the lifespan; and Pathophysiologic mechanisms of various environmental exposures individually and in combination, taking into account host susceptibility factors including sex as a biological variable. Research tools: Multi-omic approaches; and Identification of novel biomarkers in biospecimens, and use of personal monitors and imaging to assess the exposures individuals have over their lifetime Epidemiologic studies and data integration: Representative human coho Mon, 26 Jan 2026 15:00:00 GMT"
-     style="
-         background: #ffffff;
-         border-radius: 8px;
-         border-left: 4px solid #2c5aa0;
-         padding: 20px;
-         margin-bottom: 16px;
-         box-shadow: 0 2px 4px rgba(0,0,0,0.05);
-         opacity: 1;
-     ">
+     style="border-left: 4px solid #2c5aa0; opacity: 1;">
     <div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: flex-start; margin-bottom: 8px;">
         <div style="font-size: 0.9em; color: #868e96;">
             Mon, Jan 26, 2026 at 10:00 AM (America/New_York)
         </div>
-        <div>
-            
-        </div>
+        <div></div>
     </div>
     <div style="margin-bottom: 8px;">
-        <span style="
-            display: inline-block;
-            background: #17a2b8;
-            color: white;
-            padding: 2px 10px;
-            border-radius: 4px;
-            font-size: 0.75em;
-        ">nih_videocast_upcoming</span>
-        <span style="display: inline-block; background: #f8f9fa; color: #343a40; padding: 2px 10px; border-radius: 4px; font-size: 0.75em; margin-left: 6px;">Health</span>
+        <span class="badge" style="background: #17a2b8; color: white;">nih_videocast_upcoming</span>
+        <span class="badge" style="background: #f8f9fa; color: #343a40;">Health</span>
         
     </div>
     <h3 style="margin: 8px 0; font-size: 1.15em; color: #343a40; font-weight: 600;">
@@ -1312,115 +351,18 @@
 <div class="seminar-card"
      data-source="nih_videocast_upcoming"
      data-category="Health"
-     data-timestamp="1769428800000"
-     data-search="January 2026 National Advisory Child Health and Human Development (NACHHD) Council Meeting January 2026 National Advisory Child Health and Human Development (NACHHD) Council Meeting Air date: 1/26/2026 12:00:00 PM Eastern Time Mon, 26 Jan 2026 17:00:00 GMT"
-     style="
-         background: #ffffff;
-         border-radius: 8px;
-         border-left: 4px solid #2c5aa0;
-         padding: 20px;
-         margin-bottom: 16px;
-         box-shadow: 0 2px 4px rgba(0,0,0,0.05);
-         opacity: 1;
-     ">
-    <div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: flex-start; margin-bottom: 8px;">
-        <div style="font-size: 0.9em; color: #868e96;">
-            Mon, Jan 26, 2026 at 12:00 PM (America/New_York)
-        </div>
-        <div>
-            
-        </div>
-    </div>
-    <div style="margin-bottom: 8px;">
-        <span style="
-            display: inline-block;
-            background: #17a2b8;
-            color: white;
-            padding: 2px 10px;
-            border-radius: 4px;
-            font-size: 0.75em;
-        ">nih_videocast_upcoming</span>
-        <span style="display: inline-block; background: #f8f9fa; color: #343a40; padding: 2px 10px; border-radius: 4px; font-size: 0.75em; margin-left: 6px;">Health</span>
-        
-    </div>
-    <h3 style="margin: 8px 0; font-size: 1.15em; color: #343a40; font-weight: 600;">
-        January 2026 National Advisory Child Health and Human Development (NACHHD) Council Meeting
-    </h3>
-    <p style="font-size: 0.9em; color: #6c757d; margin: 8px 0; line-height: 1.5;">January 2026 National Advisory Child Health and Human Development (NACHHD) Council Meeting Air date: 1/26/2026 12:00:00 PM Eastern Time</p>
-    <div style="margin-top: 12px;"><a href="https://videocast.nih.gov/watch=57182" target="_blank" style="color: #2c5aa0; text-decoration: none; font-size: 0.9em;">View Event</a></div>
-</div>
-<div class="seminar-card"
-     data-source="nih_videocast_upcoming"
-     data-category="Health"
-     data-timestamp="1769506200000"
-     data-search="NIAMS Advisory Council - January 2026 119th Meeting National Arthritis and Musculoskeletal and Skin Diseases Advisory Council, Lindsey Criswell, M.D., M.P.H., D.Sc, Chair, Virtual, January 27, 2026 Air date: 1/27/2026 9:30:00 AM Eastern Time Tue, 27 Jan 2026 14:30:00 GMT"
-     style="
-         background: #ffffff;
-         border-radius: 8px;
-         border-left: 4px solid #2c5aa0;
-         padding: 20px;
-         margin-bottom: 16px;
-         box-shadow: 0 2px 4px rgba(0,0,0,0.05);
-         opacity: 1;
-     ">
-    <div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: flex-start; margin-bottom: 8px;">
-        <div style="font-size: 0.9em; color: #868e96;">
-            Tue, Jan 27, 2026 at 09:30 AM (America/New_York)
-        </div>
-        <div>
-            
-        </div>
-    </div>
-    <div style="margin-bottom: 8px;">
-        <span style="
-            display: inline-block;
-            background: #17a2b8;
-            color: white;
-            padding: 2px 10px;
-            border-radius: 4px;
-            font-size: 0.75em;
-        ">nih_videocast_upcoming</span>
-        <span style="display: inline-block; background: #f8f9fa; color: #343a40; padding: 2px 10px; border-radius: 4px; font-size: 0.75em; margin-left: 6px;">Health</span>
-        
-    </div>
-    <h3 style="margin: 8px 0; font-size: 1.15em; color: #343a40; font-weight: 600;">
-        NIAMS Advisory Council - January 2026
-    </h3>
-    <p style="font-size: 0.9em; color: #6c757d; margin: 8px 0; line-height: 1.5;">119th Meeting National Arthritis and Musculoskeletal and Skin Diseases Advisory Council, Lindsey Criswell, M.D., M.P.H., D.Sc, Chair, Virtual, January 27, 2026 Air date: 1/27/2026 9:30:00 AM Eastern T...</p>
-    <div style="margin-top: 12px;"><a href="https://videocast.nih.gov/watch=57112" target="_blank" style="color: #2c5aa0; text-decoration: none; font-size: 0.9em;">View Event</a></div>
-</div>
-<div class="seminar-card"
-     data-source="nih_videocast_upcoming"
-     data-category="Health"
-     data-timestamp="1769508000000"
+     data-section="upcoming"
      data-search="Lung as the Gateway for Environmental Exposures in Pulmonary and Cardiovascular Disease - Day 2 The National Heart, Lung, and Blood Institute’s Division of Lung Diseases is hosting the virtual workshop “Lung as the Gateway for Environmental Exposures in Pulmonary and Cardiovascular Disease” on Tuesday, October 14, 2025, from 10:00 a.m. to 4:00 p.m. (EDT) and Wednesday October 15, 2025, from 10:00 a.m. to 4:00 p.m. (EDT). Dr. Nadia N. Hansel (Professor of Medicine at the Johns Hopkins University School of Medicine) and Dr. Mary B. Rice (Associate Professor of Medicine at Harvard Medical School) are the workshop co-chairs. This workshop will bring together basic scientists, primary care physicians, pediatricians, neonatologists, pulmonologists, pharmacists, epidemiologists, environmentalists, toxicologists, implementation scientists, data scientists, community representatives, etc., to discuss the unique role of the lung as the interface with the environment, and the pulmonary and cardiovascular consequences of inhalational exposures. Specific objectives include consideration of research gaps and priorities in the following areas: Mechanistic research to understand the pathogenesis of specific pulmonary and cardiovascular diseases following inhaled environmental exposures such as natural disasters and health emergencies (e.g., extreme temperatures, hurricanes, wildfires, etc.): Role of the lung as a sensor and as an immune organ; Understand characteristics of resilient and susceptible airway tree structure (airway dysanapsis); Mechanisms of pulmonary cellular senescence following inhaled exposures over the lifespan; and Pathophysiologic mechanisms of various environmental exposures individually and in combination, taking into account host susceptibility factors including sex as a biological variable. Research tools: Multi-omic approaches; and Identification of novel biomarkers in biospecimens, and use of personal monitors and imaging to assess the exposures individuals have over their lifetime Epidemiologic studies and data integration: Representative human coho Tue, 27 Jan 2026 15:00:00 GMT"
-     style="
-         background: #ffffff;
-         border-radius: 8px;
-         border-left: 4px solid #2c5aa0;
-         padding: 20px;
-         margin-bottom: 16px;
-         box-shadow: 0 2px 4px rgba(0,0,0,0.05);
-         opacity: 1;
-     ">
+     style="border-left: 4px solid #2c5aa0; opacity: 1;">
     <div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: flex-start; margin-bottom: 8px;">
         <div style="font-size: 0.9em; color: #868e96;">
             Tue, Jan 27, 2026 at 10:00 AM (America/New_York)
         </div>
-        <div>
-            
-        </div>
+        <div></div>
     </div>
     <div style="margin-bottom: 8px;">
-        <span style="
-            display: inline-block;
-            background: #17a2b8;
-            color: white;
-            padding: 2px 10px;
-            border-radius: 4px;
-            font-size: 0.75em;
-        ">nih_videocast_upcoming</span>
-        <span style="display: inline-block; background: #f8f9fa; color: #343a40; padding: 2px 10px; border-radius: 4px; font-size: 0.75em; margin-left: 6px;">Health</span>
+        <span class="badge" style="background: #17a2b8; color: white;">nih_videocast_upcoming</span>
+        <span class="badge" style="background: #f8f9fa; color: #343a40;">Health</span>
         
     </div>
     <h3 style="margin: 8px 0; font-size: 1.15em; color: #343a40; font-weight: 600;">
@@ -1432,275 +374,18 @@
 <div class="seminar-card"
      data-source="nih_videocast_upcoming"
      data-category="Health"
-     data-timestamp="1769508000000"
-     data-search="118th NACNR Council Meeting This is the 118 meeting of the National Advisory Council for Nursing Research. NINR will discuss topics of interest with its Council Members and share information with the public. Air date: 1/27/2026 10:00:00 AM Eastern Time Tue, 27 Jan 2026 15:00:00 GMT"
-     style="
-         background: #ffffff;
-         border-radius: 8px;
-         border-left: 4px solid #2c5aa0;
-         padding: 20px;
-         margin-bottom: 16px;
-         box-shadow: 0 2px 4px rgba(0,0,0,0.05);
-         opacity: 1;
-     ">
-    <div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: flex-start; margin-bottom: 8px;">
-        <div style="font-size: 0.9em; color: #868e96;">
-            Tue, Jan 27, 2026 at 10:00 AM (America/New_York)
-        </div>
-        <div>
-            
-        </div>
-    </div>
-    <div style="margin-bottom: 8px;">
-        <span style="
-            display: inline-block;
-            background: #17a2b8;
-            color: white;
-            padding: 2px 10px;
-            border-radius: 4px;
-            font-size: 0.75em;
-        ">nih_videocast_upcoming</span>
-        <span style="display: inline-block; background: #f8f9fa; color: #343a40; padding: 2px 10px; border-radius: 4px; font-size: 0.75em; margin-left: 6px;">Health</span>
-        
-    </div>
-    <h3 style="margin: 8px 0; font-size: 1.15em; color: #343a40; font-weight: 600;">
-        118th NACNR Council Meeting
-    </h3>
-    <p style="font-size: 0.9em; color: #6c757d; margin: 8px 0; line-height: 1.5;">This is the 118 meeting of the National Advisory Council for Nursing Research. NINR will discuss topics of interest with its Council Members and share information with the public. Air date: 1/27/2026 ...</p>
-    <div style="margin-top: 12px;"><a href="https://videocast.nih.gov/watch=57201" target="_blank" style="color: #2c5aa0; text-decoration: none; font-size: 0.9em;">View Event</a></div>
-</div>
-<div class="seminar-card"
-     data-source="nih_videocast_upcoming"
-     data-category="Health"
-     data-timestamp="1769511600000"
-     data-search="National Advisory Council on Aging The National Advisory Council on Aging (NACA) advises the Secretary of the U.S. Department off Health and Human Services, the Director of NIH and the Director of NIA on it's mission. The Council meets three times a year to consider applications for research and training grants. For more information go to https://www.nia.nih.gov/about/naca Air date: 1/27/2026 11:00:00 AM Eastern Time Tue, 27 Jan 2026 16:00:00 GMT"
-     style="
-         background: #ffffff;
-         border-radius: 8px;
-         border-left: 4px solid #2c5aa0;
-         padding: 20px;
-         margin-bottom: 16px;
-         box-shadow: 0 2px 4px rgba(0,0,0,0.05);
-         opacity: 1;
-     ">
-    <div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: flex-start; margin-bottom: 8px;">
-        <div style="font-size: 0.9em; color: #868e96;">
-            Tue, Jan 27, 2026 at 11:00 AM (America/New_York)
-        </div>
-        <div>
-            
-        </div>
-    </div>
-    <div style="margin-bottom: 8px;">
-        <span style="
-            display: inline-block;
-            background: #17a2b8;
-            color: white;
-            padding: 2px 10px;
-            border-radius: 4px;
-            font-size: 0.75em;
-        ">nih_videocast_upcoming</span>
-        <span style="display: inline-block; background: #f8f9fa; color: #343a40; padding: 2px 10px; border-radius: 4px; font-size: 0.75em; margin-left: 6px;">Health</span>
-        
-    </div>
-    <h3 style="margin: 8px 0; font-size: 1.15em; color: #343a40; font-weight: 600;">
-        National Advisory Council on Aging
-    </h3>
-    <p style="font-size: 0.9em; color: #6c757d; margin: 8px 0; line-height: 1.5;">The National Advisory Council on Aging (NACA) advises the Secretary of the U.S. Department off Health and Human Services, the Director of NIH and the Director of NIA on it's mission. The Council meets...</p>
-    <div style="margin-top: 12px;"><a href="https://videocast.nih.gov/watch=57154" target="_blank" style="color: #2c5aa0; text-decoration: none; font-size: 0.9em;">View Event</a></div>
-</div>
-<div class="seminar-card"
-     data-source="nih_videocast_upcoming"
-     data-category="Health"
-     data-timestamp="1769518800000"
-     data-search="2025 NINDS Director's Awards Ceremony The NINDS Director's Awards Ceremony will be held on Tuesday, January 27, 2026. The ceremony is held annually to recognize individuals whose dedication and efforts support the institute's mission. These individuals have demonstrated superior service and achievements in NINDS programs and initiatives, deserving of special honorary recognition for their exemplary efforts throughout the past calendar year. The NINDS Director will award individual and group awards to staff across the IC. Air date: 1/27/2026 1:00:00 PM Eastern Time Tue, 27 Jan 2026 18:00:00 GMT"
-     style="
-         background: #ffffff;
-         border-radius: 8px;
-         border-left: 4px solid #2c5aa0;
-         padding: 20px;
-         margin-bottom: 16px;
-         box-shadow: 0 2px 4px rgba(0,0,0,0.05);
-         opacity: 1;
-     ">
-    <div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: flex-start; margin-bottom: 8px;">
-        <div style="font-size: 0.9em; color: #868e96;">
-            Tue, Jan 27, 2026 at 01:00 PM (America/New_York)
-        </div>
-        <div>
-            
-        </div>
-    </div>
-    <div style="margin-bottom: 8px;">
-        <span style="
-            display: inline-block;
-            background: #17a2b8;
-            color: white;
-            padding: 2px 10px;
-            border-radius: 4px;
-            font-size: 0.75em;
-        ">nih_videocast_upcoming</span>
-        <span style="display: inline-block; background: #f8f9fa; color: #343a40; padding: 2px 10px; border-radius: 4px; font-size: 0.75em; margin-left: 6px;">Health</span>
-        
-    </div>
-    <h3 style="margin: 8px 0; font-size: 1.15em; color: #343a40; font-weight: 600;">
-        2025 NINDS Director's Awards Ceremony
-    </h3>
-    <p style="font-size: 0.9em; color: #6c757d; margin: 8px 0; line-height: 1.5;">The NINDS Director's Awards Ceremony will be held on Tuesday, January 27, 2026. The ceremony is held annually to recognize individuals whose dedication and efforts support the institute's mission. The...</p>
-    <div style="margin-top: 12px;"><a href="https://videocast.nih.gov/watch=57157" target="_blank" style="color: #2c5aa0; text-decoration: none; font-size: 0.9em;">View Event</a></div>
-</div>
-<div class="seminar-card"
-     data-source="nih_videocast_upcoming"
-     data-category="Health"
-     data-timestamp="1769526000000"
-     data-search="Demystifying Medicine—Finding the Invisible: Frontiers in Cancer Detection This week's speakers in the Demystifying Medicine Series are Stephen Chanock, M.D. (NIH NCI) and Pardis Sabeti, M.D., Ph.D. (Broad Institute). The theme of the complementary lectures is 'Finding the Invisible: Frontiers in Cancer Detection'. The Demystifying Medicine Series, jointly sponsored by FAES and NIH, includes presentations on pathology, diagnosis, and therapy in the context of major disease problems and current research. Primarily directed toward PhD students, clinicians and program managers, this series is designed to help bridge the gap between advances in biology and their application to major human diseases. Each session includes clinical and basic science components presented by NIH staff and invitees. All students, trainees, fellows, and staff are welcome to participate. Individuals who need reasonable accommodation to participate in this event should contact Ms. Diana Gomez at WALSoffice@od.nih.gov or 301-594-6747 For more information go to https://demystifyingmedicine.od.nih.gov/ Air date: 1/27/2026 3:00:00 PM Eastern Time Tue, 27 Jan 2026 20:00:00 GMT"
-     style="
-         background: #ffffff;
-         border-radius: 8px;
-         border-left: 4px solid #2c5aa0;
-         padding: 20px;
-         margin-bottom: 16px;
-         box-shadow: 0 2px 4px rgba(0,0,0,0.05);
-         opacity: 1;
-     ">
-    <div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: flex-start; margin-bottom: 8px;">
-        <div style="font-size: 0.9em; color: #868e96;">
-            Tue, Jan 27, 2026 at 03:00 PM (America/New_York)
-        </div>
-        <div>
-            
-        </div>
-    </div>
-    <div style="margin-bottom: 8px;">
-        <span style="
-            display: inline-block;
-            background: #17a2b8;
-            color: white;
-            padding: 2px 10px;
-            border-radius: 4px;
-            font-size: 0.75em;
-        ">nih_videocast_upcoming</span>
-        <span style="display: inline-block; background: #f8f9fa; color: #343a40; padding: 2px 10px; border-radius: 4px; font-size: 0.75em; margin-left: 6px;">Health</span>
-        
-    </div>
-    <h3 style="margin: 8px 0; font-size: 1.15em; color: #343a40; font-weight: 600;">
-        Demystifying Medicine—Finding the Invisible: Frontiers in Cancer Detection
-    </h3>
-    <p style="font-size: 0.9em; color: #6c757d; margin: 8px 0; line-height: 1.5;">This week's speakers in the Demystifying Medicine Series are Stephen Chanock, M.D. (NIH NCI) and Pardis Sabeti, M.D., Ph.D. (Broad Institute). The theme of the complementary lectures is "Finding the I...</p>
-    <div style="margin-top: 12px;"><a href="https://videocast.nih.gov/watch=57189" target="_blank" style="color: #2c5aa0; text-decoration: none; font-size: 0.9em;">View Event</a></div>
-</div>
-<div class="seminar-card"
-     data-source="nih_videocast_upcoming"
-     data-category="Health"
-     data-timestamp="1769601600000"
-     data-search="National Advisory Council for Biomedical Imaging and Bioengineering This is the 70th meeting of the National Advisory Council for Biomedical Imaging and Bioengineering Air date: 1/28/2026 12:00:00 PM Eastern Time Wed, 28 Jan 2026 17:00:00 GMT"
-     style="
-         background: #ffffff;
-         border-radius: 8px;
-         border-left: 4px solid #2c5aa0;
-         padding: 20px;
-         margin-bottom: 16px;
-         box-shadow: 0 2px 4px rgba(0,0,0,0.05);
-         opacity: 1;
-     ">
-    <div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: flex-start; margin-bottom: 8px;">
-        <div style="font-size: 0.9em; color: #868e96;">
-            Wed, Jan 28, 2026 at 12:00 PM (America/New_York)
-        </div>
-        <div>
-            
-        </div>
-    </div>
-    <div style="margin-bottom: 8px;">
-        <span style="
-            display: inline-block;
-            background: #17a2b8;
-            color: white;
-            padding: 2px 10px;
-            border-radius: 4px;
-            font-size: 0.75em;
-        ">nih_videocast_upcoming</span>
-        <span style="display: inline-block; background: #f8f9fa; color: #343a40; padding: 2px 10px; border-radius: 4px; font-size: 0.75em; margin-left: 6px;">Health</span>
-        
-    </div>
-    <h3 style="margin: 8px 0; font-size: 1.15em; color: #343a40; font-weight: 600;">
-        National Advisory Council for Biomedical Imaging and Bioengineering
-    </h3>
-    <p style="font-size: 0.9em; color: #6c757d; margin: 8px 0; line-height: 1.5;">This is the 70th meeting of the National Advisory Council for Biomedical Imaging and Bioengineering Air date: 1/28/2026 12:00:00 PM Eastern Time</p>
-    <div style="margin-top: 12px;"><a href="https://videocast.nih.gov/watch=57210" target="_blank" style="color: #2c5aa0; text-decoration: none; font-size: 0.9em;">View Event</a></div>
-</div>
-<div class="seminar-card"
-     data-source="nih_videocast_upcoming"
-     data-category="Health"
-     data-timestamp="1769601600000"
-     data-search="Clinical Center: Adventure At C: Ascorbic Acid (Vitamin C) In Health and Disease Mark Levine, MD Section Chief Molecular and Clinical Nutrition Section Digestive Disease Branch National Institute of Diabetes and Digestive and Kidney Diseases For more information go to https://www.cc.nih.gov/events/cme Air date: 1/28/2026 12:00:00 PM Eastern Time Wed, 28 Jan 2026 17:00:00 GMT"
-     style="
-         background: #ffffff;
-         border-radius: 8px;
-         border-left: 4px solid #2c5aa0;
-         padding: 20px;
-         margin-bottom: 16px;
-         box-shadow: 0 2px 4px rgba(0,0,0,0.05);
-         opacity: 1;
-     ">
-    <div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: flex-start; margin-bottom: 8px;">
-        <div style="font-size: 0.9em; color: #868e96;">
-            Wed, Jan 28, 2026 at 12:00 PM (America/New_York)
-        </div>
-        <div>
-            
-        </div>
-    </div>
-    <div style="margin-bottom: 8px;">
-        <span style="
-            display: inline-block;
-            background: #17a2b8;
-            color: white;
-            padding: 2px 10px;
-            border-radius: 4px;
-            font-size: 0.75em;
-        ">nih_videocast_upcoming</span>
-        <span style="display: inline-block; background: #f8f9fa; color: #343a40; padding: 2px 10px; border-radius: 4px; font-size: 0.75em; margin-left: 6px;">Health</span>
-        
-    </div>
-    <h3 style="margin: 8px 0; font-size: 1.15em; color: #343a40; font-weight: 600;">
-        Clinical Center: Adventure At C: Ascorbic Acid (Vitamin C) In Health and Disease
-    </h3>
-    <p style="font-size: 0.9em; color: #6c757d; margin: 8px 0; line-height: 1.5;">Mark Levine, MD Section Chief Molecular and Clinical Nutrition Section Digestive Disease Branch National Institute of Diabetes and Digestive and Kidney Diseases For more information go to https://www....</p>
-    <div style="margin-top: 12px;"><a href="https://videocast.nih.gov/watch=57204" target="_blank" style="color: #2c5aa0; text-decoration: none; font-size: 0.9em;">View Event</a></div>
-</div>
-<div class="seminar-card"
-     data-source="nih_videocast_upcoming"
-     data-category="Health"
-     data-timestamp="1769608800000"
+     data-section="upcoming"
      data-search="WALS- Rolla E. Dyer Lecture- A Cure for Hepatitis C: Now What? Dr. Rice has co-authored over 500 articles in the field of virology, serves as a reviewer for numerous journals, is a past President of the American Society for Virology, a Fellow of the American Association for the Advancement of Science, a Member of the U. S. National Academy of Sciences, and a recipient of the M. W. Beijernick, Dautrebande, Robert Koch, InBev Baillet-Latour prizes, the Lasker-Debakey Clinical Medical Research Award, and the Nobel Prize in Physiology or Medicine. For more information go to https://oir.nih.gov/wals Air date: 1/28/2026 2:00:00 PM Eastern Time Wed, 28 Jan 2026 19:00:00 GMT"
-     style="
-         background: #ffffff;
-         border-radius: 8px;
-         border-left: 4px solid #2c5aa0;
-         padding: 20px;
-         margin-bottom: 16px;
-         box-shadow: 0 2px 4px rgba(0,0,0,0.05);
-         opacity: 1;
-     ">
+     style="border-left: 4px solid #2c5aa0; opacity: 1;">
     <div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: flex-start; margin-bottom: 8px;">
         <div style="font-size: 0.9em; color: #868e96;">
             Wed, Jan 28, 2026 at 02:00 PM (America/New_York)
         </div>
-        <div>
-            
-        </div>
+        <div></div>
     </div>
     <div style="margin-bottom: 8px;">
-        <span style="
-            display: inline-block;
-            background: #17a2b8;
-            color: white;
-            padding: 2px 10px;
-            border-radius: 4px;
-            font-size: 0.75em;
-        ">nih_videocast_upcoming</span>
-        <span style="display: inline-block; background: #f8f9fa; color: #343a40; padding: 2px 10px; border-radius: 4px; font-size: 0.75em; margin-left: 6px;">Health</span>
+        <span class="badge" style="background: #17a2b8; color: white;">nih_videocast_upcoming</span>
+        <span class="badge" style="background: #f8f9fa; color: #343a40;">Health</span>
         
     </div>
     <h3 style="margin: 8px 0; font-size: 1.15em; color: #343a40; font-weight: 600;">
@@ -1712,35 +397,18 @@
 <div class="seminar-card"
      data-source="nih_videocast_upcoming"
      data-category="Health"
-     data-timestamp="1769616000000"
+     data-section="upcoming"
      data-search="NIH-FDA Immunology Interest Group (IIG) seminar series IIG weekly seminar series features the world-renown experts in the field of immunology. The speakers are nominated by the members of immunology community from the NIH and FDA. Air date: 1/28/2026 4:00:00 PM Eastern Time Wed, 28 Jan 2026 21:00:00 GMT"
-     style="
-         background: #ffffff;
-         border-radius: 8px;
-         border-left: 4px solid #2c5aa0;
-         padding: 20px;
-         margin-bottom: 16px;
-         box-shadow: 0 2px 4px rgba(0,0,0,0.05);
-         opacity: 1;
-     ">
+     style="border-left: 4px solid #2c5aa0; opacity: 1;">
     <div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: flex-start; margin-bottom: 8px;">
         <div style="font-size: 0.9em; color: #868e96;">
             Wed, Jan 28, 2026 at 04:00 PM (America/New_York)
         </div>
-        <div>
-            
-        </div>
+        <div></div>
     </div>
     <div style="margin-bottom: 8px;">
-        <span style="
-            display: inline-block;
-            background: #17a2b8;
-            color: white;
-            padding: 2px 10px;
-            border-radius: 4px;
-            font-size: 0.75em;
-        ">nih_videocast_upcoming</span>
-        <span style="display: inline-block; background: #f8f9fa; color: #343a40; padding: 2px 10px; border-radius: 4px; font-size: 0.75em; margin-left: 6px;">Health</span>
+        <span class="badge" style="background: #17a2b8; color: white;">nih_videocast_upcoming</span>
+        <span class="badge" style="background: #f8f9fa; color: #343a40;">Health</span>
         
     </div>
     <h3 style="margin: 8px 0; font-size: 1.15em; color: #343a40; font-weight: 600;">
@@ -1752,155 +420,18 @@
 <div class="seminar-card"
      data-source="nih_videocast_upcoming"
      data-category="Health"
-     data-timestamp="1769673600000"
-     data-search="Cardiopulmonary Complications of Hematopoietic Stem Cell Transplantation (HCT) and Gene Therapy Join us for an exclusive, hybrid workshop where multidisciplinary experts come together to explore groundbreaking research, spark collaboration, and chart the future of hematopoietic stem cell transplantation (HCT) and gene therapy in sickle cell disease. This workshop is an opportunity to be at the forefront of scientific discovery and innovation, helping shape the treatment and care of patients experiencing pulmonary complications. For more information go to https://www.nhlbi.nih.gov/events/2026/cardiopulmonary-complications-hematopoietic-stem-cell-transplantation-hct-and-gene Air date: 1/29/2026 8:00:00 AM Eastern Time Thu, 29 Jan 2026 13:00:00 GMT"
-     style="
-         background: #ffffff;
-         border-radius: 8px;
-         border-left: 4px solid #2c5aa0;
-         padding: 20px;
-         margin-bottom: 16px;
-         box-shadow: 0 2px 4px rgba(0,0,0,0.05);
-         opacity: 1;
-     ">
-    <div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: flex-start; margin-bottom: 8px;">
-        <div style="font-size: 0.9em; color: #868e96;">
-            Thu, Jan 29, 2026 at 08:00 AM (America/New_York)
-        </div>
-        <div>
-            
-        </div>
-    </div>
-    <div style="margin-bottom: 8px;">
-        <span style="
-            display: inline-block;
-            background: #17a2b8;
-            color: white;
-            padding: 2px 10px;
-            border-radius: 4px;
-            font-size: 0.75em;
-        ">nih_videocast_upcoming</span>
-        <span style="display: inline-block; background: #f8f9fa; color: #343a40; padding: 2px 10px; border-radius: 4px; font-size: 0.75em; margin-left: 6px;">Health</span>
-        
-    </div>
-    <h3 style="margin: 8px 0; font-size: 1.15em; color: #343a40; font-weight: 600;">
-        Cardiopulmonary Complications of Hematopoietic Stem Cell Transplantation (HCT) and Gene Therapy
-    </h3>
-    <p style="font-size: 0.9em; color: #6c757d; margin: 8px 0; line-height: 1.5;">Join us for an exclusive, hybrid workshop where multidisciplinary experts come together to explore groundbreaking research, spark collaboration, and chart the future of hematopoietic stem cell transpl...</p>
-    <div style="margin-top: 12px;"><a href="https://videocast.nih.gov/watch=57211" target="_blank" style="color: #2c5aa0; text-decoration: none; font-size: 0.9em;">View Event</a></div>
-</div>
-<div class="seminar-card"
-     data-source="nih_videocast_upcoming"
-     data-category="Health"
-     data-timestamp="1769673600000"
-     data-search="NIH Council of Councils The NIH Council of Councils advises the NIH Director on the policies and activities of the Division of Program Coordination, Planning, and Strategic Initiatives (DPCPSI) in the Office of the Director (OD), NIH. The Council meets three times per year to review DPCPSI policies and programs, and to conduct concept clearance and second-level review of selected DPCPSI and OD grant applications. For more information go to https://dpcpsi.nih.gov/council Air date: 1/29/2026 8:00:00 AM Eastern Time Thu, 29 Jan 2026 13:00:00 GMT"
-     style="
-         background: #ffffff;
-         border-radius: 8px;
-         border-left: 4px solid #2c5aa0;
-         padding: 20px;
-         margin-bottom: 16px;
-         box-shadow: 0 2px 4px rgba(0,0,0,0.05);
-         opacity: 1;
-     ">
-    <div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: flex-start; margin-bottom: 8px;">
-        <div style="font-size: 0.9em; color: #868e96;">
-            Thu, Jan 29, 2026 at 08:00 AM (America/New_York)
-        </div>
-        <div>
-            
-        </div>
-    </div>
-    <div style="margin-bottom: 8px;">
-        <span style="
-            display: inline-block;
-            background: #17a2b8;
-            color: white;
-            padding: 2px 10px;
-            border-radius: 4px;
-            font-size: 0.75em;
-        ">nih_videocast_upcoming</span>
-        <span style="display: inline-block; background: #f8f9fa; color: #343a40; padding: 2px 10px; border-radius: 4px; font-size: 0.75em; margin-left: 6px;">Health</span>
-        
-    </div>
-    <h3 style="margin: 8px 0; font-size: 1.15em; color: #343a40; font-weight: 600;">
-        NIH Council of Councils
-    </h3>
-    <p style="font-size: 0.9em; color: #6c757d; margin: 8px 0; line-height: 1.5;">The NIH Council of Councils advises the NIH Director on the policies and activities of the Division of Program Coordination, Planning, and Strategic Initiatives (DPCPSI) in the Office of the Director ...</p>
-    <div style="margin-top: 12px;"><a href="https://videocast.nih.gov/watch=57194" target="_blank" style="color: #2c5aa0; text-decoration: none; font-size: 0.9em;">View Event</a></div>
-</div>
-<div class="seminar-card"
-     data-source="nih_videocast_upcoming"
-     data-category="Health"
-     data-timestamp="1769688000000"
-     data-search="BRAIN Neuroethics Working Group (NEWG) Meeting The NEWG is a group of experts in neuroethics and neuroscience that serves to provide the NIH BRAIN Initiative with input relating to neuroethics. The group was formed in the summer of 2015. The NEWG is one part of the neuroethics efforts of the NIH BRAIN Initiative, which includes a multi-part strategy to achieve proactive, ongoing assessment and management of the neuroethical implications of the development and application of BRAIN-funded tools and neurotechnologies. For more information go to https://braininitiative.nih.gov/news-events/events Air date: 1/29/2026 12:00:00 PM Eastern Time Thu, 29 Jan 2026 17:00:00 GMT"
-     style="
-         background: #ffffff;
-         border-radius: 8px;
-         border-left: 4px solid #2c5aa0;
-         padding: 20px;
-         margin-bottom: 16px;
-         box-shadow: 0 2px 4px rgba(0,0,0,0.05);
-         opacity: 1;
-     ">
-    <div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: flex-start; margin-bottom: 8px;">
-        <div style="font-size: 0.9em; color: #868e96;">
-            Thu, Jan 29, 2026 at 12:00 PM (America/New_York)
-        </div>
-        <div>
-            
-        </div>
-    </div>
-    <div style="margin-bottom: 8px;">
-        <span style="
-            display: inline-block;
-            background: #17a2b8;
-            color: white;
-            padding: 2px 10px;
-            border-radius: 4px;
-            font-size: 0.75em;
-        ">nih_videocast_upcoming</span>
-        <span style="display: inline-block; background: #f8f9fa; color: #343a40; padding: 2px 10px; border-radius: 4px; font-size: 0.75em; margin-left: 6px;">Health</span>
-        
-    </div>
-    <h3 style="margin: 8px 0; font-size: 1.15em; color: #343a40; font-weight: 600;">
-        BRAIN Neuroethics Working Group (NEWG) Meeting
-    </h3>
-    <p style="font-size: 0.9em; color: #6c757d; margin: 8px 0; line-height: 1.5;">The NEWG is a group of experts in neuroethics and neuroscience that serves to provide the NIH BRAIN Initiative with input relating to neuroethics. The group was formed in the summer of 2015. The NEWG ...</p>
-    <div style="margin-top: 12px;"><a href="https://videocast.nih.gov/watch=57118" target="_blank" style="color: #2c5aa0; text-decoration: none; font-size: 0.9em;">View Event</a></div>
-</div>
-<div class="seminar-card"
-     data-source="nih_videocast_upcoming"
-     data-category="Health"
-     data-timestamp="1769689800000"
+     data-section="upcoming"
      data-search="70th Office of AIDS Research Advisory Council Meeting The 70th OARAC meeting will include a report from the OAR Director, Council Members, other Institute Staff and discussions. Air date: 1/29/2026 12:30:00 PM Eastern Time Thu, 29 Jan 2026 17:30:00 GMT"
-     style="
-         background: #ffffff;
-         border-radius: 8px;
-         border-left: 4px solid #2c5aa0;
-         padding: 20px;
-         margin-bottom: 16px;
-         box-shadow: 0 2px 4px rgba(0,0,0,0.05);
-         opacity: 1;
-     ">
+     style="border-left: 4px solid #2c5aa0; opacity: 1;">
     <div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: flex-start; margin-bottom: 8px;">
         <div style="font-size: 0.9em; color: #868e96;">
             Thu, Jan 29, 2026 at 12:30 PM (America/New_York)
         </div>
-        <div>
-            
-        </div>
+        <div></div>
     </div>
     <div style="margin-bottom: 8px;">
-        <span style="
-            display: inline-block;
-            background: #17a2b8;
-            color: white;
-            padding: 2px 10px;
-            border-radius: 4px;
-            font-size: 0.75em;
-        ">nih_videocast_upcoming</span>
-        <span style="display: inline-block; background: #f8f9fa; color: #343a40; padding: 2px 10px; border-radius: 4px; font-size: 0.75em; margin-left: 6px;">Health</span>
+        <span class="badge" style="background: #17a2b8; color: white;">nih_videocast_upcoming</span>
+        <span class="badge" style="background: #f8f9fa; color: #343a40;">Health</span>
         
     </div>
     <h3 style="margin: 8px 0; font-size: 1.15em; color: #343a40; font-weight: 600;">
@@ -1910,197 +441,20 @@
     <div style="margin-top: 12px;"><a href="https://videocast.nih.gov/watch=57165" target="_blank" style="color: #2c5aa0; text-decoration: none; font-size: 0.9em;">View Event</a></div>
 </div>
 <div class="seminar-card"
-     data-source="nih_videocast_upcoming"
-     data-category="Health"
-     data-timestamp="1769691600000"
-     data-search="National Center for Advancing Translational Sciences Advisory Council The NCATS Advisory Council will convene a virtual meeting on Jan 29, 2026. For more information go to https://ncats.nih.gov/about/advisory-committees/advisory-council/meetings Air date: 1/29/2026 1:00:00 PM Eastern Time Thu, 29 Jan 2026 18:00:00 GMT"
-     style="
-         background: #ffffff;
-         border-radius: 8px;
-         border-left: 4px solid #2c5aa0;
-         padding: 20px;
-         margin-bottom: 16px;
-         box-shadow: 0 2px 4px rgba(0,0,0,0.05);
-         opacity: 1;
-     ">
-    <div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: flex-start; margin-bottom: 8px;">
-        <div style="font-size: 0.9em; color: #868e96;">
-            Thu, Jan 29, 2026 at 01:00 PM (America/New_York)
-        </div>
-        <div>
-            
-        </div>
-    </div>
-    <div style="margin-bottom: 8px;">
-        <span style="
-            display: inline-block;
-            background: #17a2b8;
-            color: white;
-            padding: 2px 10px;
-            border-radius: 4px;
-            font-size: 0.75em;
-        ">nih_videocast_upcoming</span>
-        <span style="display: inline-block; background: #f8f9fa; color: #343a40; padding: 2px 10px; border-radius: 4px; font-size: 0.75em; margin-left: 6px;">Health</span>
-        
-    </div>
-    <h3 style="margin: 8px 0; font-size: 1.15em; color: #343a40; font-weight: 600;">
-        National Center for Advancing Translational Sciences Advisory Council
-    </h3>
-    <p style="font-size: 0.9em; color: #6c757d; margin: 8px 0; line-height: 1.5;">The NCATS Advisory Council will convene a virtual meeting on Jan 29, 2026. For more information go to https://ncats.nih.gov/about/advisory-committees/advisory-council/meetings Air date: 1/29/2026 1:00...</p>
-    <div style="margin-top: 12px;"><a href="https://videocast.nih.gov/watch=57190" target="_blank" style="color: #2c5aa0; text-decoration: none; font-size: 0.9em;">View Event</a></div>
-</div>
-<div class="seminar-card"
-     data-source="nih_videocast_upcoming"
-     data-category="Health"
-     data-timestamp="1769760000000"
-     data-search="Cardiopulmonary Complications of Hematopoietic Stem Cell Transplantation (HCT) and Gene Therapy Join us for an exclusive, hybrid workshop where multidisciplinary experts come together to explore groundbreaking research, spark collaboration, and chart the future of hematopoietic stem cell transplantation (HCT) and gene therapy in sickle cell disease. This workshop is an opportunity to be at the forefront of scientific discovery and innovation, helping shape the treatment and care of patients experiencing pulmonary complications. For more information go to https://www.nhlbi.nih.gov/events/2026/cardiopulmonary-complications-hematopoietic-stem-cell-transplantation-hct-and-gene Air date: 1/30/2026 8:00:00 AM Eastern Time Fri, 30 Jan 2026 13:00:00 GMT"
-     style="
-         background: #ffffff;
-         border-radius: 8px;
-         border-left: 4px solid #2c5aa0;
-         padding: 20px;
-         margin-bottom: 16px;
-         box-shadow: 0 2px 4px rgba(0,0,0,0.05);
-         opacity: 1;
-     ">
-    <div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: flex-start; margin-bottom: 8px;">
-        <div style="font-size: 0.9em; color: #868e96;">
-            Fri, Jan 30, 2026 at 08:00 AM (America/New_York)
-        </div>
-        <div>
-            
-        </div>
-    </div>
-    <div style="margin-bottom: 8px;">
-        <span style="
-            display: inline-block;
-            background: #17a2b8;
-            color: white;
-            padding: 2px 10px;
-            border-radius: 4px;
-            font-size: 0.75em;
-        ">nih_videocast_upcoming</span>
-        <span style="display: inline-block; background: #f8f9fa; color: #343a40; padding: 2px 10px; border-radius: 4px; font-size: 0.75em; margin-left: 6px;">Health</span>
-        
-    </div>
-    <h3 style="margin: 8px 0; font-size: 1.15em; color: #343a40; font-weight: 600;">
-        Cardiopulmonary Complications of Hematopoietic Stem Cell Transplantation (HCT) and Gene Therapy
-    </h3>
-    <p style="font-size: 0.9em; color: #6c757d; margin: 8px 0; line-height: 1.5;">Join us for an exclusive, hybrid workshop where multidisciplinary experts come together to explore groundbreaking research, spark collaboration, and chart the future of hematopoietic stem cell transpl...</p>
-    <div style="margin-top: 12px;"><a href="https://videocast.nih.gov/watch=57219" target="_blank" style="color: #2c5aa0; text-decoration: none; font-size: 0.9em;">View Event</a></div>
-</div>
-<div class="seminar-card"
-     data-source="nih_videocast_upcoming"
-     data-category="Health"
-     data-timestamp="1769763600000"
-     data-search="Clinical Center Research Hospital Board Meeting The NIH Clinical Center is the nation's premier research hospital, serving more than 10,000 new patients each year. Some 1,200 physicians, dentists, and doctoral-level researchers and more than 600 nurses and 450 allied health care professionals provide care to patients and support the research activities of more than 1,600 laboratories. For more information go to https://ccrhb.od.nih.gov/ Air date: 1/30/2026 9:00:00 AM Eastern Time Fri, 30 Jan 2026 14:00:00 GMT"
-     style="
-         background: #ffffff;
-         border-radius: 8px;
-         border-left: 4px solid #2c5aa0;
-         padding: 20px;
-         margin-bottom: 16px;
-         box-shadow: 0 2px 4px rgba(0,0,0,0.05);
-         opacity: 1;
-     ">
-    <div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: flex-start; margin-bottom: 8px;">
-        <div style="font-size: 0.9em; color: #868e96;">
-            Fri, Jan 30, 2026 at 09:00 AM (America/New_York)
-        </div>
-        <div>
-            
-        </div>
-    </div>
-    <div style="margin-bottom: 8px;">
-        <span style="
-            display: inline-block;
-            background: #17a2b8;
-            color: white;
-            padding: 2px 10px;
-            border-radius: 4px;
-            font-size: 0.75em;
-        ">nih_videocast_upcoming</span>
-        <span style="display: inline-block; background: #f8f9fa; color: #343a40; padding: 2px 10px; border-radius: 4px; font-size: 0.75em; margin-left: 6px;">Health</span>
-        
-    </div>
-    <h3 style="margin: 8px 0; font-size: 1.15em; color: #343a40; font-weight: 600;">
-        Clinical Center Research Hospital Board Meeting
-    </h3>
-    <p style="font-size: 0.9em; color: #6c757d; margin: 8px 0; line-height: 1.5;">The NIH Clinical Center is the nation's premier research hospital, serving more than 10,000 new patients each year. Some 1,200 physicians, dentists, and doctoral-level researchers and more than 600 nu...</p>
-    <div style="margin-top: 12px;"><a href="https://videocast.nih.gov/watch=57131" target="_blank" style="color: #2c5aa0; text-decoration: none; font-size: 0.9em;">View Event</a></div>
-</div>
-<div class="seminar-card"
-     data-source="nih_videocast_upcoming"
-     data-category="Health"
-     data-timestamp="1769774400000"
-     data-search="BRAIN Multi-Council Working Group (MCWG) Meeting The BRAIN Initiative Multi-Council Working Group (MCWG) ensures a coordinated and focused effort across NIH and includes representatives from each of the 10 Institutes and Centers (ICs) that contribute to the NIH BRAIN Initiative, with additional at-large members appointed to supplement the working group’s expertise. In addition, the working group includes ex officio members from federal partners Defense Advanced Research Projects Agency (DARPA), U.S. Food and Drug Administration (FDA), Intelligence Advanced Research Projects Activity (IARPA), and National Science Foundation (NSF), and one non-federal partner from the BRAIN Initiative Alliance. Several MCWG members also serve on the BRAIN Initiative Neuroethics Working Group (NEWG), a group of experts in neuroethics and neuroscience that serves to provide the NIH BRAIN Initiative with input relating to neuroethics. The MCWG provides ongoing oversight of the long-term scientific vision of the BRAIN Initiative and regularly offers an assessment of the progress of current BRAIN projects and programs. It also serves as a forum for initial 'concept clearance,' the review of ideas for new initiatives before they can become funding opportunities. Importantly, the working group ensures that each of the BRAIN IC Advisory Councils is informed about BRAIN programs, awards, and progress – as the individual IC Advisory Councils will perform the formal concept clearance and secondary level of review of BRAIN Initiative applications. For more information go to https://braininitiative.nih.gov/news-events/events Air date: 1/30/2026 12:00:00 PM Eastern Time Fri, 30 Jan 2026 17:00:00 GMT"
-     style="
-         background: #ffffff;
-         border-radius: 8px;
-         border-left: 4px solid #2c5aa0;
-         padding: 20px;
-         margin-bottom: 16px;
-         box-shadow: 0 2px 4px rgba(0,0,0,0.05);
-         opacity: 1;
-     ">
-    <div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: flex-start; margin-bottom: 8px;">
-        <div style="font-size: 0.9em; color: #868e96;">
-            Fri, Jan 30, 2026 at 12:00 PM (America/New_York)
-        </div>
-        <div>
-            
-        </div>
-    </div>
-    <div style="margin-bottom: 8px;">
-        <span style="
-            display: inline-block;
-            background: #17a2b8;
-            color: white;
-            padding: 2px 10px;
-            border-radius: 4px;
-            font-size: 0.75em;
-        ">nih_videocast_upcoming</span>
-        <span style="display: inline-block; background: #f8f9fa; color: #343a40; padding: 2px 10px; border-radius: 4px; font-size: 0.75em; margin-left: 6px;">Health</span>
-        
-    </div>
-    <h3 style="margin: 8px 0; font-size: 1.15em; color: #343a40; font-weight: 600;">
-        BRAIN Multi-Council Working Group (MCWG) Meeting
-    </h3>
-    <p style="font-size: 0.9em; color: #6c757d; margin: 8px 0; line-height: 1.5;">The BRAIN Initiative Multi-Council Working Group (MCWG) ensures a coordinated and focused effort across NIH and includes representatives from each of the 10 Institutes and Centers (ICs) that contribut...</p>
-    <div style="margin-top: 12px;"><a href="https://videocast.nih.gov/watch=57119" target="_blank" style="color: #2c5aa0; text-decoration: none; font-size: 0.9em;">View Event</a></div>
-</div>
-<div class="seminar-card"
      data-source="unc_global_health"
      data-category="CFAR Events"
-     data-timestamp="1769782500000"
+     data-section="upcoming"
      data-search="Trust in Science and Research – Community Perceptions of HIV Vaccine Trial Participation Ronald P. Strauss, DMD PhD is the Adams Distinguished Professor at the University of North Carolina at Chapel Hill, Adams School of Dentistry. He served for 14 years as UNC’s Executive Vice Provost (2008-2022) and also was UNC’s Chief International Officer for a decade (2009-2018). He also holds joint appointments in three schools and is a member of the UNC Craniofacial Center Team. For twelve years, he was Chair of the Department of Dental Ecology in the UNC Adams School of Dentistry. Ron’s research has focused on the social impacts of chronic health problems, especially oral/craniofacial differences and HIV/AIDS. His work combines his clinical, social science, ethical, and health policy interests as they relate to craniofacial care, research participation, HIV/AIDS, stigma, prenatal diagnosis, and access to healthcare. "
-     style="
-         background: #ffffff;
-         border-radius: 8px;
-         border-left: 4px solid #2c5aa0;
-         padding: 20px;
-         margin-bottom: 16px;
-         box-shadow: 0 2px 4px rgba(0,0,0,0.05);
-         opacity: 1;
-     ">
+     style="border-left: 4px solid #2c5aa0; opacity: 1;">
     <div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: flex-start; margin-bottom: 8px;">
         <div style="font-size: 0.9em; color: #868e96;">
             Fri, Jan 30, 2026 at 02:15 PM (America/New_York)
         </div>
-        <div>
-            
-        </div>
+        <div></div>
     </div>
     <div style="margin-bottom: 8px;">
-        <span style="
-            display: inline-block;
-            background: #17a2b8;
-            color: white;
-            padding: 2px 10px;
-            border-radius: 4px;
-            font-size: 0.75em;
-        ">unc_global_health</span>
-        <span style="display: inline-block; background: #f8f9fa; color: #343a40; padding: 2px 10px; border-radius: 4px; font-size: 0.75em; margin-left: 6px;">CFAR Events</span>
+        <span class="badge" style="background: #17a2b8; color: white;">unc_global_health</span>
+        <span class="badge" style="background: #f8f9fa; color: #343a40;">CFAR Events</span>
         
     </div>
     <h3 style="margin: 8px 0; font-size: 1.15em; color: #343a40; font-weight: 600;">
@@ -2112,75 +466,18 @@
 <div class="seminar-card"
      data-source="nih_videocast_upcoming"
      data-category="Health"
-     data-timestamp="1770122700000"
-     data-search="152nd Meeting of the National Advisory Council on Drug Abuse The Council meets three times a year, usually in February, May, and September for 1 day. Typically, the first part of the meeting is a two-hour session devoted to reviewing grant applications, and this is closed to the public. The second part is the open session, and issues such as training, research dissemination, programs, and policy are discussed. The NIDA Director presents scientific and administrative topics in the Director's Report. Council subcommittees report on their progress, and staff and other speakers also present various topics. Please see earlier Council agendas for an appreciation of the breadth of issues covered by the National Advisory Council on Drug Abuse. For more information go to https://nida.nih.gov/about-nida/advisory-boards-review-groups/national-advisory-council-drug-abuse-nacda Air date: 2/3/2026 12:45:00 PM Eastern Time Tue, 03 Feb 2026 17:45:00 GMT"
-     style="
-         background: #ffffff;
-         border-radius: 8px;
-         border-left: 4px solid #2c5aa0;
-         padding: 20px;
-         margin-bottom: 16px;
-         box-shadow: 0 2px 4px rgba(0,0,0,0.05);
-         opacity: 1;
-     ">
-    <div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: flex-start; margin-bottom: 8px;">
-        <div style="font-size: 0.9em; color: #868e96;">
-            Tue, Feb 03, 2026 at 12:45 PM (America/New_York)
-        </div>
-        <div>
-            
-        </div>
-    </div>
-    <div style="margin-bottom: 8px;">
-        <span style="
-            display: inline-block;
-            background: #17a2b8;
-            color: white;
-            padding: 2px 10px;
-            border-radius: 4px;
-            font-size: 0.75em;
-        ">nih_videocast_upcoming</span>
-        <span style="display: inline-block; background: #f8f9fa; color: #343a40; padding: 2px 10px; border-radius: 4px; font-size: 0.75em; margin-left: 6px;">Health</span>
-        
-    </div>
-    <h3 style="margin: 8px 0; font-size: 1.15em; color: #343a40; font-weight: 600;">
-        152nd Meeting of the National Advisory Council on Drug Abuse
-    </h3>
-    <p style="font-size: 0.9em; color: #6c757d; margin: 8px 0; line-height: 1.5;">The Council meets three times a year, usually in February, May, and September for 1 day. Typically, the first part of the meeting is a two-hour session devoted to reviewing grant applications, and thi...</p>
-    <div style="margin-top: 12px;"><a href="https://videocast.nih.gov/watch=57212" target="_blank" style="color: #2c5aa0; text-decoration: none; font-size: 0.9em;">View Event</a></div>
-</div>
-<div class="seminar-card"
-     data-source="nih_videocast_upcoming"
-     data-category="Health"
-     data-timestamp="1770220800000"
+     data-section="upcoming"
      data-search="NIH-FDA Immunology Interest Group (IIG) seminar series IIG weekly seminar series features the world-renown experts in the field of immunology. The speakers are nominated by the members of immunology community from the NIH and FDA. Air date: 2/4/2026 4:00:00 PM Eastern Time Wed, 04 Feb 2026 21:00:00 GMT"
-     style="
-         background: #ffffff;
-         border-radius: 8px;
-         border-left: 4px solid #2c5aa0;
-         padding: 20px;
-         margin-bottom: 16px;
-         box-shadow: 0 2px 4px rgba(0,0,0,0.05);
-         opacity: 1;
-     ">
+     style="border-left: 4px solid #2c5aa0; opacity: 1;">
     <div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: flex-start; margin-bottom: 8px;">
         <div style="font-size: 0.9em; color: #868e96;">
             Wed, Feb 04, 2026 at 04:00 PM (America/New_York)
         </div>
-        <div>
-            
-        </div>
+        <div></div>
     </div>
     <div style="margin-bottom: 8px;">
-        <span style="
-            display: inline-block;
-            background: #17a2b8;
-            color: white;
-            padding: 2px 10px;
-            border-radius: 4px;
-            font-size: 0.75em;
-        ">nih_videocast_upcoming</span>
-        <span style="display: inline-block; background: #f8f9fa; color: #343a40; padding: 2px 10px; border-radius: 4px; font-size: 0.75em; margin-left: 6px;">Health</span>
+        <span class="badge" style="background: #17a2b8; color: white;">nih_videocast_upcoming</span>
+        <span class="badge" style="background: #f8f9fa; color: #343a40;">Health</span>
         
     </div>
     <h3 style="margin: 8px 0; font-size: 1.15em; color: #343a40; font-weight: 600;">
@@ -2190,157 +487,20 @@
     <div style="margin-top: 12px;"><a href="https://videocast.nih.gov/watch=57213" target="_blank" style="color: #2c5aa0; text-decoration: none; font-size: 0.9em;">View Event</a></div>
 </div>
 <div class="seminar-card"
-     data-source="nih_videocast_upcoming"
-     data-category="Health"
-     data-timestamp="1770283800000"
-     data-search="NAGMS February 2025 Council Open Session This is a public broadcast of the National Advisory General Medical Sciences (NAGMS) September 2025 Open Session for Council. Air date: 2/5/2026 9:30:00 AM Eastern Time Thu, 05 Feb 2026 14:30:00 GMT"
-     style="
-         background: #ffffff;
-         border-radius: 8px;
-         border-left: 4px solid #2c5aa0;
-         padding: 20px;
-         margin-bottom: 16px;
-         box-shadow: 0 2px 4px rgba(0,0,0,0.05);
-         opacity: 1;
-     ">
-    <div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: flex-start; margin-bottom: 8px;">
-        <div style="font-size: 0.9em; color: #868e96;">
-            Thu, Feb 05, 2026 at 09:30 AM (America/New_York)
-        </div>
-        <div>
-            
-        </div>
-    </div>
-    <div style="margin-bottom: 8px;">
-        <span style="
-            display: inline-block;
-            background: #17a2b8;
-            color: white;
-            padding: 2px 10px;
-            border-radius: 4px;
-            font-size: 0.75em;
-        ">nih_videocast_upcoming</span>
-        <span style="display: inline-block; background: #f8f9fa; color: #343a40; padding: 2px 10px; border-radius: 4px; font-size: 0.75em; margin-left: 6px;">Health</span>
-        
-    </div>
-    <h3 style="margin: 8px 0; font-size: 1.15em; color: #343a40; font-weight: 600;">
-        NAGMS February 2025 Council Open Session
-    </h3>
-    <p style="font-size: 0.9em; color: #6c757d; margin: 8px 0; line-height: 1.5;">This is a public broadcast of the National Advisory General Medical Sciences (NAGMS) September 2025 Open Session for Council. Air date: 2/5/2026 9:30:00 AM Eastern Time</p>
-    <div style="margin-top: 12px;"><a href="https://videocast.nih.gov/watch=57214" target="_blank" style="color: #2c5aa0; text-decoration: none; font-size: 0.9em;">View Event</a></div>
-</div>
-<div class="seminar-card"
-     data-source="nih_videocast_upcoming"
-     data-category="Health"
-     data-timestamp="1770368400000"
-     data-search="Meeting of the NCAB ad hoc Working Group (WG) on Extramural Research Concepts and Programs 1st regular Meeting of the NCAB ad hoc Working Group (WG) on Extramural Research Concepts and Programs Air date: 2/6/2026 9:00:00 AM Eastern Time Fri, 06 Feb 2026 14:00:00 GMT"
-     style="
-         background: #ffffff;
-         border-radius: 8px;
-         border-left: 4px solid #2c5aa0;
-         padding: 20px;
-         margin-bottom: 16px;
-         box-shadow: 0 2px 4px rgba(0,0,0,0.05);
-         opacity: 1;
-     ">
-    <div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: flex-start; margin-bottom: 8px;">
-        <div style="font-size: 0.9em; color: #868e96;">
-            Fri, Feb 06, 2026 at 09:00 AM (America/New_York)
-        </div>
-        <div>
-            
-        </div>
-    </div>
-    <div style="margin-bottom: 8px;">
-        <span style="
-            display: inline-block;
-            background: #17a2b8;
-            color: white;
-            padding: 2px 10px;
-            border-radius: 4px;
-            font-size: 0.75em;
-        ">nih_videocast_upcoming</span>
-        <span style="display: inline-block; background: #f8f9fa; color: #343a40; padding: 2px 10px; border-radius: 4px; font-size: 0.75em; margin-left: 6px;">Health</span>
-        
-    </div>
-    <h3 style="margin: 8px 0; font-size: 1.15em; color: #343a40; font-weight: 600;">
-        Meeting of the NCAB ad hoc Working Group (WG) on Extramural Research Concepts and Programs
-    </h3>
-    <p style="font-size: 0.9em; color: #6c757d; margin: 8px 0; line-height: 1.5;">1st regular Meeting of the NCAB ad hoc Working Group (WG) on Extramural Research Concepts and Programs Air date: 2/6/2026 9:00:00 AM Eastern Time</p>
-    <div style="margin-top: 12px;"><a href="https://videocast.nih.gov/watch=57215" target="_blank" style="color: #2c5aa0; text-decoration: none; font-size: 0.9em;">View Event</a></div>
-</div>
-<div class="seminar-card"
-     data-source="nih_videocast_upcoming"
-     data-category="Health"
-     data-timestamp="1770370200000"
-     data-search="National advisor council on minority health and health disparities Public Health Service Act section 464z-3(j), 42 U.S.C. 285t(j), gives the Secretary of Health and Human Services the authority to establish an advisory council to provide advice regarding the Institute's research and research training activities with respect to minority health issues. The National Advisory Council on Minority Health and Health Disparities (NACMHD) advises the Secretary of Health and Human Services, the NIH Director, and the NIMHD Director on matters related to the NIMHD’s mission. This is the 71st meeting. Air date: 2/6/2026 9:30:00 AM Eastern Time Fri, 06 Feb 2026 14:30:00 GMT"
-     style="
-         background: #ffffff;
-         border-radius: 8px;
-         border-left: 4px solid #2c5aa0;
-         padding: 20px;
-         margin-bottom: 16px;
-         box-shadow: 0 2px 4px rgba(0,0,0,0.05);
-         opacity: 1;
-     ">
-    <div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: flex-start; margin-bottom: 8px;">
-        <div style="font-size: 0.9em; color: #868e96;">
-            Fri, Feb 06, 2026 at 09:30 AM (America/New_York)
-        </div>
-        <div>
-            
-        </div>
-    </div>
-    <div style="margin-bottom: 8px;">
-        <span style="
-            display: inline-block;
-            background: #17a2b8;
-            color: white;
-            padding: 2px 10px;
-            border-radius: 4px;
-            font-size: 0.75em;
-        ">nih_videocast_upcoming</span>
-        <span style="display: inline-block; background: #f8f9fa; color: #343a40; padding: 2px 10px; border-radius: 4px; font-size: 0.75em; margin-left: 6px;">Health</span>
-        
-    </div>
-    <h3 style="margin: 8px 0; font-size: 1.15em; color: #343a40; font-weight: 600;">
-        National advisor council on minority health and health disparities
-    </h3>
-    <p style="font-size: 0.9em; color: #6c757d; margin: 8px 0; line-height: 1.5;">Public Health Service Act section 464z-3(j), 42 U.S.C. 285t(j), gives the Secretary of Health and Human Services the authority to establish an advisory council to provide advice regarding the Institut...</p>
-    <div style="margin-top: 12px;"><a href="https://videocast.nih.gov/watch=57216" target="_blank" style="color: #2c5aa0; text-decoration: none; font-size: 0.9em;">View Event</a></div>
-</div>
-<div class="seminar-card"
      data-source="unc_global_health"
      data-category="Friday Morning Conference Series"
-     data-timestamp="1770387300000"
+     data-section="upcoming"
      data-search="Siddhartha Thakur, PhD Dr. Siddhartha “Sid” Thakur is the Executive Director of Global One Health Academy and Professor of Molecular Epidemiology at the College of Veterinary Medicine at NC State. He is responsible for expanding NC State’s One Health research, education, and engagement efforts and developing evidence-based recommendations for tackling current and future global threats. He is an NC State Chancellor faculty scholar. He received his Degree in Veterinary Medicine and Master of Veterinary Public Health from India and his Ph.D. from NC State. "
-     style="
-         background: #ffffff;
-         border-radius: 8px;
-         border-left: 4px solid #2c5aa0;
-         padding: 20px;
-         margin-bottom: 16px;
-         box-shadow: 0 2px 4px rgba(0,0,0,0.05);
-         opacity: 1;
-     ">
+     style="border-left: 4px solid #2c5aa0; opacity: 1;">
     <div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: flex-start; margin-bottom: 8px;">
         <div style="font-size: 0.9em; color: #868e96;">
             Fri, Feb 06, 2026 at 02:15 PM (America/New_York)
         </div>
-        <div>
-            
-        </div>
+        <div></div>
     </div>
     <div style="margin-bottom: 8px;">
-        <span style="
-            display: inline-block;
-            background: #17a2b8;
-            color: white;
-            padding: 2px 10px;
-            border-radius: 4px;
-            font-size: 0.75em;
-        ">unc_global_health</span>
-        <span style="display: inline-block; background: #f8f9fa; color: #343a40; padding: 2px 10px; border-radius: 4px; font-size: 0.75em; margin-left: 6px;">Friday Morning Conference Series</span>
+        <span class="badge" style="background: #17a2b8; color: white;">unc_global_health</span>
+        <span class="badge" style="background: #f8f9fa; color: #343a40;">Friday Morning Conference Series</span>
         
     </div>
     <h3 style="margin: 8px 0; font-size: 1.15em; color: #343a40; font-weight: 600;">
@@ -2350,280 +510,20 @@
     <div style="margin-top: 12px;"><a href="https://globalhealth.unc.edu/event/siddhartha-thakur-phd/" target="_blank" style="color: #2c5aa0; text-decoration: none; font-size: 0.9em;">View Event</a></div>
 </div>
 <div class="seminar-card"
-     data-source="nih_videocast_upcoming"
-     data-category="Health"
-     data-timestamp="1770627600000"
-     data-search="FNIH Biomarkers Consortium 20th Anniversary Symposium The Foundation for the National Institutes of Health (FNIH) Biomarkers Consortium proudly marks 20 years of advancing biomarker science to enable earlier interventions, personalized treatments, and better outcomes in disease prevention, detection, diagnosis, and therapy. To commemorate this milestone, we are hosting a scientific symposium celebrating the Biomarkers Consortium’s impact over the past two decades. The event will showcase breakthrough collaborations, highlight real-world applications, and foster future planning and cross-sector partnerships within the biomarker community. For more information go to https://fnih.org/our-programs/biomarkers-consortium/biomarkers-consortium-symposium/ Air date: 2/9/2026 9:00:00 AM Eastern Time Mon, 09 Feb 2026 14:00:00 GMT"
-     style="
-         background: #ffffff;
-         border-radius: 8px;
-         border-left: 4px solid #2c5aa0;
-         padding: 20px;
-         margin-bottom: 16px;
-         box-shadow: 0 2px 4px rgba(0,0,0,0.05);
-         opacity: 1;
-     ">
-    <div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: flex-start; margin-bottom: 8px;">
-        <div style="font-size: 0.9em; color: #868e96;">
-            Mon, Feb 09, 2026 at 09:00 AM (America/New_York)
-        </div>
-        <div>
-            
-        </div>
-    </div>
-    <div style="margin-bottom: 8px;">
-        <span style="
-            display: inline-block;
-            background: #17a2b8;
-            color: white;
-            padding: 2px 10px;
-            border-radius: 4px;
-            font-size: 0.75em;
-        ">nih_videocast_upcoming</span>
-        <span style="display: inline-block; background: #f8f9fa; color: #343a40; padding: 2px 10px; border-radius: 4px; font-size: 0.75em; margin-left: 6px;">Health</span>
-        
-    </div>
-    <h3 style="margin: 8px 0; font-size: 1.15em; color: #343a40; font-weight: 600;">
-        FNIH Biomarkers Consortium 20th Anniversary Symposium
-    </h3>
-    <p style="font-size: 0.9em; color: #6c757d; margin: 8px 0; line-height: 1.5;">The Foundation for the National Institutes of Health (FNIH) Biomarkers Consortium proudly marks 20 years of advancing biomarker science to enable earlier interventions, personalized treatments, and be...</p>
-    <div style="margin-top: 12px;"><a href="https://videocast.nih.gov/watch=57168" target="_blank" style="color: #2c5aa0; text-decoration: none; font-size: 0.9em;">View Event</a></div>
-</div>
-<div class="seminar-card"
-     data-source="nih_videocast_upcoming"
-     data-category="Health"
-     data-timestamp="1770638400000"
-     data-search="NLM Board of Regents Meeting NLM Board of Regents Meeting Air date: 2/9/2026 12:00:00 PM Eastern Time Mon, 09 Feb 2026 17:00:00 GMT"
-     style="
-         background: #ffffff;
-         border-radius: 8px;
-         border-left: 4px solid #2c5aa0;
-         padding: 20px;
-         margin-bottom: 16px;
-         box-shadow: 0 2px 4px rgba(0,0,0,0.05);
-         opacity: 1;
-     ">
-    <div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: flex-start; margin-bottom: 8px;">
-        <div style="font-size: 0.9em; color: #868e96;">
-            Mon, Feb 09, 2026 at 12:00 PM (America/New_York)
-        </div>
-        <div>
-            
-        </div>
-    </div>
-    <div style="margin-bottom: 8px;">
-        <span style="
-            display: inline-block;
-            background: #17a2b8;
-            color: white;
-            padding: 2px 10px;
-            border-radius: 4px;
-            font-size: 0.75em;
-        ">nih_videocast_upcoming</span>
-        <span style="display: inline-block; background: #f8f9fa; color: #343a40; padding: 2px 10px; border-radius: 4px; font-size: 0.75em; margin-left: 6px;">Health</span>
-        
-    </div>
-    <h3 style="margin: 8px 0; font-size: 1.15em; color: #343a40; font-weight: 600;">
-        NLM Board of Regents Meeting
-    </h3>
-    <p style="font-size: 0.9em; color: #6c757d; margin: 8px 0; line-height: 1.5;">NLM Board of Regents Meeting Air date: 2/9/2026 12:00:00 PM Eastern Time</p>
-    <div style="margin-top: 12px;"><a href="https://videocast.nih.gov/watch=57166" target="_blank" style="color: #2c5aa0; text-decoration: none; font-size: 0.9em;">View Event</a></div>
-</div>
-<div class="seminar-card"
-     data-source="nih_videocast_upcoming"
-     data-category="Health"
-     data-timestamp="1770714000000"
-     data-search="FNIH Biomarkers Consortium 20th Anniversary Symposium - Day 2 The Foundation for the National Institutes of Health (FNIH) Biomarkers Consortium proudly marks 20 years of advancing biomarker science to enable earlier interventions, personalized treatments, and better outcomes in disease prevention, detection, diagnosis, and therapy. To commemorate this milestone, we are hosting a scientific symposium celebrating the Biomarkers Consortium’s impact over the past two decades. The event will showcase breakthrough collaborations, highlight real-world applications, and foster future planning and cross-sector partnerships within the biomarker community. For more information go to https://fnih.org/our-programs/biomarkers-consortium/biomarkers-consortium-symposium/ Air date: 2/10/2026 9:00:00 AM Eastern Time Tue, 10 Feb 2026 14:00:00 GMT"
-     style="
-         background: #ffffff;
-         border-radius: 8px;
-         border-left: 4px solid #2c5aa0;
-         padding: 20px;
-         margin-bottom: 16px;
-         box-shadow: 0 2px 4px rgba(0,0,0,0.05);
-         opacity: 1;
-     ">
-    <div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: flex-start; margin-bottom: 8px;">
-        <div style="font-size: 0.9em; color: #868e96;">
-            Tue, Feb 10, 2026 at 09:00 AM (America/New_York)
-        </div>
-        <div>
-            
-        </div>
-    </div>
-    <div style="margin-bottom: 8px;">
-        <span style="
-            display: inline-block;
-            background: #17a2b8;
-            color: white;
-            padding: 2px 10px;
-            border-radius: 4px;
-            font-size: 0.75em;
-        ">nih_videocast_upcoming</span>
-        <span style="display: inline-block; background: #f8f9fa; color: #343a40; padding: 2px 10px; border-radius: 4px; font-size: 0.75em; margin-left: 6px;">Health</span>
-        
-    </div>
-    <h3 style="margin: 8px 0; font-size: 1.15em; color: #343a40; font-weight: 600;">
-        FNIH Biomarkers Consortium 20th Anniversary Symposium - Day 2
-    </h3>
-    <p style="font-size: 0.9em; color: #6c757d; margin: 8px 0; line-height: 1.5;">The Foundation for the National Institutes of Health (FNIH) Biomarkers Consortium proudly marks 20 years of advancing biomarker science to enable earlier interventions, personalized treatments, and be...</p>
-    <div style="margin-top: 12px;"><a href="https://videocast.nih.gov/watch=57169" target="_blank" style="color: #2c5aa0; text-decoration: none; font-size: 0.9em;">View Event</a></div>
-</div>
-<div class="seminar-card"
-     data-source="nih_videocast_upcoming"
-     data-category="Health"
-     data-timestamp="1770717600000"
-     data-search="NLM Board of Regents Meeting Board of Regents Members Air date: 2/10/2026 10:00:00 AM Eastern Time Tue, 10 Feb 2026 15:00:00 GMT"
-     style="
-         background: #ffffff;
-         border-radius: 8px;
-         border-left: 4px solid #2c5aa0;
-         padding: 20px;
-         margin-bottom: 16px;
-         box-shadow: 0 2px 4px rgba(0,0,0,0.05);
-         opacity: 1;
-     ">
-    <div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: flex-start; margin-bottom: 8px;">
-        <div style="font-size: 0.9em; color: #868e96;">
-            Tue, Feb 10, 2026 at 10:00 AM (America/New_York)
-        </div>
-        <div>
-            
-        </div>
-    </div>
-    <div style="margin-bottom: 8px;">
-        <span style="
-            display: inline-block;
-            background: #17a2b8;
-            color: white;
-            padding: 2px 10px;
-            border-radius: 4px;
-            font-size: 0.75em;
-        ">nih_videocast_upcoming</span>
-        <span style="display: inline-block; background: #f8f9fa; color: #343a40; padding: 2px 10px; border-radius: 4px; font-size: 0.75em; margin-left: 6px;">Health</span>
-        
-    </div>
-    <h3 style="margin: 8px 0; font-size: 1.15em; color: #343a40; font-weight: 600;">
-        NLM Board of Regents Meeting
-    </h3>
-    <p style="font-size: 0.9em; color: #6c757d; margin: 8px 0; line-height: 1.5;">Board of Regents Members Air date: 2/10/2026 10:00:00 AM Eastern Time</p>
-    <div style="margin-top: 12px;"><a href="https://videocast.nih.gov/watch=57172" target="_blank" style="color: #2c5aa0; text-decoration: none; font-size: 0.9em;">View Event</a></div>
-</div>
-<div class="seminar-card"
-     data-source="nih_videocast_upcoming"
-     data-category="Health"
-     data-timestamp="1770735600000"
-     data-search="Sayer Vision Research Lecture and Award 2026 In 2006, Dr. Jane Sayer, an NIH research scientist in the National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK), established the Sayer Vision Research Lecture and Award at the Foundation for the National Institutes of Health (FNIH), in partnership with the National Eye Institute (NEI) at NIH, to honor her family and the memory of her parents, Winthrop and Laura Sayer. The lecture and award series provides an opportunity for honorees to explore areas of interdisciplinary research that may lead to advances in diverse medical specialties with relevance to vision research. Dr. Przemyslaw (Mike) Sapieha is the Wolfe Professor in Translational Vision Research at the University of Montreal and holds the Canada Research Chair in Retinal Cell Biology. His work focuses on identifying novel, druggable mechanisms for retinal vascular diseases such as age-related macular degeneration and diabetic retinopathy. Dr. Sapieha will present recent examples in which fundamental research from his lab is being translated to potential therapeutic treatments. Air date: 2/10/2026 3:00:00 PM Eastern Time Tue, 10 Feb 2026 20:00:00 GMT"
-     style="
-         background: #ffffff;
-         border-radius: 8px;
-         border-left: 4px solid #2c5aa0;
-         padding: 20px;
-         margin-bottom: 16px;
-         box-shadow: 0 2px 4px rgba(0,0,0,0.05);
-         opacity: 1;
-     ">
-    <div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: flex-start; margin-bottom: 8px;">
-        <div style="font-size: 0.9em; color: #868e96;">
-            Tue, Feb 10, 2026 at 03:00 PM (America/New_York)
-        </div>
-        <div>
-            
-        </div>
-    </div>
-    <div style="margin-bottom: 8px;">
-        <span style="
-            display: inline-block;
-            background: #17a2b8;
-            color: white;
-            padding: 2px 10px;
-            border-radius: 4px;
-            font-size: 0.75em;
-        ">nih_videocast_upcoming</span>
-        <span style="display: inline-block; background: #f8f9fa; color: #343a40; padding: 2px 10px; border-radius: 4px; font-size: 0.75em; margin-left: 6px;">Health</span>
-        
-    </div>
-    <h3 style="margin: 8px 0; font-size: 1.15em; color: #343a40; font-weight: 600;">
-        Sayer Vision Research Lecture and Award 2026
-    </h3>
-    <p style="font-size: 0.9em; color: #6c757d; margin: 8px 0; line-height: 1.5;">In 2006, Dr. Jane Sayer, an NIH research scientist in the National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK), established the Sayer Vision Research Lecture and Award at the Found...</p>
-    <div style="margin-top: 12px;"><a href="https://videocast.nih.gov/watch=57217" target="_blank" style="color: #2c5aa0; text-decoration: none; font-size: 0.9em;">View Event</a></div>
-</div>
-<div class="seminar-card"
-     data-source="nih_videocast_upcoming"
-     data-category="Health"
-     data-timestamp="1770973200000"
-     data-search="National Advisory Eye Council - February 2026 Meeting The National Advisory Eye Council (NAEC) advises the Secretary of Health and Human Services, the Director, National Institutes of Health, and the Director, National Eye Institute on all policies and activities relating to the conduct and support of vision research, research training, and other programs of the Institute. Michael Chiang, MD, is the Director of the National Eye Institute, and Anna Han, PhD, is the Executive Secretary of the NAEC. The meeting is open to the public on February 13, 2026 For more information go to https://www.nei.nih.gov/about/advisory-committees/national-advisory-eye-council-naec Air date: 2/13/2026 9:00:00 AM Eastern Time Fri, 13 Feb 2026 14:00:00 GMT"
-     style="
-         background: #ffffff;
-         border-radius: 8px;
-         border-left: 4px solid #2c5aa0;
-         padding: 20px;
-         margin-bottom: 16px;
-         box-shadow: 0 2px 4px rgba(0,0,0,0.05);
-         opacity: 1;
-     ">
-    <div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: flex-start; margin-bottom: 8px;">
-        <div style="font-size: 0.9em; color: #868e96;">
-            Fri, Feb 13, 2026 at 09:00 AM (America/New_York)
-        </div>
-        <div>
-            
-        </div>
-    </div>
-    <div style="margin-bottom: 8px;">
-        <span style="
-            display: inline-block;
-            background: #17a2b8;
-            color: white;
-            padding: 2px 10px;
-            border-radius: 4px;
-            font-size: 0.75em;
-        ">nih_videocast_upcoming</span>
-        <span style="display: inline-block; background: #f8f9fa; color: #343a40; padding: 2px 10px; border-radius: 4px; font-size: 0.75em; margin-left: 6px;">Health</span>
-        
-    </div>
-    <h3 style="margin: 8px 0; font-size: 1.15em; color: #343a40; font-weight: 600;">
-        National Advisory Eye Council - February 2026 Meeting
-    </h3>
-    <p style="font-size: 0.9em; color: #6c757d; margin: 8px 0; line-height: 1.5;">The National Advisory Eye Council (NAEC) advises the Secretary of Health and Human Services, the Director, National Institutes of Health, and the Director, National Eye Institute on all policies and a...</p>
-    <div style="margin-top: 12px;"><a href="https://videocast.nih.gov/watch=57191" target="_blank" style="color: #2c5aa0; text-decoration: none; font-size: 0.9em;">View Event</a></div>
-</div>
-<div class="seminar-card"
      data-source="unc_global_health"
      data-category="Friday Morning Conference Series"
-     data-timestamp="1770992100000"
-     data-search="Fourth Annual Global Health Scholars Symposium Save the Date! Presented by the UNC Institute for Global Health and Infectious Diseases and the UNC Gillings School of Global Public Health, this symposium will feature global health research from MD/PhD students, doctoral candidates, postdoctoral fellows and junior faculty. Scholars from global sites around the world will share research and lead discussions. This is a hybrid event which will begin in Bioinformatics Room #1131. 
-Plan to join us as we highlight the impressive and impactful work that trainees (U.S. and international) are doing! More details will be posted soon so check back regularly for updates, including the event’s agenda. 
-CLE Credit
-This event qualifies as a “Campus Life Experience” event, and attendees can receive credit. ➡️ Record attendance here. "
-     style="
-         background: #ffffff;
-         border-radius: 8px;
-         border-left: 4px solid #2c5aa0;
-         padding: 20px;
-         margin-bottom: 16px;
-         box-shadow: 0 2px 4px rgba(0,0,0,0.05);
-         opacity: 1;
-     ">
+     data-section="upcoming"
+     data-search="Fourth Annual Global Health Scholars Symposium Save the Date! Presented by the UNC Institute for Global Health and Infectious Diseases and the UNC Gillings School of Global Public Health, this symposium will feature global health research from MD/PhD students, doctoral candidates, postdoctoral fellows and junior faculty. Scholars from global sites around the world will share research and lead discussions. This is a hybrid event which will begin in Bioinformatics Room #1131.  Plan to join us as we highlight the impressive and impactful work that trainees (U.S. and international) are doing! More details will be posted soon so check back regularly for updates, including the event’s agenda.  CLE Credit This event qualifies as a “Campus Life Experience” event, and attendees can receive credit. ➡️ Record attendance here. "
+     style="border-left: 4px solid #2c5aa0; opacity: 1;">
     <div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: flex-start; margin-bottom: 8px;">
         <div style="font-size: 0.9em; color: #868e96;">
             Fri, Feb 13, 2026 at 02:15 PM (America/New_York)
         </div>
-        <div>
-            
-        </div>
+        <div></div>
     </div>
     <div style="margin-bottom: 8px;">
-        <span style="
-            display: inline-block;
-            background: #17a2b8;
-            color: white;
-            padding: 2px 10px;
-            border-radius: 4px;
-            font-size: 0.75em;
-        ">unc_global_health</span>
-        <span style="display: inline-block; background: #f8f9fa; color: #343a40; padding: 2px 10px; border-radius: 4px; font-size: 0.75em; margin-left: 6px;">Friday Morning Conference Series</span>
+        <span class="badge" style="background: #17a2b8; color: white;">unc_global_health</span>
+        <span class="badge" style="background: #f8f9fa; color: #343a40;">Friday Morning Conference Series</span>
         
     </div>
     <h3 style="margin: 8px 0; font-size: 1.15em; color: #343a40; font-weight: 600;">
@@ -2631,6 +531,155 @@ This event qualifies as a “Campus Life Experience” event, and attendees can 
     </h3>
     <p style="font-size: 0.9em; color: #6c757d; margin: 8px 0; line-height: 1.5;">Save the Date! Presented by the UNC Institute for Global Health and Infectious Diseases and the UNC Gillings School of Global Public Health, this symposium will feature global health research from MD/...</p>
     <div style="margin-top: 12px;"><a href="https://globalhealth.unc.edu/event/global-scholars/" target="_blank" style="color: #2c5aa0; text-decoration: none; font-size: 0.9em;">View Event</a></div>
+</div>
+</div>
+
+<div class="section-header" id="past-header">
+    <div style="display: flex; align-items: center; gap: 15px;">
+        <h2 class="section-title" style="color: #6c757d;">Past Seminars (Recordings)</h2>
+        <span class="section-count" id="past-count" style="background: #6c757d;">6</span>
+    </div>
+    <span class="section-toggle" id="past-toggle">▼</span>
+</div>
+<div class="section-content" id="past-content">
+    
+<div class="seminar-card"
+     data-source="nih_videocast_upcoming"
+     data-category="Health"
+     data-section="past"
+     data-search="NIH-FDA Immunology Interest Group (IIG) seminar series IIG weekly seminar series features the world-renown experts in the field of immunology. The speakers are nominated by the members of immunology community from the NIH and FDA. Air date: 1/14/2026 4:00:00 PM Eastern Time Wed, 14 Jan 2026 21:00:00 GMT"
+     style="border-left: 4px solid #6c757d; opacity: 0.9;">
+    <div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: flex-start; margin-bottom: 8px;">
+        <div style="font-size: 0.9em; color: #868e96;">
+            Wed, Jan 14, 2026 at 04:00 PM (America/New_York)
+        </div>
+        <div><span class="badge" style="background: #6c757d; color: white;">Recording Available</span></div>
+    </div>
+    <div style="margin-bottom: 8px;">
+        <span class="badge" style="background: #17a2b8; color: white;">nih_videocast_upcoming</span>
+        <span class="badge" style="background: #f8f9fa; color: #343a40;">Health</span>
+        
+    </div>
+    <h3 style="margin: 8px 0; font-size: 1.15em; color: #343a40; font-weight: 600;">
+        NIH-FDA Immunology Interest Group (IIG) seminar series
+    </h3>
+    <p style="font-size: 0.9em; color: #6c757d; margin: 8px 0; line-height: 1.5;">IIG weekly seminar series features the world-renown experts in the field of immunology. The speakers are nominated by the members of immunology community from the NIH and FDA. Air date: 1/14/2026 4:00...</p>
+    <div style="margin-top: 12px;"><a href="https://videocast.nih.gov/watch=57090" target="_blank" style="color: #2c5aa0; text-decoration: none; font-size: 0.9em;">View Event</a></div>
+</div>
+<div class="seminar-card"
+     data-source="nih_niaid"
+     data-category="WALS - Wednesday Afternoon Lectures"
+     data-section="past"
+     data-search="WALS: Bill Paul Lecture- Immune Control of Host Physiology WALS: Bill Paul Lecture- Immune Control of Host Physiology Presented by: Yasmine Belkaid, Ph.D. Category: WALS - Wednesday Afternoon Lectures Aired date: 01/07/2026 "
+     style="border-left: 4px solid #6c757d; opacity: 0.9;">
+    <div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: flex-start; margin-bottom: 8px;">
+        <div style="font-size: 0.9em; color: #868e96;">
+            Wed, Jan 07, 2026 at 02:00 PM (America/New_York)
+        </div>
+        <div><span class="badge" style="background: #6c757d; color: white;">Recording Available</span></div>
+    </div>
+    <div style="margin-bottom: 8px;">
+        <span class="badge" style="background: #17a2b8; color: white;">nih_niaid</span>
+        <span class="badge" style="background: #f8f9fa; color: #343a40;">WALS - Wednesday Afternoon Lectures</span>
+        
+    </div>
+    <h3 style="margin: 8px 0; font-size: 1.15em; color: #343a40; font-weight: 600;">
+        WALS: Bill Paul Lecture- Immune Control of Host Physiology
+    </h3>
+    <p style="font-size: 0.9em; color: #6c757d; margin: 8px 0; line-height: 1.5;">WALS: Bill Paul Lecture- Immune Control of Host Physiology Presented by: Yasmine Belkaid, Ph.D. Category: WALS - Wednesday Afternoon Lectures Aired date: 01/07/2026</p>
+    <div style="margin-top: 12px;"><a href="http://videocast.nih.gov/Summary.asp?file=35868" target="_blank" style="color: #2c5aa0; text-decoration: none; font-size: 0.9em;">View Event</a></div>
+</div>
+<div class="seminar-card"
+     data-source="nih_videocast_past"
+     data-category="WALS - Wednesday Afternoon Lectures"
+     data-section="past"
+     data-search="WALS: Bill Paul Lecture- Immune Control of Host Physiology WALS: Bill Paul Lecture- Immune Control of Host Physiology Presented by: Yasmine Belkaid, Ph.D. Category: WALS - Wednesday Afternoon Lectures Aired date: 01/07/2026 "
+     style="border-left: 4px solid #6c757d; opacity: 0.9;">
+    <div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: flex-start; margin-bottom: 8px;">
+        <div style="font-size: 0.9em; color: #868e96;">
+            Wed, Jan 07, 2026 at 02:00 PM (America/New_York)
+        </div>
+        <div><span class="badge" style="background: #6c757d; color: white;">Recording Available</span></div>
+    </div>
+    <div style="margin-bottom: 8px;">
+        <span class="badge" style="background: #17a2b8; color: white;">nih_videocast_past</span>
+        <span class="badge" style="background: #f8f9fa; color: #343a40;">WALS - Wednesday Afternoon Lectures</span>
+        
+    </div>
+    <h3 style="margin: 8px 0; font-size: 1.15em; color: #343a40; font-weight: 600;">
+        WALS: Bill Paul Lecture- Immune Control of Host Physiology
+    </h3>
+    <p style="font-size: 0.9em; color: #6c757d; margin: 8px 0; line-height: 1.5;">WALS: Bill Paul Lecture- Immune Control of Host Physiology Presented by: Yasmine Belkaid, Ph.D. Category: WALS - Wednesday Afternoon Lectures Aired date: 01/07/2026</p>
+    <div style="margin-top: 12px;"><a href="http://videocast.nih.gov/Summary.asp?file=35868" target="_blank" style="color: #2c5aa0; text-decoration: none; font-size: 0.9em;">View Event</a></div>
+</div>
+<div class="seminar-card"
+     data-source="nih_videocast_past"
+     data-category="HHS Only"
+     data-section="past"
+     data-search="NIH-FDA Immunology Interest Group (IIG) seminar series NIH-FDA Immunology Interest Group (IIG) seminar series Presented by: Claudia Kemper Category: HHS Only Aired date: 12/17/2025 "
+     style="border-left: 4px solid #6c757d; opacity: 0.9;">
+    <div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: flex-start; margin-bottom: 8px;">
+        <div style="font-size: 0.9em; color: #868e96;">
+            Wed, Dec 17, 2025 at 04:00 PM (America/New_York)
+        </div>
+        <div><span class="badge" style="background: #6c757d; color: white;">Recording Available</span></div>
+    </div>
+    <div style="margin-bottom: 8px;">
+        <span class="badge" style="background: #17a2b8; color: white;">nih_videocast_past</span>
+        <span class="badge" style="background: #f8f9fa; color: #343a40;">HHS Only</span>
+        
+    </div>
+    <h3 style="margin: 8px 0; font-size: 1.15em; color: #343a40; font-weight: 600;">
+        NIH-FDA Immunology Interest Group (IIG) seminar series
+    </h3>
+    <p style="font-size: 0.9em; color: #6c757d; margin: 8px 0; line-height: 1.5;">NIH-FDA Immunology Interest Group (IIG) seminar series Presented by: Claudia Kemper Category: HHS Only Aired date: 12/17/2025</p>
+    <div style="margin-top: 12px;"><a href="http://videocast.nih.gov/Summary.asp?file=35856" target="_blank" style="color: #2c5aa0; text-decoration: none; font-size: 0.9em;">View Event</a></div>
+</div>
+<div class="seminar-card"
+     data-source="nih_niaid"
+     data-category="WALS - Wednesday Afternoon Lectures"
+     data-section="past"
+     data-search="WALS- Astute Clinician Lecture: Clinical Encounters in Neurogenetics: Taking Cues from Single Patients to Discover Genes, Mechanisms, and Therapeutic Approaches WALS- Astute Clinician Lecture: Clinical Encounters in Neurogenetics: Taking Cues from Single Patients to Discover Genes, Mechanisms, and Therapeutic Approaches Presented by: Carsten G. Bönnemann, M.D. Category: WALS - Wednesday Afternoon Lectures Aired date: 12/17/2025 "
+     style="border-left: 4px solid #6c757d; opacity: 0.9;">
+    <div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: flex-start; margin-bottom: 8px;">
+        <div style="font-size: 0.9em; color: #868e96;">
+            Wed, Dec 17, 2025 at 02:00 PM (America/New_York)
+        </div>
+        <div><span class="badge" style="background: #6c757d; color: white;">Recording Available</span></div>
+    </div>
+    <div style="margin-bottom: 8px;">
+        <span class="badge" style="background: #17a2b8; color: white;">nih_niaid</span>
+        <span class="badge" style="background: #f8f9fa; color: #343a40;">WALS - Wednesday Afternoon Lectures</span>
+        
+    </div>
+    <h3 style="margin: 8px 0; font-size: 1.15em; color: #343a40; font-weight: 600;">
+        WALS- Astute Clinician Lecture: Clinical Encounters in Neurogenetics: Taking Cues from Single Patients to Discover Genes, Mechanisms, and Therapeutic Approaches
+    </h3>
+    <p style="font-size: 0.9em; color: #6c757d; margin: 8px 0; line-height: 1.5;">WALS- Astute Clinician Lecture: Clinical Encounters in Neurogenetics: Taking Cues from Single Patients to Discover Genes, Mechanisms, and Therapeutic Approaches Presented by: Carsten G. Bönnemann, M.D...</p>
+    <div style="margin-top: 12px;"><a href="http://videocast.nih.gov/Summary.asp?file=35854" target="_blank" style="color: #2c5aa0; text-decoration: none; font-size: 0.9em;">View Event</a></div>
+</div>
+<div class="seminar-card"
+     data-source="nih_fogarty"
+     data-category="Clinical Center Grand Rounds"
+     data-section="past"
+     data-search="Clinical Center Grand Rounds: Harnessing The Extracellular Matrix to Treat Lung Diseases Clinical Center Grand Rounds: Harnessing The Extracellular Matrix to Treat Lung Diseases Presented by: Stavros Garantziotis, MD Category: Clinical Center Grand Rounds Aired date: 12/17/2025 "
+     style="border-left: 4px solid #6c757d; opacity: 0.9;">
+    <div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: flex-start; margin-bottom: 8px;">
+        <div style="font-size: 0.9em; color: #868e96;">
+            Wed, Dec 17, 2025 at 12:00 PM (America/New_York)
+        </div>
+        <div><span class="badge" style="background: #6c757d; color: white;">Recording Available</span></div>
+    </div>
+    <div style="margin-bottom: 8px;">
+        <span class="badge" style="background: #17a2b8; color: white;">nih_fogarty</span>
+        <span class="badge" style="background: #f8f9fa; color: #343a40;">Clinical Center Grand Rounds</span>
+        
+    </div>
+    <h3 style="margin: 8px 0; font-size: 1.15em; color: #343a40; font-weight: 600;">
+        Clinical Center Grand Rounds: Harnessing The Extracellular Matrix to Treat Lung Diseases
+    </h3>
+    <p style="font-size: 0.9em; color: #6c757d; margin: 8px 0; line-height: 1.5;">Clinical Center Grand Rounds: Harnessing The Extracellular Matrix to Treat Lung Diseases Presented by: Stavros Garantziotis, MD Category: Clinical Center Grand Rounds Aired date: 12/17/2025</p>
+    <div style="margin-top: 12px;"><a href="http://videocast.nih.gov/Summary.asp?file=35852" target="_blank" style="color: #2c5aa0; text-decoration: none; font-size: 0.9em;">View Event</a></div>
 </div>
 </div>
 
@@ -2644,7 +693,7 @@ This event qualifies as a “Campus Life Experience” event, and attendees can 
 ">
     <p style="margin: 0;">
         Generated by GID Seminars Aggregator |
-        <a href="https://github.com/wnprc/gid-seminars" style="color: #2c5aa0;">GitHub</a>
+        <a href="https://github.com/dholab/gid-seminars" style="color: #2c5aa0;">GitHub</a>
     </p>
     <p style="margin: 8px 0 0 0;">
         Wisconsin National Primate Research Center - Global Infectious Diseases
@@ -2652,52 +701,62 @@ This event qualifies as a “Campus Life Experience” event, and attendees can 
 </div>
 
 <script>
+// Collapsible section functionality
+function setupCollapsible(headerId, contentId, toggleId) {
+    var header = document.getElementById(headerId);
+    var content = document.getElementById(contentId);
+    var toggle = document.getElementById(toggleId);
+
+    header.addEventListener('click', function() {
+        content.classList.toggle('collapsed');
+        toggle.textContent = content.classList.contains('collapsed') ? '▶' : '▼';
+    });
+}
+
+setupCollapsible('upcoming-header', 'upcoming-content', 'upcoming-toggle');
+setupCollapsible('past-header', 'past-content', 'past-toggle');
+
+// Filtering functionality
 function filterSeminars() {
     var sourceFilter = document.getElementById('filter-source').value;
     var categoryFilter = document.getElementById('filter-category').value;
-    var timeFilter = document.getElementById('filter-time').value;
     var searchQuery = document.getElementById('search-box').value.toLowerCase();
 
     var cards = document.querySelectorAll('.seminar-card');
-    var visibleCount = 0;
-    var now = Date.now();
-    var dayMs = 86400000;
+    var upcomingVisible = 0;
+    var pastVisible = 0;
 
     cards.forEach(function(card) {
         var source = card.getAttribute('data-source');
         var category = card.getAttribute('data-category');
-        var timestamp = parseInt(card.getAttribute('data-timestamp'));
+        var section = card.getAttribute('data-section');
         var searchText = card.getAttribute('data-search').toLowerCase();
 
-        // Check filters
         var showSource = sourceFilter === 'all' || source === sourceFilter;
         var showCategory = categoryFilter === 'all' || category === categoryFilter;
         var showSearch = searchQuery === '' || searchText.indexOf(searchQuery) !== -1;
 
-        // Check time filter
-        var showTime = true;
-        if (timeFilter === 'upcoming') {
-            showTime = timestamp >= now;
-        } else if (timeFilter === 'today') {
-            var todayStart = new Date().setHours(0,0,0,0);
-            var todayEnd = todayStart + dayMs;
-            showTime = timestamp >= todayStart && timestamp < todayEnd;
-        } else if (timeFilter === 'week') {
-            showTime = timestamp >= now && timestamp < now + (7 * dayMs);
-        } else if (timeFilter === 'past') {
-            showTime = timestamp < now;
-        }
-
-        if (showSource && showCategory && showTime && showSearch) {
+        if (showSource && showCategory && showSearch) {
             card.style.display = 'block';
-            visibleCount++;
+            if (section === 'upcoming') upcomingVisible++;
+            else pastVisible++;
         } else {
             card.style.display = 'none';
         }
     });
 
-    document.getElementById('visible-count').textContent = visibleCount;
+    // Update counts
+    document.getElementById('upcoming-count').textContent = upcomingVisible;
+    document.getElementById('past-count').textContent = pastVisible;
+    document.getElementById('upcoming-visible').textContent = upcomingVisible;
+    document.getElementById('past-visible').textContent = pastVisible;
+    document.getElementById('visible-count').textContent = upcomingVisible + pastVisible;
 }
+
+// Add event listeners
+document.getElementById('filter-source').addEventListener('change', filterSeminars);
+document.getElementById('filter-category').addEventListener('change', filterSeminars);
+document.getElementById('search-box').addEventListener('keyup', filterSeminars);
 </script>
 
 </body>

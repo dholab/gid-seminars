@@ -8,6 +8,7 @@ import toml
 from rich.console import Console
 
 from src.core.database import SeminarDatabase
+from src.core.keyword_filter import KeywordFilter
 
 from .base import BaseSource
 from .ical_source import ICalSource
@@ -39,6 +40,11 @@ class SourceCollector:
         self.database = database
         self.base_dir = base_dir or Path.cwd()
         self.http_config = settings_config.get("http", {})
+
+        # Initialize keyword filter
+        filter_config = settings_config.get("filtering", {})
+        self.keyword_filter = KeywordFilter(filter_config) if filter_config.get("keywords") else None
+
         self.sources = self._initialize_sources()
 
     def _initialize_sources(self) -> list[BaseSource]:
@@ -66,6 +72,7 @@ class SourceCollector:
                         source_config,
                         self.database,
                         self.http_config,
+                        self.keyword_filter,
                         self.base_dir,
                     )
                 else:
@@ -74,6 +81,7 @@ class SourceCollector:
                         source_config,
                         self.database,
                         self.http_config,
+                        self.keyword_filter,
                     )
                 sources.append(source)
             except Exception as e:

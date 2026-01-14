@@ -1,40 +1,30 @@
 # GID Seminars - Source Configuration
 # Defines all seminar/webinar sources to aggregate
+#
+# Source options:
+#   require_keywords = true/false  - If true, seminar must match keywords to be included
+#                                    If false, all seminars from source are included
+#   (default is true for broad feeds, false for topic-specific feeds)
 
 [metadata]
 description = "Source definitions for GID seminar aggregation"
-version = "1.0.0"
+version = "1.1.0"
 
 # =============================================================================
 # NIH VideoCast Sources (RSS feeds)
+# Topic-specific feeds - no keyword filtering needed
+# Full list of categories: https://videocast.nih.gov/help/rssfaq.asp
 # =============================================================================
 
-[source.nih_videocast_upcoming]
+[source.nih_niaid]
 enabled = true
-name = "NIH VideoCast - Upcoming"
+name = "NIH NIAID Seminars"
 type = "rss"
-url = "https://videocast.nih.gov/rss/UpcomingEvents.asp"
-category = "NIH"
+url = "https://videocast.nih.gov/rss/PastEvents.asp?c=3"
+category = "NIH - NIAID"
 default_timezone = "America/New_York"
-description = "Upcoming NIH seminars and lectures"
-
-[source.nih_videocast_past]
-enabled = true
-name = "NIH VideoCast - Recent Recordings"
-type = "rss"
-url = "https://videocast.nih.gov/rss/PastEvents.asp"
-category = "NIH"
-default_timezone = "America/New_York"
-description = "Recently recorded NIH seminars (for on-demand viewing)"
-
-[source.nih_immunology]
-enabled = true
-name = "NIH Immunology Seminars"
-type = "rss"
-url = "https://videocast.nih.gov/rss/PastEvents.asp?c=28"
-category = "NIH - Immunology"
-default_timezone = "America/New_York"
-description = "NIH immunology-focused seminars"
+description = "NIAID seminars and lectures"
+require_keywords = false  # Topic-specific feed
 
 [source.nih_infectious_diseases]
 enabled = true
@@ -44,6 +34,68 @@ url = "https://videocast.nih.gov/rss/PastEvents.asp?c=16"
 category = "NIH - Infectious Diseases"
 default_timezone = "America/New_York"
 description = "John R. LaMontagne Memorial Lecture series on infectious diseases"
+require_keywords = false  # Topic-specific feed
+
+[source.nih_immunology]
+enabled = true
+name = "NIH Immunology Seminars"
+type = "rss"
+url = "https://videocast.nih.gov/rss/PastEvents.asp?c=28"
+category = "NIH - Immunology"
+default_timezone = "America/New_York"
+description = "NIH immunology-focused seminars"
+require_keywords = false  # Topic-specific feed
+
+[source.nih_aids]
+enabled = true
+name = "NIH AIDS Research"
+type = "rss"
+url = "https://videocast.nih.gov/rss/PastEvents.asp?c=23"
+category = "NIH - AIDS"
+default_timezone = "America/New_York"
+description = "NIH AIDS and HIV research seminars"
+require_keywords = false  # Topic-specific feed
+
+[source.nih_vaccine]
+enabled = true
+name = "NIH Vaccine Research"
+type = "rss"
+url = "https://videocast.nih.gov/rss/PastEvents.asp?c=20"
+category = "NIH - Vaccine"
+default_timezone = "America/New_York"
+description = "NIH Vaccine Research Center seminars"
+require_keywords = false  # Topic-specific feed
+
+[source.nih_fogarty]
+enabled = true
+name = "NIH Fogarty International"
+type = "rss"
+url = "https://videocast.nih.gov/rss/PastEvents.asp?c=27"
+category = "NIH - Fogarty"
+default_timezone = "America/New_York"
+description = "Fogarty International Center global health seminars"
+require_keywords = false  # Topic-specific feed
+
+# Broad NIH feeds with keyword filtering
+[source.nih_videocast_upcoming]
+enabled = true
+name = "NIH VideoCast - Upcoming"
+type = "rss"
+url = "https://videocast.nih.gov/rss/UpcomingEvents.asp"
+category = "NIH"
+default_timezone = "America/New_York"
+description = "Upcoming NIH seminars and lectures (filtered by keywords)"
+require_keywords = true  # Broad feed - needs filtering
+
+[source.nih_videocast_past]
+enabled = true
+name = "NIH VideoCast - Recent Recordings"
+type = "rss"
+url = "https://videocast.nih.gov/rss/PastEvents.asp"
+category = "NIH"
+default_timezone = "America/New_York"
+description = "Recently recorded NIH seminars (filtered by keywords)"
+require_keywords = true  # Broad feed - needs filtering
 
 # =============================================================================
 # iCal Feed Sources
@@ -57,6 +109,7 @@ url = "https://hpmi.ucsf.edu/subscribe-ical"
 category = "University - UCSF"
 default_timezone = "America/Los_Angeles"
 description = "UCSF Quantitative Biosciences Institute / Pasteur symposium on infectious disease"
+require_keywords = false  # Topic-specific feed
 
 [source.unc_global_health]
 enabled = true
@@ -66,6 +119,7 @@ url = "https://globalhealth.unc.edu/events/?ical=1"
 category = "University - UNC"
 default_timezone = "America/New_York"
 description = "UNC Institute for Global Health and Infectious Diseases seminars"
+require_keywords = false  # Topic-specific feed
 
 # =============================================================================
 # Web Scraper Sources (Phase 2)
@@ -80,6 +134,7 @@ category = "ASM"
 default_timezone = "America/New_York"
 description = "American Society for Microbiology webinars and events"
 notes = "Requires HTML scraping - no RSS/iCal available"
+require_keywords = false  # Topic-specific
 
 [source.idsa_events]
 enabled = false  # Enable when scraper is implemented
@@ -90,6 +145,7 @@ category = "IDSA"
 default_timezone = "America/New_York"
 description = "Infectious Diseases Society of America events"
 notes = "Requires HTML scraping - no RSS/iCal available"
+require_keywords = false  # Topic-specific
 
 # =============================================================================
 # Manual Entries
@@ -102,3 +158,4 @@ type = "manual"
 file_path = "data/manual_seminars.toml"
 category = "Manual"
 description = "Manually curated seminar entries"
+require_keywords = false  # Manual entries are pre-curated

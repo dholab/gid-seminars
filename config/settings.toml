@@ -42,3 +42,44 @@ retry_delay_base = 2
 [logging]
 # Log level: DEBUG, INFO, WARNING, ERROR
 level = "INFO"
+
+[filtering]
+# Keywords for filtering seminars (case-insensitive)
+# Seminars must match at least one keyword in title or description
+keywords = [
+    # Infectious disease general
+    "infectious", "infection", "pathogen", "antimicrobial", "antibiotic",
+    "antiviral", "antifungal", "epidemic", "pandemic", "outbreak",
+    # Virology
+    "virus", "viral", "virology", "retrovirus", "lentivirus",
+    "coronavirus", "SARS", "COVID", "influenza", "flu",
+    "HIV", "AIDS", "hepatitis", "herpes", "Ebola", "Zika", "dengue",
+    "RSV", "respiratory syncytial", "measles", "mumps", "rabies",
+    "poxvirus", "monkeypox", "mpox", "smallpox",
+    # Bacteriology
+    "bacteria", "bacterial", "tuberculosis", "TB", "mycobacter",
+    "streptococ", "staphylococ", "E. coli", "salmonella", "cholera",
+    "pneumonia", "meningitis", "sepsis", "Lyme",
+    # Parasitology
+    "parasite", "parasit", "malaria", "plasmodium", "leishmania",
+    "trypanosoma", "toxoplasma", "helminth", "worm",
+    # Mycology
+    "fungal", "fungus", "mycosis", "candida", "aspergill",
+    # Immunology (infectious disease related)
+    "immunology", "immune", "immunity", "vaccine", "vaccination",
+    "immunization", "antibody", "antibodies", "T cell", "B cell",
+    "cytokine", "interferon", "inflammation", "host defense",
+    "innate immunity", "adaptive immunity", "mucosal",
+    # Primate research
+    "primate", "NHP", "macaque", "rhesus", "cynomolgus", "marmoset",
+    "simian", "SIV", "SHIV", "monkey",
+    # Global health
+    "global health", "tropical", "neglected disease", "emerging disease",
+    "zoonotic", "zoonosis", "One Health", "biosecurity", "biodefense",
+    # Specific institutes/programs
+    "NIAID", "NIAD", "LaMontagne", "Fogarty",
+]
+# Exclude keywords - seminars matching these are excluded even if they match include keywords
+exclude_keywords = [
+    "career", "job fair", "networking event", "administrative",
+]
