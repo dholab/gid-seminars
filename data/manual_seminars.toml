@@ -1,0 +1,38 @@
+# Manual Seminar Entries
+# Use this file to add seminars not available via automated feeds
+#
+# Each [[seminar]] block defines one event. Required fields:
+#   - title: Event name
+#   - start_datetime: ISO 8601 format (YYYY-MM-DDTHH:MM:SS)
+#   - timezone: IANA timezone (e.g., "America/New_York")
+#
+# Optional fields:
+#   - description: Event description
+#   - end_datetime: Event end time
+#   - url: Event/registration URL
+#   - location: "Online" or physical address
+#   - organizer: Hosting organization
+#   - category: Topic category
+#   - tags: List of keywords
+#   - registration_url: Separate registration link
+#   - recording_url: Link to recording (for past events)
+#   - access_restriction: "Public", "Registration Required", etc.
+
+[metadata]
+description = "Manually curated seminar entries for GID"
+last_updated = "2025-01-14"
+
+# Example entry (commented out):
+# [[seminar]]
+# title = "Special Lecture: Emerging Pathogens 2025"
+# description = "Annual lecture on emerging infectious disease threats"
+# url = "https://example.org/emerging-pathogens"
+# start_datetime = "2025-02-15T14:00:00"
+# end_datetime = "2025-02-15T15:30:00"
+# timezone = "America/New_York"
+# location = "Online"
+# organizer = "GID Research Group"
+# category = "Special Events"
+# tags = ["emerging pathogens", "annual lecture"]
+# access_restriction = "Public"
+# registration_url = "https://example.org/register"

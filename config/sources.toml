@@ -1,0 +1,104 @@
+# GID Seminars - Source Configuration
+# Defines all seminar/webinar sources to aggregate
+
+[metadata]
+description = "Source definitions for GID seminar aggregation"
+version = "1.0.0"
+
+# =============================================================================
+# NIH VideoCast Sources (RSS feeds)
+# =============================================================================
+
+[source.nih_videocast_upcoming]
+enabled = true
+name = "NIH VideoCast - Upcoming"
+type = "rss"
+url = "https://videocast.nih.gov/rss/UpcomingEvents.asp"
+category = "NIH"
+default_timezone = "America/New_York"
+description = "Upcoming NIH seminars and lectures"
+
+[source.nih_videocast_past]
+enabled = true
+name = "NIH VideoCast - Recent Recordings"
+type = "rss"
+url = "https://videocast.nih.gov/rss/PastEvents.asp"
+category = "NIH"
+default_timezone = "America/New_York"
+description = "Recently recorded NIH seminars (for on-demand viewing)"
+
+[source.nih_immunology]
+enabled = true
+name = "NIH Immunology Seminars"
+type = "rss"
+url = "https://videocast.nih.gov/rss/PastEvents.asp?c=28"
+category = "NIH - Immunology"
+default_timezone = "America/New_York"
+description = "NIH immunology-focused seminars"
+
+[source.nih_infectious_diseases]
+enabled = true
+name = "NIH Infectious Diseases (LaMontagne)"
+type = "rss"
+url = "https://videocast.nih.gov/rss/PastEvents.asp?c=16"
+category = "NIH - Infectious Diseases"
+default_timezone = "America/New_York"
+description = "John R. LaMontagne Memorial Lecture series on infectious diseases"
+
+# =============================================================================
+# iCal Feed Sources
+# =============================================================================
+
+[source.ucsf_qbi_pasteur]
+enabled = true
+name = "UCSF QBI/Pasteur Symposium"
+type = "ical"
+url = "https://hpmi.ucsf.edu/subscribe-ical"
+category = "University - UCSF"
+default_timezone = "America/Los_Angeles"
+description = "UCSF Quantitative Biosciences Institute / Pasteur symposium on infectious disease"
+
+[source.unc_global_health]
+enabled = true
+name = "UNC Global Health & Infectious Diseases"
+type = "ical"
+url = "https://globalhealth.unc.edu/events/?ical=1"
+category = "University - UNC"
+default_timezone = "America/New_York"
+description = "UNC Institute for Global Health and Infectious Diseases seminars"
+
+# =============================================================================
+# Web Scraper Sources (Phase 2)
+# =============================================================================
+
+[source.asm_webinars]
+enabled = false  # Enable when scraper is implemented
+name = "ASM Webinars"
+type = "scraper"
+url = "https://asm.org/events"
+category = "ASM"
+default_timezone = "America/New_York"
+description = "American Society for Microbiology webinars and events"
+notes = "Requires HTML scraping - no RSS/iCal available"
+
+[source.idsa_events]
+enabled = false  # Enable when scraper is implemented
+name = "IDSA Events"
+type = "scraper"
+url = "https://www.idsociety.org/event-listing/"
+category = "IDSA"
+default_timezone = "America/New_York"
+description = "Infectious Diseases Society of America events"
+notes = "Requires HTML scraping - no RSS/iCal available"
+
+# =============================================================================
+# Manual Entries
+# =============================================================================
+
+[source.manual]
+enabled = true
+name = "Manual Entries"
+type = "manual"
+file_path = "data/manual_seminars.toml"
+category = "Manual"
+description = "Manually curated seminar entries"

@@ -1,0 +1,24 @@
+# LabKey WebDAV Configuration for GID Seminars
+
+[labkey]
+server_url = "dholk.primate.wisc.edu"
+project = "dho/public/gid_seminars"
+
+[webdav]
+# Path format: /_webdav/{project}/@files/
+base_path = "/_webdav/"
+site_path = "dho/public/gid_seminars"
+files_folder = "@files"
+
+# Files to upload
+[webdav.files]
+upload_ics = true
+upload_html = true
+upload_json = true
+
+[deployment]
+# Environment variable for API key
+api_key_env = "LABKEY_API"
+# Retry configuration
+max_retries = 3
+retry_delay = 2

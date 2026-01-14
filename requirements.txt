@@ -1,0 +1,26 @@
+# GID Seminars Aggregator Dependencies
+# Python 3.12+
+
+# HTTP requests
+requests>=2.31.0
+
+# Rich console output
+rich>=13.7.0
+
+# Configuration
+toml>=0.10.2
+python-dotenv>=1.0.0
+
+# Data validation
+pydantic>=2.5.0
+
+# Calendar handling
+icalendar>=5.0.0
+pytz>=2024.1
+
+# RSS/Feed parsing
+feedparser>=6.0.0
+
+# HTML parsing (for web scraping)
+beautifulsoup4>=4.12.0
+lxml>=5.0.0

@@ -1,0 +1,44 @@
+# GID Seminars - General Settings
+
+[metadata]
+description = "General aggregator settings"
+version = "1.0.0"
+
+[time_window]
+# Days ahead to fetch (positive number)
+days_ahead = 30
+# Days behind to fetch (positive number) - for recordings
+days_behind = 30
+
+[output]
+# Output directory for GitHub Pages (relative to project root)
+output_dir = "docs"
+# Output filenames
+ics_filename = "gid_seminars.ics"
+html_filename = "index.html"
+json_filename = "seminars.json"
+
+[calendar]
+# Calendar metadata for ICS file
+calendar_name = "GID Seminars"
+calendar_description = "Aggregated seminars and webinars for Global Infectious Disease research"
+calendar_prodid = "-//WNPRC GID//Seminars Aggregator//EN"
+# Default reminder (minutes before event, 0 = no reminder)
+default_reminder_minutes = 60
+
+[database]
+# Database path (relative to project root)
+path = "data/seminars.db"
+
+[http]
+# Request timeout (seconds)
+timeout = 30
+# User agent string
+user_agent = "GID-Seminars-Aggregator/1.0 (+https://github.com/wnprc/gid-seminars)"
+# Retry configuration
+max_retries = 3
+retry_delay_base = 2
+
+[logging]
+# Log level: DEBUG, INFO, WARNING, ERROR
+level = "INFO"
