@@ -15,6 +15,7 @@ dependencies = [
     "beautifulsoup4>=4.12.0",
     "lxml>=5.0.0",
     "pytz>=2024.1",
+    "atproto>=0.0.65",
 ]
 
 [project.optional-dependencies]

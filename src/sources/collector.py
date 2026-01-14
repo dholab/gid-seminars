@@ -11,6 +11,7 @@ from src.core.database import SeminarDatabase
 from src.core.keyword_filter import KeywordFilter
 
 from .base import BaseSource
+from .bluesky_source import BlueskySource
 from .ical_source import ICalSource
 from .manual_source import ManualSource
 from .rss_source import RSSSource
@@ -26,6 +27,7 @@ class SourceCollector:
         "rss": RSSSource,
         "ical": ICalSource,
         "manual": ManualSource,
+        "bluesky": BlueskySource,
     }
 
     def __init__(

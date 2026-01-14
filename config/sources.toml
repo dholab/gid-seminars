@@ -148,6 +148,62 @@ notes = "Requires HTML scraping - no RSS/iCal available"
 require_keywords = false  # Topic-specific
 
 # =============================================================================
+# Bluesky Sources
+# =============================================================================
+
+[source.bluesky_nprc]
+enabled = false  # Requires Bluesky authentication - set BLUESKY_HANDLE and BLUESKY_APP_PASSWORD env vars
+name = "Bluesky - NPRC & Primate Research"
+type = "bluesky"
+category = "Bluesky - NPRC"
+default_timezone = "America/New_York"
+description = "Seminar announcements from National Primate Research Centers and primate research community on Bluesky"
+require_keywords = true  # Apply keyword filtering to results
+days_back = 30
+limit_per_query = 50
+
+# Search queries to find seminar posts
+search_queries = [
+    "primate research seminar",
+    "NPRC seminar",
+    "NPRC webinar",
+    "nonhuman primate seminar",
+    "NHP research seminar",
+    "macaque research seminar",
+]
+
+# Accounts to monitor for seminar announcements
+# Add NPRC accounts here as they join Bluesky
+search_accounts = [
+    # Add handles like "wnprc.bsky.social" when available
+]
+
+[source.bluesky_id]
+enabled = false  # Requires Bluesky authentication - set BLUESKY_HANDLE and BLUESKY_APP_PASSWORD env vars
+name = "Bluesky - Infectious Disease"
+type = "bluesky"
+category = "Bluesky - ID"
+default_timezone = "America/New_York"
+description = "Infectious disease seminar announcements on Bluesky"
+require_keywords = true  # Apply keyword filtering
+days_back = 30
+limit_per_query = 50
+
+search_queries = [
+    "infectious disease seminar",
+    "virology seminar",
+    "immunology seminar",
+    "vaccine seminar",
+    "HIV research seminar",
+    "tuberculosis seminar",
+    "malaria seminar",
+]
+
+search_accounts = [
+    # Add ID-related accounts as they're discovered
+]
+
+# =============================================================================
 # Manual Entries
 # =============================================================================
 
