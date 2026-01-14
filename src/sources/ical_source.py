@@ -74,8 +74,10 @@ class ICalSource(BaseSource):
         # Get description
         description = str(event.get("description", "")).strip() or None
 
-        # Get URL
+        # Get URL - check explicit field first, then look in description
         url = str(event.get("url", "")).strip() or None
+        if not url and description:
+            url = self._extract_url_from_text(description)
 
         # Get location
         location = str(event.get("location", "")).strip() or "Online"
@@ -111,6 +113,16 @@ class ICalSource(BaseSource):
             category=category,
             raw_data={"uid": uid} if uid else None,
         )
+
+    def _extract_url_from_text(self, text: str) -> str | None:
+        """Extract URL from text (description)."""
+        import re
+        # Look for URLs in the text
+        url_pattern = r'https?://[^\s<>"\')\]]+[^\s<>"\')\].,;:!?]'
+        match = re.search(url_pattern, text)
+        if match:
+            return match.group(0)
+        return None
 
     def _parse_ical_datetime(self, dt: Any) -> datetime | None:
         """Parse iCal datetime to Python datetime."""

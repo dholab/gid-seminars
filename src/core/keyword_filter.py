@@ -19,10 +19,14 @@ class KeywordFilter:
         Initialize the keyword filter.
 
         Args:
-            config: Filtering configuration with 'keywords' and 'exclude_keywords' lists
+            config: Filtering configuration with 'keywords', 'exclude_keywords',
+                   and 'exclude_categories' lists
         """
         self.keywords = config.get("keywords", [])
         self.exclude_keywords = config.get("exclude_keywords", [])
+        self.exclude_categories = [
+            cat.lower() for cat in config.get("exclude_categories", [])
+        ]
 
         # Compile regex patterns for efficient matching (case-insensitive, word boundaries)
         self.include_patterns = [
@@ -34,11 +38,26 @@ class KeywordFilter:
             for kw in self.exclude_keywords
         ]
 
+    def is_excluded_category(self, seminar: Seminar) -> bool:
+        """
+        Check if a seminar's category is in the exclusion list.
+
+        Args:
+            seminar: The seminar to check
+
+        Returns:
+            True if category should be excluded, False otherwise
+        """
+        if not self.exclude_categories or not seminar.category:
+            return False
+        return seminar.category.lower() in self.exclude_categories
+
     def matches(self, seminar: Seminar) -> bool:
         """
         Check if a seminar matches the keyword criteria.
 
         Returns True if:
+        - Category is not in exclude_categories
         - Title or description contains at least one include keyword
         - AND does not contain any exclude keywords
 
@@ -48,6 +67,10 @@ class KeywordFilter:
         Returns:
             True if seminar matches criteria, False otherwise
         """
+        # Check category exclusion first
+        if self.is_excluded_category(seminar):
+            return False
+
         # Combine searchable text
         text = f"{seminar.title} {seminar.description or ''}"
 
@@ -69,25 +92,32 @@ class KeywordFilter:
         require_keywords: bool = True,
     ) -> tuple[list[Seminar], int]:
         """
-        Filter a list of seminars based on keywords.
+        Filter a list of seminars based on keywords and category exclusions.
 
         Args:
             seminars: List of seminars to filter
-            require_keywords: If True, filter by keywords. If False, return all.
+            require_keywords: If True, filter by keywords. If False, only apply
+                            category exclusions.
 
         Returns:
             Tuple of (filtered_seminars, excluded_count)
         """
-        if not require_keywords:
-            return seminars, 0
-
         filtered = []
         excluded = 0
 
         for seminar in seminars:
-            if self.matches(seminar):
-                filtered.append(seminar)
-            else:
+            # Always check category exclusions
+            if self.is_excluded_category(seminar):
                 excluded += 1
+                continue
+
+            # If keyword filtering required, check keywords
+            if require_keywords:
+                if self.matches(seminar):
+                    filtered.append(seminar)
+                else:
+                    excluded += 1
+            else:
+                filtered.append(seminar)
 
         return filtered, excluded

@@ -83,3 +83,11 @@ keywords = [
 exclude_keywords = [
     "career", "job fair", "networking event", "administrative",
 ]
+
+# Exclude categories - events with these categories are excluded (restricted access)
+exclude_categories = [
+    "HHS Only",
+    "NIH Only",
+    "Internal",
+    "Staff Only",
+]

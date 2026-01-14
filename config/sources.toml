@@ -121,6 +121,36 @@ default_timezone = "America/New_York"
 description = "UNC Institute for Global Health and Infectious Diseases seminars"
 require_keywords = false  # Topic-specific feed
 
+[source.broad_institute]
+enabled = true
+name = "Broad Institute Events"
+type = "ical"
+url = "https://events.broadinstitute.org/calendar/1.ics"
+category = "University - Broad"
+default_timezone = "America/New_York"
+description = "Broad Institute events including Infectious Disease and Microbiome Program seminars"
+require_keywords = true  # Broad calendar - filter for ID relevant
+
+[source.epinowcast]
+enabled = true
+name = "Epinowcast - Real-Time ID Modelling"
+type = "ical"
+url = "https://calendar.google.com/calendar/ical/a113b6f5d961808f09b7a807e20355398864ccab239ed602c79e93ac99f4ad13%40group.calendar.google.com/public/basic.ics"
+category = "Modelling"
+default_timezone = "Europe/London"
+description = "Epinowcast real-time infectious disease modelling seminars"
+require_keywords = false  # Topic-specific
+
+[source.upenn_immunology]
+enabled = false  # Calendar has stale data (2021)
+name = "UPenn Immunology Colloquium"
+type = "ical"
+url = "https://calendar.google.com/calendar/ical/gps4i3852u5kn12qijvl6anqv8%40group.calendar.google.com/public/basic.ics"
+category = "University - UPenn"
+default_timezone = "America/New_York"
+description = "University of Pennsylvania Immunology Graduate Group Colloquium"
+require_keywords = false  # Topic-specific
+
 # =============================================================================
 # Web Scraper Sources (Phase 2)
 # =============================================================================
