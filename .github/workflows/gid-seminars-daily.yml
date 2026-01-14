@@ -14,6 +14,7 @@ permissions:
   contents: write
   pages: write
   id-token: write
+  issues: write
 
 # Allow only one concurrent deployment
 concurrency:
@@ -27,6 +28,122 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+
+      - name: Process pending event submissions and hide requests
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require('fs');
+            const { owner, repo } = context.repo;
+
+            // Get all open issues
+            const { data: issues } = await github.rest.issues.listForRepo({
+              owner,
+              repo,
+              state: 'open',
+              per_page: 100
+            });
+
+            let hasChanges = false;
+
+            for (const issue of issues) {
+              const title = issue.title;
+              const body = issue.body || '';
+
+              // Process event submissions (title starts with "Event:")
+              if (title.startsWith('Event:')) {
+                console.log(`Processing event submission: ${title}`);
+
+                // Extract TOML from code block
+                const tomlMatch = body.match(/```toml\s*([\s\S]*?)\s*```/);
+                if (tomlMatch) {
+                  const tomlContent = tomlMatch[1].trim();
+
+                  // Validate it has required fields
+                  if (tomlContent.includes('[[seminar]]') &&
+                      tomlContent.includes('title') &&
+                      tomlContent.includes('start_datetime') &&
+                      tomlContent.includes('timezone')) {
+
+                    // Append to manual_seminars.toml
+                    const dateStr = new Date().toISOString().split('T')[0];
+                    const entry = `\n# Added from GitHub Issue #${issue.number} on ${dateStr}\n${tomlContent}\n`;
+                    fs.appendFileSync('data/manual_seminars.toml', entry);
+                    hasChanges = true;
+
+                    // Close issue with success message
+                    const eventTitle = title.replace('Event:', '').trim().substring(0, 50);
+                    await github.rest.issues.createComment({
+                      owner, repo,
+                      issue_number: issue.number,
+                      body: `✅ **Event added successfully!**\n\nYour event "${eventTitle}" has been added to the GID Seminars calendar.\n\nIt will appear on the [events page](https://${owner}.github.io/${repo}/) shortly.\n\nThank you for your contribution! 🎉`
+                    });
+                    await github.rest.issues.update({
+                      owner, repo,
+                      issue_number: issue.number,
+                      state: 'closed'
+                    });
+                    console.log(`  Added event and closed issue #${issue.number}`);
+                  } else {
+                    console.log(`  Invalid TOML format in issue #${issue.number}`);
+                  }
+                }
+              }
+
+              // Process hide requests (title starts with "Hide Event:")
+              if (title.startsWith('Hide Event:')) {
+                console.log(`Processing hide request: ${title}`);
+
+                // Extract URL from body
+                const urlMatch = body.match(/URL:\s*(https?:\/\/[^\s\n]+)/);
+                if (urlMatch) {
+                  const eventUrl = urlMatch[1];
+                  const eventTitle = title.replace('Hide Event:', '').trim();
+
+                  // Extract reason
+                  const reasonMatch = body.match(/Reason for hiding:\s*\n\s*(.+?)(?:\n---|\n\n|$)/s);
+                  const reason = reasonMatch ? reasonMatch[1].trim().substring(0, 100).replace(/"/g, "'") : 'Requested via GitHub issue';
+
+                  // Append to excluded_events.toml
+                  const dateStr = new Date().toISOString().split('T')[0];
+                  const entry = `\n# Added from GitHub Issue #${issue.number} on ${dateStr}\n# Event: ${eventTitle.substring(0, 60)}\n[[exclude_url]]\nurl = "${eventUrl}"\nreason = "${reason}"\n`;
+                  fs.appendFileSync('data/excluded_events.toml', entry);
+                  hasChanges = true;
+
+                  // Close issue with success message
+                  await github.rest.issues.createComment({
+                    owner, repo,
+                    issue_number: issue.number,
+                    body: `✅ **Event hidden successfully!**\n\nThe event "${eventTitle.substring(0, 50)}" has been added to the exclusion list.\n\nIt will be removed from the calendar shortly.\n\nThank you for helping keep the calendar relevant! 🙏`
+                  });
+                  await github.rest.issues.update({
+                    owner, repo,
+                    issue_number: issue.number,
+                    state: 'closed'
+                  });
+                  console.log(`  Added exclusion and closed issue #${issue.number}`);
+                } else {
+                  console.log(`  No URL found in issue #${issue.number}`);
+                }
+              }
+            }
+
+            // Set output for later steps
+            core.setOutput('has_changes', hasChanges);
+
+      - name: Commit pending submissions
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add data/manual_seminars.toml data/excluded_events.toml || true
+          git diff --staged --quiet || (
+            git commit -m "Process pending event submissions and hide requests
+
+            🤖 Generated with [Claude Code](https://claude.com/claude-code)
+
+            Co-Authored-By: Claude <noreply@anthropic.com>" &&
+            git push
+          ) || true
 
       - name: Install uv
         uses: astral-sh/setup-uv@v3
