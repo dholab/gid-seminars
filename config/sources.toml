@@ -171,6 +171,16 @@ default_timezone = "America/Los_Angeles"
 description = "UW/Fred Hutch Center for AIDS Research seminars and events"
 require_keywords = false  # Topic-specific (HIV/AIDS focused)
 
+[source.stanford_virtual]
+enabled = true
+name = "Stanford Virtual Events"
+type = "ical"
+url = "https://events.stanford.edu/calendar.ics?experience=virtual"
+category = "University - Stanford"
+default_timezone = "America/Los_Angeles"
+description = "Stanford University virtual events (filtered for ID-relevant topics)"
+require_keywords = true  # Broad calendar - filter for ID relevant
+
 # =============================================================================
 # Web Scraper Sources
 # =============================================================================
@@ -219,6 +229,29 @@ default_timezone = "UTC"
 description = "The Global Health Network events"
 notes = "Events loaded via JavaScript - requires browser automation"
 require_keywords = false
+
+[source.usask_pcc]
+enabled = true
+name = "USask Post-COVID Condition"
+type = "scraper"
+scraper_type = "usask_pcc"
+url = "https://cmelearning.usask.ca/specialized-programs/post-covid-condition/about_post-covid-condition-overview/pcc_events.php"
+category = "University - USask"
+default_timezone = "America/Regina"
+description = "University of Saskatchewan Post-COVID Condition webinar series"
+require_keywords = false  # Topic-specific (Long COVID focused)
+
+[source.longcovidweb]
+enabled = false  # Wix site with JS-rendered content - cannot scrape
+name = "Long COVID Web"
+type = "scraper"
+scraper_type = "longcovidweb"
+url = "https://www.longcovidweb.ca/events"
+category = "Long COVID"
+default_timezone = "America/Toronto"
+description = "Long COVID Web community events and webinars"
+notes = "Wix-based site with JavaScript-rendered content - requires browser automation"
+require_keywords = false  # Topic-specific
 
 [source.asm_webinars]
 enabled = false  # Enable when scraper is implemented
@@ -326,6 +359,17 @@ category = "ASTMH"
 default_timezone = "America/New_York"
 description = "American Society of Tropical Medicine and Hygiene events and webinars"
 require_keywords = false  # Topic-specific (tropical medicine/ID)
+
+[source.isrv_events]
+enabled = true
+name = "ISRV Events"
+type = "scraper"
+scraper_type = "isrv"
+url = "https://www.isrv.global/events-calendar/"
+category = "ISRV"
+default_timezone = "UTC"
+description = "International Society for Respiratory Viruses events, webinars, and conferences"
+require_keywords = false  # Topic-specific (respiratory viruses)
 
 # =============================================================================
 # Podcast Sources
