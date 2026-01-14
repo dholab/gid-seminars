@@ -152,7 +152,7 @@ require_keywords = false  # Topic-specific
 # =============================================================================
 
 [source.bluesky_nprc]
-enabled = false  # Requires Bluesky authentication - set BLUESKY_HANDLE and BLUESKY_APP_PASSWORD env vars
+enabled = true
 name = "Bluesky - NPRC & Primate Research"
 type = "bluesky"
 category = "Bluesky - NPRC"
@@ -179,7 +179,7 @@ search_accounts = [
 ]
 
 [source.bluesky_id]
-enabled = false  # Requires Bluesky authentication - set BLUESKY_HANDLE and BLUESKY_APP_PASSWORD env vars
+enabled = true
 name = "Bluesky - Infectious Disease"
 type = "bluesky"
 category = "Bluesky - ID"
