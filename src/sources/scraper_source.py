@@ -51,6 +51,12 @@ class ScraperSource(BaseSource):
             return self._parse_iasusa(soup)
         elif self.scraper_type == "avac":
             return self._parse_avac(soup)
+        elif self.scraper_type == "tephi":
+            return self._parse_tephi(soup)
+        elif self.scraper_type == "tghn":
+            return self._parse_tghn(soup)
+        elif self.scraper_type == "astmh":
+            return self._parse_astmh(soup)
         else:
             console.print(f"    [yellow]Unknown scraper type: {self.scraper_type}[/yellow]")
             return []
@@ -340,6 +346,191 @@ class ScraperSource(BaseSource):
                     organizer="AVAC",
                     category=self.category,
                 ))
+
+        return seminars
+
+    def _parse_tephi(self, soup: BeautifulSoup) -> list[Seminar]:
+        """Parse Texas EPHI events page."""
+        seminars = []
+        seen_urls = set()
+
+        # Find event divs with class "event"
+        event_divs = soup.find_all("div", class_="event")
+
+        for event_div in event_divs:
+            # Find the link inside
+            link = event_div.find("a", href=True)
+            if not link:
+                continue
+
+            href = link.get("href", "")
+            if not href or href in seen_urls:
+                continue
+            seen_urls.add(href)
+
+            # Get title from h3.title
+            title_elem = event_div.find("h3", class_="title")
+            title = title_elem.get_text(strip=True) if title_elem else None
+            if not title:
+                continue
+
+            # Get date from span elements
+            date_div = event_div.find("div", class_="date")
+            start_datetime = None
+            if date_div:
+                month = date_div.find("span", class_="month")
+                day = date_div.find("span", class_="day")
+                year = date_div.find("span", class_="year")
+                if month and day and year:
+                    date_str = f"{month.get_text(strip=True)} {day.get_text(strip=True)} {year.get_text(strip=True)}"
+                    try:
+                        start_datetime = datetime.strptime(date_str, "%b %d %Y")
+                    except ValueError:
+                        pass
+
+            # Get time
+            time_elem = event_div.find("p", string=re.compile(r"Time:"))
+            if time_elem:
+                time_match = re.search(r"(\d{1,2}:\d{2}\s*(AM|PM))", time_elem.get_text(), re.IGNORECASE)
+                if time_match and start_datetime:
+                    time_str = time_match.group(1)
+                    try:
+                        time_obj = datetime.strptime(time_str, "%I:%M %p")
+                        start_datetime = start_datetime.replace(
+                            hour=time_obj.hour, minute=time_obj.minute
+                        )
+                    except ValueError:
+                        pass
+
+            # Get location
+            location_elem = event_div.find("p", class_="subtitle")
+            location = None
+            if location_elem:
+                loc_text = location_elem.get_text(strip=True)
+                if "Location:" in loc_text:
+                    location = loc_text.replace("Location:", "").strip()
+
+            if not start_datetime:
+                continue
+
+            # Build full URL
+            if href.startswith("/"):
+                full_url = f"https://tephi.texas.gov{href}"
+            else:
+                full_url = href
+
+            seminars.append(Seminar(
+                source_id=self.source_id,
+                title=title,
+                description=None,
+                url=full_url,
+                start_datetime=start_datetime,
+                timezone=self.default_timezone,
+                location=location or "Online",
+                organizer="Texas EPHI",
+                category=self.category,
+            ))
+
+        return seminars
+
+    def _parse_tghn(self, soup: BeautifulSoup) -> list[Seminar]:
+        """Parse TGHN events page - currently returns empty as events are JS-loaded."""
+        # TGHN events appear to be dynamically loaded via JavaScript
+        # Would need Playwright/Selenium to scrape
+        console.print("    [yellow]TGHN events are JS-loaded - skipping[/yellow]")
+        return []
+
+    def _parse_astmh(self, soup: BeautifulSoup) -> list[Seminar]:
+        """Parse ASTMH events page."""
+        seminars = []
+        seen_titles = set()
+
+        # Find BoxList divs containing events
+        box_lists = soup.find_all("div", class_="BoxList")
+
+        for box in box_lists:
+            # Get title element - contains link and date span
+            title_div = box.find("div", class_="Title")
+            if not title_div:
+                continue
+
+            # Get title from link
+            title_link = title_div.find("a")
+            title = title_link.get_text(strip=True) if title_link else None
+            if not title or title in seen_titles:
+                continue
+            seen_titles.add(title)
+
+            # Get date from span.Date
+            date_span = title_div.find("span", class_="Date")
+            date_text = date_span.get_text(strip=True) if date_span else ""
+
+            # Parse date - can be single or range
+            start_datetime = None
+            end_datetime = None
+
+            # Check for date range first
+            range_match = re.search(r"(\d{1,2}/\d{1,2}/\d{4})\s*-\s*(\d{1,2}/\d{1,2}/\d{4})", date_text)
+            if range_match:
+                try:
+                    start_datetime = datetime.strptime(range_match.group(1), "%m/%d/%Y")
+                    end_datetime = datetime.strptime(range_match.group(2), "%m/%d/%Y")
+                except ValueError:
+                    pass
+            else:
+                # Single date
+                date_match = re.search(r"(\d{1,2}/\d{1,2}/\d{4})", date_text)
+                if date_match:
+                    try:
+                        start_datetime = datetime.strptime(date_match.group(1), "%m/%d/%Y")
+                    except ValueError:
+                        pass
+
+            if not start_datetime:
+                continue
+
+            # Get description
+            desc_parts = []
+            for p in box.find_all("p"):
+                text = p.get_text(strip=True)
+                if text and "Location:" not in text:
+                    desc_parts.append(text)
+            description = " ".join(desc_parts) if desc_parts else None
+
+            # Get location - it's in a div with strong "Location:" label
+            location = None
+            for div in box.find_all("div"):
+                strong = div.find("strong")
+                if strong and "Location" in strong.get_text():
+                    # Get text after the strong tag
+                    full_text = div.get_text(strip=True)
+                    location = full_text.replace("Location:", "").strip()
+                    break
+
+            # Get URL from title link
+            url = None
+            if title_link:
+                href = title_link.get("href", "")
+                if href.startswith("/"):
+                    url = f"https://www.astmh.org{href}"
+                elif href.startswith("http"):
+                    url = href
+
+            # Determine if virtual
+            is_virtual = location and "virtual" in location.lower()
+
+            seminars.append(Seminar(
+                source_id=self.source_id,
+                title=title,
+                description=description,
+                url=url,
+                start_datetime=start_datetime,
+                end_datetime=end_datetime,
+                timezone=self.default_timezone,
+                location=location or ("Online" if is_virtual else None),
+                organizer="ASTMH",
+                category=self.category,
+            ))
 
         return seminars
 

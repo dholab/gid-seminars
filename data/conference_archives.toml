@@ -1,0 +1,143 @@
+# Conference Archives
+# Links to freely available conference recordings and webcasts
+#
+# These are large conference archives with many sessions - we link to the
+# conference landing page rather than individual sessions.
+#
+# Each [[conference]] block defines one conference archive. Required fields:
+#   - name: Conference name
+#   - year: Conference year
+#   - url: Link to webcast archive
+#   - date_range: When the conference was held (display string)
+#
+# Optional fields:
+#   - description: Brief description
+#   - organizer: Hosting organization
+#   - category: Topic category
+#   - session_count: Approximate number of sessions available
+#   - access: "Free", "Registration Required", "Subscription", etc.
+#   - topics: List of major topics covered
+
+[metadata]
+description = "Conference archives with freely available recordings"
+last_updated = "2026-01-14"
+
+# =============================================================================
+# HIV/AIDS Conferences
+# =============================================================================
+
+[[conference]]
+name = "CROI 2025 (Conference on Retroviruses and Opportunistic Infections)"
+year = 2025
+url = "https://croiwebcasts.org/"
+date_range = "March 9-12, 2025"
+description = "Annual premier venue for HIV/AIDS and related infectious diseases research. Full webcasts available for all sessions."
+organizer = "CROI Foundation"
+category = "HIV/AIDS"
+session_count = 400
+access = "Free"
+topics = ["HIV", "AIDS", "antiretroviral therapy", "cure research", "prevention", "opportunistic infections"]
+
+[[conference]]
+name = "CROI 2024"
+year = 2024
+url = "https://croiwebcasts.org/"
+date_range = "March 3-6, 2024"
+description = "CROI conference webcasts archive"
+organizer = "CROI Foundation"
+category = "HIV/AIDS"
+access = "Free"
+topics = ["HIV", "AIDS", "antiretroviral therapy"]
+
+[[conference]]
+name = "IAS 2024 (International AIDS Society Conference)"
+year = 2024
+url = "https://plus.iasociety.org/search/resources/convening/395"
+date_range = "July 22-26, 2024"
+description = "25th International AIDS Conference (AIDS 2024) held in Munich. Scientific sessions and presentations available."
+organizer = "International AIDS Society"
+category = "HIV/AIDS"
+access = "Free (registration required)"
+topics = ["HIV", "AIDS", "global health", "policy", "treatment", "prevention"]
+
+[[conference]]
+name = "IAS 2023"
+year = 2023
+url = "https://plus.iasociety.org/"
+date_range = "July 23-26, 2023"
+description = "12th IAS Conference on HIV Science held in Brisbane"
+organizer = "International AIDS Society"
+category = "HIV/AIDS"
+access = "Free (registration required)"
+topics = ["HIV", "AIDS", "HIV science"]
+
+# =============================================================================
+# Infectious Disease / Tropical Medicine
+# =============================================================================
+
+[[conference]]
+name = "ASTMH 2024 Annual Meeting"
+year = 2024
+url = "https://www.astmh.org/annual-meeting/past-annual-meetings"
+date_range = "November 13-17, 2024"
+description = "American Society of Tropical Medicine and Hygiene annual scientific meeting"
+organizer = "ASTMH"
+category = "Tropical Medicine"
+access = "Members/Registration"
+topics = ["tropical medicine", "global health", "parasitology", "malaria", "neglected tropical diseases"]
+
+[[conference]]
+name = "IDWeek 2024"
+year = 2024
+url = "https://idweek.org/"
+date_range = "October 16-19, 2024"
+description = "Joint meeting of IDSA, SHEA, HIVMA, PIDS, and SIDP"
+organizer = "IDSA"
+category = "Infectious Disease"
+access = "Registration Required"
+topics = ["infectious disease", "antimicrobial stewardship", "HIV", "healthcare epidemiology"]
+
+# =============================================================================
+# Virology
+# =============================================================================
+
+[[conference]]
+name = "ASV 2024 (American Society for Virology)"
+year = 2024
+url = "https://www.asv.org/meetings/"
+date_range = "June 2024"
+description = "Annual virology research conference"
+organizer = "American Society for Virology"
+category = "Virology"
+access = "Registration Required"
+topics = ["virology", "viral pathogenesis", "antiviral research"]
+
+# =============================================================================
+# Immunology
+# =============================================================================
+
+[[conference]]
+name = "AAI IMMUNOLOGY 2024"
+year = 2024
+url = "https://www.immunology.org/events"
+date_range = "May 3-7, 2024"
+description = "American Association of Immunologists annual meeting"
+organizer = "AAI"
+category = "Immunology"
+access = "Registration Required"
+topics = ["immunology", "vaccines", "immune response", "autoimmunity"]
+
+# =============================================================================
+# Vaccines
+# =============================================================================
+
+[[conference]]
+name = "World Vaccine Congress 2024"
+year = 2024
+url = "https://www.terrapinn.com/conference/world-vaccine-congress-washington/"
+date_range = "April 2024"
+description = "Global vaccine development and manufacturing conference"
+organizer = "Terrapinn"
+category = "Vaccines"
+access = "Paid"
+topics = ["vaccines", "immunization", "manufacturing", "clinical trials"]

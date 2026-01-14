@@ -12,8 +12,10 @@ from src.core.keyword_filter import KeywordFilter
 
 from .base import BaseSource
 from .bluesky_source import BlueskySource
+from .conference_source import ConferenceSource
 from .ical_source import ICalSource
 from .manual_source import ManualSource
+from .podcast_source import PodcastSource
 from .rss_source import RSSSource
 from .scraper_source import ScraperSource
 
@@ -30,6 +32,8 @@ class SourceCollector:
         "manual": ManualSource,
         "bluesky": BlueskySource,
         "scraper": ScraperSource,
+        "podcast": PodcastSource,
+        "conference": ConferenceSource,
     }
 
     def __init__(
@@ -70,7 +74,7 @@ class SourceCollector:
                 continue
 
             try:
-                if source_type == "manual":
+                if source_type in ("manual", "conference"):
                     source = source_class(
                         source_id,
                         source_config,

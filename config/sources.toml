@@ -151,6 +151,26 @@ default_timezone = "America/New_York"
 description = "University of Pennsylvania Immunology Graduate Group Colloquium"
 require_keywords = false  # Topic-specific
 
+[source.uw_madison_seminars]
+enabled = true
+name = "UW-Madison Seminars"
+type = "ical"
+url = "https://today.wisc.edu/events/tag/seminars.ics"
+category = "University - UW-Madison"
+default_timezone = "America/Chicago"
+description = "University of Wisconsin-Madison seminars (filtered for ID-relevant topics)"
+require_keywords = true  # Broad calendar - filter for ID relevant
+
+[source.uw_cfar]
+enabled = true
+name = "UW/Fred Hutch CFAR Seminars"
+type = "ical"
+url = "https://www.trumba.com/calendars/sea_cfar-globalhealth.ics"
+category = "University - UW CFAR"
+default_timezone = "America/Los_Angeles"
+description = "UW/Fred Hutch Center for AIDS Research seminars and events"
+require_keywords = false  # Topic-specific (HIV/AIDS focused)
+
 # =============================================================================
 # Web Scraper Sources
 # =============================================================================
@@ -176,6 +196,29 @@ category = "AVAC"
 default_timezone = "America/New_York"
 description = "AVAC HIV prevention advocacy webinars and events"
 require_keywords = false  # Topic-specific (HIV focused)
+
+[source.tephi_events]
+enabled = true
+name = "Texas EPHI Grand Rounds"
+type = "scraper"
+scraper_type = "tephi"
+url = "https://tephi.texas.gov/events/index.htm"
+category = "TEPHI"
+default_timezone = "America/Chicago"
+description = "Texas Epidemic Public Health Institute seminars and events"
+require_keywords = false  # Topic-specific (public health/epidemic)
+
+[source.tghn_events]
+enabled = false  # Events are JS-loaded, cannot scrape
+name = "TGHN Events"
+type = "scraper"
+scraper_type = "tghn"
+url = "https://hub.tghn.org/event-tghn/"
+category = "TGHN"
+default_timezone = "UTC"
+description = "The Global Health Network events"
+notes = "Events loaded via JavaScript - requires browser automation"
+require_keywords = false
 
 [source.asm_webinars]
 enabled = false  # Enable when scraper is implemented
@@ -254,6 +297,62 @@ search_queries = [
 search_accounts = [
     # Add ID-related accounts as they're discovered
 ]
+
+# =============================================================================
+# Organization RSS Feeds
+# =============================================================================
+
+[source.astmh_events]
+enabled = true
+name = "ASTMH Events"
+type = "scraper"
+scraper_type = "astmh"
+url = "https://www.astmh.org/news-events/events-list"
+category = "ASTMH"
+default_timezone = "America/New_York"
+description = "American Society of Tropical Medicine and Hygiene events and webinars"
+require_keywords = false  # Topic-specific (tropical medicine/ID)
+
+# =============================================================================
+# Podcast Sources
+# =============================================================================
+
+[source.twiv_podcast]
+enabled = true
+name = "This Week in Virology (TWiV)"
+type = "podcast"
+url = "https://www.microbe.tv/twiv/feed/"
+category = "Podcast - TWiV"
+default_timezone = "UTC"
+description = "This Week in Virology podcast - recent episodes on virology research"
+require_keywords = false  # Topic-specific
+days_back = 30
+max_episodes = 10
+
+[source.idsa_podcast]
+enabled = true
+name = "IDSA Let's Talk ID"
+type = "podcast"
+url = "https://feeds.buzzsprout.com/2019912.rss"
+category = "Podcast - IDSA"
+default_timezone = "UTC"
+description = "IDSA Let's Talk ID podcast on infectious disease topics"
+require_keywords = false  # Topic-specific
+days_back = 30
+max_episodes = 10
+
+# =============================================================================
+# Conference Archives
+# =============================================================================
+
+[source.conference_archives]
+enabled = true
+name = "Conference Archives"
+type = "conference"
+file_path = "data/conference_archives.toml"
+category = "Conference"
+description = "Links to freely available conference recordings (CROI, IAS, etc.)"
+require_keywords = false  # Curated archives
 
 # =============================================================================
 # Manual Entries
