@@ -1,0 +1,178 @@
+name: Process Event Submission
+
+on:
+  issues:
+    types: [labeled]
+
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  process-submission:
+    # Only run when the 'event-submission' label is added
+    if: github.event.label.name == 'event-submission'
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install toml
+
+      - name: Extract and validate TOML from issue
+        id: extract
+        env:
+          ISSUE_BODY: ${{ github.event.issue.body }}
+          ISSUE_TITLE: ${{ github.event.issue.title }}
+          ISSUE_NUMBER: ${{ github.event.issue.number }}
+        run: |
+          python << 'EOF'
+          import os
+          import re
+          import sys
+          import toml
+          from datetime import datetime
+
+          issue_body = os.environ.get('ISSUE_BODY', '')
+          issue_number = os.environ.get('ISSUE_NUMBER', '')
+
+          # Extract TOML from code block
+          toml_match = re.search(r'```toml\s*(.*?)\s*```', issue_body, re.DOTALL)
+          if not toml_match:
+              # Try without code block markers
+              toml_match = re.search(r'\[\[seminar\]\].*', issue_body, re.DOTALL)
+              if toml_match:
+                  toml_content = toml_match.group(0).strip()
+              else:
+                  print("::error::No TOML content found in issue body")
+                  sys.exit(1)
+          else:
+              toml_content = toml_match.group(1).strip()
+
+          # Validate TOML
+          try:
+              data = toml.loads(toml_content)
+          except Exception as e:
+              print(f"::error::Invalid TOML: {e}")
+              sys.exit(1)
+
+          # Check for required fields
+          seminars = data.get('seminar', [])
+          if not seminars:
+              print("::error::No [[seminar]] entry found")
+              sys.exit(1)
+
+          seminar = seminars[0] if isinstance(seminars, list) else seminars
+
+          required_fields = ['title', 'start_datetime', 'timezone', 'url']
+          missing = [f for f in required_fields if not seminar.get(f)]
+          if missing:
+              print(f"::error::Missing required fields: {', '.join(missing)}")
+              sys.exit(1)
+
+          # Validate datetime format
+          try:
+              datetime.fromisoformat(seminar['start_datetime'])
+          except ValueError:
+              print("::error::Invalid start_datetime format. Use ISO 8601 (YYYY-MM-DDTHH:MM:SS)")
+              sys.exit(1)
+
+          # Write validated TOML to file for next step
+          with open('/tmp/new_event.toml', 'w') as f:
+              f.write(toml_content)
+
+          # Output event title for commit message
+          print(f"event_title={seminar['title'][:50]}")
+          with open(os.environ['GITHUB_OUTPUT'], 'a') as f:
+              f.write(f"event_title={seminar['title'][:50]}\n")
+              f.write(f"valid=true\n")
+
+          print(f"Successfully validated event: {seminar['title']}")
+          EOF
+
+      - name: Append event to manual_seminars.toml
+        if: steps.extract.outputs.valid == 'true'
+        run: |
+          echo "" >> data/manual_seminars.toml
+          echo "# Added from GitHub Issue #${{ github.event.issue.number }} on $(date -u +'%Y-%m-%d')" >> data/manual_seminars.toml
+          cat /tmp/new_event.toml >> data/manual_seminars.toml
+
+      - name: Commit changes
+        if: steps.extract.outputs.valid == 'true'
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add data/manual_seminars.toml
+          git commit -m "Add event: ${{ steps.extract.outputs.event_title }}
+
+          Closes #${{ github.event.issue.number }}
+
+          🤖 Generated with [Claude Code](https://claude.com/claude-code)
+
+          Co-Authored-By: Claude <noreply@anthropic.com>"
+          git push
+
+      - name: Close issue with success message
+        if: steps.extract.outputs.valid == 'true'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            await github.rest.issues.createComment({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.issue.number,
+              body: `✅ **Event added successfully!**
+
+            Your event "${{ steps.extract.outputs.event_title }}" has been added to the GID Seminars calendar.
+
+            It will appear on the [events page](https://${context.repo.owner}.github.io/${context.repo.repo}/) after the next scheduled update (runs daily at 6:00 AM UTC, or you can check back in a few minutes if a rebuild was triggered).
+
+            Thank you for your contribution! 🎉`
+            });
+
+            await github.rest.issues.update({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.issue.number,
+              state: 'closed'
+            });
+
+      - name: Comment on invalid submission
+        if: failure()
+        uses: actions/github-script@v7
+        with:
+          script: |
+            await github.rest.issues.createComment({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.issue.number,
+              body: `❌ **Unable to process event submission**
+
+            There was an issue with your submission. Please check:
+
+            1. The TOML is properly formatted and wrapped in \`\`\`toml code blocks
+            2. Required fields are present: \`title\`, \`start_datetime\`, \`timezone\`, \`url\`
+            3. Date format is ISO 8601: \`YYYY-MM-DDTHH:MM:SS\`
+
+            Please edit this issue to fix the format, or create a new submission using the [submission form](https://${context.repo.owner}.github.io/${context.repo.repo}/submit.html).
+
+            <details>
+            <summary>Example of valid TOML format</summary>
+
+            \`\`\`toml
+            [[seminar]]
+            title = "Example Webinar Title"
+            url = "https://example.org/event"
+            start_datetime = "2026-02-15T14:00:00"
+            timezone = "America/New_York"
+            location = "Online"
+            \`\`\`
+            </details>`
+            });

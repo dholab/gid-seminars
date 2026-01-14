@@ -214,8 +214,8 @@
 
 <div class="info-box">
     <strong>How this works:</strong>
-    Fill out the form below to generate a formatted entry. You can then submit it via GitHub Issue or email.
-    Events are reviewed and added to the calendar within 24-48 hours.
+    Fill out the form below and click "Add to Calendar". Your event will be <strong>automatically added</strong>
+    within minutes - no manual review required for valid submissions!
 </div>
 
 <div class="form-container">
@@ -358,42 +358,30 @@
         </div>
 
         <div style="margin-top: 30px;">
-            <button type="submit" class="btn btn-primary">Generate Submission</button>
+            <button type="submit" class="btn btn-success" style="font-size: 1.1em; padding: 14px 28px;">Add to Calendar</button>
             <button type="reset" class="btn btn-secondary" style="margin-left: 10px;">Clear Form</button>
         </div>
     </form>
 </div>
 
 <div class="output-container" id="output-container">
-    <h2>Your Event Submission</h2>
-    <p>Copy the TOML entry below and submit it using one of the options:</p>
+    <h2>Almost there!</h2>
+    <p>Click the button below to add your event. You'll need a GitHub account (free to create).</p>
 
-    <div class="toml-output" id="toml-output"></div>
-
-    <div class="copy-btn">
-        <button class="btn btn-success" onclick="copyToClipboard()">Copy to Clipboard</button>
-        <span class="copy-success" id="copy-success">Copied!</span>
+    <div style="text-align: center; margin: 25px 0;">
+        <a id="github-submit-link" href="#" target="_blank" class="btn btn-success" style="font-size: 1.2em; padding: 16px 32px;">
+            Add to Calendar
+        </a>
     </div>
 
-    <div class="submission-options">
-        <h3>How to Submit</h3>
-        <ul>
-            <li>
-                <strong>Option 1: GitHub Issue (Recommended)</strong><br>
-                <a href="https://github.com/dholab/gid-seminars/issues/new?title=New%20Event%20Submission&labels=event-submission&body=Please%20paste%20the%20TOML%20entry%20below%3A%0A%0A%60%60%60toml%0A%0A%60%60%60" target="_blank">
-                    Open a new issue on GitHub
-                </a> and paste the TOML entry.
-            </li>
-            <li>
-                <strong>Option 2: Email</strong><br>
-                Send the TOML entry to the repository maintainer.
-            </li>
-            <li>
-                <strong>Option 3: Pull Request</strong><br>
-                Fork the repository, add your entry to <code>data/manual_seminars.toml</code>, and submit a PR.
-            </li>
-        </ul>
-    </div>
+    <details style="margin-top: 20px;">
+        <summary style="cursor: pointer; color: #868e96; font-size: 0.9em;">View generated entry (for manual submission)</summary>
+        <div class="toml-output" id="toml-output" style="margin-top: 10px;"></div>
+        <div class="copy-btn">
+            <button class="btn btn-secondary" onclick="copyToClipboard()">Copy to Clipboard</button>
+            <span class="copy-success" id="copy-success">Copied!</span>
+        </div>
+    </details>
 </div>
 
 <div style="
@@ -487,8 +475,17 @@ document.getElementById('event-form').addEventListener('submit', function(e) {
     e.preventDefault();
 
     var toml = generateToml();
+    var title = document.getElementById('title').value;
+
     document.getElementById('toml-output').textContent = toml;
     document.getElementById('output-container').classList.add('visible');
+
+    // Build GitHub Issue URL with pre-filled content
+    var issueTitle = encodeURIComponent('Event: ' + title.substring(0, 60));
+    var issueBody = encodeURIComponent('```toml\n' + toml + '```\n\n---\n*Submitted via the [event submission form](https://dholab.github.io/gid-seminars/submit.html)*');
+    var githubUrl = 'https://github.com/dholab/gid-seminars/issues/new?title=' + issueTitle + '&labels=event-submission&body=' + issueBody;
+
+    document.getElementById('github-submit-link').href = githubUrl;
 
     // Scroll to output
     document.getElementById('output-container').scrollIntoView({ behavior: 'smooth' });
