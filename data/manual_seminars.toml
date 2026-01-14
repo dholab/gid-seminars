@@ -37,25 +37,14 @@ last_updated = "2025-01-14"
 # access_restriction = "Public"
 # registration_url = "https://example.org/register"
 
-# Added from GitHub Issue #1 on 2026-01-14
-[[seminar]]
-title = "DHO test"
-description = "This is a test by Dave to make sure the manual submission works."
-url = "http://dho.pathology.wisc.edu"
-start_datetime = "2026-01-15T12:00:00"
-end_datetime = "2026-01-15T16:02:00"
-timezone = "America/Chicago"
-location = "Online"
-category = "Immunology"
-tags = ["HIV", "COVID"]
-# Added from GitHub Issue #1 on 2026-01-14
-[[seminar]]
-title = "DHO test"
-description = "This is a test by Dave to make sure the manual submission works."
-url = "http://dho.pathology.wisc.edu"
-start_datetime = "2026-01-15T12:00:00"
-end_datetime = "2026-01-15T16:02:00"
-timezone = "America/Chicago"
-location = "Online"
-category = "Immunology"
-tags = ["HIV", "COVID"]
+# Added from GitHub Issue #1 on 2026-01-14 (test entry - excluded)
+# [[seminar]]
+# title = "DHO test"
+# description = "This is a test by Dave to make sure the manual submission works."
+# url = "http://dho.pathology.wisc.edu"
+# start_datetime = "2026-01-15T12:00:00"
+# end_datetime = "2026-01-15T16:02:00"
+# timezone = "America/Chicago"
+# location = "Online"
+# category = "Immunology"
+# tags = ["HIV", "COVID"]

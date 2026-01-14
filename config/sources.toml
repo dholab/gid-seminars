@@ -112,7 +112,7 @@ description = "UCSF Quantitative Biosciences Institute / Pasteur symposium on in
 require_keywords = false  # Topic-specific feed
 
 [source.unc_global_health]
-enabled = true
+enabled = false  # Disabled - events are in-person only without virtual/Zoom links
 name = "UNC Global Health & Infectious Diseases"
 type = "ical"
 url = "https://globalhealth.unc.edu/events/?ical=1"
