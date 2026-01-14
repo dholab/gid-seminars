@@ -8,6 +8,8 @@ on:
   push:
     branches:
       - main
+  issues:
+    types: [opened]  # Run when new issues are opened (event submissions or hide requests)
 
 # Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
 permissions:
