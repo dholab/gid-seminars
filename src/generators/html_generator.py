@@ -301,6 +301,18 @@ class HTMLGenerator:
         border-radius: 6px;
         font-size: 0.9em;
     ">JSON Feed</a>
+    <span style="border-left: 1px solid #ddd; padding-left: 15px; margin-left: 5px;">
+        <a href="submit.html" style="
+            display: inline-flex;
+            align-items: center;
+            padding: 8px 16px;
+            background: {COLORS['success']};
+            color: white;
+            text-decoration: none;
+            border-radius: 6px;
+            font-size: 0.9em;
+        ">+ Submit Event</a>
+    </span>
 </div>"""
 
     def _generate_upcoming_section(self, seminars: list[Seminar]) -> str:

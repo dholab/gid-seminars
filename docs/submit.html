@@ -1,0 +1,517 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Submit Event - GID Seminars</title>
+    <style>
+        * { box-sizing: border-box; }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+            line-height: 1.6;
+            color: #343a40;
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #f8f9fa;
+        }
+        .header {
+            background: linear-gradient(135deg, #2c5aa0 0%, #4a90e2 100%);
+            color: #ffffff;
+            padding: 30px;
+            border-radius: 12px;
+            margin-bottom: 20px;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+        }
+        .header h1 {
+            margin: 0 0 10px 0;
+            font-size: 2em;
+        }
+        .header p {
+            margin: 0;
+            opacity: 0.9;
+        }
+        .header a {
+            color: white;
+            opacity: 0.8;
+        }
+        .header a:hover {
+            opacity: 1;
+        }
+        .form-container {
+            background: #ffffff;
+            padding: 30px;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+            margin-bottom: 20px;
+        }
+        .form-group {
+            margin-bottom: 20px;
+        }
+        .form-group label {
+            display: block;
+            font-weight: 600;
+            margin-bottom: 6px;
+            color: #343a40;
+        }
+        .form-group label .required {
+            color: #dc3545;
+        }
+        .form-group label .hint {
+            font-weight: normal;
+            font-size: 0.85em;
+            color: #868e96;
+            display: block;
+            margin-top: 2px;
+        }
+        .form-group input[type="text"],
+        .form-group input[type="url"],
+        .form-group input[type="datetime-local"],
+        .form-group select,
+        .form-group textarea {
+            width: 100%;
+            padding: 10px 14px;
+            border: 1px solid #ddd;
+            border-radius: 6px;
+            font-size: 1em;
+            font-family: inherit;
+            transition: border-color 0.2s;
+        }
+        .form-group input:focus,
+        .form-group select:focus,
+        .form-group textarea:focus {
+            outline: none;
+            border-color: #2c5aa0;
+            box-shadow: 0 0 0 3px rgba(44, 90, 160, 0.1);
+        }
+        .form-group textarea {
+            min-height: 100px;
+            resize: vertical;
+        }
+        .form-row {
+            display: flex;
+            gap: 20px;
+        }
+        .form-row .form-group {
+            flex: 1;
+        }
+        .btn {
+            display: inline-block;
+            padding: 12px 24px;
+            border: none;
+            border-radius: 6px;
+            font-size: 1em;
+            font-weight: 600;
+            cursor: pointer;
+            text-decoration: none;
+            transition: all 0.2s;
+        }
+        .btn-primary {
+            background: #2c5aa0;
+            color: white;
+        }
+        .btn-primary:hover {
+            background: #1e4080;
+        }
+        .btn-secondary {
+            background: #6c757d;
+            color: white;
+        }
+        .btn-secondary:hover {
+            background: #545b62;
+        }
+        .btn-success {
+            background: #28a745;
+            color: white;
+        }
+        .btn-success:hover {
+            background: #218838;
+        }
+        .output-container {
+            background: #ffffff;
+            padding: 30px;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+            margin-bottom: 20px;
+            display: none;
+        }
+        .output-container.visible {
+            display: block;
+        }
+        .output-container h2 {
+            margin-top: 0;
+            color: #343a40;
+        }
+        .toml-output {
+            background: #1e1e1e;
+            color: #d4d4d4;
+            padding: 20px;
+            border-radius: 6px;
+            font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace;
+            font-size: 0.9em;
+            overflow-x: auto;
+            white-space: pre-wrap;
+            word-break: break-all;
+        }
+        .submission-options {
+            background: #f8f9fa;
+            padding: 20px;
+            border-radius: 6px;
+            margin-top: 20px;
+        }
+        .submission-options h3 {
+            margin-top: 0;
+            color: #343a40;
+        }
+        .submission-options ul {
+            margin: 0;
+            padding-left: 20px;
+        }
+        .submission-options li {
+            margin-bottom: 10px;
+        }
+        .submission-options a {
+            color: #2c5aa0;
+        }
+        .copy-btn {
+            margin-top: 15px;
+        }
+        .copy-success {
+            display: none;
+            color: #28a745;
+            margin-left: 10px;
+            font-size: 0.9em;
+        }
+        .info-box {
+            background: #e7f3ff;
+            border: 1px solid #b6d4fe;
+            border-radius: 6px;
+            padding: 15px;
+            margin-bottom: 20px;
+            color: #084298;
+        }
+        .info-box strong {
+            display: block;
+            margin-bottom: 5px;
+        }
+        @media (max-width: 600px) {
+            .form-row {
+                flex-direction: column;
+                gap: 0;
+            }
+        }
+    </style>
+</head>
+<body>
+
+<div class="header">
+    <h1>Submit an Event</h1>
+    <p>Add a seminar, webinar, or conference to the GID Seminars calendar</p>
+    <p style="margin-top: 10px; font-size: 0.9em;">
+        <a href="index.html">Back to Event List</a>
+    </p>
+</div>
+
+<div class="info-box">
+    <strong>How this works:</strong>
+    Fill out the form below to generate a formatted entry. You can then submit it via GitHub Issue or email.
+    Events are reviewed and added to the calendar within 24-48 hours.
+</div>
+
+<div class="form-container">
+    <form id="event-form">
+        <div class="form-group">
+            <label>
+                Event Title <span class="required">*</span>
+                <span class="hint">Full name of the seminar, webinar, or event</span>
+            </label>
+            <input type="text" id="title" required placeholder="e.g., Emerging Pathogens in 2026: A Global Perspective">
+        </div>
+
+        <div class="form-row">
+            <div class="form-group">
+                <label>
+                    Start Date &amp; Time <span class="required">*</span>
+                    <span class="hint">When the event begins</span>
+                </label>
+                <input type="datetime-local" id="start_datetime" required>
+            </div>
+            <div class="form-group">
+                <label>
+                    End Date &amp; Time
+                    <span class="hint">When the event ends (optional)</span>
+                </label>
+                <input type="datetime-local" id="end_datetime">
+            </div>
+        </div>
+
+        <div class="form-row">
+            <div class="form-group">
+                <label>
+                    Timezone <span class="required">*</span>
+                    <span class="hint">Event timezone</span>
+                </label>
+                <select id="timezone" required>
+                    <option value="">Select timezone...</option>
+                    <option value="America/New_York">Eastern Time (ET)</option>
+                    <option value="America/Chicago">Central Time (CT)</option>
+                    <option value="America/Denver">Mountain Time (MT)</option>
+                    <option value="America/Los_Angeles">Pacific Time (PT)</option>
+                    <option value="America/Anchorage">Alaska Time (AKT)</option>
+                    <option value="Pacific/Honolulu">Hawaii Time (HT)</option>
+                    <option value="UTC">UTC / GMT</option>
+                    <option value="Europe/London">UK / London</option>
+                    <option value="Europe/Paris">Central European (CET)</option>
+                    <option value="Europe/Berlin">Germany / Berlin</option>
+                    <option value="Asia/Tokyo">Japan (JST)</option>
+                    <option value="Asia/Shanghai">China (CST)</option>
+                    <option value="Asia/Kolkata">India (IST)</option>
+                    <option value="Australia/Sydney">Australia Eastern (AEST)</option>
+                    <option value="Africa/Johannesburg">South Africa (SAST)</option>
+                </select>
+            </div>
+            <div class="form-group">
+                <label>
+                    Location
+                    <span class="hint">"Online" for virtual events, or venue address</span>
+                </label>
+                <input type="text" id="location" value="Online" placeholder="Online or venue address">
+            </div>
+        </div>
+
+        <div class="form-group">
+            <label>
+                Event URL <span class="required">*</span>
+                <span class="hint">Link to event page or more information</span>
+            </label>
+            <input type="url" id="url" required placeholder="https://example.org/event">
+        </div>
+
+        <div class="form-group">
+            <label>
+                Registration URL
+                <span class="hint">Direct link to registration (if different from event URL)</span>
+            </label>
+            <input type="url" id="registration_url" placeholder="https://example.org/register">
+        </div>
+
+        <div class="form-group">
+            <label>
+                Description
+                <span class="hint">Brief description of the event</span>
+            </label>
+            <textarea id="description" placeholder="Describe the event, topics covered, and any notable speakers..."></textarea>
+        </div>
+
+        <div class="form-row">
+            <div class="form-group">
+                <label>
+                    Organizer
+                    <span class="hint">Hosting organization or institution</span>
+                </label>
+                <input type="text" id="organizer" placeholder="e.g., NIH, WHO, University Name">
+            </div>
+            <div class="form-group">
+                <label>
+                    Category
+                    <span class="hint">Topic area</span>
+                </label>
+                <select id="category">
+                    <option value="">Select category...</option>
+                    <option value="Immunology">Immunology</option>
+                    <option value="Virology">Virology</option>
+                    <option value="HIV/AIDS">HIV/AIDS</option>
+                    <option value="Vaccine Research">Vaccine Research</option>
+                    <option value="Epidemiology">Epidemiology</option>
+                    <option value="Global Health">Global Health</option>
+                    <option value="Tropical Medicine">Tropical Medicine</option>
+                    <option value="Respiratory Viruses">Respiratory Viruses</option>
+                    <option value="Emerging Pathogens">Emerging Pathogens</option>
+                    <option value="Public Health">Public Health</option>
+                    <option value="Antimicrobial Resistance">Antimicrobial Resistance</option>
+                    <option value="One Health">One Health</option>
+                    <option value="Conference">Conference</option>
+                    <option value="Other">Other</option>
+                </select>
+            </div>
+        </div>
+
+        <div class="form-group">
+            <label>
+                Access
+                <span class="hint">Is registration required?</span>
+            </label>
+            <select id="access_restriction">
+                <option value="Public">Public - Open to all</option>
+                <option value="Registration Required">Registration Required</option>
+                <option value="Free with Registration">Free with Registration</option>
+                <option value="Paid">Paid Event</option>
+            </select>
+        </div>
+
+        <div class="form-group">
+            <label>
+                Tags
+                <span class="hint">Keywords separated by commas (for search)</span>
+            </label>
+            <input type="text" id="tags" placeholder="e.g., influenza, pandemic preparedness, vaccines">
+        </div>
+
+        <div style="margin-top: 30px;">
+            <button type="submit" class="btn btn-primary">Generate Submission</button>
+            <button type="reset" class="btn btn-secondary" style="margin-left: 10px;">Clear Form</button>
+        </div>
+    </form>
+</div>
+
+<div class="output-container" id="output-container">
+    <h2>Your Event Submission</h2>
+    <p>Copy the TOML entry below and submit it using one of the options:</p>
+
+    <div class="toml-output" id="toml-output"></div>
+
+    <div class="copy-btn">
+        <button class="btn btn-success" onclick="copyToClipboard()">Copy to Clipboard</button>
+        <span class="copy-success" id="copy-success">Copied!</span>
+    </div>
+
+    <div class="submission-options">
+        <h3>How to Submit</h3>
+        <ul>
+            <li>
+                <strong>Option 1: GitHub Issue (Recommended)</strong><br>
+                <a href="https://github.com/dholab/gid-seminars/issues/new?title=New%20Event%20Submission&labels=event-submission&body=Please%20paste%20the%20TOML%20entry%20below%3A%0A%0A%60%60%60toml%0A%0A%60%60%60" target="_blank">
+                    Open a new issue on GitHub
+                </a> and paste the TOML entry.
+            </li>
+            <li>
+                <strong>Option 2: Email</strong><br>
+                Send the TOML entry to the repository maintainer.
+            </li>
+            <li>
+                <strong>Option 3: Pull Request</strong><br>
+                Fork the repository, add your entry to <code>data/manual_seminars.toml</code>, and submit a PR.
+            </li>
+        </ul>
+    </div>
+</div>
+
+<div style="
+    margin-top: 30px;
+    padding: 20px;
+    text-align: center;
+    color: #868e96;
+    font-size: 0.85em;
+    border-top: 1px solid #ddd;
+">
+    <p style="margin: 0;">
+        GID Seminars Aggregator |
+        <a href="https://github.com/dholab/gid-seminars" style="color: #2c5aa0;">GitHub</a> |
+        <a href="index.html" style="color: #2c5aa0;">Back to Events</a>
+    </p>
+</div>
+
+<script>
+function formatDatetimeForToml(dateStr) {
+    if (!dateStr) return null;
+    // datetime-local gives us "2026-01-15T14:00"
+    // We need "2026-01-15T14:00:00"
+    return dateStr + ':00';
+}
+
+function escapeTomlString(str) {
+    if (!str) return '';
+    // Escape quotes and backslashes
+    return str.replace(/\\/g, '\\\\').replace(/"/g, '\\"').replace(/\n/g, '\\n');
+}
+
+function generateToml() {
+    var title = document.getElementById('title').value;
+    var startDatetime = document.getElementById('start_datetime').value;
+    var endDatetime = document.getElementById('end_datetime').value;
+    var timezone = document.getElementById('timezone').value;
+    var location = document.getElementById('location').value;
+    var url = document.getElementById('url').value;
+    var registrationUrl = document.getElementById('registration_url').value;
+    var description = document.getElementById('description').value;
+    var organizer = document.getElementById('organizer').value;
+    var category = document.getElementById('category').value;
+    var accessRestriction = document.getElementById('access_restriction').value;
+    var tags = document.getElementById('tags').value;
+
+    var toml = '[[seminar]]\n';
+    toml += 'title = "' + escapeTomlString(title) + '"\n';
+
+    if (description) {
+        toml += 'description = "' + escapeTomlString(description) + '"\n';
+    }
+
+    toml += 'url = "' + url + '"\n';
+    toml += 'start_datetime = "' + formatDatetimeForToml(startDatetime) + '"\n';
+
+    if (endDatetime) {
+        toml += 'end_datetime = "' + formatDatetimeForToml(endDatetime) + '"\n';
+    }
+
+    toml += 'timezone = "' + timezone + '"\n';
+
+    if (location) {
+        toml += 'location = "' + escapeTomlString(location) + '"\n';
+    }
+
+    if (organizer) {
+        toml += 'organizer = "' + escapeTomlString(organizer) + '"\n';
+    }
+
+    if (category) {
+        toml += 'category = "' + category + '"\n';
+    }
+
+    if (accessRestriction && accessRestriction !== 'Public') {
+        toml += 'access_restriction = "' + accessRestriction + '"\n';
+    }
+
+    if (registrationUrl) {
+        toml += 'registration_url = "' + registrationUrl + '"\n';
+    }
+
+    if (tags) {
+        var tagList = tags.split(',').map(function(t) { return '"' + t.trim() + '"'; });
+        toml += 'tags = [' + tagList.join(', ') + ']\n';
+    }
+
+    return toml;
+}
+
+document.getElementById('event-form').addEventListener('submit', function(e) {
+    e.preventDefault();
+
+    var toml = generateToml();
+    document.getElementById('toml-output').textContent = toml;
+    document.getElementById('output-container').classList.add('visible');
+
+    // Scroll to output
+    document.getElementById('output-container').scrollIntoView({ behavior: 'smooth' });
+});
+
+function copyToClipboard() {
+    var tomlText = document.getElementById('toml-output').textContent;
+    navigator.clipboard.writeText(tomlText).then(function() {
+        var successMsg = document.getElementById('copy-success');
+        successMsg.style.display = 'inline';
+        setTimeout(function() {
+            successMsg.style.display = 'none';
+        }, 2000);
+    });
+}
+
+// Reset form also hides output
+document.getElementById('event-form').addEventListener('reset', function() {
+    setTimeout(function() {
+        document.getElementById('output-container').classList.remove('visible');
+    }, 10);
+});
+</script>
+
+</body>
+</html>
