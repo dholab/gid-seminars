@@ -11,7 +11,7 @@ SUMMARY:Clinical Center Grand Rounds: Harnessing The Extracellular Matrix
  to Treat Lung Diseases
 DTSTART;TZID=America/New_York:20251217T120000
 DTEND;TZID=America/New_York:20251217T130000
-DTSTAMP:20260114T194808Z
+DTSTAMP:20260114T200358Z
 UID:9cd3763d6a26abef@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Clinical Center Grand Rounds
 DESCRIPTION:Clinical Center Grand Rounds: Harnessing The Extracellular Mat
@@ -33,7 +33,7 @@ SUMMARY:WALS- Astute Clinician Lecture: Clinical Encounters in Neurogeneti
  Therapeutic Approaches
 DTSTART;TZID=America/New_York:20251217T140000
 DTEND;TZID=America/New_York:20251217T150000
-DTSTAMP:20260114T194808Z
+DTSTAMP:20260114T200358Z
 UID:60967858094cbf42@gid-seminars.wnprc.wisc.edu
 CATEGORIES:WALS - Wednesday Afternoon Lectures
 DESCRIPTION:WALS- Astute Clinician Lecture: Clinical Encounters in Neuroge
@@ -55,7 +55,7 @@ BEGIN:VEVENT
 SUMMARY:WALS: Bill Paul Lecture- Immune Control of Host Physiology
 DTSTART;TZID=America/New_York:20260107T140000
 DTEND;TZID=America/New_York:20260107T150000
-DTSTAMP:20260114T194808Z
+DTSTAMP:20260114T200358Z
 UID:1570a2223c42f26a@gid-seminars.wnprc.wisc.edu
 CATEGORIES:WALS - Wednesday Afternoon Lectures
 DESCRIPTION:WALS: Bill Paul Lecture- Immune Control of Host Physiology Pre
@@ -75,7 +75,7 @@ BEGIN:VEVENT
 SUMMARY:WALS: Bill Paul Lecture- Immune Control of Host Physiology
 DTSTART;TZID=America/New_York:20260107T140000
 DTEND;TZID=America/New_York:20260107T150000
-DTSTAMP:20260114T194808Z
+DTSTAMP:20260114T200358Z
 UID:e5fcff7294e4b19d@gid-seminars.wnprc.wisc.edu
 CATEGORIES:WALS - Wednesday Afternoon Lectures
 DESCRIPTION:WALS: Bill Paul Lecture- Immune Control of Host Physiology Pre
@@ -95,7 +95,7 @@ BEGIN:VEVENT
 SUMMARY:NIH-FDA Immunology Interest Group (IIG) seminar series
 DTSTART;TZID=America/New_York:20260114T160000
 DTEND;TZID=America/New_York:20260114T170000
-DTSTAMP:20260114T194808Z
+DTSTAMP:20260114T200358Z
 UID:eff4747386081212@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Health
 DESCRIPTION:IIG weekly seminar series features the world-renown experts in
@@ -113,11 +113,31 @@ TRIGGER:-PT1H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:No Mo’ FOMO 2026: In Case You Missed It—Recent Changes in Guid
+ elines\, New Publications\, and Updates From Recent Conferences
+DTSTART;TZID=America/Los_Angeles:20260115T100000
+DTEND;TZID=America/Los_Angeles:20260115T110000
+DTSTAMP:20260114T200358Z
+UID:27a247ff97afae09@gid-seminars.wnprc.wisc.edu
+CATEGORIES:IAS-USA
+DESCRIPTION:\nEvent URL: https://www.iasusa.org/events/webinar-2026-bedimo
+ /\n\nSource: iasusa_webinars
+LOCATION:Online
+URL:https://www.iasusa.org/events/webinar-2026-bedimo/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: No Mo’ FOMO 2026: In Case You Missed It—Recent C
+ hanges in Guidelines\, New Publications\, and Updates From Recent Conferen
+ ces
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:NIH ProtIG seminar by Peder Lund: Fatty acid metabolism as a symbi
  otic link between the gut microbiota and host epithelial cells
 DTSTART;TZID=America/New_York:20260115T110000
 DTEND;TZID=America/New_York:20260115T120000
-DTSTAMP:20260114T194808Z
+DTSTAMP:20260114T200358Z
 UID:285b58c24b90d7ca@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Health
 DESCRIPTION:The intestinal epithelium is a critical mucosal barrier that c
@@ -163,7 +183,7 @@ BEGIN:VEVENT
 SUMMARY:Outbreak Behind Bars
 DTSTART;TZID=America/New_York:20260116T141500
 DTEND;TZID=America/New_York:20260116T151500
-DTSTAMP:20260114T194808Z
+DTSTAMP:20260114T200358Z
 UID:7656bfb7a076fcd3@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Friday Morning Conference Series
 DESCRIPTION:Homer Venters\, MD MS is the former Chief Medical Officer of t
@@ -182,11 +202,30 @@ TRIGGER:-PT1H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:The Future of HIV Prevention: A People’s Research Agenda for Spe
+ ed\, Scale and Equity
+DTSTART;TZID=America/New_York:20260120T000000
+DTEND;TZID=America/New_York:20260120T010000
+DTSTAMP:20260114T200358Z
+UID:b69e9e9b23f521fe@gid-seminars.wnprc.wisc.edu
+CATEGORIES:AVAC
+DESCRIPTION:\nEvent URL: https://avac.org/event/pra-2025-webinar/\n\nSourc
+ e: avac_events
+LOCATION:Online
+URL:https://avac.org/event/pra-2025-webinar/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: The Future of HIV Prevention: A People’s Research 
+ Agenda for Speed\, Scale and Equity
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Demystifying Medicine—The Epidemic That Won't Quit: Unraveling t
  he HIV Crisis
 DTSTART;TZID=America/New_York:20260120T150000
 DTEND;TZID=America/New_York:20260120T160000
-DTSTAMP:20260114T194808Z
+DTSTAMP:20260114T200358Z
 UID:c2d9e80cbd4ed46b@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Health
 DESCRIPTION:This week's speakers in the Demystifying Medicine Series are J
@@ -219,7 +258,7 @@ BEGIN:VEVENT
 SUMMARY:January GPP Screeners Meeting
 DTSTART;TZID=America/New_York:20260121T143000
 DTEND;TZID=America/New_York:20260121T153000
-DTSTAMP:20260114T194808Z
+DTSTAMP:20260114T200358Z
 UID:bb9682b0d11751e8@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Talks
 DESCRIPTION:"In vivo screens identify modifiers of CAR T cell function in 
@@ -240,7 +279,7 @@ BEGIN:VEVENT
 SUMMARY:NIH-FDA Immunology Interest Group (IIG) seminar series
 DTSTART;TZID=America/New_York:20260121T160000
 DTEND;TZID=America/New_York:20260121T170000
-DTSTAMP:20260114T194808Z
+DTSTAMP:20260114T200358Z
 UID:8a74f02608c8129a@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Health
 DESCRIPTION:IIG weekly seminar series features the world-renown experts in
@@ -262,7 +301,7 @@ SUMMARY:Outbreak Analytics and Disease Modeling to Inform Public Health De
  cision-Making
 DTSTART;TZID=America/New_York:20260123T141500
 DTEND;TZID=America/New_York:20260123T151500
-DTSTAMP:20260114T194808Z
+DTSTAMP:20260114T200358Z
 UID:5dbef9e3f6fe916b@gid-seminars.wnprc.wisc.edu
 CATEGORIES:CFAR Events
 DESCRIPTION:Drs. Kimberly Powers and Justin Lessler are faculty members in
@@ -288,7 +327,7 @@ SUMMARY:Lung as the Gateway for Environmental Exposures in Pulmonary and C
  ardiovascular Disease - Day 1
 DTSTART;TZID=America/New_York:20260126T100000
 DTEND;TZID=America/New_York:20260126T110000
-DTSTAMP:20260114T194808Z
+DTSTAMP:20260114T200358Z
 UID:2eed6f77adfe8bb2@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Health
 DESCRIPTION:The National Heart\, Lung\, and Blood Institute’s Division o
@@ -334,7 +373,7 @@ SUMMARY:Lung as the Gateway for Environmental Exposures in Pulmonary and C
  ardiovascular Disease - Day 2
 DTSTART;TZID=America/New_York:20260127T100000
 DTEND;TZID=America/New_York:20260127T110000
-DTSTAMP:20260114T194808Z
+DTSTAMP:20260114T200358Z
 UID:c991d9a637770519@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Health
 DESCRIPTION:The National Heart\, Lung\, and Blood Institute’s Division o
@@ -376,10 +415,29 @@ TRIGGER:-PT1H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Drug-Drug Interactions\, Dosing\, Formulations\, and Other Pharmac
+ ologic Issues in HIV Treatment
+DTSTART;TZID=America/Los_Angeles:20260127T120000
+DTEND;TZID=America/Los_Angeles:20260127T130000
+DTSTAMP:20260114T200358Z
+UID:6e0612b14422f905@gid-seminars.wnprc.wisc.edu
+CATEGORIES:IAS-USA
+DESCRIPTION:\nEvent URL: https://www.iasusa.org/events/webinar-2026-burger
+ /\n\nSource: iasusa_webinars
+LOCATION:Online
+URL:https://www.iasusa.org/events/webinar-2026-burger/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Drug-Drug Interactions\, Dosing\, Formulations\, and
+  Other Pharmacologic Issues in HIV Treatment
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:WALS- Rolla E. Dyer Lecture- A Cure for Hepatitis C: Now What?
 DTSTART;TZID=America/New_York:20260128T140000
 DTEND;TZID=America/New_York:20260128T150000
-DTSTAMP:20260114T194808Z
+DTSTAMP:20260114T200358Z
 UID:f385ed8004eadd09@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Health
 DESCRIPTION:Dr. Rice has co-authored over 500 articles in the field of vir
@@ -405,7 +463,7 @@ BEGIN:VEVENT
 SUMMARY:NIH-FDA Immunology Interest Group (IIG) seminar series
 DTSTART;TZID=America/New_York:20260128T160000
 DTEND;TZID=America/New_York:20260128T170000
-DTSTAMP:20260114T194808Z
+DTSTAMP:20260114T200358Z
 UID:aad3f41747f4365d@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Health
 DESCRIPTION:IIG weekly seminar series features the world-renown experts in
@@ -426,7 +484,7 @@ BEGIN:VEVENT
 SUMMARY:70th Office of AIDS Research Advisory Council Meeting
 DTSTART;TZID=America/New_York:20260129T123000
 DTEND;TZID=America/New_York:20260129T133000
-DTSTAMP:20260114T194808Z
+DTSTAMP:20260114T200358Z
 UID:270ef0cd2aa95a95@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Health
 DESCRIPTION:The 70th OARAC meeting will include a report from the OAR Dire
@@ -447,7 +505,7 @@ SUMMARY:Trust in Science and Research – Community Perceptions of HIV Vac
  cine Trial Participation
 DTSTART;TZID=America/New_York:20260130T141500
 DTEND;TZID=America/New_York:20260130T151500
-DTSTAMP:20260114T194808Z
+DTSTAMP:20260114T200358Z
 UID:403e5ee0e73e4f45@gid-seminars.wnprc.wisc.edu
 CATEGORIES:CFAR Events
 DESCRIPTION:Ronald P. Strauss\, DMD PhD is the Adams Distinguished Profess
@@ -476,7 +534,7 @@ BEGIN:VEVENT
 SUMMARY:NIH-FDA Immunology Interest Group (IIG) seminar series
 DTSTART;TZID=America/New_York:20260204T160000
 DTEND;TZID=America/New_York:20260204T170000
-DTSTAMP:20260114T194808Z
+DTSTAMP:20260114T200358Z
 UID:b9233a470bc7c320@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Health
 DESCRIPTION:IIG weekly seminar series features the world-renown experts in
@@ -497,7 +555,7 @@ BEGIN:VEVENT
 SUMMARY:Siddhartha Thakur\, PhD
 DTSTART;TZID=America/New_York:20260206T141500
 DTEND;TZID=America/New_York:20260206T151500
-DTSTAMP:20260114T194808Z
+DTSTAMP:20260114T200358Z
 UID:39b8efb762823ace@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Friday Morning Conference Series
 DESCRIPTION:Dr. Siddhartha “Sid” Thakur is the Executive Director of G
@@ -521,7 +579,7 @@ BEGIN:VEVENT
 SUMMARY:Fourth Annual Global Health Scholars Symposium
 DTSTART;TZID=America/New_York:20260213T141500
 DTEND;TZID=America/New_York:20260213T170000
-DTSTAMP:20260114T194808Z
+DTSTAMP:20260114T200358Z
 UID:93e24673c561393f@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Friday Morning Conference Series
 DESCRIPTION:Save the Date! Presented by the UNC Institute for Global Healt

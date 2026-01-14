@@ -126,10 +126,10 @@
         Global Infectious Disease Webinars &amp; Seminars
     </p>
     <p style="margin: 10px 0 0 0; font-size: 0.9em; opacity: 0.8;">
-        <span id="visible-count">20</span> events
-        (<span id="upcoming-visible">15</span> upcoming,
+        <span id="visible-count">23</span> events
+        (<span id="upcoming-visible">18</span> upcoming,
         <span id="past-visible">5</span> past) |
-        Last updated: 2026-01-14 19:48 UTC
+        Last updated: 2026-01-14 20:03 UTC
     </p>
 </div>
 
@@ -139,7 +139,9 @@
             <label class="filter-label">Source</label>
             <select id="filter-source" class="filter-select">
                 <option value="all">All Sources</option>
+        <option value="avac_events">avac_events</option>
         <option value="broad_institute">broad_institute</option>
+        <option value="iasusa_webinars">iasusa_webinars</option>
         <option value="nih_fogarty">nih_fogarty</option>
         <option value="nih_niaid">nih_niaid</option>
         <option value="nih_videocast_past">nih_videocast_past</option>
@@ -152,10 +154,12 @@
             <label class="filter-label">Category</label>
             <select id="filter-category" class="filter-select">
                 <option value="all">All Categories</option>
+        <option value="AVAC">AVAC</option>
         <option value="CFAR Events">CFAR Events</option>
         <option value="Clinical Center Grand Rounds">Clinical Center Grand Rounds</option>
         <option value="Friday Morning Conference Series">Friday Morning Conference Series</option>
         <option value="Health">Health</option>
+        <option value="IAS-USA">IAS-USA</option>
         <option value="Talks">Talks</option>
         <option value="WALS - Wednesday Afternoon Lectures">WALS - Wednesday Afternoon Lectures</option>
 
@@ -205,12 +209,35 @@
 <div class="section-header" id="upcoming-header">
     <div style="display: flex; align-items: center; gap: 15px;">
         <h2 class="section-title" style="color: #28a745;">Upcoming Seminars</h2>
-        <span class="section-count" id="upcoming-count" style="background: #28a745;">15</span>
+        <span class="section-count" id="upcoming-count" style="background: #28a745;">18</span>
     </div>
     <span class="section-toggle" id="upcoming-toggle">▼</span>
 </div>
 <div class="section-content" id="upcoming-content">
     
+<div class="seminar-card"
+     data-source="iasusa_webinars"
+     data-category="IAS-USA"
+     data-section="upcoming"
+     data-search="No Mo’ FOMO 2026: In Case You Missed It—Recent Changes in Guidelines, New Publications, and Updates From Recent Conferences  "
+     style="border-left: 4px solid #2c5aa0; opacity: 1;">
+    <div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: flex-start; margin-bottom: 8px;">
+        <div style="font-size: 0.9em; color: #868e96;">
+            Thu, Jan 15, 2026 at 10:00 AM (America/Los_Angeles)
+        </div>
+        <div></div>
+    </div>
+    <div style="margin-bottom: 8px;">
+        <span class="badge" style="background: #17a2b8; color: white;">iasusa_webinars</span>
+        <span class="badge" style="background: #f8f9fa; color: #343a40;">IAS-USA</span>
+        
+    </div>
+    <h3 style="margin: 8px 0; font-size: 1.15em; color: #343a40; font-weight: 600;">
+        No Mo’ FOMO 2026: In Case You Missed It—Recent Changes in Guidelines, New Publications, and Updates From Recent Conferences
+    </h3>
+    
+    <div style="margin-top: 12px;"><a href="https://www.iasusa.org/events/webinar-2026-bedimo/" target="_blank" style="color: #2c5aa0; text-decoration: none; font-size: 0.9em;">View Event</a></div>
+</div>
 <div class="seminar-card"
      data-source="nih_videocast_upcoming"
      data-category="Health"
@@ -256,6 +283,29 @@
     </h3>
     <p style="font-size: 0.9em; color: #6c757d; margin: 8px 0; line-height: 1.5;">Homer Venters, MD MS is the former Chief Medical Officer of the NYC Jail System, and currently works as a Court- appointed monitor and inspector of health services in jails and prisons. He is also the...</p>
     <div style="margin-top: 12px;"><a href="https://globalhealth.unc.edu/event/homer-venters-md/" target="_blank" style="color: #2c5aa0; text-decoration: none; font-size: 0.9em;">View Event</a></div>
+</div>
+<div class="seminar-card"
+     data-source="avac_events"
+     data-category="AVAC"
+     data-section="upcoming"
+     data-search="The Future of HIV Prevention: A People’s Research Agenda for Speed, Scale and Equity  AVAC"
+     style="border-left: 4px solid #2c5aa0; opacity: 1;">
+    <div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: flex-start; margin-bottom: 8px;">
+        <div style="font-size: 0.9em; color: #868e96;">
+            Tue, Jan 20, 2026 at 12:00 AM (America/New_York)
+        </div>
+        <div></div>
+    </div>
+    <div style="margin-bottom: 8px;">
+        <span class="badge" style="background: #17a2b8; color: white;">avac_events</span>
+        <span class="badge" style="background: #f8f9fa; color: #343a40;">AVAC</span>
+        
+    </div>
+    <h3 style="margin: 8px 0; font-size: 1.15em; color: #343a40; font-weight: 600;">
+        The Future of HIV Prevention: A People’s Research Agenda for Speed, Scale and Equity
+    </h3>
+    
+    <div style="margin-top: 12px;"><a href="https://avac.org/event/pra-2025-webinar/" target="_blank" style="color: #2c5aa0; text-decoration: none; font-size: 0.9em;">View Event</a></div>
 </div>
 <div class="seminar-card"
      data-source="nih_videocast_upcoming"
@@ -396,6 +446,29 @@ We hope you'll join us online or in person on January 21st from 9:30-10:30am.</p
     </h3>
     <p style="font-size: 0.9em; color: #6c757d; margin: 8px 0; line-height: 1.5;">The National Heart, Lung, and Blood Institute’s Division of Lung Diseases is hosting the virtual workshop “Lung as the Gateway for Environmental Exposures in Pulmonary and Cardiovascular Disease” on T...</p>
     <div style="margin-top: 12px;"><a href="https://videocast.nih.gov/watch=56936" target="_blank" style="color: #2c5aa0; text-decoration: none; font-size: 0.9em;">View Event</a></div>
+</div>
+<div class="seminar-card"
+     data-source="iasusa_webinars"
+     data-category="IAS-USA"
+     data-section="upcoming"
+     data-search="Drug-Drug Interactions, Dosing, Formulations, and Other Pharmacologic Issues in HIV Treatment  "
+     style="border-left: 4px solid #2c5aa0; opacity: 1;">
+    <div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: flex-start; margin-bottom: 8px;">
+        <div style="font-size: 0.9em; color: #868e96;">
+            Tue, Jan 27, 2026 at 12:00 PM (America/Los_Angeles)
+        </div>
+        <div></div>
+    </div>
+    <div style="margin-bottom: 8px;">
+        <span class="badge" style="background: #17a2b8; color: white;">iasusa_webinars</span>
+        <span class="badge" style="background: #f8f9fa; color: #343a40;">IAS-USA</span>
+        
+    </div>
+    <h3 style="margin: 8px 0; font-size: 1.15em; color: #343a40; font-weight: 600;">
+        Drug-Drug Interactions, Dosing, Formulations, and Other Pharmacologic Issues in HIV Treatment
+    </h3>
+    
+    <div style="margin-top: 12px;"><a href="https://www.iasusa.org/events/webinar-2026-burger/" target="_blank" style="color: #2c5aa0; text-decoration: none; font-size: 0.9em;">View Event</a></div>
 </div>
 <div class="seminar-card"
      data-source="nih_videocast_upcoming"
