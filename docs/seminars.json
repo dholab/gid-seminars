@@ -2,12 +2,12 @@
   "metadata": {
     "title": "GID Seminars Feed",
     "description": "Aggregated seminars and webinars for Global Infectious Disease research",
-    "generated_at": "2026-01-17T06:06:30.908208Z",
+    "generated_at": "2026-01-18T06:06:22.983239Z",
     "time_window": {
       "days_behind": 30,
       "days_ahead": 30
     },
-    "total_events": 58,
+    "total_events": 59,
     "sources": [
       "astmh_events",
       "avac_events",
@@ -530,9 +530,26 @@
     {
       "id": "4c582e47a8f1112c",
       "title": "TWiV 1288: Clinical update with Dr. Daniel Griffin",
-      "description": "[Podcast: This Week in Virology]\n\nIn his weekly clinical update, Dr. Griffin and Vincent Racaniello are bewildered and dismayed by RFK Jr\u2019s announced changes in the routine childhood immunization schedule, though not unpredicted, and highlight the science and evidence which eviscerate these changes, then deep dives into recent statistics on the measles epidemic- in particular in South Carolina, RSV, influenza and SARS-CoV-2 infections, the Wasterwater Scan dashboard, Johns Hopkins measles tracker, estimated societal burden of COVID-19 illness, deaths and hospitalizations, benefit of maternal COVID-19 vaccination, where to find PEMGARDA, how to access and pay for Paxlovid, long COVID treatment center, where to go for answers to your long COVID questions, neurodevelopmental consequences of in-utero SARS-CoV-2 infection and contacting your federal government representative to stop the assault on science and biomedical research. Click arrow to play Download TWiV 1288 (27 MB .mp3, 45 min) Subscribe (free): Apple Podcasts , RSS , email Become a&nbsp; patron &nbsp;of&nbsp;TWiV! Links for this episode 7 great Danish cheeses you should know (Cheese Professor) Norovirus in on the rise! (WasterWater Scan) Maternal Vaccine Receipt and Infant Hospital and Emergency Visits for Influenza and Pertussis (JAMA Open) TUESDAY MEASLES UPDATE: DPH Reports 124 New Measles Cases in Upstate, New Public Exposures, and Upcoming Vaccination Opportunities (South Carolina: Department of Public Health-they have one?) Measles cases soar in ",
+      "description": "[Podcast: This Week in Virology]\n\nIn his weekly clinical update, Dr. Griffin and Vincent Racaniello chat about being in Denmark and its famous cheeses, the recent norovirus outbreak, the benefits of vaccinating mothers for influenza, RSV, and pertussis, and how the US is about to lose its measles elimination status as measles cases increase in Utah and South Carolina. Dr. Griffin then deep dives into recent statistics RSV, influenza and SARS-CoV-2 infections, the Wasterwater Scan dashboard, Johns Hopkins measles tracker, 2 children deaths from influenza infection in North Dakota, how to get the \u2018best\u2019 influenza antiviral , benefit of maternal COVID-19 vaccination, where to find PEMGARDA, how to access and pay for Paxlovid, long COVID treatment center, not use steroids for influenza infection, where to go for answers to your long COVID questions, incidence of squali and severity from SARS-CoV-2 infection during the omicron ear and contacting your federal government representative to stop the assault on science and biomedical research. Click arrow to play Download&nbsp; TWiV 1288 (27 MB .mp3, 45 min) Subscribe (free):&nbsp; Apple Podcasts , RSS ,&nbsp; email Become a&nbsp; patron &nbsp;of&nbsp;TWiV! Links for this episode 7 great Danish cheeses you should know (Cheese Professor) Norovirus in on the rise! (WasterWater Scan) Maternal Vaccine Receipt and Infant Hospital and Emergency Visits for Influenza and Pertussis &nbsp; (JAMA Open) TUESDAY MEASLES UPDATE: DPH Reports 124 New Measles Cases in Upstate, New Publ",
       "url": "https://www.microbe.tv/twiv/twiv-1288/",
       "start_datetime": "2026-01-17T05:00:00",
+      "end_datetime": null,
+      "timezone": "UTC",
+      "location": "Podcast",
+      "organizer": "This Week in Virology",
+      "source": "twiv_podcast",
+      "category": "Podcast - TWiV",
+      "tags": [],
+      "access_restriction": "Public",
+      "registration_url": null,
+      "recording_url": null
+    },
+    {
+      "id": "dbb548434a9c2308",
+      "title": "TWiV 1289: Building a better hepatitis B trap",
+      "description": "[Podcast: This Week in Virology]\n\nTWiV explains how the dengue virus protein NS1 alters Aedes aegypti midgut permeability and favors virus dissemination, and achieving a complete hepatitis B virus cure in chronic hepatitis B virus-infected humanized mice by using a capsid assembly modulator. Hosts: Vincent Racaniello , Alan Dove , and Angela Mingarelli Click arrow to play Download TWiV 1289 (61 MB .mp3, 102 min) Subscribe (free): Apple Podcasts , RSS , email Become a&nbsp; patron &nbsp;of&nbsp;TWiV! Links for this episode Support science education at MicrobeTV ASV 2026 Positions in Rosenfeld Lab (email) Dengue virus NS1 alters mosquito midgut permeability (mBio) HBV cure with a capsid assembly modulator (Cell Host Microbe) Letters read on TWiV 1289 Timestamps by&nbsp; Jolene Ramsey. Thanks! Weekly Picks Angela &#8211; How hibernating bears maintain muscle mass Alan &#8211; The flood of Chinese grad students in the 2000s was a boon to US students . Vincent &#8211; Feynman Lectures on Physics Listener Picks David &#8211; Stewart Cheifet, Host of TV\u2019s \u2018Computer Chronicles,\u2019 Dies at 87 Charles &#8211; Last Year, and the Year to Come Intro music is by Ronald Jenkees Send your virology questions and comments to twiv@microbe.tv Content in this podcast should not be construed as medical advice. The post TWiV 1289: Building a better hepatitis B trap first appeared on This Week in Virology .",
+      "url": "https://www.microbe.tv/twiv/twiv-1289/",
+      "start_datetime": "2026-01-18T05:00:00",
       "end_datetime": null,
       "timezone": "UTC",
       "location": "Podcast",
