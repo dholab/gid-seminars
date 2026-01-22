@@ -2,12 +2,12 @@
   "metadata": {
     "title": "GID Seminars Feed",
     "description": "Aggregated seminars and webinars for Global Infectious Disease research",
-    "generated_at": "2026-01-21T06:08:36.092476Z",
+    "generated_at": "2026-01-22T06:07:58.734986Z",
     "time_window": {
       "days_behind": 30,
       "days_ahead": 30
     },
-    "total_events": 58,
+    "total_events": 59,
     "sources": [
       "astmh_events",
       "avac_events",
@@ -545,23 +545,6 @@
       "recording_url": null
     },
     {
-      "id": "8a74f02608c8129a",
-      "title": "NIH-FDA Immunology Interest Group (IIG) seminar series",
-      "description": "IIG weekly seminar series features the world-renown experts in the field of immunology. The speakers are nominated by the members of immunology community from the NIH and FDA. Air date: 1/21/2026 4:00:00 PM Eastern Time",
-      "url": "https://videocast.nih.gov/watch=57091",
-      "start_datetime": "2026-01-21T16:00:00",
-      "end_datetime": null,
-      "timezone": "America/New_York",
-      "location": "Online",
-      "organizer": "Wed, 21 Jan 2026 21:00:00 GMT",
-      "source": "nih_videocast_upcoming",
-      "category": "Health",
-      "tags": [],
-      "access_restriction": "Public",
-      "registration_url": null,
-      "recording_url": null
-    },
-    {
       "id": "38a613110162baed",
       "title": "WHO EPI-WIN webinar: safe & dignified Mpox care for displaced communities and overcrowded settings",
       "description": "This session focuses on the newly released WHO, UNICEF, UNHCR and IOM \u201cTechnical Note on Safe and Supportive Care in Community Care Centres for Mild Mpox\u201d. The guidance responds to the needs of internally displaced persons (IDPs), refugees and other populations living in overcrowded or resource-limited settings where home isolation is not feasible. It highlights how infection prevention and control (IPC), water, sanitation and hygiene (WASH), mental health and community engagement measures can be adapted to protect both health and dignity.",
@@ -851,6 +834,23 @@
       "recording_url": null
     },
     {
+      "id": "819c54847f54b7fc",
+      "title": "Webinar \u2013 From progress to sustainability: country-led integration for lasting NTD impact",
+      "description": "On the occasion of World Neglected Tropical Diseases Day 2026, this webinar will highlight country-led progress against neglected tropical diseases (NTDs) and explore how integrating NTD interventions into broader health services and primary health care can strengthen sustainability, resilience and reach.",
+      "url": "https://www.who.int/news-room/events/detail/webinar---from-progress-to-sustainability--country-led-integration-for-lasting-ntd-impact",
+      "start_datetime": "2026-01-30T14:00:00",
+      "end_datetime": "2026-01-30T15:30:00",
+      "timezone": "UTC",
+      "location": "Online/Geneva",
+      "organizer": "World Health Organization",
+      "source": "who_events",
+      "category": "WHO",
+      "tags": [],
+      "access_restriction": "Public",
+      "registration_url": null,
+      "recording_url": null
+    },
+    {
       "id": "403e5ee0e73e4f45",
       "title": "Trust in Science and Research \u2013 Community Perceptions of HIV Vaccine Trial Participation",
       "description": "Ronald P. Strauss, DMD PhD is the Adams Distinguished Professor at the University of North Carolina at Chapel Hill, Adams School of Dentistry. He served for 14 years as UNC\u2019s Executive Vice Provost (2008-2022) and also was UNC\u2019s Chief International Officer for a decade (2009-2018). He also holds joint appointments in three schools and is a member of the UNC Craniofacial Center Team. For twelve years, he was Chair of the Department of Dental Ecology in the UNC Adams School of Dentistry. Ron\u2019s research has focused on the social impacts of chronic health problems, especially oral/craniofacial differences and HIV/AIDS. His work combines his clinical, social science, ethical, and health policy interests as they relate to craniofacial care, research participation, HIV/AIDS, stigma, prenatal diagnosis, and access to healthcare.",
@@ -1049,6 +1049,23 @@
       "organizer": "Wed, 18 Feb 2026 21:00:00 GMT",
       "source": "nih_videocast_upcoming",
       "category": "Health",
+      "tags": [],
+      "access_restriction": "Public",
+      "registration_url": null,
+      "recording_url": null
+    },
+    {
+      "id": "144fdfaa56e0a860",
+      "title": "Melissa Conrad, PhD, MS",
+      "description": "Dr. Melissa Conrad is an Associate Professor of Medicine at the University of California, San Francisco. Her Research focuses on the evolution of antimalarial drug resistance in Uganda and the molecular epidemiology of malaria transmission. Working closely with a team of researchers in Uganda, their group evaluates antimalarial resistance in Plasmodium falciparum collected from sites across Uganda. Using molecular and ex vivo approaches, they surveil for emerging or spreading drug resistance, evaluate novel markers of resistance, and seek to better understand mechanisms of resistance. In addition, they perform membrane feeding assays in which mosquitoes are fed malaria-infected blood with the goal of better understanding the human infectious reservoir of malaria and which populations can be targeted to best reduce ongoing malaria transmission.",
+      "url": "https://globalhealth.unc.edu/event/melissa-conrad-phd-ms/",
+      "start_datetime": "2026-02-20T14:15:00",
+      "end_datetime": "2026-02-20T15:15:00",
+      "timezone": "America/New_York",
+      "location": "Online",
+      "organizer": null,
+      "source": "unc_global_health",
+      "category": "Friday Morning Conference Series",
       "tags": [],
       "access_restriction": "Public",
       "registration_url": null,
