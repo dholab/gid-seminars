@@ -2,7 +2,7 @@
   "metadata": {
     "title": "GID Seminars Feed",
     "description": "Aggregated seminars and webinars for Global Infectious Disease research",
-    "generated_at": "2026-01-25T06:06:54.816048Z",
+    "generated_at": "2026-01-26T06:08:58.327437Z",
     "time_window": {
       "days_behind": 30,
       "days_ahead": 30
@@ -68,23 +68,6 @@
     ]
   },
   "events": [
-    {
-      "id": "0752aac72552f2d2",
-      "title": "TWiV 1282: Clinical update with Dr. Daniel Griffin",
-      "description": "[Podcast: This Week in Virology]\n\nCalling out \u201cHappy Christmas to all and to all a good-night\u201c, Dr. Griffin and Vincent Racaniello discuss high path influenza in dairy herds in Wisconsin and Marburg virus in Ethiopia before Dr. Griffin then deep dives into recent statistics on the measles epidemic, RSV, influenza and SARS-CoV-2 infections, the Wastewater Scan dashboard, Johns Hopkins measles tracker, the slightly higher association of COVID-19 infection with death than following influenza infection, benefit of passive infant immunization with niresevimab, association of COVID-19 vaccine immunogenicity protection against severe disease in vulnerable populations, where to find PEMGARDA, how to access and pay for Paxlovid, long COVID treatment center, effect of remdesivir and nirmatrelvir/ritonavir on COVID-19 associated mortality, where to go for answers to your long COVID questions, and contacting your federal government representative to stop the assault on science and biomedical research. Click arrow to play Download&nbsp; TWiV 1282 (26 MB .mp3, 43 min) Subscribe (free):&nbsp; Apple Podcasts , RSS ,&nbsp; email Become a&nbsp; patron &nbsp;of&nbsp;TWiV! Links for this episode IUSDA Confirms Highly Pathogenic Avian Influenza in a Dairy Herd in Wisconsin (USDA Animal and Plant Health Inspection Service) 3:50 Update: Genetic Sequencing Results for Wisconsin Dairy Herd Detection of Highly Pathogenic Avian Influenza (USDA Animal and Plant Health Inspection Service) Marburg Outbreak in Ethiopia : Current Situation ",
-      "url": "https://www.microbe.tv/twiv/twiv-1282/",
-      "start_datetime": "2025-12-27T05:00:00",
-      "end_datetime": null,
-      "timezone": "UTC",
-      "location": "Podcast",
-      "organizer": "This Week in Virology",
-      "source": "twiv_podcast",
-      "category": "Podcast - TWiV",
-      "tags": [],
-      "access_restriction": "Public",
-      "registration_url": null,
-      "recording_url": null
-    },
     {
       "id": "86bf41f7d665aad3",
       "title": "TWiV 1283: Myocarditis and mimicry",
@@ -1236,6 +1219,23 @@
       "organizer": null,
       "source": "stanford_virtual",
       "category": "Class/Seminar",
+      "tags": [],
+      "access_restriction": "Public",
+      "registration_url": null,
+      "recording_url": null
+    },
+    {
+      "id": "9cb8943e30767e36",
+      "title": "2026 Demystifying Medicine Series: Hot Zones: How Climate Change Fuels Infectious Disease",
+      "description": "2026 Demystifying Medicine Series\u2013 The Demystifying Medicine Series, jointly sponsored by FAES and NIH, includes presentations on pathology, diagnosis, and therapy in the context of major disease problems and current research. Primarily directed toward PhD students, clinicians and program managers, this series is designed to help bridge the gap between advances in biology and their application to major human diseases. Each session includes clinical and basic science components presented by NIH staff and invitees. All students, trainees, fellows, and staff are welcome to participate. The coordinator is Dr. Win Arias https://demystifyingmedicine.od.nih.gov. Individuals with disabilities who need reasonable accommodation to participate in this event should contact Diana Gomez at diana.gomez@nih.gov. For more information go to https://demystifyingmedicine.od.nih.gov/ Air date: 2/24/2026 3:00:00 PM Eastern Time",
+      "url": "https://videocast.nih.gov/watch=57263",
+      "start_datetime": "2026-02-24T15:00:00",
+      "end_datetime": null,
+      "timezone": "America/New_York",
+      "location": "Online",
+      "organizer": "Tue, 24 Feb 2026 20:00:00 GMT",
+      "source": "nih_videocast_upcoming",
+      "category": "Health",
       "tags": [],
       "access_restriction": "Public",
       "registration_url": null,
