@@ -2,12 +2,12 @@
   "metadata": {
     "title": "GID Seminars Feed",
     "description": "Aggregated seminars and webinars for Global Infectious Disease research",
-    "generated_at": "2026-01-28T06:08:49.264292Z",
+    "generated_at": "2026-01-28T15:01:55.973694Z",
     "time_window": {
       "days_behind": 30,
       "days_ahead": 30
     },
-    "total_events": 71,
+    "total_events": 72,
     "sources": [
       "astmh_events",
       "avac_events",
@@ -1270,6 +1270,23 @@
       "organizer": "World Health Organization",
       "source": "who_events",
       "category": "WHO",
+      "tags": [],
+      "access_restriction": "Public",
+      "registration_url": null,
+      "recording_url": null
+    },
+    {
+      "id": "a9682bfab4914e88",
+      "title": "Simplifying Hepatitis B Care in Pregnancy by Combining Birth-dose Vaccine and Tenofovir: The COMBAT HBV Feasibility Trial",
+      "description": "Peyton Thompson, MD, MSCR, is an Assistant Professor and Fellowship Program Director of Pediatric Infectious Diseases at the University of North Carolina at Chapel Hill. She received her B.A. from Princeton University, where she majored in Ecology and Evolutionary Biology and minored in Medical Spanish. She received her M.D. from Virginia Commonwealth University, where she participated in the International, Inner City and Rural Preceptorship (I2CRP) program geared towards underserved populations. She then completed both her residency in Pediatrics and fellowship in Pediatric Infectious Diseases at the University of North Carolina, where she stayed on to join the faculty in 2019. Peyton\u2019s research interests focus broadly on the promotion of infant health in low-resource areas through vaccination, with a particular interest in hepatitis B. She leads a team of DRC- and US-based researchers in studies on the prevention of vertical transmission of hepatitis B virus, for which she has funding and support from the Doris Duke Foundation, the NIH, Abbott Laboratories and Coefficient Giving. She advocates for health equity and hepatitis B birth-dose vaccination in DRC and throughout sub-Saharan Africa. She is also passionate about mentoring trainees, ranging from medical students to residents/fellows to PhD students.",
+      "url": "https://globalhealth.unc.edu/event/peyton-thompson-md-mscr/",
+      "start_datetime": "2026-02-27T14:15:00",
+      "end_datetime": "2026-02-27T15:15:00",
+      "timezone": "America/New_York",
+      "location": "Online",
+      "organizer": null,
+      "source": "unc_global_health",
+      "category": "Friday Morning Conference Series",
       "tags": [],
       "access_restriction": "Public",
       "registration_url": null,
