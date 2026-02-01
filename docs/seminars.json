@@ -2,12 +2,12 @@
   "metadata": {
     "title": "GID Seminars Feed",
     "description": "Aggregated seminars and webinars for Global Infectious Disease research",
-    "generated_at": "2026-01-31T06:10:51.377579Z",
+    "generated_at": "2026-02-01T06:18:52.844647Z",
     "time_window": {
       "days_behind": 30,
       "days_ahead": 30
     },
-    "total_events": 69,
+    "total_events": 68,
     "sources": [
       "astmh_events",
       "avac_events",
@@ -70,23 +70,6 @@
     ]
   },
   "events": [
-    {
-      "id": "d9eac08ac5b15f22",
-      "title": "OBS Immunology Seminar",
-      "description": "OBS Immunology Seminar \n\n\ud83d\udc69\u200d\ud83d\udd2c Alejandra Mendoza @scripps.edu @science.org \n\ud83d\udc68\u200d\ud83d\udd2c Mehdi Benamar @bostonchildrens.bsky.social  @harvardmed.bsky.social  @cp-immunity.bsky.social \n\ud83d\udce3 @eugecc.bsky.social \n\n\ud83d\uddd3\ufe0f Thu , 01-08-26 12 PM EST, 5 pm GMT, 6 pm CEST \n\ud83d\udc47 \n us02web.zoom.us/meeting/regi...",
-      "url": "https://us02web.zoom.us/meeting/register/PAhTFIZIR8qQ4Jj0UrUWQA#/registration",
-      "start_datetime": "2026-01-01T21:33:23.345000",
-      "end_datetime": null,
-      "timezone": "America/New_York",
-      "location": "Online",
-      "organizer": "Open Box Science ",
-      "source": "bluesky_id",
-      "category": "Bluesky - ID",
-      "tags": [],
-      "access_restriction": "Public",
-      "registration_url": null,
-      "recording_url": null
-    },
     {
       "id": "0969a9d47cf05afd",
       "title": "TWiV 1284: Clinical update with Dr. Daniel Griffin",
