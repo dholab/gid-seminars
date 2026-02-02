@@ -2,7 +2,7 @@
   "metadata": {
     "title": "GID Seminars Feed",
     "description": "Aggregated seminars and webinars for Global Infectious Disease research",
-    "generated_at": "2026-02-01T06:18:52.844647Z",
+    "generated_at": "2026-02-02T06:25:08.545557Z",
     "time_window": {
       "days_behind": 30,
       "days_ahead": 30
@@ -70,23 +70,6 @@
     ]
   },
   "events": [
-    {
-      "id": "0969a9d47cf05afd",
-      "title": "TWiV 1284: Clinical update with Dr. Daniel Griffin",
-      "description": "[Podcast: This Week in Virology]\n\nRecording after the ball drops, Dr. Griffin and Vincent Racaniello wish everyone a Happy New Year, discuss an evidence-based approach to teaching and practice medicine and reminisce on the history of vaccine development and use before their discussion about the whooping cough outbreak of 2025 in the US and falling levels of tetanus vaccination, then Dr. Griffin then deep dives into recent statistics on the measles epidemic, RSV, influenza and SARS-CoV-2 infections, the Wasterwater Scan dashboard, Johns Hopkins measles tracker, how NY state reported the greatest number of influenza confirmed infections ever in one week during the week ending Dec 20, &nbsp;where to find PEMGARDA, how to access and pay for Paxlovid, long COVID treatment center, where to go for answers to your long COVID questions, and contacting your federal government representative to stop the assault on science and biomedical research. Click arrow to play Download&nbsp; TWiV 1284 (18 MB .mp3, 30 min) Subscribe (free):&nbsp; Apple Podcasts , RSS ,&nbsp; email Become a&nbsp; patron &nbsp;of&nbsp;TWiV! Links for this episode Evidence-Based Medicine: A New Approach to Teaching the Practice of Medicine (JAMA) 3:10 The US has seen nearly 28,000 whooping cough cases this year. Here\u2019s what you need to know (CNN) 5:06 Vaccine History: Developments by Year (CHOP, Children\u2019s hospital of Philadelphia: Vaccine History) Reported Incidence of notable diseases in United States: 1952 Morbidity and Mortality Weekly Report, Vol",
-      "url": "https://www.microbe.tv/twiv/twiv-1284/",
-      "start_datetime": "2026-01-03T05:00:00",
-      "end_datetime": null,
-      "timezone": "UTC",
-      "location": "Podcast",
-      "organizer": "This Week in Virology",
-      "source": "twiv_podcast",
-      "category": "Podcast - TWiV",
-      "tags": [],
-      "access_restriction": "Public",
-      "registration_url": null,
-      "recording_url": null
-    },
     {
       "id": "38b6c22c60014436",
       "title": "TWiV 1285: Encapsidating viruses 2025",
@@ -753,9 +736,26 @@
     {
       "id": "07d877341b8103bf",
       "title": "TWiV 1292: Clinical update with Dr. Daniel Griffin",
-      "description": "[Podcast: This Week in Virology]\n\nIn his weekly clinical update, Dr. Griffin and Vincent Racaniello discuss with disgust the decline and fall of American public health and the rise of \u201conly me\u201d when highlighting completion of the US withdrawal from the WHO and possibility of making IPV and MMR optional vaccines, before Dr. Griffin then deep dives into recent statistics RSV, influenza and SARS-CoV-2 infections, the Wasterwater Scan dashboard, Johns Hopkins measles tracker, Europe losing its measles elimination status, first measles death in Mexico, almost 1000 measles cases in South Carolina, where to find PEMGARDA, how to access and pay for Paxlovid, long COVID treatment center, the effectiveness of this season\u2019s influenza vaccine, where to go for answers to your long COVID questions and contacting your federal government representative to stop the assault on science and biomedical research. Click arrow to play Download TWiV 1292 (27 MB .mp3, 45 min) Subscribe (free): Apple Podcasts , RSS , email Become a&nbsp; patron &nbsp;of&nbsp;TWiV! Links for this episode US completes withdrawal from World Health Organization (AP News) Rejecting Decades of Science, Vaccine Panel Chair Says Polio and Other Shots Should Be Optional (NY Times) A Frightening Interview (Beyond the Noise) Unexplained Pauses in Centers for Disease Control and Prevention Surveillance: Erosion of the Public Evidence Base for Health Policy (Annals of Internal Medicine) Wastewater for measles (WasterWater Scan) UK among 6 European countries losing ",
+      "description": "[Podcast: This Week in Virology]\n\nIn his weekly clinical update, Dr. Griffin and Vincent Racaniello discuss with disgust the decline and fall of American public health and the rise of \u201conly me\u201d when highlighting completion of the US withdrawal from the WHO and possibility of making IPV and MMR optional vaccines, before Dr. Griffin then deep dives into recent statistics RSV, influenza and SARS-CoV-2 infections, the Wasterwater Scan dashboard, Johns Hopkins measles tracker, Europe losing its measles elimination status, first measles death in Mexico, almost 1000 measles cases in South Carolina, where to find PEMGARDA, how to access and pay for Paxlovid, long COVID treatment center, the effectiveness of this season\u2019s influenza vaccine, where to go for answers to your long COVID questions and contacting your federal government representative to stop the assault on science and biomedical research. Click arrow to play Download&nbsp; TWiV 1292 (27 MB .mp3, 45 min) Subscribe (free):&nbsp; Apple Podcasts , RSS ,&nbsp; email Become a&nbsp; patron &nbsp;of&nbsp;TWiV! Links for this episode US completes withdrawal from World Health Organization (AP News) 4:17 Rejecting Decades of Science, Vaccine Panel Chair Says Polio and Other Shots Should Be Optional (NY Times) 5:36 A Frightening Interview (Beyond the Noise) 9:58 Unexplained Pauses in Centers for Disease Control and Prevention Surveillance: Erosion of the Public Evidence Base for Health Policy (Annals of Internal Medicine) 13:01 Wastewater for measles (WasterWater Scan",
       "url": "https://www.microbe.tv/twiv/twiv-1292/",
       "start_datetime": "2026-01-31T05:00:00",
+      "end_datetime": null,
+      "timezone": "UTC",
+      "location": "Podcast",
+      "organizer": "This Week in Virology",
+      "source": "twiv_podcast",
+      "category": "Podcast - TWiV",
+      "tags": [],
+      "access_restriction": "Public",
+      "registration_url": null,
+      "recording_url": null
+    },
+    {
+      "id": "9e17a347367cd8fe",
+      "title": "TWiV 1293: The enemy of your parasite is your friend",
+      "description": "[Podcast: This Week in Virology]\n\nTWiV reviews the finding in Sweden that immunization against cervical cancer with human papillomavirus vaccine also protects the non-immunized, and methyl salicylic acid as a key volatile molecule that attracts parasitoid wasps to rice and other crops to destroy destructive leafhoppers, and is down-regulated by virus infection to enable virus spread. Hosts:&nbsp; Vincent Racaniello , Rich Condit , and Kathy Spindler Click arrow to play Download TWiV 1293 (64 MB .mp3, 107 min) Subscribe (free):&nbsp; Apple Podcasts ,&nbsp; RSS ,&nbsp; email Become a&nbsp; patron &nbsp;of&nbsp;TWiV! Links for this episode Support science education at MicrobeTV ASV 2026 7:44 Positions in Rosenfeld Lab (email) 6:00 &#8220; Host adaptations to viral infections \u201d International Meeting 6:46 William Foege dies (NY Times) 8:56 Peter Duesberg dies (NY Times) 14:33 US gov&#8217;t lost over 10,000 PhDs under DJT (Science) 17:20 Herd effect of HPV vaccination (Lancet Pub Health) 20:58 Arboviruses manipulate rice&#8217;s volatile emissions (Sci Adv) 44:00 Letters read on TWiV 1293 1:22:26 Timestamps by&nbsp; Jolene Ramsey. Thanks! Weekly Picks 1:33:05 Kathy &#8211; The Beak of the Finch , by Jonathan Weiner Rich &#8211; Washington: A Life by Ron Chernow Vincent &#8211; The Man from Beijing by Henning Mankell Intro music is by&nbsp; Ronald Jenkees Send your virology questions and comments to twiv@microbe.tv Content in this podcast should not be construed as medical advice. The post TWiV 1293: The enemy of y",
+      "url": "https://www.microbe.tv/twiv/twiv-1293/",
+      "start_datetime": "2026-02-01T11:40:49",
       "end_datetime": null,
       "timezone": "UTC",
       "location": "Podcast",
