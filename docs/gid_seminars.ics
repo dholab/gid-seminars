@@ -7,51 +7,10 @@ X-WR-CALDESC:Aggregated seminars and webinars for Global Infectious Diseas
  e research
 X-WR-CALNAME:GID Seminars
 BEGIN:VEVENT
-SUMMARY:Calling all OCION members!
-DTSTART;TZID=America/New_York:20260105T095600
-DTEND;TZID=America/New_York:20260105T105600
-DTSTAMP:20260204T061812Z
-UID:9adb4571b03ae344@gid-seminars.wnprc.wisc.edu
-CATEGORIES:Bluesky - ID
-DESCRIPTION:Calling all OCION members! \n\nThe next Oxford Cancer Immuno-O
- ncology Network/ Oxford Immunology Network targeted immunotherapies-themed
-  seminar will take place on the 27 January at 3PM. \n\nDon't miss out! ⬇
- ️\n\nEvent URL: https://talks.ox.ac.uk/talks/id/2620b05e-14b4-4c60-b495-
- 3cb285ad5e6f/\n\nSource: bluesky_id
-LOCATION:Online
-URL:https://talks.ox.ac.uk/talks/id/2620b05e-14b4-4c60-b495-3cb285ad5e6f/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Calling all OCION members!
-TRIGGER:-PT1H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🎉 Happy New Year! 🎉
-DTSTART;TZID=America/New_York:20260106T003810
-DTEND;TZID=America/New_York:20260106T013810
-DTSTAMP:20260204T061812Z
-UID:217716057f371920@gid-seminars.wnprc.wisc.edu
-CATEGORIES:Bluesky - ID
-DESCRIPTION:🎉 Happy New Year! 🎉\n\nWe’re kicking off the first Bio
- physics Seminar of the new year with Dr. Asma Rehman from Novavax presenti
- ng:\n\n🧬 “Structure-guided vaccine design characterized by Cryo-EM”
- \n\n📅 Thursday\, 1/8\n\n💻 Zoom only\n\n🔗 ucdavis.zoom.us/j/949119
- 23641\n\nHope to see you there!\n\nEvent URL: https://ucdavis.zoom.us/j/94
- 911923641\n\nSource: bluesky_id
-LOCATION:Online
-URL:https://ucdavis.zoom.us/j/94911923641
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: 🎉 Happy New Year! 🎉
-TRIGGER:-PT1H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Aid–Diplomacy Mergers and the Future of Global Security
 DTSTART;TZID=America/Los_Angeles:20260106T200000
 DTEND;TZID=America/Los_Angeles:20260106T211500
-DTSTAMP:20260204T061812Z
+DTSTAMP:20260205T062142Z
 UID:dcf5b6fef362b0ea@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Lecture/Presentation/Talk
 DESCRIPTION:About the event: For years\, development agencies have expande
@@ -99,7 +58,7 @@ SUMMARY:#Seminar on January 8\, 2026 at noon by David A. Fidock ( @pasteur
  .fr): Genetic insights into drug-resistant #Plasmodium falciparum malaria
 DTSTART;TZID=America/New_York:20260107T102606
 DTEND;TZID=America/New_York:20260107T112606
-DTSTAMP:20260204T061812Z
+DTSTAMP:20260205T062142Z
 UID:05482d3d977fada8@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Bluesky - ID
 DESCRIPTION:#Seminar on January 8\, 2026 at noon by David A. Fidock ( @pas
@@ -123,7 +82,7 @@ BEGIN:VEVENT
 SUMMARY:WALS: Bill Paul Lecture- Immune Control of Host Physiology
 DTSTART;TZID=America/New_York:20260107T140000
 DTEND;TZID=America/New_York:20260107T150000
-DTSTAMP:20260204T061812Z
+DTSTAMP:20260205T062142Z
 UID:1570a2223c42f26a@gid-seminars.wnprc.wisc.edu
 CATEGORIES:WALS - Wednesday Afternoon Lectures
 DESCRIPTION:WALS: Bill Paul Lecture- Immune Control of Host Physiology Pre
@@ -143,7 +102,7 @@ BEGIN:VEVENT
 SUMMARY:Join us for our first seminar in 2026💫
 DTSTART;TZID=America/New_York:20260107T155713
 DTEND;TZID=America/New_York:20260107T165713
-DTSTAMP:20260204T061812Z
+DTSTAMP:20260205T062142Z
 UID:f59ba80f3b8c331d@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Bluesky - ID
 DESCRIPTION:Join us for our first seminar in 2026💫\n\nWe are delighted 
@@ -166,7 +125,7 @@ SUMMARY:We invite you to participate in the seminar “Breaking Free: How
  d Release...
 DTSTART;TZID=America/New_York:20260107T165142
 DTEND;TZID=America/New_York:20260107T175142
-DTSTAMP:20260204T061812Z
+DTSTAMP:20260205T062142Z
 UID:673614e5c51f627d@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Bluesky - ID
 DESCRIPTION:We invite you to participate in the seminar “Breaking Free: 
@@ -191,7 +150,7 @@ SUMMARY:Upcoming seminar by Emmanuelle Passegue\, PhD: DSCB et Immunology
  rving Medi...
 DTSTART;TZID=America/New_York:20260108T002607
 DTEND;TZID=America/New_York:20260108T012607
-DTSTAMP:20260204T061812Z
+DTSTAMP:20260205T062142Z
 UID:50cdc82a281a19ab@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Bluesky - ID
 DESCRIPTION:Upcoming seminar by Emmanuelle Passegue\, PhD: DSCB et Immunol
@@ -216,7 +175,7 @@ SUMMARY:We've just learned about the Ecology and Evolution of Infectious D
  te-disea...
 DTSTART;TZID=America/New_York:20260108T181615
 DTEND;TZID=America/New_York:20260108T191615
-DTSTAMP:20260204T061812Z
+DTSTAMP:20260205T062142Z
 UID:77fc048125aeefde@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Bluesky - ID
 DESCRIPTION:We've just learned about the Ecology and Evolution of Infectio
@@ -239,7 +198,7 @@ SUMMARY:Upcoming seminar : Department of Parasites and Insect Vectors Semi
  es at...
 DTSTART;TZID=America/New_York:20260110T002608
 DTEND;TZID=America/New_York:20260110T012608
-DTSTAMP:20260204T061812Z
+DTSTAMP:20260205T062142Z
 UID:7e99bc7078a020b5@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Bluesky - ID
 DESCRIPTION:Upcoming seminar : Department of Parasites and Insect Vectors 
@@ -262,7 +221,7 @@ BEGIN:VEVENT
 SUMMARY:TWiV 1286: Clinical update with Dr. Daniel Griffin
 DTSTART:20260110T050000Z
 DTEND:20260110T060000Z
-DTSTAMP:20260204T061812Z
+DTSTAMP:20260205T062142Z
 UID:e5d36393523d05fe@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Podcast - TWiV
 DESCRIPTION:[Podcast: This Week in Virology]\n\nIn his weekly clinical upd
@@ -300,7 +259,7 @@ BEGIN:VEVENT
 SUMMARY:TWiV 1287: Ancient herpesviruses and modern dementia
 DTSTART:20260111T050000Z
 DTEND:20260111T060000Z
-DTSTAMP:20260204T061812Z
+DTSTAMP:20260205T062142Z
 UID:1bc73daeb6010716@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Podcast - TWiV
 DESCRIPTION:[Podcast: This Week in Virology]\n\nTWiV explain the tracing o
@@ -339,7 +298,7 @@ SUMMARY:Upcoming seminar by Ivaylo Ivanov\, Ph.D.: Immunology Dpt. Seminar
   NY\, USA. ...
 DTSTART;TZID=America/New_York:20260112T002608
 DTEND;TZID=America/New_York:20260112T012608
-DTSTAMP:20260204T061812Z
+DTSTAMP:20260205T062142Z
 UID:7d1a39ff53bc17bb@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Bluesky - ID
 DESCRIPTION:Upcoming seminar by Ivaylo Ivanov\, Ph.D.: Immunology Dpt. Sem
@@ -362,7 +321,7 @@ SUMMARY:Clinical Center Grand Rounds: Unraveling the Mysteries of Heart Di
  sease
 DTSTART;TZID=America/New_York:20260114T120000
 DTEND;TZID=America/New_York:20260114T130000
-DTSTAMP:20260204T061812Z
+DTSTAMP:20260205T062142Z
 UID:64c8e6e55c1a6b11@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Clinical Center Grand Rounds
 DESCRIPTION:Clinical Center Grand Rounds: Unraveling the Mysteries of Hear
@@ -383,7 +342,7 @@ SUMMARY:WALS: Neonatal Genomic Sequencing: The Past\, The Present\, and th
  e Unchartered\, Controversial Future
 DTSTART;TZID=America/New_York:20260114T140000
 DTEND;TZID=America/New_York:20260114T150000
-DTSTAMP:20260204T061812Z
+DTSTAMP:20260205T062142Z
 UID:9e7b2ecef23f4b2b@gid-seminars.wnprc.wisc.edu
 CATEGORIES:WALS - Wednesday Afternoon Lectures
 DESCRIPTION:WALS: Neonatal Genomic Sequencing: The Past\, The Present\, an
@@ -404,7 +363,7 @@ BEGIN:VEVENT
 SUMMARY:For our first @britsocimm.bsky.social MIG Seminar of 2026\,
 DTSTART;TZID=America/New_York:20260114T172443
 DTEND;TZID=America/New_York:20260114T182443
-DTSTAMP:20260204T061812Z
+DTSTAMP:20260205T062142Z
 UID:e2a013aa6d1698ec@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Bluesky - ID
 DESCRIPTION:For our first @britsocimm.bsky.social MIG Seminar of 2026\, \n
@@ -426,7 +385,7 @@ BEGIN:VEVENT
 SUMMARY:Outbreak Behind Bars
 DTSTART;TZID=America/New_York:20260116T141500
 DTEND;TZID=America/New_York:20260116T151500
-DTSTAMP:20260204T061812Z
+DTSTAMP:20260205T062142Z
 UID:7656bfb7a076fcd3@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Friday Morning Conference Series
 DESCRIPTION:Homer Venters\, MD MS is the former Chief Medical Officer of t
@@ -448,7 +407,7 @@ BEGIN:VEVENT
 SUMMARY:TWiV 1288: Clinical update with Dr. Daniel Griffin
 DTSTART:20260117T050000Z
 DTEND:20260117T060000Z
-DTSTAMP:20260204T061812Z
+DTSTAMP:20260205T062142Z
 UID:4c582e47a8f1112c@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Podcast - TWiV
 DESCRIPTION:[Podcast: This Week in Virology]\n\nIn his weekly clinical upd
@@ -486,7 +445,7 @@ BEGIN:VEVENT
 SUMMARY:TWiV 1289: Building a better hepatitis B trap
 DTSTART:20260118T050000Z
 DTEND:20260118T060000Z
-DTSTAMP:20260204T061812Z
+DTSTAMP:20260205T062142Z
 UID:dbb548434a9c2308@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Podcast - TWiV
 DESCRIPTION:[Podcast: This Week in Virology]\n\nTWiV explains how the deng
@@ -524,7 +483,7 @@ SUMMARY:Clinical Center Grand Rounds: Emerging Critical Roles of the Scien
  ce of Aging and Resilience in Population Health
 DTSTART;TZID=America/New_York:20260121T120000
 DTEND;TZID=America/New_York:20260121T130000
-DTSTAMP:20260204T061812Z
+DTSTAMP:20260205T062142Z
 UID:95da330f3fdccc39@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Clinical Center Grand Rounds
 DESCRIPTION:Clinical Center Grand Rounds: Emerging Critical Roles of the S
@@ -545,7 +504,7 @@ BEGIN:VEVENT
 SUMMARY:WALS: The Emotional Brain: Role in Depression and Addiction
 DTSTART;TZID=America/New_York:20260121T140000
 DTEND;TZID=America/New_York:20260121T150000
-DTSTAMP:20260204T061812Z
+DTSTAMP:20260205T062142Z
 UID:3f5d0b161d719487@gid-seminars.wnprc.wisc.edu
 CATEGORIES:WALS - Wednesday Afternoon Lectures
 DESCRIPTION:WALS: The Emotional Brain: Role in Depression and Addiction Pr
@@ -565,7 +524,7 @@ BEGIN:VEVENT
 SUMMARY:January GPP Screeners Meeting
 DTSTART;TZID=America/New_York:20260121T143000
 DTEND;TZID=America/New_York:20260121T153000
-DTSTAMP:20260204T061812Z
+DTSTAMP:20260205T062142Z
 UID:bb9682b0d11751e8@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Talks
 DESCRIPTION:"In vivo screens identify modifiers of CAR T cell function in 
@@ -587,7 +546,7 @@ SUMMARY:Outbreak Analytics and Disease Modeling to Inform Public Health De
  cision-Making
 DTSTART;TZID=America/New_York:20260123T141500
 DTEND;TZID=America/New_York:20260123T151500
-DTSTAMP:20260204T061812Z
+DTSTAMP:20260205T062142Z
 UID:5dbef9e3f6fe916b@gid-seminars.wnprc.wisc.edu
 CATEGORIES:CFAR Events
 DESCRIPTION:Drs. Kimberly Powers and Justin Lessler are faculty members in
@@ -613,7 +572,7 @@ SUMMARY:SDRC Friday Seminar - Rachel Turn\, PhD and Mohammad Aziz-Zanjani\
  , PhD
 DTSTART;TZID=America/Los_Angeles:20260123T200000
 DTEND;TZID=America/Los_Angeles:20260123T210000
-DTSTAMP:20260204T061812Z
+DTSTAMP:20260205T062142Z
 UID:7031fa940d942ace@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Class/Seminar
 DESCRIPTION:Rachel Turn\, PhD\nPostdoctoral Scholar\, Department of Microb
@@ -637,7 +596,7 @@ BEGIN:VEVENT
 SUMMARY:TWiV 1290: Clinical update with Dr. Daniel Griffin
 DTSTART:20260124T121508Z
 DTEND:20260124T131508Z
-DTSTAMP:20260204T061812Z
+DTSTAMP:20260205T062142Z
 UID:1d7afe66b7b9a6a8@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Podcast - TWiV
 DESCRIPTION:[Podcast: This Week in Virology]\n\nIn his weekly clinical upd
@@ -675,7 +634,7 @@ BEGIN:VEVENT
 SUMMARY:TWiV 1291: A foot in the door for cytomegalovirus
 DTSTART:20260125T050000Z
 DTEND:20260125T060000Z
-DTSTAMP:20260204T061812Z
+DTSTAMP:20260205T062142Z
 UID:518ea6b8dfbf8e53@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Podcast - TWiV
 DESCRIPTION:[Podcast: This Week in Virology]\n\nTWiV explains emergence of
@@ -713,7 +672,7 @@ SUMMARY:Highlights from 4th Correlates of Protection for Next Generation I
  nfluenza Vaccines
 DTSTART:20260127T000000Z
 DTEND:20260127T010000Z
-DTSTAMP:20260204T061812Z
+DTSTAMP:20260205T062142Z
 UID:f5ce51845bc2505f@gid-seminars.wnprc.wisc.edu
 CATEGORIES:ISRV
 DESCRIPTION:Webinar Co-Chairs: Rebecca Cox\, University of Bergen\, Norway
@@ -735,7 +694,7 @@ SUMMARY:TEPHI Grand Rounds Seminar | Re-Emergence of Pertussis in the US:
  Risks and Prevention
 DTSTART;TZID=America/Chicago:20260127T150000
 DTEND;TZID=America/Chicago:20260127T160000
-DTSTAMP:20260204T061812Z
+DTSTAMP:20260205T062142Z
 UID:05ae81f60ff7a932@gid-seminars.wnprc.wisc.edu
 CATEGORIES:TEPHI
 DESCRIPTION:\nEvent URL: https://tephi.texas.gov/events/event?id=2c2fb300-
@@ -755,7 +714,7 @@ SUMMARY:Finding the Invisible: Frontiers in Cancer and Infectious Disease
  Detection
 DTSTART;TZID=America/New_York:20260127T150000
 DTEND;TZID=America/New_York:20260127T160000
-DTSTAMP:20260204T061812Z
+DTSTAMP:20260205T062142Z
 UID:ff2b115a138fa14a@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Demystifying Medicine
 DESCRIPTION:Finding the Invisible: Frontiers in Cancer and Infectious Dise
@@ -777,7 +736,7 @@ SUMMARY:UCSF Data Library with Gabi Fragiadakis (Bay Area Open Science Gro
  up Meeting)
 DTSTART;TZID=America/Los_Angeles:20260127T220000
 DTEND;TZID=America/Los_Angeles:20260127T230000
-DTSTAMP:20260204T061812Z
+DTSTAMP:20260205T062142Z
 UID:2308f51a3eda1071@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Lecture/Presentation/Talk
 DESCRIPTION:This month we will be joined by Dr. Gabi Fragiadakis from UCSF
@@ -817,7 +776,7 @@ BEGIN:VEVENT
 SUMMARY:APACI 2026 Respiratory diseases webinar
 DTSTART:20260128T090000Z
 DTEND:20260128T100000Z
-DTSTAMP:20260204T061812Z
+DTSTAMP:20260205T062142Z
 UID:c736833ea3c57be4@gid-seminars.wnprc.wisc.edu
 CATEGORIES:ISRV
 DESCRIPTION:28 January 2026 - 9am - 12pm (Hong Kong Time)\, Online Webinar
@@ -837,7 +796,7 @@ SUMMARY:Clinical Center: Adventure At C: Ascorbic Acid (Vitamin C) In Heal
  th and Disease
 DTSTART;TZID=America/New_York:20260128T120000
 DTEND;TZID=America/New_York:20260128T130000
-DTSTAMP:20260204T061812Z
+DTSTAMP:20260205T062142Z
 UID:a39c03b7e6b798a2@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Clinical Center Grand Rounds
 DESCRIPTION:Clinical Center: Adventure At C: Ascorbic Acid (Vitamin C) In 
@@ -857,7 +816,7 @@ BEGIN:VEVENT
 SUMMARY:70th Office of AIDS Research Advisory Council Meeting
 DTSTART;TZID=America/New_York:20260129T123000
 DTEND;TZID=America/New_York:20260129T133000
-DTSTAMP:20260204T061812Z
+DTSTAMP:20260205T062142Z
 UID:5bd2c3f625331cf9@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Advisory Boards and Councils
 DESCRIPTION:70th Office of AIDS Research Advisory Council Meeting Presente
@@ -877,7 +836,7 @@ BEGIN:VEVENT
 SUMMARY:Sugar Smarts
 DTSTART;TZID=America/Los_Angeles:20260129T200000
 DTEND;TZID=America/Los_Angeles:20260129T210000
-DTSTAMP:20260204T061812Z
+DTSTAMP:20260205T062142Z
 UID:858f72c3ba791045@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Class/Seminar
 DESCRIPTION:Excess sugar intake is linked to numerous health problems\, in
@@ -917,7 +876,7 @@ SUMMARY:Trust in Science and Research – Community Perceptions of HIV Vac
  cine Trial Participation
 DTSTART;TZID=America/New_York:20260130T141500
 DTEND;TZID=America/New_York:20260130T151500
-DTSTAMP:20260204T061812Z
+DTSTAMP:20260205T062142Z
 UID:403e5ee0e73e4f45@gid-seminars.wnprc.wisc.edu
 CATEGORIES:CFAR Events
 DESCRIPTION:Ronald P. Strauss\, DMD PhD is the Adams Distinguished Profess
@@ -946,7 +905,7 @@ BEGIN:VEVENT
 SUMMARY:SDRC NORC Seminar 01.30.26 -Zhao Zhang\, PhD
 DTSTART;TZID=America/Los_Angeles:20260130T200000
 DTEND;TZID=America/Los_Angeles:20260130T210000
-DTSTAMP:20260204T061812Z
+DTSTAMP:20260205T062142Z
 UID:18036b6f337a0150@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Class/Seminar
 DESCRIPTION:Zhao Zhang\, PhD\nAssistant Professor\, Center for the Genetic
@@ -965,7 +924,7 @@ BEGIN:VEVENT
 SUMMARY:TWiV 1292: Clinical update with Dr. Daniel Griffin
 DTSTART:20260131T050000Z
 DTEND:20260131T060000Z
-DTSTAMP:20260204T061812Z
+DTSTAMP:20260205T062142Z
 UID:07d877341b8103bf@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Podcast - TWiV
 DESCRIPTION:[Podcast: This Week in Virology]\n\nIn his weekly clinical upd
@@ -1003,7 +962,7 @@ BEGIN:VEVENT
 SUMMARY:TWiV 1293: The enemy of your parasite is your friend
 DTSTART:20260201T114049Z
 DTEND:20260201T124049Z
-DTSTAMP:20260204T061812Z
+DTSTAMP:20260205T062142Z
 UID:9e17a347367cd8fe@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Podcast - TWiV
 DESCRIPTION:[Podcast: This Week in Virology]\n\nTWiV reviews the finding i
@@ -1038,100 +997,10 @@ TRIGGER:-PT1H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Antimicrobial Chemotherapy Conference (ACC2026)
-DTSTART;TZID=America/New_York:20260204T000000
-DTEND;TZID=America/New_York:20260205T000000
-DTSTAMP:20260204T061812Z
-UID:4f5d4cbbe54685db@gid-seminars.wnprc.wisc.edu
-CATEGORIES:ASTMH
-DESCRIPTION:\nEvent URL: https://www.astmh.org/news-events/events-calendar
- /antimicrobial-chemotherapy-conference-(acc2026)\n\nSource: astmh_events
-LOCATION:Virtual
-URL:https://www.astmh.org/news-events/events-calendar/antimicrobial-chemot
- herapy-conference-(acc2026)
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Antimicrobial Chemotherapy Conference (ACC2026)
-TRIGGER:-PT1H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:WHO EPI-WIN webinar: Seasonal influenza: update on the current sit
- uation in the northern hemisphere
-DTSTART:20260204T120000Z
-DTEND:20260204T131500Z
-DTSTAMP:20260204T061812Z
-UID:41774aff0e63400c@gid-seminars.wnprc.wisc.edu
-CATEGORIES:WHO
-DESCRIPTION:Seasonal influenza is an acute respiratory infection caused by
-  influenza viruses that circulate globally and year-round. It can cause il
- lness ranging from mild to severe\, sometimes resulting in hospitalization
-  or death. The webinar aims to provide a global update on influenza situat
- ion\, with a focus on the northern hemisphere winter season and the evolut
- ion of seasonal viruses.\n\nEvent URL: https://www.who.int/news-room/event
- s/detail/seasonal-influenza-update-on-the-current-situation-in-the-norther
- n-hemisphere\n\nSource: who_events
-LOCATION:Online/Geneva
-URL:https://www.who.int/news-room/events/detail/seasonal-influenza-update-
- on-the-current-situation-in-the-northern-hemisphere
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: WHO EPI-WIN webinar: Seasonal influenza: update on t
- he current situation in the northern hemisphere
-TRIGGER:-PT1H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Webinar – Launch: Essential care package on mental health and st
- igma for NTDs
-DTSTART:20260204T130000Z
-DTEND:20260204T140000Z
-DTSTAMP:20260204T061812Z
-UID:2062b74630420585@gid-seminars.wnprc.wisc.edu
-CATEGORIES:WHO
-DESCRIPTION:In conjunction with World Neglected Tropical Diseases Day 2026
- \, we are pleased to announce that registration is now open for a webinar 
- dedicated to the launch of the “Essential care package to address mental
-  health and stigma for persons with neglected tropical diseases”.\n\nEve
- nt URL: https://www.who.int/news-room/events/detail/webinar---launch--esse
- ntial-care-package-on-mental-health-and-stigma-for-ntds\n\nSource: who_eve
- nts
-LOCATION:Online/Geneva
-URL:https://www.who.int/news-room/events/detail/webinar---launch--essentia
- l-care-package-on-mental-health-and-stigma-for-ntds
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Webinar – Launch: Essential care package on mental
-  health and stigma for NTDs
-TRIGGER:-PT1H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NIH-FDA Immunology Interest Group (IIG) seminar series
-DTSTART;TZID=America/New_York:20260204T160000
-DTEND;TZID=America/New_York:20260204T170000
-DTSTAMP:20260204T061812Z
-UID:b9233a470bc7c320@gid-seminars.wnprc.wisc.edu
-CATEGORIES:Health
-DESCRIPTION:IIG weekly seminar series features the world-renown experts in
-  the field of immunology. The speakers are nominated by the members of imm
- unology community from the NIH and FDA. Air date: 2/4/2026 4:00:00 PM East
- ern Time\n\nEvent URL: https://videocast.nih.gov/watch=57213\n\nSource: ni
- h_videocast_upcoming
-LOCATION:Online
-URL:https://videocast.nih.gov/watch=57213
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: NIH-FDA Immunology Interest Group (IIG) seminar seri
- es
-TRIGGER:-PT1H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CFAR Seminar with Dr. Achilles Katamba - February 5\, 2026
 DTSTART;TZID=America/Los_Angeles:20260205T170000
 DTEND;TZID=America/Los_Angeles:20260205T183000
-DTSTAMP:20260204T061812Z
+DTSTAMP:20260205T062142Z
 UID:61bb95a7d71a547e@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Fred Hutch Center for AIDS Research (CFAR)
 DESCRIPTION:Event interval: Single day event\nOnline Meeting Link: https:/
@@ -1177,7 +1046,7 @@ BEGIN:VEVENT
 SUMMARY:Siddhartha Thakur\, PhD
 DTSTART;TZID=America/New_York:20260206T141500
 DTEND;TZID=America/New_York:20260206T151500
-DTSTAMP:20260204T061812Z
+DTSTAMP:20260205T062142Z
 UID:39b8efb762823ace@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Friday Morning Conference Series
 DESCRIPTION:Dr. Siddhartha “Sid” Thakur is the Executive Director of G
@@ -1201,7 +1070,7 @@ BEGIN:VEVENT
 SUMMARY:The Educational Impacts of School Phone Bans
 DTSTART;TZID=America/Los_Angeles:20260210T200000
 DTEND;TZID=America/Los_Angeles:20260210T210000
-DTSTAMP:20260204T061812Z
+DTSTAMP:20260205T062142Z
 UID:4c486e829d3d7506@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Lecture/Presentation/Talk
 DESCRIPTION:Join the Tech Impact and Policy Center on February 10th from 1
@@ -1249,7 +1118,7 @@ SUMMARY:Fighting Servants: Why Democratic Leaders Politicize Foreign Polic
  y Bureaucracies
 DTSTART;TZID=America/Los_Angeles:20260210T200000
 DTEND;TZID=America/Los_Angeles:20260210T211500
-DTSTAMP:20260204T061812Z
+DTSTAMP:20260205T062142Z
 UID:f39dcce95c42c363@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Lecture/Presentation/Talk
 DESCRIPTION:About the event: Why do democratic leaders politicize foreign 
@@ -1291,7 +1160,7 @@ SUMMARY:Clinical Center Grand Rounds Great Teachers: Viral Hepatitis and L
  iver Transplantation
 DTSTART;TZID=America/New_York:20260211T120000
 DTEND;TZID=America/New_York:20260211T130000
-DTSTAMP:20260204T061812Z
+DTSTAMP:20260205T062142Z
 UID:9a1c1b93c6fd413b@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Health
 DESCRIPTION:Norah Terrault\, MD Professor of Medicine Chief\, Division of 
@@ -1309,31 +1178,10 @@ TRIGGER:-PT1H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:NIH-FDA Immunology Interest Group (IIG) seminar series
-DTSTART;TZID=America/New_York:20260211T160000
-DTEND;TZID=America/New_York:20260211T170000
-DTSTAMP:20260204T061812Z
-UID:106de8fe9c1b673a@gid-seminars.wnprc.wisc.edu
-CATEGORIES:Health
-DESCRIPTION:IIG weekly seminar series features the world-renown experts in
-  the field of immunology. The speakers are nominated by the members of imm
- unology community from the NIH and FDA. Air date: 2/11/2026 4:00:00 PM Eas
- tern Time\n\nEvent URL: https://videocast.nih.gov/watch=57230\n\nSource: n
- ih_videocast_upcoming
-LOCATION:Online
-URL:https://videocast.nih.gov/watch=57230
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: NIH-FDA Immunology Interest Group (IIG) seminar seri
- es
-TRIGGER:-PT1H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Fourth Annual Global Health Scholars Symposium
 DTSTART;TZID=America/New_York:20260213T141500
 DTEND;TZID=America/New_York:20260213T170000
-DTSTAMP:20260204T061812Z
+DTSTAMP:20260205T062142Z
 UID:93e24673c561393f@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Friday Morning Conference Series
 DESCRIPTION:Save the Date! Presented by the UNC Institute for Global Healt
@@ -1363,7 +1211,7 @@ SUMMARY:Webinar – Impact of the Sudan conflict on vector-borne and negle
  cted tropical diseases and pathways forward
 DTSTART:20260216T060000Z
 DTEND:20260216T083000Z
-DTSTAMP:20260204T061812Z
+DTSTAMP:20260205T062142Z
 UID:8a7eeed41a781e98@gid-seminars.wnprc.wisc.edu
 CATEGORIES:WHO
 DESCRIPTION:In conjunction with World Neglected Tropical Diseases Day 2026
@@ -1389,7 +1237,7 @@ BEGIN:VEVENT
 SUMMARY:Managing ART Options in the Setting of HIV Drug Resistance
 DTSTART;TZID=America/Los_Angeles:20260217T110000
 DTEND;TZID=America/Los_Angeles:20260217T120000
-DTSTAMP:20260204T061812Z
+DTSTAMP:20260205T062142Z
 UID:12fcd4c0656f38f8@gid-seminars.wnprc.wisc.edu
 CATEGORIES:IAS-USA
 DESCRIPTION:\nEvent URL: https://www.iasusa.org/events/webinar-2026-sax/\n
@@ -1407,7 +1255,7 @@ BEGIN:VEVENT
 SUMMARY:February GPP Screeners Meeting
 DTSTART;TZID=America/New_York:20260218T143000
 DTEND;TZID=America/New_York:20260218T153000
-DTSTAMP:20260204T061812Z
+DTSTAMP:20260205T062142Z
 UID:65d6d38f7f47784f@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Talks
 DESCRIPTION:We hope you'll join us online or in person for our upcoming GP
@@ -1428,7 +1276,7 @@ BEGIN:VEVENT
 SUMMARY:NIH-FDA Immunology Interest Group (IIG) seminar series
 DTSTART;TZID=America/New_York:20260218T160000
 DTEND;TZID=America/New_York:20260218T170000
-DTSTAMP:20260204T061812Z
+DTSTAMP:20260205T062142Z
 UID:98603e497280b9ff@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Health
 DESCRIPTION:IIG weekly seminar series features the world-renown experts in
@@ -1449,7 +1297,7 @@ BEGIN:VEVENT
 SUMMARY:Melissa Conrad\, PhD\, MS
 DTSTART;TZID=America/New_York:20260220T141500
 DTEND;TZID=America/New_York:20260220T151500
-DTSTAMP:20260204T061812Z
+DTSTAMP:20260205T062142Z
 UID:144fdfaa56e0a860@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Friday Morning Conference Series
 DESCRIPTION:Dr. Melissa Conrad is an Associate Professor of Medicine at th
@@ -1479,7 +1327,7 @@ SUMMARY:Conference on Retroviruses and Opportunistic Infections (CROI 2026
  )
 DTSTART;TZID=America/New_York:20260222T000000
 DTEND;TZID=America/New_York:20260222T010000
-DTSTAMP:20260204T061812Z
+DTSTAMP:20260205T062142Z
 UID:431958d07a1ef7d7@gid-seminars.wnprc.wisc.edu
 CATEGORIES:AVAC
 DESCRIPTION:\nEvent URL: https://avac.org/event/croi-2026/\n\nSource: avac
@@ -1497,7 +1345,7 @@ SUMMARY:WHO consultation on the composition of influenza virus vaccines fo
  r use in the 2026-2027 northern hemisphere influenza season
 DTSTART:20260223T000000Z
 DTEND:20260227T000000Z
-DTSTAMP:20260204T061812Z
+DTSTAMP:20260205T062142Z
 UID:84807377fbbda4bb@gid-seminars.wnprc.wisc.edu
 CATEGORIES:WHO
 DESCRIPTION:The periodic replacement of viruses contained in influenza vac
@@ -1529,7 +1377,7 @@ SUMMARY:Immunization and vaccines related implementation research advisory
   committee (IVIR-AC) - February 2026
 DTSTART:20260223T100000Z
 DTEND:20260227T170000Z
-DTSTAMP:20260204T061812Z
+DTSTAMP:20260205T062142Z
 UID:555627a1f67b03fc@gid-seminars.wnprc.wisc.edu
 CATEGORIES:WHO
 DESCRIPTION:\nEvent URL: https://www.who.int/news-room/events/detail/immun
@@ -1550,7 +1398,7 @@ BEGIN:VEVENT
 SUMMARY:Insights into Eye Care
 DTSTART;TZID=America/Los_Angeles:20260223T200000
 DTEND;TZID=America/Los_Angeles:20260223T210000
-DTSTAMP:20260204T061812Z
+DTSTAMP:20260205T062142Z
 UID:c0117910bf4debc7@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Class/Seminar
 DESCRIPTION:Your eyes are an integral part of your health. While most peop
@@ -1589,7 +1437,7 @@ SUMMARY:2026 Demystifying Medicine Series: Hot Zones: How Climate Change F
  uels Infectious Disease
 DTSTART;TZID=America/New_York:20260224T150000
 DTEND;TZID=America/New_York:20260224T160000
-DTSTAMP:20260204T061812Z
+DTSTAMP:20260205T062142Z
 UID:9cb8943e30767e36@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Health
 DESCRIPTION:2026 Demystifying Medicine Series– The Demystifying Medicine
@@ -1619,7 +1467,7 @@ BEGIN:VEVENT
 SUMMARY:NIH-FDA Immunology Interest Group (IIG) seminar series
 DTSTART;TZID=America/New_York:20260225T160000
 DTEND;TZID=America/New_York:20260225T170000
-DTSTAMP:20260204T061812Z
+DTSTAMP:20260205T062142Z
 UID:72d91ea21cde9433@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Health
 DESCRIPTION:IIG weekly seminar series features the world-renown experts in
@@ -1640,7 +1488,7 @@ BEGIN:VEVENT
 SUMMARY:ISTM Travel Medicine Review and Update Course
 DTSTART;TZID=America/New_York:20260227T000000
 DTEND;TZID=America/New_York:20260228T000000
-DTSTAMP:20260204T061812Z
+DTSTAMP:20260205T062142Z
 UID:028ddf4c9da7e484@gid-seminars.wnprc.wisc.edu
 CATEGORIES:ASTMH
 DESCRIPTION:\nEvent URL: https://www.astmh.org/news-events/events-calendar
@@ -1659,7 +1507,7 @@ SUMMARY:WHO Information Meeting on the composition of influenza virus vacc
  ines for use in the 2026–2027 northern hemisphere influenza season
 DTSTART:20260227T060000Z
 DTEND:20260227T090000Z
-DTSTAMP:20260204T061812Z
+DTSTAMP:20260205T062142Z
 UID:f94d74af6e68794f@gid-seminars.wnprc.wisc.edu
 CATEGORIES:WHO
 DESCRIPTION:Provisional agenda\n\nOpening and welcome\nSelection of chair\
@@ -1688,7 +1536,7 @@ SUMMARY:Simplifying Hepatitis B Care in Pregnancy by Combining Birth-dose
  Vaccine and Tenofovir: The COMBAT HBV Feasibility Trial
 DTSTART;TZID=America/New_York:20260227T141500
 DTEND;TZID=America/New_York:20260227T151500
-DTSTAMP:20260204T061812Z
+DTSTAMP:20260205T062142Z
 UID:a9682bfab4914e88@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Friday Morning Conference Series
 DESCRIPTION:Peyton Thompson\, MD\, MSCR\, is an Assistant Professor and Fe
@@ -1724,7 +1572,7 @@ BEGIN:VEVENT
 SUMMARY:NIH-FDA Immunology Interest Group (IIG) seminar series
 DTSTART;TZID=America/New_York:20260304T160000
 DTEND;TZID=America/New_York:20260304T170000
-DTSTAMP:20260204T061812Z
+DTSTAMP:20260205T062142Z
 UID:f7417693a17bcfa7@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Health
 DESCRIPTION:IIG weekly seminar series features the world-renown experts in
@@ -1745,7 +1593,7 @@ BEGIN:VEVENT
 SUMMARY:Diagnosing Asthma in Children Under Age 5
 DTSTART;TZID=America/Los_Angeles:20260304T200000
 DTEND;TZID=America/Los_Angeles:20260304T210000
-DTSTAMP:20260204T061812Z
+DTSTAMP:20260205T062142Z
 UID:b7ed467640d07286@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Class/Seminar
 DESCRIPTION:OverviewPediatricians play an important role in diagnosing you
@@ -1788,56 +1636,10 @@ TRIGGER:-PT1H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SciFinder Lunch and Learn
-DTSTART;TZID=America/New_York:20260305T170000
-DTEND;TZID=America/New_York:20260305T183000
-DTSTAMP:20260204T061812Z
-UID:189827ba7a24ac10@gid-seminars.wnprc.wisc.edu
-CATEGORIES:Info Sessions
-DESCRIPTION:Leveraging Science-Smart AI to Enhance Data‑Search Efficienc
- y\n\nEducational Lunch Seminar\nPresenter: Gary Gustafson\, PhD\nMarch 5 
- • 12:00–1:30 PM\n\nSession I: CAS SciFinder Discovery Platform™\n\n 
- \n\n Reference and Literature Search:\nPurpose: Access scientific publi
- cations and patents.\no Keyword\, topic\, title\, or phrase search\no Prio
- r art discovery search\no Journal and patent (and others) source filtering
- \no AI Summarization of literature\no Author and affiliation search\no Cit
- ation analysis\no Full text link (via publisher or institution)\no Refine 
- by formulations\, analytical methods\n\n \n\n Reaction Search and Plann
- ing:\nPurpose: Discover and analyze chemical reactions.\no Reaction search
-  by structure\, keywords or phrase\no Reaction conditions and yields\no Re
- action reagents\, catalysts\, solvents\, notes\no Suppliers/commercial ava
- ilabilities of reagents CHEMCATS\no Retrosynthetic analysis\n\no Synthetic
-  pathway exploration\n\n \n\n Substance and Structure Search:\nPurpose:
-  Identify chemical substances and explore their properties.\no Chemical St
- ructure Search (exact\, substructure\, similarity)\no Bioactivity and phar
- macological data\no Property data retrieval (e.g.: solubility\, melting an
- d boiling point)\no Markush search\no CHEMCATS\n\n \n\nSession II: CAS Bio
- Finder Discovery Platform™\n\n Biological Entity Search:\nPurpose: Di
- scover and analyze biological molecules and targets.\no Search for protein
- s\, genes and antibodies\no Target identification\no Disease association m
- apping\no Biological pathway exploration\no Sequence search\no Search liga
- nds of targets and their bioactivities\no Commercial availability\no Antib
- odies/ADC\n\n \n\n Bioactivity and Mechanism of Action:\nPurpose: Explo
- re biological effects and relevance.\no Bioactivity data\no Assay informat
- ion\no Mechanism of action classification\no Phenotypic screening results\
- no Protein-ligand interaction\n\n \n\n Drug Discovery & Development:\nP
- urpose: Drive therapeutic innovation/pipeline development.\no Lead compoun
- d identification\no Grouping ligands into scaffol\n\nEvent URL: https://ev
- ents.broadinstitute.org/event/scifinder-lunch-and-learn\n\nSource: broad_i
- nstitute
-LOCATION:Monadnock\, Monadnock
-URL:https://events.broadinstitute.org/event/scifinder-lunch-and-learn
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: SciFinder Lunch and Learn
-TRIGGER:-PT1H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Managing Unexpected Expenses and Navigating Market Volatility
 DTSTART;TZID=America/Los_Angeles:20260305T200000
 DTEND;TZID=America/Los_Angeles:20260305T210000
-DTSTAMP:20260204T061812Z
+DTSTAMP:20260205T062142Z
 UID:6a5b8916ecb121f0@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Class/Seminar
 DESCRIPTION:They say the only constant in life is change\, and the last fe
@@ -1884,18 +1686,34 @@ BEGIN:VEVENT
 SUMMARY:CFAR Seminar with Dr. Florence Momplaisir - March 5\, 2026
 DTSTART;TZID=America/Los_Angeles:20260305T233000
 DTEND;TZID=America/Los_Angeles:20260306T010000
-DTSTAMP:20260204T061812Z
+DTSTAMP:20260205T062142Z
 UID:22ec74f40fc98535@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Fred Hutch Center for AIDS Research (CFAR)
 DESCRIPTION:Event interval: Single day event\nOnline Meeting Link: https:/
  /washington.zoom.us/meeting/register/tn2DJDYRRRGfMqmpnHfNKQ\nAccessibility
   Contact: cfar@uw.edu\nEvent Types: Lectures/Seminars\n\nREGISTER NOW!\nRe
- gister via this link for virtual attendance\nzoom registration\n----------
- ----------------------------------------------------------------------\n3:
- 30pm - 4:00pm\nVIRTUAL\nNew Faces Speaker: Matt Durstenfeld\n\n4:00pm - 5:
- 00pm\nVIRTUAL\nCFAR Seminar Speaker: Florence Momplaisir\n\nEvent URL: htt
- ps://washington.zoom.us/meeting/register/tn2DJDYRRRGfMqmpnHfNKQ\n\nSource:
-  uw_cfar
+ gister via this link for virtual attendance\nzoom registration: \nhttps://
+ washington.zoom.us/meeting/register/tn2DJDYRRRGfMqmpnHfNKQ\n--------------
+ ------------------------------------------------------------------\n4:00pm
+  - 5:00pm\nVIRTUAL\nCFAR Seminar Speaker: Florence Momplaisir\nTalk Title:
+  Women Involved in Supporting Health (WISH): A Peer-led Behavioral Interve
+ ntion to Improve Postpartum Retention in HIV Care\n\nDr. Florence Momplais
+ ir is an Associate Professor in the Division of Infectious Diseases and Se
+ nior Fellow of the Penn Leonard Davis Institute of Health Economics. Her c
+ linical research focuses on improving postpartum retention and viral suppr
+ ession of women with HIV and on decreasing racial disparities in HIV preva
+ lence among U.S. populations. She serves as an expert panel member of the 
+ HHS Perinatal HIV treatment guidelines committee. She directs the Penn Cen
+ ter For AIDS Research Implementation Science Core and in this capacity\, s
+ he oversees consultative services\, connects collaborators\, and pursues s
+ hared initiatives with multiple other research centers and institutes at P
+ enn. She has mentored trainees across the academic spectrum. She co-leads 
+ the Penn CFAR Scholars’ Program and Summer for Infection Disease Researc
+ h program which aims to increase the pool of interested and academically p
+ repared students for careers in biomedical research or academic medicine.\
+ n\n3:30pm - 4:00pm\nVIRTUAL\nNew Faces Speaker: Matt Durstenfeld\nTalk Tit
+ le: TBD \nBio: TBD\n\nEvent URL: https://washington.zoom.us/meeting/regist
+ er/tn2DJDYRRRGfMqmpnHfNKQ\n\nSource: uw_cfar
 LOCATION:Zoom
 URL:https://washington.zoom.us/meeting/register/tn2DJDYRRRGfMqmpnHfNKQ
 BEGIN:VALARM
@@ -1909,7 +1727,7 @@ BEGIN:VEVENT
 SUMMARY:The Longevity Advantage: How Strength Determines Healthspan
 DTSTART;TZID=America/Los_Angeles:20260306T030000
 DTEND;TZID=America/Los_Angeles:20260306T040000
-DTSTAMP:20260204T061812Z
+DTSTAMP:20260205T062142Z
 UID:b1d1f545ca6d6652@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Lecture/Presentation/Talk
 DESCRIPTION:The latest science is transforming how we think about aging. R
@@ -1935,6 +1753,54 @@ BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: The Longevity Advantage: How Strength Determines Hea
  lthspan
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jose M. Munita\, MD
+DTSTART;TZID=America/New_York:20260306T141500
+DTEND;TZID=America/New_York:20260306T151500
+DTSTAMP:20260205T062142Z
+UID:ce85db6f28ca748b@gid-seminars.wnprc.wisc.edu
+CATEGORIES:Friday Morning Conference Series
+DESCRIPTION:Jose Munita is an Adjunct Assistant Professor and Director of 
+ International Research\, Center for Antimicrobial Resistance and Microbial
+  Genomics (CARMiG)\, UTHealth\, Houston\, TX. His ESI grant supports VENOU
+ S\, which is a prospective\, multi-site observational cohort study to eval
+ uate the outcomes of patients with bloodstream infections due to vancomyci
+ n-resistant enterococci (VRE). In addition\, parallel collection of clinic
+ al isolates is underway with the idea of identifying genomic microbial det
+ erminants of outcomes in this population of patients. The primary goal of 
+ VENOUS is to address critical knowledge gaps regarding the clinical and mi
+ crobial factors that determine the outcomes of VRE bacteremia and the most
+  effective therapeutic approaches for managing these multidrug-resistant o
+ rganisms.\n\nEvent URL: https://globalhealth.unc.edu/event/jose-m-munita-m
+ d/\n\nSource: unc_global_health
+LOCATION:Online
+URL:https://globalhealth.unc.edu/event/jose-m-munita-md/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Jose M. Munita\, MD
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SDRC Friday Seminar- Peter Jackson\, PhD
+DTSTART;TZID=America/Los_Angeles:20260306T200000
+DTEND;TZID=America/Los_Angeles:20260306T210000
+DTSTAMP:20260205T062142Z
+UID:19d6b1b99924cea6@gid-seminars.wnprc.wisc.edu
+CATEGORIES:Class/Seminar
+DESCRIPTION:Peter Jackson\, PhD\nProfessor\, Departments of Microbiology a
+ nd Immunology\, and Pathology\, Stanford University\n\n"Talk Title TBA"\n\
+ nEvent URL: https://events.stanford.edu/event/sdrc-friday-seminar-peter-ja
+ ckson-phd\n\nSource: stanford_virtual
+LOCATION:Beckman Center\, B302
+URL:https://events.stanford.edu/event/sdrc-friday-seminar-peter-jackson-ph
+ d
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: SDRC Friday Seminar- Peter Jackson\, PhD
 TRIGGER:-PT1H
 END:VALARM
 END:VEVENT
