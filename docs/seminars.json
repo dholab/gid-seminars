@@ -2,12 +2,12 @@
   "metadata": {
     "title": "GID Seminars Feed",
     "description": "Aggregated seminars and webinars for Global Infectious Disease research",
-    "generated_at": "2026-02-10T06:26:43.816300Z",
+    "generated_at": "2026-02-11T06:26:08.015197Z",
     "time_window": {
       "days_behind": 30,
       "days_ahead": 30
     },
-    "total_events": 65,
+    "total_events": 64,
     "sources": [
       "astmh_events",
       "avac_events",
@@ -71,23 +71,6 @@
     ]
   },
   "events": [
-    {
-      "id": "7d1a39ff53bc17bb",
-      "title": "Upcoming seminar by Ivaylo Ivanov, Ph.D.: Immunology Dpt. Seminar , Prof. Ivaylo Ivanov, from Columbia University Irving Medical Center, NY, USA. ...",
-      "description": "Upcoming seminar by Ivaylo Ivanov, Ph.D.: Immunology Dpt. Seminar , Prof. Ivaylo Ivanov, from Columbia University Irving Medical Center, NY, USA.   Microbiota Control of Host Immunity   at Institut Pasteur, Friday 16 January 2026 at 12:00. More info",
-      "url": "http://bioconf.fr/t.php?s=Ivaylo%20Ivanov,%20Ph.D.",
-      "start_datetime": "2026-01-12T00:26:08",
-      "end_datetime": null,
-      "timezone": "America/New_York",
-      "location": "Online",
-      "organizer": "Bioconf",
-      "source": "bluesky_id",
-      "category": "Bluesky - ID",
-      "tags": [],
-      "access_restriction": "Public",
-      "registration_url": null,
-      "recording_url": null
-    },
     {
       "id": "64c8e6e55c1a6b11",
       "title": "Clinical Center Grand Rounds: Unraveling the Mysteries of Heart Disease",
@@ -321,23 +304,6 @@
       "organizer": "ISRV",
       "source": "isrv_events",
       "category": "ISRV",
-      "tags": [],
-      "access_restriction": "Public",
-      "registration_url": null,
-      "recording_url": null
-    },
-    {
-      "id": "05ae81f60ff7a932",
-      "title": "TEPHI Grand Rounds Seminar | Re-Emergence of Pertussis in the US: Risks and Prevention",
-      "description": null,
-      "url": "https://tephi.texas.gov/events/event?id=2c2fb300-50a3-4f6f-9e0a-470560b402cf",
-      "start_datetime": "2026-01-27T15:00:00",
-      "end_datetime": null,
-      "timezone": "America/Chicago",
-      "location": "Virtual",
-      "organizer": "Texas EPHI",
-      "source": "tephi_events",
-      "category": "TEPHI",
       "tags": [],
       "access_restriction": "Public",
       "registration_url": null,
@@ -865,6 +831,23 @@
       "organizer": "ASTMH",
       "source": "astmh_events",
       "category": "ASTMH",
+      "tags": [],
+      "access_restriction": "Public",
+      "registration_url": null,
+      "recording_url": null
+    },
+    {
+      "id": "717746ab30235ff8",
+      "title": "CFAS Seminar February 2026: The rectal Chlamydia NHP study with Lucia Vojtech, PhD, & Yvonne Cosgrove Sweeney",
+      "description": "Event interval: Single day event\nAccessibility Contact: cfas@uw.edu\nEvent Types: Lectures/Seminars\nEvent sponsors: We welcome your attendance at the February 2026&nbsp;<a href=\"http://depts.washington.edu/cfas/\" target=\"_blank\">UW Center for AIDS &amp; STD (CFAS)</a> Research Seminar.&nbsp;\n&nbsp;\nPlease join us on Thursday, February 26, 2026 at 4 PM&nbsp;PST on Zoom.&nbsp;\nFor Zoom info: Please email <a href=\"mailto:CFAS@uw.edu?subject=CFAS%20Seminar%20Zoom%20link\" target=\"_blank\">CFAS@uw.edu</a> or <a href=\"http://docs.google.com/forms/d/e/1FAIpQLSeBLOZoWLDhU5wTra_LeNAbN5iAfoW1ARO4E9Z2pFKtHRpXLA/viewform\" target=\"_blank\">click here to be added to the mailing list</a>.&nbsp;\n\n&quot;The Rectal Chlamydia NHP Study&quot;&nbsp;\n\nLucia Vojtech, PhD\nAssistant Professor, Obstetrics and Gynecology\nUniversity of Washington\n\nYvonne Cosgrove Sweeney\nResearch Scientist, Vojtech Lab,&nbsp;Obstetrics and Gynecology\nUniversity of Washington",
+      "url": "http://depts.washington.edu/cfas/",
+      "start_datetime": "2026-02-27T00:00:00",
+      "end_datetime": "2026-02-27T01:00:00",
+      "timezone": "America/Los_Angeles",
+      "location": "Zoom",
+      "organizer": null,
+      "source": "uw_cfar",
+      "category": "Fred Hutch Center for AIDS Research (CFAR)",
       "tags": [],
       "access_restriction": "Public",
       "registration_url": null,
