@@ -2,12 +2,12 @@
   "metadata": {
     "title": "GID Seminars Feed",
     "description": "Aggregated seminars and webinars for Global Infectious Disease research",
-    "generated_at": "2026-02-12T06:25:14.547104Z",
+    "generated_at": "2026-02-13T06:22:51.953290Z",
     "time_window": {
       "days_behind": 30,
       "days_ahead": 30
     },
-    "total_events": 64,
+    "total_events": 66,
     "sources": [
       "astmh_events",
       "avac_events",
@@ -498,7 +498,7 @@
     {
       "id": "55cf0c491a8182bc",
       "title": "TWiV 1294: Clinical update with Dr. Daniel Griffin",
-      "description": "[Podcast: This Week in Virology]\n\nIn his weekly clinical update during Ground hog week, Dr. Griffin and Vincent Racaniello are back to discuss the measles outbreak in South Carolina, American Academy of Pediatrics vaccine recommendations and shingles vaccine and the reduction of dementia, then deep dives into recent statistics RSV, influenza and SARS-CoV-2 infections, the Wastewater Scan dashboard, Johns Hopkins measles tracker, where to find PEMGARDA, how to access and pay for Paxlovid, estimated effectiveness of this year\u2019s COVID-19 vaccine, long COVID treatment center, where to go for answers to your long COVID questions, long COVID in children, the potential benefits of metformin to reduce disease severity following SARS-CoV-2 infection in obese and overweight patients and contacting your federal government representative to stop the assault on science and biomedical research. Click arrow to play Download TWiV 1294 (34 MB .mp3, 57 min) Subscribe (free): Apple Podcasts , RSS , email Become a&nbsp; patron &nbsp;of&nbsp;TWiV! Links for this episode Grading the groundhogs (National Oceanic and Atmospheric Administration) Sand Mountain Sam predicts an early spring (News19) All About the AAP Recommended Immunization Schedule (healthychildren.org) Recommended Childhood and Adolescent Immunization Schedule: United States, 2026: Policy Statement (American Academy of Pediatrics: Pediatrics) Herpes zoster vaccination and incident dementia in Canada: an analysis of natural experiments (LANCET: Neurology) Detection of",
+      "description": "[Podcast: This Week in Virology]\n\nIn his weekly clinical update during Ground hog week, Dr. Griffin and Vincent Racaniello are back to discuss the measles outbreak in South Carolina, American Academy of Pediatrics vaccine recommendations and shingles vaccine and the reduction of dementia, then deep dives into recent statistics RSV, influenza and SARS-CoV-2 infections, the Wastewater Scan dashboard, Johns Hopkins measles tracker, where to find PEMGARDA, how to access and pay for Paxlovid, estimated effectiveness of this year\u2019s COVID-19 vaccine, long COVID treatment center, where to go for answers to your long COVID questions, long COVID in children, the potential benefits of metformin to reduce disease severity following SARS-CoV-2 infection in obese and overweight patients and contacting your federal government representative to stop the assault on science and biomedical research. Click arrow to play Download&nbsp; TWiV 1294 (34 MB .mp3, 57 min) Subscribe (free):&nbsp; Apple Podcasts , RSS ,&nbsp; email Become a&nbsp; patron &nbsp;of&nbsp;TWiV! Links for this episode Grading the groundhogs (National Oceanic and Atmospheric Administration) Sand Mountain Sam predicts an early spring (News19) All About the AAP Recommended Immunization Schedule (healthychildren.org) Recommended Childhood and Adolescent Immunization Schedule: United States, 2026: Policy Statement (American Academy of Pediatrics: Pediatrics) Herpes zoster vaccination and incident dementia in Canada: an analysis of natural experiments (LANCET: Neuro",
       "url": "https://www.microbe.tv/twiv/twiv-1294/",
       "start_datetime": "2026-02-07T05:00:00",
       "end_datetime": null,
@@ -649,6 +649,23 @@
       "recording_url": null
     },
     {
+      "id": "c69c224356df2183",
+      "title": "WHO EPI-WIN webinar: Transforming IPC practice: new tools and implementation approaches for outbreak preparedness and response",
+      "description": "WHO has developed the The Framework and toolkit for infection prevention and control outbreak preparedness, readiness and response at the national level (IPC-OFT) and the corresponding Implementation Manual, that is an actionable tool specifically designed to practical implementation, aiming to support the countries to improve the capacity to respond to public health emergencies. This webinar will present and discuss the implementation approaches for IPC outbreak preparedness, readiness and response.",
+      "url": "https://www.who.int/news-room/events/detail/who-epi-win-webinar-transforming-ipc-practice-new-tools-and-implementation-approaches-for-outbreak-preparedness-and-response",
+      "start_datetime": "2026-02-19T13:00:00",
+      "end_datetime": "2026-02-19T14:15:00",
+      "timezone": "UTC",
+      "location": "Online/Geneva",
+      "organizer": "World Health Organization",
+      "source": "who_events",
+      "category": "WHO",
+      "tags": [],
+      "access_restriction": "Public",
+      "registration_url": null,
+      "recording_url": null
+    },
+    {
       "id": "144fdfaa56e0a860",
       "title": "Melissa Conrad, PhD, MS",
       "description": "Dr. Melissa Conrad is an Associate Professor of Medicine at the University of California, San Francisco. Her Research focuses on the evolution of antimalarial drug resistance in Uganda and the molecular epidemiology of malaria transmission. Working closely with a team of researchers in Uganda, their group evaluates antimalarial resistance in Plasmodium falciparum collected from sites across Uganda. Using molecular and ex vivo approaches, they surveil for emerging or spreading drug resistance, evaluate novel markers of resistance, and seek to better understand mechanisms of resistance. In addition, they perform membrane feeding assays in which mosquitoes are fed malaria-infected blood with the goal of better understanding the human infectious reservoir of malaria and which populations can be targeted to best reduce ongoing malaria transmission.",
@@ -694,6 +711,23 @@
       "organizer": "World Health Organization",
       "source": "who_events",
       "category": "WHO",
+      "tags": [],
+      "access_restriction": "Public",
+      "registration_url": null,
+      "recording_url": null
+    },
+    {
+      "id": "bdfb3dd46f22e19a",
+      "title": "CROI 2026 Community Breakfast Meetings",
+      "description": null,
+      "url": "https://avac.org/event/croi2026-community-breakfast-meetings/",
+      "start_datetime": "2026-02-23T00:00:00",
+      "end_datetime": null,
+      "timezone": "America/New_York",
+      "location": null,
+      "organizer": "AVAC",
+      "source": "avac_events",
+      "category": "AVAC",
       "tags": [],
       "access_restriction": "Public",
       "registration_url": null,
@@ -872,7 +906,7 @@
     {
       "id": "fe50dd8a6824edae",
       "title": "SU SWG Virtual Office Hours: Creating Biosketch/OS using SciENcv",
-      "description": "Event interval: Single day event\nOnline Meeting Link: https://washington.zoom.us/meeting/register/TjY5HZajR2WbxD-9JBC1XQ#/registration\nAccessibility Contact: cfar@uw.edu\nEvent Types: Lectures/Seminars\nEvent sponsors: <p>Substance Use Scientific Working Group</p>\n\nTBD,\nSpeakers: Michael Moore, Grants & Special Projects Librarian",
+      "description": "Event interval: Single day event\nOnline Meeting Link: https://washington.zoom.us/meeting/register/TjY5HZajR2WbxD-9JBC1XQ#/registration\nAccessibility Contact: cfar@uw.edu\nEvent Types: Lectures/Seminars\nEvent sponsors: <p>Substance Use Scientific Working Group</p>\n\nThis \u201chands-on\u201d workshop will feature Michael T. Moore, Grants Administration & Special Projects Librarian with the UW Health Sciences Library.\nThe first 30 minutes will be an introduction and walking through the process of using SciENcv, including how to delegate and potential \u201cpitfalls.\u201d The second 30 minutes will be \u201coffice hours\u201d to ask questions. We encourage participants to work on their biosketch/OS to bring questions in \u201creal-time.\u201d Early-stage investigators who plan to submit a grant in the next year are highly encouraged to attend!",
       "url": "https://washington.zoom.us/meeting/register/TjY5HZajR2WbxD-9JBC1XQ#/registration",
       "start_datetime": "2026-03-03T19:00:00",
       "end_datetime": "2026-03-03T20:00:00",
