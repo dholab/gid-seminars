@@ -2,12 +2,12 @@
   "metadata": {
     "title": "GID Seminars Feed",
     "description": "Aggregated seminars and webinars for Global Infectious Disease research",
-    "generated_at": "2026-02-14T06:15:08.050913Z",
+    "generated_at": "2026-02-15T06:19:03.328990Z",
     "time_window": {
       "days_behind": 30,
       "days_ahead": 30
     },
-    "total_events": 66,
+    "total_events": 67,
     "sources": [
       "astmh_events",
       "avac_events",
@@ -594,6 +594,23 @@
       "organizer": "Let's Talk ID",
       "source": "idsa_podcast",
       "category": "Podcast - IDSA",
+      "tags": [],
+      "access_restriction": "Public",
+      "registration_url": null,
+      "recording_url": null
+    },
+    {
+      "id": "02aea3015915498c",
+      "title": "TWiV 1296: Clinical update with Dr. Daniel Griffin",
+      "description": "[Podcast: This Week in Virology]\n\nIn his weekly clinical update, Dr. Griffin and Vincent Racaniello are shocked by recent events, including Dr. Oz\u2019s appeal for measles vaccination, Vinjay Prasad\u2019s unilateral rejection of Moderna\u2019s mRNA influenza vaccine application, and the increasing number of New World screw worm cases, then Dr. Griffin then deep dives into recent statistics on RSV, influenza and SARS-CoV-2 infections, the Wasterwater Scan dashboard, Johns Hopkins measles tracker, where to find PEMGARDA, how to access and pay for Paxlovid, the number of measles deaths in Mexico, long COVID treatment center, where to go for answers to your long COVID questions, choroid plexus alterations in long COVID association with neuropathologies and contacting your federal government representative to stop the assault on science and biomedical research. Click arrow to play Download TWiV 1296 (28 MB .mp3, 47 min) Subscribe (free): Apple Podcasts , RSS , email Become a&nbsp; patron &nbsp;of&nbsp;TWiV! Links for this episode How Dr. Oz&#8217;s appeal to get measles vaccine may differ from RFK Jr.&#8217;s messaging (ABC News) FDA reverses course, refuses to review Moderna\u2019s application for new mRNA flu vaccine (CIDRAP) Hepatitis B Vaccination at Birth: Safety, Effectiveness, and Public Health Benefit (American Academy of Pediatrics: Pediatrics) US Olympic Committee remains \u2018dialed in\u2019 to prevent spread of stomach illness at Winter Games (CNN) Oz promotes measles vaccination (NY Times; USA Today; Fortune) Screw worm in Mexi",
+      "url": "https://www.microbe.tv/twiv/twiv-1296/",
+      "start_datetime": "2026-02-14T12:06:57",
+      "end_datetime": null,
+      "timezone": "UTC",
+      "location": "Podcast",
+      "organizer": "This Week in Virology",
+      "source": "twiv_podcast",
+      "category": "Podcast - TWiV",
       "tags": [],
       "access_restriction": "Public",
       "registration_url": null,
