@@ -2,12 +2,12 @@
   "metadata": {
     "title": "GID Seminars Feed",
     "description": "Aggregated seminars and webinars for Global Infectious Disease research",
-    "generated_at": "2026-02-16T06:25:16.473318Z",
+    "generated_at": "2026-02-17T06:22:06.697524Z",
     "time_window": {
       "days_behind": 30,
       "days_ahead": 30
     },
-    "total_events": 68,
+    "total_events": 67,
     "sources": [
       "astmh_events",
       "avac_events",
@@ -38,7 +38,6 @@
     "categories": [
       "ASTMH",
       "AVAC",
-      "Advisory Boards and Councils",
       "Bluesky - ID",
       "CFAR Events",
       "Class/Seminar",
@@ -72,23 +71,6 @@
     ]
   },
   "events": [
-    {
-      "id": "dbb548434a9c2308",
-      "title": "TWiV 1289: Building a better hepatitis B trap",
-      "description": "[Podcast: This Week in Virology]\n\nTWiV explains how the dengue virus protein NS1 alters Aedes aegypti midgut permeability and favors virus dissemination, and achieving a complete hepatitis B virus cure in chronic hepatitis B virus-infected humanized mice by using a capsid assembly modulator. Hosts:&nbsp; Vincent Racaniello , Alan Dove , and Angela Mingarelli Click arrow to play Download TWiV 1289 (61 MB .mp3, 102 min) Subscribe (free):&nbsp; Apple Podcasts ,&nbsp; RSS ,&nbsp; email Become a&nbsp; patron &nbsp;of&nbsp;TWiV! Links for this episode Support science education at MicrobeTV 2:50 ASV 2026 5:04 Positions in Rosenfeld Lab (email) 4:05 Dengue virus NS1 alters mosquito midgut permeability (mBio) 6:11 HBV cure with a capsid assembly modulator (Cell Host Microbe) 28:15 Letters read on TWiV 1289 1:09:11 Timestamps by&nbsp; Jolene Ramsey. Thanks! Weekly Picks 1:20:19 Angela &#8211; How hibernating bears maintain muscle mass Alan &#8211; The flood of Chinese grad students in the 2000s was a boon to US students . Vincent &#8211; Feynman Lectures on Physics Listener Picks David &#8211; Stewart Cheifet, Host of TV\u2019s \u2018Computer Chronicles,\u2019 Dies at 87 Charles &#8211; Last Year, and the Year to Come Intro music is by&nbsp; Ronald Jenkees Send your virology questions and comments to twiv@microbe.tv Content in this podcast should not be construed as medical advice. The post TWiV 1289: Building a better hepatitis B trap first appeared on This Week in Virology .",
-      "url": "https://www.microbe.tv/twiv/twiv-1289/",
-      "start_datetime": "2026-01-18T05:00:00",
-      "end_datetime": null,
-      "timezone": "UTC",
-      "location": "Podcast",
-      "organizer": "This Week in Virology",
-      "source": "twiv_podcast",
-      "category": "Podcast - TWiV",
-      "tags": [],
-      "access_restriction": "Public",
-      "registration_url": null,
-      "recording_url": null
-    },
     {
       "id": "95da330f3fdccc39",
       "title": "Clinical Center Grand Rounds: Emerging Critical Roles of the Science of Aging and Resilience in Population Health",
@@ -271,23 +253,6 @@
       "organizer": null,
       "source": "nih_fogarty",
       "category": "Clinical Center Grand Rounds",
-      "tags": [],
-      "access_restriction": "Public",
-      "registration_url": null,
-      "recording_url": null
-    },
-    {
-      "id": "5bd2c3f625331cf9",
-      "title": "70th Office of AIDS Research Advisory Council Meeting",
-      "description": "70th Office of AIDS Research Advisory Council Meeting Presented by: Office of AIDS Research (OAR) Category: Advisory Boards and Councils Aired date: 01/29/2026",
-      "url": "http://videocast.nih.gov/Summary.asp?file=35900",
-      "start_datetime": "2026-01-29T12:30:00",
-      "end_datetime": null,
-      "timezone": "America/New_York",
-      "location": "Online",
-      "organizer": null,
-      "source": "nih_videocast_past",
-      "category": "Advisory Boards and Councils",
       "tags": [],
       "access_restriction": "Public",
       "registration_url": null,
@@ -617,23 +582,6 @@
       "recording_url": null
     },
     {
-      "id": "8a7eeed41a781e98",
-      "title": "Webinar \u2013 Impact of the Sudan conflict on vector-borne and neglected tropical diseases and pathways forward",
-      "description": "In conjunction with World Neglected Tropical Diseases Day 2026, we are pleased to announce that registration is now open for a webinar dedicated to the impact of the conflict in Sudan on vector-borne diseases and on neglected tropical diseases, and to ways forward to address the burden of these conditions amidst a complex emergency.",
-      "url": "https://www.who.int/news-room/events/detail/webinar---impact-of-the-sudan-conflict-on-vector-borne-and-neglected-tropical-diseases-and-pathways-forward",
-      "start_datetime": "2026-02-16T06:00:00",
-      "end_datetime": "2026-02-16T08:30:00",
-      "timezone": "UTC",
-      "location": "Online/Geneva",
-      "organizer": "World Health Organization",
-      "source": "who_events",
-      "category": "WHO",
-      "tags": [],
-      "access_restriction": "Public",
-      "registration_url": null,
-      "recording_url": null
-    },
-    {
       "id": "12fcd4c0656f38f8",
       "title": "Managing ART Options in the Setting of HIV Drug Resistance",
       "description": null,
@@ -940,6 +888,23 @@
       "recording_url": null
     },
     {
+      "id": "8a0d6066d5486fc9",
+      "title": "WHO & Global Fund GC8 Support Webinar: Building high-quality GC8 proposals for HIV, TB and RSSH",
+      "description": "Join our webinar jointly organized by WHO and the The Global Fund, on 4 and 5 March 2026, and learn how to develop high quality Grant Cycle 8 (GC8) funding proposals for HIV, tuberculosis (TB) and Resilient and Sustainable Systems for Health (RSSH). You will gain the knowledge and clarity needed to effectively support and guide national stakeholders in the development of strong, coherent, and high-impact GC8 funding requests.",
+      "url": "https://www.who.int/news-room/events/detail/webinar-who-guidance-for-high-quality-grant-cycle-8-proposals-for-hiv-tb-and-rssh",
+      "start_datetime": "2026-03-04T12:00:00",
+      "end_datetime": "2026-03-05T13:45:00",
+      "timezone": "UTC",
+      "location": "Online/Geneva",
+      "organizer": "World Health Organization",
+      "source": "who_events",
+      "category": "WHO",
+      "tags": [],
+      "access_restriction": "Public",
+      "registration_url": null,
+      "recording_url": null
+    },
+    {
       "id": "f7417693a17bcfa7",
       "title": "NIH-FDA Immunology Interest Group (IIG) seminar series",
       "description": "IIG weekly seminar series features the world-renown experts in the field of immunology. The speakers are nominated by the members of immunology community from the NIH and FDA. Air date: 3/4/2026 4:00:00 PM Eastern Time",
@@ -1223,6 +1188,23 @@
       "organizer": null,
       "source": "stanford_virtual",
       "category": "Class/Seminar",
+      "tags": [],
+      "access_restriction": "Public",
+      "registration_url": null,
+      "recording_url": null
+    },
+    {
+      "id": "d380c466d23bcbe8",
+      "title": "NIH-FDA Immunology Interest Group (IIG) seminar series",
+      "description": "IIG weekly seminar series features the world-renown experts in the field of immunology. The speakers are nominated by the members of immunology community from the NIH and FDA. Air date: 3/18/2026 4:00:00 PM Eastern Time",
+      "url": "https://videocast.nih.gov/watch=57236",
+      "start_datetime": "2026-03-18T16:00:00",
+      "end_datetime": null,
+      "timezone": "America/New_York",
+      "location": "Online",
+      "organizer": "Wed, 18 Mar 2026 21:00:00 GMT",
+      "source": "nih_videocast_upcoming",
+      "category": "Health",
       "tags": [],
       "access_restriction": "Public",
       "registration_url": null,
