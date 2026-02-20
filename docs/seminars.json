@@ -2,12 +2,12 @@
   "metadata": {
     "title": "GID Seminars Feed",
     "description": "Aggregated seminars and webinars for Global Infectious Disease research",
-    "generated_at": "2026-02-19T06:24:01.979712Z",
+    "generated_at": "2026-02-20T06:20:56.025473Z",
     "time_window": {
       "days_behind": 30,
       "days_ahead": 30
     },
-    "total_events": 72,
+    "total_events": 71,
     "sources": [
       "astmh_events",
       "avac_events",
@@ -576,23 +576,6 @@
       "organizer": "This Week in Virology",
       "source": "twiv_podcast",
       "category": "Podcast - TWiV",
-      "tags": [],
-      "access_restriction": "Public",
-      "registration_url": null,
-      "recording_url": null
-    },
-    {
-      "id": "c69c224356df2183",
-      "title": "WHO EPI-WIN webinar: Transforming IPC practice: new tools and implementation approaches for outbreak preparedness and response",
-      "description": "WHO has developed the The Framework and toolkit for infection prevention and control outbreak preparedness, readiness and response at the national level (IPC-OFT) and the corresponding Implementation Manual, that is an actionable tool specifically designed to practical implementation, aiming to support the countries to improve the capacity to respond to public health emergencies. This webinar will present and discuss the implementation approaches for IPC outbreak preparedness, readiness and response.",
-      "url": "https://www.who.int/news-room/events/detail/who-epi-win-webinar-transforming-ipc-practice-new-tools-and-implementation-approaches-for-outbreak-preparedness-and-response",
-      "start_datetime": "2026-02-19T13:00:00",
-      "end_datetime": "2026-02-19T14:15:00",
-      "timezone": "UTC",
-      "location": "Online/Geneva",
-      "organizer": "World Health Organization",
-      "source": "who_events",
-      "category": "WHO",
       "tags": [],
       "access_restriction": "Public",
       "registration_url": null,
