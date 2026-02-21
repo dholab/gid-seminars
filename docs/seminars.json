@@ -2,12 +2,12 @@
   "metadata": {
     "title": "GID Seminars Feed",
     "description": "Aggregated seminars and webinars for Global Infectious Disease research",
-    "generated_at": "2026-02-20T06:20:56.025473Z",
+    "generated_at": "2026-02-21T06:14:16.978731Z",
     "time_window": {
       "days_behind": 30,
       "days_ahead": 30
     },
-    "total_events": 71,
+    "total_events": 68,
     "sources": [
       "astmh_events",
       "avac_events",
@@ -71,57 +71,6 @@
     ]
   },
   "events": [
-    {
-      "id": "95da330f3fdccc39",
-      "title": "Clinical Center Grand Rounds: Emerging Critical Roles of the Science of Aging and Resilience in Population Health",
-      "description": "Clinical Center Grand Rounds: Emerging Critical Roles of the Science of Aging and Resilience in Population Health Presented by: Luigi Ferrucci, MD, PhD Category: Clinical Center Grand Rounds Aired date: 01/21/2026",
-      "url": "http://videocast.nih.gov/Summary.asp?file=35882",
-      "start_datetime": "2026-01-21T12:00:00",
-      "end_datetime": null,
-      "timezone": "America/New_York",
-      "location": "Online",
-      "organizer": null,
-      "source": "nih_fogarty",
-      "category": "Clinical Center Grand Rounds",
-      "tags": [],
-      "access_restriction": "Public",
-      "registration_url": null,
-      "recording_url": null
-    },
-    {
-      "id": "3f5d0b161d719487",
-      "title": "WALS: The Emotional Brain: Role in Depression and Addiction",
-      "description": "WALS: The Emotional Brain: Role in Depression and Addiction Presented by: Huda Akil, Ph.D. Category: WALS - Wednesday Afternoon Lectures Aired date: 01/21/2026",
-      "url": "http://videocast.nih.gov/Summary.asp?file=35890",
-      "start_datetime": "2026-01-21T14:00:00",
-      "end_datetime": null,
-      "timezone": "America/New_York",
-      "location": "Online",
-      "organizer": null,
-      "source": "nih_niaid",
-      "category": "WALS - Wednesday Afternoon Lectures",
-      "tags": [],
-      "access_restriction": "Public",
-      "registration_url": null,
-      "recording_url": null
-    },
-    {
-      "id": "bb9682b0d11751e8",
-      "title": "January GPP Screeners Meeting",
-      "description": "\"In vivo screens identify modifiers of CAR T cell function in cancer\" will be presented by Nelson Knudsen.\n\nWe hope you'll join us online or in person on January 21st from 9:30-10:30am.",
-      "url": "https://events.broadinstitute.org/event/copy-of-december-gpp-screeners-meeting",
-      "start_datetime": "2026-01-21T14:30:00",
-      "end_datetime": "2026-01-21T15:30:00",
-      "timezone": "America/New_York",
-      "location": "300 Binney (300B), Charles (room 2110)",
-      "organizer": null,
-      "source": "broad_institute",
-      "category": "Talks",
-      "tags": [],
-      "access_restriction": "Public",
-      "registration_url": null,
-      "recording_url": null
-    },
     {
       "id": "5dbef9e3f6fe916b",
       "title": "Outbreak Analytics and Disease Modeling to Inform Public Health Decision-Making",
@@ -941,7 +890,7 @@
     {
       "id": "1c463f54726be450",
       "title": "CFAR Panel on Collaborative Manuscript-Writing within Community-Academic Partnerships",
-      "description": "Event interval: Single day event\nOnline Meeting Link: https://washington.zoom.us/meeting/register/Lx9DGErWR7eWMc2FZozupA\nAccessibility Contact: cfar@uw.edu\nEvent Types: Lectures/Seminars\nEvent sponsors: Health Access Scientific Working Group and the&nbsp;Office of Community Engagement\n\nPlease join us on Wednesday, March 4th, from 12:00pm-1:00pm PST for a virtual webinar on collaborative manuscript writing, co-hosted by CFAR\u2019s Health Access Scientific Working Group, Behavioral Innovations Core and the Office of Community Engagement.\n\nThis event will feature a presentation on UCSF\u2019s recommendations: \nhttps://urldefense.com/v3/__https:/prevention.ucsf.edu/sites/prevention.ucsf.edu/files/2024-07/Authorship*20Guidelines*20for*20DPS*20Community*20Engaged*20Research*20FINAL*20Doc*20071624.pdf__;JSUlJSUlJSUl!!K-Hz7m0Vt54!iO3mAqRftH2qKW6n5ol8DkDwXUmSSiCiZNDTHZiizfyvvqYgIGPcG2_5urL_fJmEx_rHkNb5hsDOgw$ for authorship in community-engaged research, as well as two presentation from our community partners about their approaches & experiences [on manuscript writing] followed by a Q&A session at the end.",
+      "description": "Event interval: Single day event\nOnline Meeting Link: https://washington.zoom.us/meeting/register/Lx9DGErWR7eWMc2FZozupA\nAccessibility Contact: cfar@uw.edu\nEvent Types: Lectures/Seminars\nEvent sponsors: Health Access Scientific Working Group and the&nbsp;Office of Community Engagement\n\nPlease join us on Wednesday, March 4th, from 12:00pm-1:00pm PST for a virtual webinar on collaborative manuscript writing, co-hosted by CFAR\u2019s Health Access Scientific Working Group, Behavioral Innovations Core and the Office of Community Engagement.\n\nThis event will feature a presentation on the UCSF Division of Prevent Service\u2019s Community Co-Authorship Recommendations for Community Engaged Research: \nhttps://prevention.ucsf.edu/sites/prevention.ucsf.edu/files/2024-07/Authorship%20Guidelines%20for%20DPS%20Community%20Engaged%20Research%20FINAL%20Doc%20071624.pdf followed by two presentations from community-academic partnerships about their approaches & experiences to writing together and a Q&A.",
       "url": "https://washington.zoom.us/meeting/register/Lx9DGErWR7eWMc2FZozupA",
       "start_datetime": "2026-03-04T20:00:00",
       "end_datetime": "2026-03-04T21:00:00",
