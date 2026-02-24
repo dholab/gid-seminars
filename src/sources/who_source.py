@@ -87,15 +87,21 @@ class WHOSource(BaseSource):
         if not start_datetime:
             return None
 
-        # Build URL
-        url_name = event.get("UrlName") or event.get("RichContentPageUrl", "")
-        if url_name:
+        # Build URL - prefer ItemDefaultUrl (includes date path), fall back to UrlName
+        item_url = event.get("ItemDefaultUrl", "")
+        url_name = event.get("UrlName", "")
+        if item_url:
+            if item_url.startswith("http"):
+                url = item_url
+            else:
+                url = f"{self.BASE_EVENT_URL}{item_url.lstrip('/')}"
+        elif url_name:
             if url_name.startswith("http"):
                 url = url_name
             else:
                 url = f"{self.BASE_EVENT_URL}{url_name}"
         else:
-            url = "https://www.who.int/news-room/events/overview"
+            url = "https://www.who.int/news-room/events"
 
         # Get location
         location = (event.get("Location") or "").strip() or "Online/Geneva"

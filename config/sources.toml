@@ -111,16 +111,6 @@ default_timezone = "America/Los_Angeles"
 description = "UCSF Quantitative Biosciences Institute / Pasteur symposium on infectious disease"
 require_keywords = false  # Topic-specific feed
 
-[source.unc_global_health]
-enabled = false  # Disabled - events are in-person only without virtual/Zoom links
-name = "UNC Global Health & Infectious Diseases"
-type = "ical"
-url = "https://globalhealth.unc.edu/events/?ical=1"
-category = "University - UNC"
-default_timezone = "America/New_York"
-description = "UNC Institute for Global Health and Infectious Diseases seminars"
-require_keywords = false  # Topic-specific feed
-
 [source.broad_institute]
 enabled = true
 name = "Broad Institute Events"

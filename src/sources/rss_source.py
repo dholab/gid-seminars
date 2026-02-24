@@ -32,14 +32,25 @@ class RSSSource(BaseSource):
             )
 
         seminars = []
+        restricted_count = 0
         for entry in feed.entries:
             try:
                 seminar = self._parse_entry(entry)
                 if seminar:
-                    seminars.append(seminar)
+                    # Only include publicly accessible events
+                    if seminar.access_restriction == AccessRestriction.PUBLIC:
+                        seminars.append(seminar)
+                    else:
+                        restricted_count += 1
             except Exception as e:
                 console.print(f"    [yellow]Error parsing entry: {e}[/yellow]")
                 continue
+
+        if restricted_count > 0:
+            console.print(
+                f"    Skipped {restricted_count} restricted-access event(s)",
+                style="dim",
+            )
 
         return seminars
 

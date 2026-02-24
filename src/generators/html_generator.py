@@ -481,6 +481,10 @@ class HTMLGenerator:
     <p style="margin: 8px 0 0 0;">
         Wisconsin National Primate Research Center - Global Infectious Diseases
     </p>
+    <p style="margin: 12px 0 0 0; font-size: 0.9em; font-style: italic; max-width: 700px; margin-left: auto; margin-right: auto; line-height: 1.5;">
+        Because these searches are automated, we may not find all relevant events.
+        Not all event series have all of their seminars available via Zoom or open to the public.
+    </p>
 </div>"""
 
     def _get_filter_script(self) -> str:
