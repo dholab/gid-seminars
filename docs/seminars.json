@@ -2,7 +2,7 @@
   "metadata": {
     "title": "GID Seminars Feed",
     "description": "Aggregated seminars and webinars for Global Infectious Disease research",
-    "generated_at": "2026-02-24T22:29:37.608156Z",
+    "generated_at": "2026-02-24T22:32:27.959106Z",
     "time_window": {
       "days_behind": 30,
       "days_ahead": 30
@@ -633,10 +633,10 @@
       "recording_url": null
     },
     {
-      "id": "e23db8a5495680d2",
+      "id": "362627029b851ab7",
       "title": "Breaking barriers: advancing health equity for persons with disabilities in HIV care and treatment",
       "description": null,
-      "url": "https://www.who.int/news-room/events/detail/breaking-barriers--advancing-health-equity-for-persons-with-disabilities-in-hiv-care-and-treatment",
+      "url": "https://www.who.int/news-room/events/detail/2026/02/26/default-calendar/breaking-barriers--advancing-health-equity-for-persons-with-disabilities-in-hiv-care-and-treatment",
       "start_datetime": "2026-02-26T10:00:00",
       "end_datetime": "2026-02-26T11:30:00",
       "timezone": "UTC",
@@ -684,10 +684,10 @@
       "recording_url": null
     },
     {
-      "id": "f94d74af6e68794f",
+      "id": "84a60985736a0ae9",
       "title": "WHO Information Meeting on the composition of influenza virus vaccines for use in the 2026\u20132027 northern hemisphere influenza season",
       "description": "Provisional agenda\r\n\r\nOpening and welcome\r\nSelection of chair\r\nSummary of influenza activity in the world and virus characterization\r\nVaccine serology studies\r\nWHO recommendation for the composition of influenza virus vaccines for use in the 2026-2027 northern hemisphere influenza season\r\nAvailability of candidate vaccine viruses and reference reagents\r\nRoundtable discussion\r\nClosure of the meeting",
-      "url": "https://www.who.int/news-room/events/detail/who-information-meeting-on-the-composition-of-influenza-virus-vaccines-for-use-in-the-2026-2027-northern-hemisphere-influenza-season",
+      "url": "https://www.who.int/news-room/events/detail/2026/02/27/default-calendar/who-information-meeting-on-the-composition-of-influenza-virus-vaccines-for-use-in-the-2026-2027-northern-hemisphere-influenza-season",
       "start_datetime": "2026-02-27T06:00:00",
       "end_datetime": "2026-02-27T09:00:00",
       "timezone": "UTC",
@@ -752,23 +752,6 @@
       "recording_url": null
     },
     {
-      "id": "8a0d6066d5486fc9",
-      "title": "WHO & Global Fund GC8 Support Webinar: Building high-quality GC8 proposals for HIV, TB and RSSH",
-      "description": "Join our webinar jointly organized by WHO and the The Global Fund, on 4 and 5 March 2026, and learn how to develop high quality Grant Cycle 8 (GC8) funding proposals for HIV, tuberculosis (TB) and Resilient and Sustainable Systems for Health (RSSH). You will gain the knowledge and clarity needed to effectively support and guide national stakeholders in the development of strong, coherent, and high-impact GC8 funding requests.",
-      "url": "https://www.who.int/news-room/events/detail/webinar-who-guidance-for-high-quality-grant-cycle-8-proposals-for-hiv-tb-and-rssh",
-      "start_datetime": "2026-03-04T12:00:00",
-      "end_datetime": "2026-03-05T13:45:00",
-      "timezone": "UTC",
-      "location": "Online/Geneva",
-      "organizer": "World Health Organization",
-      "source": "who_events",
-      "category": "WHO",
-      "tags": [],
-      "access_restriction": "Public",
-      "registration_url": null,
-      "recording_url": null
-    },
-    {
       "id": "6cf458881d3b0771",
       "title": "Clinical Center Grand Rounds: New Biologics and Fungal Infection Risk: From the Bench to Patients",
       "description": "New Biologics and Fungal Infection Risk: From the Bench to Patients Michail S. Lionakis, MD, ScD Senior Investigator Chief, Laboratory of Clinical Immunology & Microbiology Chief, Fungal Pathogenesis Section, LCIM National Institute of Allergy & Infectious Diseases (NIAID) For more information go to https://www.cc.nih.gov/events/cm Air date: 3/4/2026 12:00:00 PM Eastern Time",
@@ -780,6 +763,23 @@
       "organizer": "Wed, 04 Mar 2026 17:00:00 GMT",
       "source": "nih_videocast_upcoming",
       "category": "Health",
+      "tags": [],
+      "access_restriction": "Public",
+      "registration_url": null,
+      "recording_url": null
+    },
+    {
+      "id": "d19cd2563d6ade6a",
+      "title": "WHO & Global Fund GC8 Support Webinar: Building high-quality GC8 proposals for HIV, TB and RSSH",
+      "description": "Join our webinar jointly organized by WHO and the The Global Fund, on 4 and 5 March 2026, and learn how to develop high quality Grant Cycle 8 (GC8) funding proposals for HIV, tuberculosis (TB) and Resilient and Sustainable Systems for Health (RSSH). You will gain the knowledge and clarity needed to effectively support and guide national stakeholders in the development of strong, coherent, and high-impact GC8 funding requests.",
+      "url": "https://www.who.int/news-room/events/detail/2026/03/04/default-calendar/webinar-who-guidance-for-high-quality-grant-cycle-8-proposals-for-hiv-tb-and-rssh",
+      "start_datetime": "2026-03-04T12:00:00",
+      "end_datetime": "2026-03-05T13:45:00",
+      "timezone": "UTC",
+      "location": "Online/Geneva",
+      "organizer": "World Health Organization",
+      "source": "who_events",
+      "category": "WHO",
       "tags": [],
       "access_restriction": "Public",
       "registration_url": null,
@@ -922,10 +922,10 @@
       "recording_url": null
     },
     {
-      "id": "f2eda399bb8b34b2",
+      "id": "47d6621a82cd6c13",
       "title": "Strategic Advisory Group of Experts on Immunization (SAGE) - March 2026",
       "description": "Strategic Advisory Group of Experts on Immunization (SAGE) - March 2026",
-      "url": "https://www.who.int/news-room/events/detail/strategic-advisory-group-of-experts-on-immunization-march-2026",
+      "url": "https://www.who.int/news-room/events/detail/2026/03/09/default-calendar/strategic-advisory-group-of-experts-on-immunization-march-2026",
       "start_datetime": "2026-03-09T10:00:00",
       "end_datetime": "2026-03-12T17:00:00",
       "timezone": "UTC",
@@ -1075,10 +1075,10 @@
       "recording_url": null
     },
     {
-      "id": "34e053dd06ad2d57",
+      "id": "7f39ae24ad7ada87",
       "title": "WHO EPI-WIN webinar: Preparing for and responding to an influenza pandemic: what is the PIP Framework?",
       "description": "This webinar is aimed to enhance understanding and awareness of the PIP Framework, and its role in advancing equity in pandemic influenza preparedness and response; to highlight its main components; and to engage participants in a discussion on the Framework\u2019s role in strengthening pandemic influenza preparedness and response.",
-      "url": "https://www.who.int/news-room/events/detail/who-epi-win-webinar-preparing-for-and-responding-to-an-influenza-pandemic-what-is-the-pip-framework",
+      "url": "https://www.who.int/news-room/events/detail/2026/03/18/default-calendar/who-epi-win-webinar-preparing-for-and-responding-to-an-influenza-pandemic-what-is-the-pip-framework",
       "start_datetime": "2026-03-18T12:00:00",
       "end_datetime": "2026-03-18T13:00:00",
       "timezone": "UTC",
@@ -1092,10 +1092,10 @@
       "recording_url": null
     },
     {
-      "id": "b46f417dc827a592",
+      "id": "4b2b7809d5bc6e61",
       "title": "World TB Day 2026 \u2013 Online talk show",
       "description": "WHO is convening a high-level Virtual Talk Show to commemorate World TB Day, 24 March, under the 2026 theme, \u201cYes! We Can End TB: Led by countries, powered by people\u201d. The event will deliver a strong message of hope and urgency, that ending TB is achievable, even in today\u2019s challenging global environment - if backed by leadership, investment, solidarity and decisive action.",
-      "url": "https://www.who.int/news-room/events/detail/world-tb-day-2026-online-talk-show",
+      "url": "https://www.who.int/news-room/events/detail/2026/03/18/default-calendar/world-tb-day-2026-online-talk-show",
       "start_datetime": "2026-03-18T12:30:00",
       "end_datetime": "2026-03-18T15:00:00",
       "timezone": "UTC",
@@ -1177,10 +1177,10 @@
       "recording_url": null
     },
     {
-      "id": "c559b4ddcbc71afe",
+      "id": "d8204e84b20b19de",
       "title": "World TB Day 2026: Yes! We can end TB: Led by countries, powered by people",
       "description": "The theme of World TB Day 2026 - \u2018Yes! We can end TB!\u2019 -  is a bold call to action and a message of hope, affirming that it is possible to get back on track and turn the tide on the TB epidemic, even in a challenging global environment.",
-      "url": "https://www.who.int/news-room/events/detail/world-tb-day-2026--yes!-we-can-end-tb--led-by-countries--powered-by-people",
+      "url": "https://www.who.int/news-room/events/detail/2026/03/24/default-calendar/world-tb-day-2026--yes!-we-can-end-tb--led-by-countries--powered-by-people",
       "start_datetime": "2026-03-24T00:00:00",
       "end_datetime": "2026-03-25T00:00:00",
       "timezone": "UTC",
@@ -1262,10 +1262,10 @@
       "recording_url": null
     },
     {
-      "id": "7513b1698e254f12",
+      "id": "e376f7962136f9db",
       "title": "WHO Antimicrobial Resistance Learning Programme - Learning 4 Impact Lab Global consultation meeting 2026",
       "description": "WHO\u2019s antimicrobial resistance (AMR) Department and WHO Academy are planning a consultation meeting for a multi-year AMR learning and health workforce capacity building programme in collaboration with key partners.",
-      "url": "https://www.who.int/news-room/events/detail/who-antimicrobial-resistance-learning-programme---learning-4-impact-lab-global-consultation-meeting-2026",
+      "url": "https://www.who.int/news-room/events/detail/2026/03/26/default-calendar/who-antimicrobial-resistance-learning-programme---learning-4-impact-lab-global-consultation-meeting-2026",
       "start_datetime": "2026-03-26T08:00:00",
       "end_datetime": "2026-03-27T16:00:00",
       "timezone": "UTC",
