@@ -12,90 +12,91 @@ version = "1.1.0"
 
 # =============================================================================
 # NIH VideoCast Sources (RSS feeds)
-# Topic-specific feeds - no keyword filtering needed
-# Full list of categories: https://videocast.nih.gov/help/rssfaq.asp
+# NOTE: All NIH VideoCast RSS feeds have been disabled as of Feb 2026.
+# NIH rebuilt videocast.nih.gov as a Next.js SPA with no public RSS/API.
+# All old RSS URLs (/rss/PastEvents.asp, /rss/UpcomingEvents.asp) return 404.
+# Re-enable if NIH provides a new public feed or API.
 # =============================================================================
 
 [source.nih_niaid]
-enabled = true
+enabled = false  # RSS feed defunct - NIH site rebuilt
 name = "NIH NIAID Seminars"
 type = "rss"
 url = "https://videocast.nih.gov/rss/PastEvents.asp?c=3"
 category = "NIH - NIAID"
 default_timezone = "America/New_York"
 description = "NIAID seminars and lectures"
-require_keywords = false  # Topic-specific feed
+require_keywords = false
 
 [source.nih_infectious_diseases]
-enabled = true
+enabled = false  # RSS feed defunct - NIH site rebuilt
 name = "NIH Infectious Diseases (LaMontagne)"
 type = "rss"
 url = "https://videocast.nih.gov/rss/PastEvents.asp?c=16"
 category = "NIH - Infectious Diseases"
 default_timezone = "America/New_York"
 description = "John R. LaMontagne Memorial Lecture series on infectious diseases"
-require_keywords = false  # Topic-specific feed
+require_keywords = false
 
 [source.nih_immunology]
-enabled = true
+enabled = false  # RSS feed defunct - NIH site rebuilt
 name = "NIH Immunology Seminars"
 type = "rss"
 url = "https://videocast.nih.gov/rss/PastEvents.asp?c=28"
 category = "NIH - Immunology"
 default_timezone = "America/New_York"
 description = "NIH immunology-focused seminars"
-require_keywords = false  # Topic-specific feed
+require_keywords = false
 
 [source.nih_aids]
-enabled = true
+enabled = false  # RSS feed defunct - NIH site rebuilt
 name = "NIH AIDS Research"
 type = "rss"
 url = "https://videocast.nih.gov/rss/PastEvents.asp?c=23"
 category = "NIH - AIDS"
 default_timezone = "America/New_York"
 description = "NIH AIDS and HIV research seminars"
-require_keywords = false  # Topic-specific feed
+require_keywords = false
 
 [source.nih_vaccine]
-enabled = true
+enabled = false  # RSS feed defunct - NIH site rebuilt
 name = "NIH Vaccine Research"
 type = "rss"
 url = "https://videocast.nih.gov/rss/PastEvents.asp?c=20"
 category = "NIH - Vaccine"
 default_timezone = "America/New_York"
 description = "NIH Vaccine Research Center seminars"
-require_keywords = false  # Topic-specific feed
+require_keywords = false
 
 [source.nih_fogarty]
-enabled = true
+enabled = false  # RSS feed defunct - NIH site rebuilt
 name = "NIH Fogarty International"
 type = "rss"
 url = "https://videocast.nih.gov/rss/PastEvents.asp?c=27"
 category = "NIH - Fogarty"
 default_timezone = "America/New_York"
 description = "Fogarty International Center global health seminars"
-require_keywords = false  # Topic-specific feed
+require_keywords = false
 
-# Broad NIH feeds with keyword filtering
 [source.nih_videocast_upcoming]
-enabled = true
+enabled = false  # RSS feed defunct - NIH site rebuilt
 name = "NIH VideoCast - Upcoming"
 type = "rss"
 url = "https://videocast.nih.gov/rss/UpcomingEvents.asp"
 category = "NIH"
 default_timezone = "America/New_York"
 description = "Upcoming NIH seminars and lectures (filtered by keywords)"
-require_keywords = true  # Broad feed - needs filtering
+require_keywords = true
 
 [source.nih_videocast_past]
-enabled = true
+enabled = false  # RSS feed defunct - NIH site rebuilt
 name = "NIH VideoCast - Recent Recordings"
 type = "rss"
 url = "https://videocast.nih.gov/rss/PastEvents.asp"
 category = "NIH"
 default_timezone = "America/New_York"
 description = "Recently recorded NIH seminars (filtered by keywords)"
-require_keywords = true  # Broad feed - needs filtering
+require_keywords = true
 
 # =============================================================================
 # iCal Feed Sources
