@@ -2,12 +2,12 @@
   "metadata": {
     "title": "GID Seminars Feed",
     "description": "Aggregated seminars and webinars for Global Infectious Disease research",
-    "generated_at": "2026-02-24T06:23:58.211482Z",
+    "generated_at": "2026-02-24T22:29:37.608156Z",
     "time_window": {
       "days_behind": 30,
       "days_ahead": 30
     },
-    "total_events": 69,
+    "total_events": 71,
     "sources": [
       "astmh_events",
       "avac_events",
@@ -1160,6 +1160,23 @@
       "recording_url": null
     },
     {
+      "id": "c78554dd28045860",
+      "title": "BIC Workshop - Part 1",
+      "description": "Event interval: Single day event\nCampus location: Hans Rosling Center for Population Health (HRC)\nCampus room: HRC 101\nAccessibility Contact: g0201@uw.edu\nEvent Types: Workshops\nEvent sponsors: CFAR Behavioral Innovations Core\n\nTBD!",
+      "url": null,
+      "start_datetime": "2026-03-20T21:30:00",
+      "end_datetime": "2026-03-20T23:30:00",
+      "timezone": "America/Los_Angeles",
+      "location": "Hans Rosling Center for Population Health (HRC)",
+      "organizer": null,
+      "source": "uw_cfar",
+      "category": "Fred Hutch Center for AIDS Research (CFAR)",
+      "tags": [],
+      "access_restriction": "Public",
+      "registration_url": null,
+      "recording_url": null
+    },
+    {
       "id": "c559b4ddcbc71afe",
       "title": "World TB Day 2026: Yes! We can end TB: Led by countries, powered by people",
       "description": "The theme of World TB Day 2026 - \u2018Yes! We can end TB!\u2019 -  is a bold call to action and a message of hope, affirming that it is possible to get back on track and turn the tide on the TB epidemic, even in a challenging global environment.",
@@ -1239,6 +1256,23 @@
       "organizer": "Wed, 25 Mar 2026 21:00:00 GMT",
       "source": "nih_videocast_upcoming",
       "category": "Health",
+      "tags": [],
+      "access_restriction": "Public",
+      "registration_url": null,
+      "recording_url": null
+    },
+    {
+      "id": "7513b1698e254f12",
+      "title": "WHO Antimicrobial Resistance Learning Programme - Learning 4 Impact Lab Global consultation meeting 2026",
+      "description": "WHO\u2019s antimicrobial resistance (AMR) Department and WHO Academy are planning a consultation meeting for a multi-year AMR learning and health workforce capacity building programme in collaboration with key partners.",
+      "url": "https://www.who.int/news-room/events/detail/who-antimicrobial-resistance-learning-programme---learning-4-impact-lab-global-consultation-meeting-2026",
+      "start_datetime": "2026-03-26T08:00:00",
+      "end_datetime": "2026-03-27T16:00:00",
+      "timezone": "UTC",
+      "location": "Online/Geneva",
+      "organizer": "World Health Organization",
+      "source": "who_events",
+      "category": "WHO",
       "tags": [],
       "access_restriction": "Public",
       "registration_url": null,
