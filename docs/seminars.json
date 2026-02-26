@@ -2,12 +2,12 @@
   "metadata": {
     "title": "GID Seminars Feed",
     "description": "Aggregated seminars and webinars for Global Infectious Disease research",
-    "generated_at": "2026-02-25T06:25:23.804988Z",
+    "generated_at": "2026-02-26T06:22:46.588691Z",
     "time_window": {
       "days_behind": 30,
       "days_ahead": 30
     },
-    "total_events": 48,
+    "total_events": 47,
     "sources": [
       "astmh_events",
       "avac_events",
@@ -56,23 +56,6 @@
     ]
   },
   "events": [
-    {
-      "id": "f5ce51845bc2505f",
-      "title": "Highlights from 4th Correlates of Protection for Next Generation Influenza Vaccines",
-      "description": "Webinar Co-Chairs: Rebecca Cox, University of Bergen, Norway; Diane Post, NIH, Bethesda, MD, USA",
-      "url": "https://www.isrv.global/events-calendar/highlights-from-4th-correlates-of-protection-for-next-generation-influenza-vaccines-meeting/",
-      "start_datetime": "2026-01-27T00:00:00",
-      "end_datetime": null,
-      "timezone": "UTC",
-      "location": "Online",
-      "organizer": "ISRV",
-      "source": "isrv_events",
-      "category": "ISRV",
-      "tags": [],
-      "access_restriction": "Public",
-      "registration_url": null,
-      "recording_url": null
-    },
     {
       "id": "2308f51a3eda1071",
       "title": "UCSF Data Library with Gabi Fragiadakis (Bay Area Open Science Group Meeting)",
@@ -363,23 +346,6 @@
       "recording_url": null
     },
     {
-      "id": "bdfb3dd46f22e19a",
-      "title": "CROI 2026 Community Breakfast Meetings",
-      "description": null,
-      "url": "https://avac.org/event/croi2026-community-breakfast-meetings/",
-      "start_datetime": "2026-02-23T00:00:00",
-      "end_datetime": null,
-      "timezone": "America/New_York",
-      "location": null,
-      "organizer": "AVAC",
-      "source": "avac_events",
-      "category": "AVAC",
-      "tags": [],
-      "access_restriction": "Public",
-      "registration_url": null,
-      "recording_url": null
-    },
-    {
       "id": "c0117910bf4debc7",
       "title": "Insights into Eye Care",
       "description": "Your eyes are an integral part of your health. While most people understand the importance of this precious organ, many are still missing key information that could help protect their eyes from potential health issues and vision impairment.\n\nDiscover the science behind healthy eyes and sharper vision through this interactive webinar. We will discuss the conditions and diseases that can affect the eyes, including cataracts, glaucoma, and macular degeneration, and recommendations for screening for these conditions. We will also cover techniques for restoring vision, including LASIK and intraocular lenses, as well as new treatments for dry eyes and allergies. Bring your curiosity and leave with practical insights for ensuring your eyes' health and longevity.\n\nThis class will be recorded and a one-week link to the recording will be shared with all registered participants. To receive incentive points, attend at least 80% of the live session or listen to the entire recording within one week.  Request disability accommodations and access info.\n\nInstructor: Barbara Erny, MD, is a board-certified ophthalmologist and adjunct clinical associate professor at Stanford University School of Medicine.  After 26 years of practicing at Sutter Health, she is now working to integrate climate change and health education into Stanford\u2019s medical curriculum and is a faculty fellow at the Stanford Center for Innovation in Global Health, focusing on global ophthalmology. \n\nClass details are subject to change.",
@@ -620,7 +586,7 @@
     {
       "id": "19d6b1b99924cea6",
       "title": "SDRC Friday Seminar- Peter Jackson, PhD",
-      "description": "Peter Jackson, PhD\nProfessor, Departments of Microbiology and Immunology, and Pathology, Stanford University\n\n\"Talk Title TBA\"",
+      "description": "Peter Jackson, PhD\nProfessor, Departments of Microbiology and Immunology, and Pathology, Stanford University\n\n\"Primary Cilia as Metabolic Signaling Hubs in Obesity and Type 2 Diabetes: How Proteomics Translates Human Genetics into Mechanism\"",
       "url": "https://events.stanford.edu/event/sdrc-friday-seminar-peter-jackson-phd",
       "start_datetime": "2026-03-06T20:00:00",
       "end_datetime": "2026-03-06T21:00:00",
@@ -663,6 +629,23 @@
       "organizer": null,
       "source": "uw_cfar",
       "category": "Fred Hutch Center for AIDS Research (CFAR)",
+      "tags": [],
+      "access_restriction": "Public",
+      "registration_url": null,
+      "recording_url": null
+    },
+    {
+      "id": "f2c30e5faff26e72",
+      "title": "Schmidt Center - MIT EECS Colloquium: Engineering sharper cancer immunotherapies using robotics and machine learning by Gr\u00e9goire Altan-Bonnet\u200d",
+      "description": "Monday, March 9, 2026\n\n4:00 - 5:00 pm (refreshments at 3:30 pm)\n\nMonadnock (Broad Institute, 415 Main St., room 2040*) and virtually at broad.io/ewsc\n\n \n\n\u270d\ufe0f Learn more and register\n\n \n\nPlease join us for a colloquium featuring Gr\u00e9goire Altan-Bonnet\u200d, Deputy Chief, Laboratory of Integrative Cancer Immunology, National Cancer Institute on Engineering sharper cancer immunotherapies using robotics and machine learning.\n\n \n\nThis colloquium is part of a series hosted jointly by the Eric and Wendy Schmidt Center at the Broad Institute and the Department of Electrical Engineering and Computer Science at MIT. Gr\u00e9goire\u2019s colloquium will run from 4:00-5:00 pm with refreshments served at 3:30 pm.\n\n \n\nThe colloquium will be held at the Broad Institute Auditorium (415 Main St) as well as virtually via YouTube Livestream: broad.io/ewsc. \n\n \n\nLearn more and register.\n\n \n\n*If you do not have a Broad badge, please arrive 10 minutes early with a different ID to register with security and be escorted up to Monadnock.\n\n \n\nQuestions? Email Amanda Ogden at aogden@broadinstitute.org.",
+      "url": "https://events.broadinstitute.org/event/schmidt-center-mit-eecs-colloquium-engineering-sharper-cancer-immunotherapies-using-robotics-and-machine-learning-by-gregoire-altan-bonnet",
+      "start_datetime": "2026-03-09T20:00:00",
+      "end_datetime": "2026-03-09T21:00:00",
+      "timezone": "America/New_York",
+      "location": "Broad Institute, Monadnock (room 2040)",
+      "organizer": null,
+      "source": "broad_institute",
+      "category": "Talks",
       "tags": [],
       "access_restriction": "Public",
       "registration_url": null,
