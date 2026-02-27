@@ -2,12 +2,12 @@
   "metadata": {
     "title": "GID Seminars Feed",
     "description": "Aggregated seminars and webinars for Global Infectious Disease research",
-    "generated_at": "2026-02-26T06:22:46.588691Z",
+    "generated_at": "2026-02-27T06:18:55.224496Z",
     "time_window": {
       "days_behind": 30,
       "days_ahead": 30
     },
-    "total_events": 47,
+    "total_events": 44,
     "sources": [
       "astmh_events",
       "avac_events",
@@ -25,6 +25,7 @@
       "ucsf_qbi_pasteur",
       "usask_pcc",
       "uw_cfar",
+      "uw_madison_seminars",
       "who_events"
     ],
     "categories": [
@@ -51,28 +52,12 @@
       "Talks",
       "University - UCSF",
       "University - USask",
+      "University - UW-Madison",
       "WHO",
       "Workshop"
     ]
   },
   "events": [
-    {
-      "id": "2308f51a3eda1071",
-      "title": "UCSF Data Library with Gabi Fragiadakis (Bay Area Open Science Group Meeting)",
-      "description": "This month we will be joined by Dr. Gabi Fragiadakis from UCSF who will discuss the development and applications of the UCSF Data Library. The Data Library is a project that aims to capture, curate, and share biological data generated on campus \u2014 enabling data search, exploration, visualization and cross-project analyses through a series of applications in available via a web browser. Dr. Fragiadakis received her Ph.D. and completed a postdoctoral fellowship at Stanford University, and joined the faculty of the UCSF\u2019s Department of Medicine, Division of Rheumatology in 2019. She is a member of the Biomedical Sciences and Biomedical Informatics Graduate Programs, the Bakar ImmunoX Initiative, the Benioff Center for Microbiome Medicine, and the Bakar Computational Health Sciences Institute. She leads a computational immunology lab studying states of the human immune system across disease contexts using single-cell methods and data integration. \n\nAbout the Bay Area Open Science Group\nThe Bay Area Open Science Group is a growing community for Bay Area academics and researchers interested in incorporating open science into their research, teaching, and learning. Targeting students, faculty, and staff at UCSF, Berkeley, and Stanford, the goal of the community is to increase awareness of and engagement with all things open science, including open access articles, open research data, open source software, and open educational resources. Through this work the group hopes to connect researchers with tools they can use to make the products and process of science more equitable and reproducible.",
-      "url": "https://events.stanford.edu/event/ucsf-data-library",
-      "start_datetime": "2026-01-27T22:00:00",
-      "end_datetime": "2026-01-27T23:00:00",
-      "timezone": "America/Los_Angeles",
-      "location": "Online",
-      "organizer": null,
-      "source": "stanford_virtual",
-      "category": "Lecture/Presentation/Talk",
-      "tags": [],
-      "access_restriction": "Public",
-      "registration_url": null,
-      "recording_url": null
-    },
     {
       "id": "c736833ea3c57be4",
       "title": "APACI 2026 Respiratory diseases webinar",
@@ -312,23 +297,6 @@
       "recording_url": null
     },
     {
-      "id": "431958d07a1ef7d7",
-      "title": "Conference on Retroviruses and Opportunistic Infections (CROI 2026)",
-      "description": null,
-      "url": "https://avac.org/event/croi-2026/",
-      "start_datetime": "2026-02-22T00:00:00",
-      "end_datetime": null,
-      "timezone": "America/New_York",
-      "location": null,
-      "organizer": "AVAC",
-      "source": "avac_events",
-      "category": "AVAC",
-      "tags": [],
-      "access_restriction": "Public",
-      "registration_url": null,
-      "recording_url": null
-    },
-    {
       "id": "95eec5434fd9eae6",
       "title": "TWiV 1299: Moth balls and blood clots",
       "description": "[Podcast: This Week in Virology]\n\nTWiV explains how vaccine-induced thrombotic thrombocytopenia develops from antibodies to adenovirus and somatic hypermutation, and castration by a viral protein tyrosine phosphatase that targets a host cell cycle checkpoint protein. Hosts:&nbsp; Vincent Racaniello , Alan Dove , Rich Condit , and Brianne Barker Click arrow to play Download TWiV 1299 (64 MB .mp3, 106 min) Subscribe (free): Apple Podcasts , RSS , email Become a&nbsp; patron &nbsp;of&nbsp;TWiV! Links for this episode Support science education at MicrobeTV 7:56 Positions in Rosenfeld Lab (email) 8:20 US repeals environmental endangerment finding (Nature) 8:51 Environmental groups sue EPA (Guardian) 10:31 NIAID to drop pandemic preparedness and biodefense (Nature) 11:29 FDA backpedals on Moderna mRNA rejection (npr) 12:25 Mechanism of VITT (NEJM) 15:16 Parasitic castration by a wasp virus protein (PNAS) 52:45 Polydnaviruses (PloS Path) 57:20 Timestamps by&nbsp; Jolene Ramsey. Thanks! Weekly Picks 1:29:45 Brianne &#8211; The effect of seeing scientists as intellectually humble on trust in scientists and their research Rich &#8211; The Great Bridge: The Epic Story of the Building of the Brooklyn Bridge by David McCullough Alan &#8211; Recipes from the American South , by Michael Twitty Vincent &#8211; Why Returning From Mars ls Impossible &#8211; Richard Feynman&#8217;s Warning Intro music is by&nbsp; Ronald Jenkees Send your virology questions and comments to twiv@microbe.tv Content in this podcast should not be co",
@@ -380,23 +348,6 @@
       "recording_url": null
     },
     {
-      "id": "362627029b851ab7",
-      "title": "Breaking barriers: advancing health equity for persons with disabilities in HIV care and treatment",
-      "description": null,
-      "url": "https://www.who.int/news-room/events/detail/2026/02/26/default-calendar/breaking-barriers--advancing-health-equity-for-persons-with-disabilities-in-hiv-care-and-treatment",
-      "start_datetime": "2026-02-26T10:00:00",
-      "end_datetime": "2026-02-26T11:30:00",
-      "timezone": "UTC",
-      "location": "Online/Geneva",
-      "organizer": "World Health Organization",
-      "source": "who_events",
-      "category": "WHO",
-      "tags": [],
-      "access_restriction": "Public",
-      "registration_url": null,
-      "recording_url": null
-    },
-    {
       "id": "028ddf4c9da7e484",
       "title": "ISTM Travel Medicine Review and Update Course",
       "description": null,
@@ -408,23 +359,6 @@
       "organizer": "ASTMH",
       "source": "astmh_events",
       "category": "ASTMH",
-      "tags": [],
-      "access_restriction": "Public",
-      "registration_url": null,
-      "recording_url": null
-    },
-    {
-      "id": "717746ab30235ff8",
-      "title": "CFAS Seminar February 2026: The rectal Chlamydia NHP study with Lucia Vojtech, PhD, & Yvonne Cosgrove Sweeney",
-      "description": "Event interval: Single day event\nAccessibility Contact: cfas@uw.edu\nEvent Types: Lectures/Seminars\nEvent sponsors: We welcome your attendance at the February 2026&nbsp;<a href=\"http://depts.washington.edu/cfas/\" target=\"_blank\">UW Center for AIDS &amp; STD (CFAS)</a> Research Seminar.&nbsp;\n&nbsp;\nPlease join us on Thursday, February 26, 2026 at 4 PM&nbsp;PST on Zoom.&nbsp;\nFor Zoom info: Please email <a href=\"mailto:CFAS@uw.edu?subject=CFAS%20Seminar%20Zoom%20link\" target=\"_blank\">CFAS@uw.edu</a> or <a href=\"http://docs.google.com/forms/d/e/1FAIpQLSeBLOZoWLDhU5wTra_LeNAbN5iAfoW1ARO4E9Z2pFKtHRpXLA/viewform\" target=\"_blank\">click here to be added to the mailing list</a>.&nbsp;\n\n&quot;The Rectal Chlamydia NHP Study&quot;&nbsp;\n\nLucia Vojtech, PhD\nAssistant Professor, Obstetrics and Gynecology\nUniversity of Washington\n\nYvonne Cosgrove Sweeney\nResearch Scientist, Vojtech Lab,&nbsp;Obstetrics and Gynecology\nUniversity of Washington",
-      "url": "http://depts.washington.edu/cfas/",
-      "start_datetime": "2026-02-27T00:00:00",
-      "end_datetime": "2026-02-27T01:00:00",
-      "timezone": "America/Los_Angeles",
-      "location": "Zoom",
-      "organizer": null,
-      "source": "uw_cfar",
-      "category": "Fred Hutch Center for AIDS Research (CFAR)",
       "tags": [],
       "access_restriction": "Public",
       "registration_url": null,
@@ -535,7 +469,7 @@
     {
       "id": "6a5b8916ecb121f0",
       "title": "Managing Unexpected Expenses and Navigating Market Volatility",
-      "description": "They say the only constant in life is change, and the last few years have certainly brought an inordinate amount of change for all of us around the world. Many people may feel unprepared to weather unexpected events and expenses brought on by the pandemic, increased cost of living, or other life crisis. The volatile fluctuations in the financial markets add another layer of uncertainty and stress.\n\nIn this free noontime webinar, you will learn important strategies you can put in place to prepare for unexpected expenses and navigate market volatility. You will gain a better understanding of how to assess your spending habits and discover how to take control of your finances with a budget, as well as the ramifications of taking money from a workplace savings plan to get you through a difficult time.\n\nWe will also explore the history of market downturns, common pitfalls faced by investors, and the importance of following a plan with your investments. By planning ahead and understanding all the financial tools at your disposal, you will be better equipped to weather whatever comes your way.\n\nThis class will not be recorded. Attendance requirement for incentive points - at least 80% of the live session.  Request disability accommodations and access info.\n\nInstructors: Nick Maly is a Fidelity Workplace Financial Consultant and has been with Fidelity since 2013. He is a Certified Financial Planner professional, investment advisor representative, registered securities representative, and licensed insurance representative and promotes financial wellness for plan participants through one-on-one planning and educational events.\n\nBrenda Knudsen is a Fidelity Workplace Financial Consultant and has been with Fidelity since 2019, with more than 40 years in the financial industry. She is a Chartered Retirement Planning Counselor, investment advisor representative, registered securities representative, and licensed insurance representative and promotes financial wellness for plan pa",
+      "description": "They say the only constant in life is change, and the last few years have certainly brought an inordinate amount of change for all of us around the world. Many people may feel unprepared to weather unexpected events and expenses brought on by the pandemic, increased cost of living, or other life crisis. The volatile fluctuations in the financial markets add another layer of uncertainty and stress.\n\nIn this free noontime webinar, you will learn important strategies you can put in place to prepare for unexpected expenses and navigate market volatility. You will gain a better understanding of how to assess your spending habits and discover how to take control of your finances with a budget, as well as the ramifications of taking money from a workplace savings plan to get you through a difficult time.\n\nWe will also explore the history of market downturns, common pitfalls faced by investors, and the importance of following a plan with your investments. By planning ahead and understanding all the financial tools at your disposal, you will be better equipped to weather whatever comes your way.\n\nThis class will not be recorded. Attendance requirement for incentive points - at least 80% of the live session.  Request disability accommodations and access info.\n\nInstructors: Nick Maly is a Fidelity Workplace Financial Consultant and has been with Fidelity since 2013. He is a Certified Financial Planner professional, investment advisor representative, registered securities representative, and licensed insurance representative and promotes financial wellness for plan participants through one-on-one planning and educational events.\n\nClass details are subject to change.",
       "url": "https://events.stanford.edu/event/managing-unexpected-expenses-and-navigating-market-volatility-2688",
       "start_datetime": "2026-03-05T20:00:00",
       "end_datetime": "2026-03-05T21:00:00",
@@ -686,6 +620,23 @@
       "recording_url": null
     },
     {
+      "id": "b285ae9d6ae674af",
+      "title": "\"Sex and Dissent: Stories of Feminist Resistance in Argentina, Chile, Mexico, and Spain\" by Meaghan Beatley",
+      "description": "Part of the Feminism in Theory and Practice Series.\n\nSex and Dissent: Stories of Feminist Resistance in Argentina, Chile, Mexico, and Spain offers four electrifying and hopeful accounts of feminist uprising that have swept through Latin America and Spain in the wake of #MeToo\u2014and what we can learn from these protest cultures in a fraught moment for democracy in the U.S.\n\nAs women\u2019s rights have faced alarming rollbacks in the United States over the past decade, mass feminist movements beyond our borders have achieved historic victories. Award-winning journalist Meaghan Beatley takes us to the frontlines to tell inspiring stories of resistance and political imagination that will be a vital roadmap in the years to come. A national reckoning over abortion in Argentina; a constitutional rewrite confronting structural inequality in Chile; a high-profile sexual assault case in Spain that sparked wide debate about consent; and in Mexico, student protesters forcing a national spotlight on the epidemic of femicide. \n\nThe product of a decade of immersive reporting, Beatley captures the urgency and creativity of these movements and the women who led a motley crew of former guerrilla fighters, student occupiers, and mothers standing down narco violence. \n\nOrganized by Writer in Residence Moira Donegan, the Feminism in Theory and Practice series welcomes contemporary creators, writers, scholars, and activists whose work challenges gender inequality in urgent and innovative ways.\n\nRSVP for this online event\n\nAuthor Bio:\n\nMeaghan Beatley is a French and U.S. journalist covering feminist movements across Latin America and Spain. Her reporting has appeared in Time, The Guardian, The Atlantic, The Nation, and Foreign Policy. Formerly an editor in Chile and Argentina, she has reported from seven countries and won the One World Media Award for Best Feature. She is fluent in French, English, and Spanish, and her work bridges languages, cultures, and continents.\n\nRSVP for this online even",
+      "url": "https://events.stanford.edu/event/feminism-in-theory-and-practice-featuring-meaghan-beatley-author-sex-and-dissent",
+      "start_datetime": "2026-03-11T19:00:00",
+      "end_datetime": "2026-03-11T20:00:00",
+      "timezone": "America/Los_Angeles",
+      "location": "Online",
+      "organizer": null,
+      "source": "stanford_virtual",
+      "category": "Lecture/Presentation/Talk",
+      "tags": [],
+      "access_restriction": "Public",
+      "registration_url": null,
+      "recording_url": null
+    },
+    {
       "id": "add1fdff8758763e",
       "title": "Broken Beakers and Brilliant Minds: Fixing the Machinery of Science",
       "description": "Wednesday, March 11, 2026\n6:00 - 7:00 pm | Reception and book signing to follow\nMerkin Auditorium\n \n\nLearn more and register at broad.io/MattKaplan.\n \n\nFrom the energy crisis and feeding eight billion people to defeating cancer and coping with climate change, humanity faces some rather large challenges today. To tackle them, we need science running like a well-oiled machine. Unfortunately, it has more often resembled a clunky old engine: loud, temperamental, and prone to breaking down at the worst possible moment.\n \n\nIt is tempting to blame recent funding cuts for science\u2019s current woes, but focusing only on money rather misses the point. Many of science\u2019s biggest problems have been around for years, sometimes centuries. Scientists have long been criticized, sidelined, or attacked for having ideas that were too new, too inconvenient or simply too correct for the people in power at the time. Even truly unscientific behaviors, like character assassination and fraud, are not modern inventions\u2026 though they do seem to have enjoyed a recent renaissance.\n \n\nThe good news is that longstanding problems are not the same as unsolvable ones. Join Matt Kaplan, science correspondent at The Economist and author of I Told You So! Scientists Who Were Ridiculed, Exiled and Imprisoned\u2026 For Being Right, for a spirited and insightful talk on the history of these endemic issues and what we can do to finally consign them to the scientific scrap heap.\n \n\nThis free talk is open to members of the general public as well as the Broad community.\n\n\nAbout the speaker\n\nMatt Kaplan is a science correspondent at The Economist. He has written about everything from paleontology and parasites to virology and viticulture over the course of two decades. His writing has also appeared in National Geographic, New Scientist, Nature, and the New York Times. He is the author of The Science of Monsters and Science of the Magical, and co-author of David Attenborough\u2019s First Life: A Journey Through Time. He compl",
@@ -705,7 +656,7 @@
     {
       "id": "36bc5892bd555bb8",
       "title": "Unlock Better Sleep",
-      "description": "We spend one-third of our lives asleep and nearly as much time worrying about how much sleep we are getting - or not getting. Sleep is critical for the optimization or maintenance of nearly every aspect of human mental and physical health, and inadequate sleep has been linked to disruptions in mood, metabolism, cognition, heart function, and immunity, among others. Worrying about it makes it worse, so finding the balance is a crucial step in overall sleep health.\n\nJoin us for a noontime webinar with a Stanford sleep expert to learn more about this vital process. You will learn about the basic biology behind sleep, common sleep problems, the utility (or lack thereof) of wearables, and ways to improve sleep. Bring your questions and leave with a deeper understanding and practical tools to help you get a better night\u2019s sleep.\n\nThis class will be recorded and a one-week link to the recording will be shared with all registered participants. To receive incentive points, attend at least 80% of the live session or listen to the entire recording within one week.  Request disability accommodations and access info.\n\nInstructor: Jamie Zeitzer, PhD, is a professor in psychiatry and behavioral medicine at Stanford University and co-director of the Stanford Center for Sleep and Circadian Science, with more than 25 years of experience in sleep and circadian research.\n\nClass details are subject to change.",
+      "description": "We spend one-third of our lives asleep and nearly as much time worrying about how much sleep we are getting - or not getting. Sleep is critical for the optimization or maintenance of nearly every aspect of human mental and physical health, and inadequate sleep has been linked to disruptions in mood, metabolism, cognition, heart function, and immunity, among others. Worrying about it makes it worse, so finding the balance is a crucial step in overall sleep health.\n\nJoin us for a noontime webinar with a Stanford sleep expert to learn more about this vital process. You will learn about the basic biology behind sleep, common sleep problems, the utility (or lack thereof) of wearables, and ways to improve sleep. Bring your questions and leave with a deeper understanding and practical tools to help you get a better night\u2019s sleep.\n\nThis class will be recorded and a one-week link to the recording will be shared with all registered participants. To receive incentive points, attend at least 80% of the live session or listen to the entire recording within one week.  Request disability accommodations and access info.\n\nClass details are subject to change.",
       "url": "https://events.stanford.edu/event/unlock-better-sleep",
       "start_datetime": "2026-03-17T19:00:00",
       "end_datetime": "2026-03-17T20:00:00",
@@ -756,7 +707,7 @@
     {
       "id": "b282a6176bc1c68d",
       "title": "Chronic Inflammation",
-      "description": "Did you know that fatigue, muscle aches, joint stiffness, and weight gain or loss can be common symptoms of chronic inflammation? While these symptoms can have many causes, chronic low-level inflammation is increasingly recognized as one potential contributor.\n\nInflammation is a vital part of the immune system's response to injury and infection. However, when the inflammatory response goes on too long or shows up where it's not needed, it can become problematic. This type of inflammation - called chronic low-level inflammation - has been linked to health conditions including heart disease, certain types of cancer, cardio-respiratory disease, diabetes, and obesity.\n\nIn this engaging, evidence-based webinar, you will learn relevant research related to the causes of low-level chronic inflammation and how lifestyle choices such as nutrition, movement, sleep, and reframing stress can protect us from this type of \"inflammation gone awry.\" Walk away with an action plan of 1-2 changes you can make in your daily life to minimize your risk of low-level chronic inflammation and improve your health and well-being.\n\nThis class will be recorded and a one-week link to the recording will be shared with all registered participants. To receive incentive points, attend at least 80% of the live session or listen to the entire recording within one week.  Request disability accommodations and access info.\n\nInstructor: Sally Duplantier, MS, is a gerontologist and healthspan educator, dedicated to helping people \u201clive their best life longer.\u201d She holds a master\u2019s in gerontology from USC and a certificate in nutrition science from Stanford and is currently pursuing a doctorate in public health. Her research examines how nutrition, physical activity, sleep, stress, and social engagement influence healthy aging.\n\nClass details are subject to change.",
+      "description": "Did you know that fatigue, muscle aches, joint stiffness, and weight gain or loss can be common symptoms of chronic inflammation? While these symptoms can have many causes, chronic low-level inflammation is increasingly recognized as one potential contributor.\n\nInflammation is a vital part of the immune system's response to injury and infection. However, when the inflammatory response goes on too long or shows up where it's not needed, it can become problematic. This type of inflammation - called chronic low-level inflammation - has been linked to health conditions including heart disease, certain types of cancer, cardio-respiratory disease, diabetes, and obesity.\n\nIn this engaging, evidence-based webinar, you will learn relevant research related to the causes of low-level chronic inflammation and how lifestyle choices such as nutrition, movement, sleep, and reframing stress can protect us from this type of \"inflammation gone awry.\" Walk away with an action plan of 1-2 changes you can make in your daily life to minimize your risk of low-level chronic inflammation and improve your health and well-being.\n\nThis class will be recorded and a one-week link to the recording will be shared with all registered participants. To receive incentive points, attend at least 80% of the live session or listen to the entire recording within one week.  Request disability accommodations and access info.\n\nClass details are subject to change.",
       "url": "https://events.stanford.edu/event/chronic-inflammation-1610",
       "start_datetime": "2026-03-20T19:00:00",
       "end_datetime": "2026-03-20T20:00:00",
