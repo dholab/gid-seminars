@@ -2,7 +2,7 @@
   "metadata": {
     "title": "GID Seminars Feed",
     "description": "Aggregated seminars and webinars for Global Infectious Disease research",
-    "generated_at": "2026-02-27T06:18:55.224496Z",
+    "generated_at": "2026-02-28T06:09:13.352793Z",
     "time_window": {
       "days_behind": 30,
       "days_ahead": 30
@@ -58,23 +58,6 @@
     ]
   },
   "events": [
-    {
-      "id": "c736833ea3c57be4",
-      "title": "APACI 2026 Respiratory diseases webinar",
-      "description": "28 January 2026 - 9am - 12pm (Hong Kong Time), Online Webinar",
-      "url": "https://www.isrv.global/events-calendar/apaci-2026-respiratory-diseases-webinar/",
-      "start_datetime": "2026-01-28T09:00:00",
-      "end_datetime": null,
-      "timezone": "UTC",
-      "location": "Online",
-      "organizer": "ISRV",
-      "source": "isrv_events",
-      "category": "ISRV",
-      "tags": [],
-      "access_restriction": "Public",
-      "registration_url": null,
-      "recording_url": null
-    },
     {
       "id": "858f72c3ba791045",
       "title": "Sugar Smarts",
@@ -365,17 +348,34 @@
       "recording_url": null
     },
     {
-      "id": "84a60985736a0ae9",
-      "title": "WHO Information Meeting on the composition of influenza virus vaccines for use in the 2026\u20132027 northern hemisphere influenza season",
-      "description": "Provisional agenda\r\n\r\nOpening and welcome\r\nSelection of chair\r\nSummary of influenza activity in the world and virus characterization\r\nVaccine serology studies\r\nWHO recommendation for the composition of influenza virus vaccines for use in the 2026-2027 northern hemisphere influenza season\r\nAvailability of candidate vaccine viruses and reference reagents\r\nRoundtable discussion\r\nClosure of the meeting",
-      "url": "https://www.who.int/news-room/events/detail/2026/02/27/default-calendar/who-information-meeting-on-the-composition-of-influenza-virus-vaccines-for-use-in-the-2026-2027-northern-hemisphere-influenza-season",
-      "start_datetime": "2026-02-27T06:00:00",
-      "end_datetime": "2026-02-27T09:00:00",
+      "id": "1d80730576bf6235",
+      "title": "Inside theMednet: The Community of Experts Solving Tough Clinical Questions",
+      "description": "[Podcast: Let's Talk ID] Duration: 987\n\nPaul Sax, MD, FIDSA, sits down with Patrick Passarelli, MD, a med-peds ID physician at Dartmouth-Hitchcock and ID editor for theMednet , to explore how clinicians can get expert guidance beyond AI. They dive into the origins of theMednet, what makes a great clinical question, and how this growing community of medical experts is shaping practice.",
+      "url": "https://www.buzzsprout.com/2019912/episodes/18761120-inside-themednet-the-community-of-experts-solving-tough-clinical-questions.mp3",
+      "start_datetime": "2026-02-28T00:00:00",
+      "end_datetime": null,
       "timezone": "UTC",
-      "location": "Online/Geneva",
-      "organizer": "World Health Organization",
-      "source": "who_events",
-      "category": "WHO",
+      "location": "Podcast",
+      "organizer": "Let's Talk ID",
+      "source": "idsa_podcast",
+      "category": "Podcast - IDSA",
+      "tags": [],
+      "access_restriction": "Public",
+      "registration_url": null,
+      "recording_url": null
+    },
+    {
+      "id": "ec46b66fd71d1188",
+      "title": "TWiV 1300: Clinical update with Dr. Daniel Griffin",
+      "description": "[Podcast: This Week in Virology]\n\nIn his weekly clinical update, Dr. Griffin and Vincent Racaniello discuss several states and the governor of Pennsylvania suing HHS over changes in the childhood vaccination schedule, the vaccine derived type 2 poliovirus outbreak in Pakistan and implications for the global withdrawal of the oral poliovirus vaccine, and the outbreak of Candida, then Dr. Griffin deep dives into recent statistics RSV, influenza and SARS-CoV-2 infections, the Wasterwater Scan dashboard, Johns Hopkins measles tracker, where to find PEMGARDA, how to access and pay for Paxlovid, when to use steroids for treating influenza, long COVID treatment center, where to go for answers to your long COVID questions, and contacting your federal government representative to stop the assault on science and biomedical research. Click arrow to play Download TWiV 1300 (25 MB .mp3, 41 min) Subscribe (free): Apple Podcasts , RSS , email Become a&nbsp; patron &nbsp;of&nbsp;TWiV! Links for this episode States vs RFK Jr and Bhattacharya: changes to the childhood vaccine schedule (Office of the Attorney General, California) Surgeon General Nominee Sidesteps Questions on Vaccines at Senate Hearing (NY Times) Unqualified failure in&nbsp;polio vaccine policy left thousands of kids paralyzed (Science) Clinical and Epidemiological Investigation of Vaccine-Derived Poliovirus Type 2 Outbreak in Pakistan During 2019\u20132021 (CID) Inactivated Polio Vaccine Must Be an Essential Part of Polio Eradication (CID) Wastewater for Candida au",
+      "url": "https://www.microbe.tv/twiv/twiv-1300/",
+      "start_datetime": "2026-02-28T05:00:00",
+      "end_datetime": null,
+      "timezone": "UTC",
+      "location": "Podcast",
+      "organizer": "This Week in Virology",
+      "source": "twiv_podcast",
+      "category": "Podcast - TWiV",
       "tags": [],
       "access_restriction": "Public",
       "registration_url": null,
@@ -401,7 +401,7 @@
     {
       "id": "fe50dd8a6824edae",
       "title": "SU SWG Virtual Office Hours: Creating Biosketch/OS using SciENcv",
-      "description": "Event interval: Single day event\nOnline Meeting Link: https://washington.zoom.us/meeting/register/TjY5HZajR2WbxD-9JBC1XQ#/registration\nAccessibility Contact: cfar@uw.edu\nEvent Types: Lectures/Seminars\nEvent sponsors: <p>Substance Use Scientific Working Group</p>\n\nThis \u201chands-on\u201d workshop will feature Michael T. Moore, Grants Administration & Special Projects Librarian with the UW Health Sciences Library.\nThe first 30 minutes will be an introduction and walking through the process of using SciENcv, including how to delegate and potential \u201cpitfalls.\u201d The second 30 minutes will be \u201coffice hours\u201d to ask questions. We encourage participants to work on their biosketch/OS to bring questions in \u201creal-time.\u201d Early-stage investigators who plan to submit a grant in the next year are highly encouraged to attend!",
+      "description": "Event interval: Single day event\nOnline Meeting Link: https://washington.zoom.us/meeting/register/TjY5HZajR2WbxD-9JBC1XQ#/registration\nAccessibility Contact: cfar@uw.edu\nEvent Types: Lectures/Seminars\nEvent sponsors: <p>Substance Use Scientific Working Group</p>\n\nRegister Here: \nhttps://washington.zoom.us/meeting/register/TjY5HZajR2WbxD-9JBC1XQ#/registration!\n \n\n--------------------------------------------------------------------------------\n\n\nThis \u201chands-on\u201d workshop will feature Michael T. Moore, Grants Administration & Special Projects Librarian with the UW Health Sciences Library.\nThe first 30 minutes will be an introduction and walking through the process of using SciENcv, including how to delegate and potential \u201cpitfalls.\u201d The second 30 minutes will be \u201coffice hours\u201d to ask questions. We encourage participants to work on their biosketch/OS to bring questions in \u201creal-time.\u201d Early-stage investigators who plan to submit a grant in the next year are highly encouraged to attend!",
       "url": "https://washington.zoom.us/meeting/register/TjY5HZajR2WbxD-9JBC1XQ#/registration",
       "start_datetime": "2026-03-03T19:00:00",
       "end_datetime": "2026-03-03T20:00:00",
@@ -452,7 +452,7 @@
     {
       "id": "1c463f54726be450",
       "title": "CFAR Panel on Collaborative Manuscript-Writing within Community-Academic Partnerships",
-      "description": "Event interval: Single day event\nOnline Meeting Link: https://washington.zoom.us/meeting/register/Lx9DGErWR7eWMc2FZozupA\nAccessibility Contact: cfar@uw.edu\nEvent Types: Lectures/Seminars\nEvent sponsors: Health Access Scientific Working Group and the&nbsp;Office of Community Engagement\n\nPlease join us on Wednesday, March 4th, from 12:00pm-1:00pm PST for a virtual webinar on collaborative manuscript writing, co-hosted by CFAR\u2019s Health Access Scientific Working Group, Behavioral Innovations Core and the Office of Community Engagement.\n\nThis event will feature a presentation on the UCSF Division of Prevent Service\u2019s Community Co-Authorship Recommendations for Community Engaged Research: \nhttps://prevention.ucsf.edu/sites/prevention.ucsf.edu/files/2024-07/Authorship%20Guidelines%20for%20DPS%20Community%20Engaged%20Research%20FINAL%20Doc%20071624.pdf followed by two presentations from community-academic partnerships about their approaches & experiences to writing together and a Q&A.",
+      "description": "Event interval: Single day event\nOnline Meeting Link: https://washington.zoom.us/meeting/register/Lx9DGErWR7eWMc2FZozupA\nAccessibility Contact: cfar@uw.edu\nEvent Types: Lectures/Seminars\nEvent sponsors: Health Access Scientific Working Group and the&nbsp;Office of Community Engagement\n\nRegister Here: \nhttps://washington.zoom.us/meeting/register/Lx9DGErWR7eWMc2FZozupA#/registration!\n \n\n--------------------------------------------------------------------------------\n\n\nPlease join us on Wednesday, March 4th, from 12:00pm-1:00pm PST for a virtual webinar on collaborative manuscript writing, co-hosted by CFAR\u2019s Health Access Scientific Working Group, Behavioral Innovations Core and the Office of Community Engagement.\n\nThis event will feature a presentation on the UCSF Division of Prevent Service\u2019s Community Co-Authorship Recommendations for Community Engaged Research: \nhttps://prevention.ucsf.edu/sites/prevention.ucsf.edu/files/2024-07/Authorship%20Guidelines%20for%20DPS%20Community%20Engaged%20Research%20FINAL%20Doc%20071624.pdf followed by two presentations from community-academic partnerships about their approaches & experiences to writing together and a Q&A.",
       "url": "https://washington.zoom.us/meeting/register/Lx9DGErWR7eWMc2FZozupA",
       "start_datetime": "2026-03-04T20:00:00",
       "end_datetime": "2026-03-04T21:00:00",
