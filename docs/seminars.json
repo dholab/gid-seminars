@@ -2,7 +2,7 @@
   "metadata": {
     "title": "GID Seminars Feed",
     "description": "Aggregated seminars and webinars for Global Infectious Disease research",
-    "generated_at": "2026-02-28T06:09:13.352793Z",
+    "generated_at": "2026-03-01T06:15:55.088885Z",
     "time_window": {
       "days_behind": 30,
       "days_ahead": 30
@@ -58,23 +58,6 @@
     ]
   },
   "events": [
-    {
-      "id": "858f72c3ba791045",
-      "title": "Sugar Smarts",
-      "description": "Excess sugar intake is linked to numerous health problems, including weight gain, obesity, type 2 diabetes, and heart disease. Too much added sugar can also contribute to high blood pressure, and chronic inflammation. Ah, sugar\u2026 we know it's not good for us, but we can't seem to stop eating it! In fact, most Americans consume about 60 pounds of added sugar a year!\n\nJoin us for an interactive and practical webinar to learn the biological, psychological, and social factors that make it so hard to stop eating sugar. We will discuss the current guidelines from the American Heart Association about acceptable levels of added sugar for generally good health, expose some surprising sources of added sugar, and explore three specific strategies you can use to reduce your sugar consumption. Walk away with a better understanding of why you crave sugar and 1-2 practical ways to eat less of it.\n\nThis class will be recorded and a one-week link to the recording will be shared with all registered participants. To receive incentive points, attend at least 80% of the live session or listen to the entire recording within one week.  Request disability accommodations and access info.\n\nInstructor: Sally Duplantier, MS, is a gerontologist and healthspan educator, dedicated to helping people \u201clive their best life longer.\u201d She holds a master\u2019s in gerontology from USC and a certificate in nutrition science from Stanford and is currently pursuing a doctorate in public health. Her research examines how nutrition, physical activity, sleep, stress, and social engagement influence healthy aging.\n\nClass details are subject to change.",
-      "url": "https://events.stanford.edu/event/sugar-smarts",
-      "start_datetime": "2026-01-29T20:00:00",
-      "end_datetime": "2026-01-29T21:00:00",
-      "timezone": "America/Los_Angeles",
-      "location": "Online",
-      "organizer": null,
-      "source": "stanford_virtual",
-      "category": "Class/Seminar",
-      "tags": [],
-      "access_restriction": "Public",
-      "registration_url": null,
-      "recording_url": null
-    },
     {
       "id": "18036b6f337a0150",
       "title": "SDRC NORC Seminar 01.30.26 -Zhao Zhang, PhD",
@@ -370,6 +353,23 @@
       "description": "[Podcast: This Week in Virology]\n\nIn his weekly clinical update, Dr. Griffin and Vincent Racaniello discuss several states and the governor of Pennsylvania suing HHS over changes in the childhood vaccination schedule, the vaccine derived type 2 poliovirus outbreak in Pakistan and implications for the global withdrawal of the oral poliovirus vaccine, and the outbreak of Candida, then Dr. Griffin deep dives into recent statistics RSV, influenza and SARS-CoV-2 infections, the Wasterwater Scan dashboard, Johns Hopkins measles tracker, where to find PEMGARDA, how to access and pay for Paxlovid, when to use steroids for treating influenza, long COVID treatment center, where to go for answers to your long COVID questions, and contacting your federal government representative to stop the assault on science and biomedical research. Click arrow to play Download TWiV 1300 (25 MB .mp3, 41 min) Subscribe (free): Apple Podcasts , RSS , email Become a&nbsp; patron &nbsp;of&nbsp;TWiV! Links for this episode States vs RFK Jr and Bhattacharya: changes to the childhood vaccine schedule (Office of the Attorney General, California) Surgeon General Nominee Sidesteps Questions on Vaccines at Senate Hearing (NY Times) Unqualified failure in&nbsp;polio vaccine policy left thousands of kids paralyzed (Science) Clinical and Epidemiological Investigation of Vaccine-Derived Poliovirus Type 2 Outbreak in Pakistan During 2019\u20132021 (CID) Inactivated Polio Vaccine Must Be an Essential Part of Polio Eradication (CID) Wastewater for Candida au",
       "url": "https://www.microbe.tv/twiv/twiv-1300/",
       "start_datetime": "2026-02-28T05:00:00",
+      "end_datetime": null,
+      "timezone": "UTC",
+      "location": "Podcast",
+      "organizer": "This Week in Virology",
+      "source": "twiv_podcast",
+      "category": "Podcast - TWiV",
+      "tags": [],
+      "access_restriction": "Public",
+      "registration_url": null,
+      "recording_url": null
+    },
+    {
+      "id": "63948b58fafd99eb",
+      "title": "TWiV 1301: Lost in giant virus translation",
+      "description": "[Podcast: This Week in Virology]\n\nTWiV reviews lymphocytic choriomeningitis virus seroprevalence among urban pregnant women and newborns in Philadelphia, and a functional translation initiation complex encoded in the genome of giant viruses that drives synthesis of viral structural proteins. Hosts:&nbsp; Vincent Racaniello , Rich Condit , Kathy Spindler, and Angela Mingarelli Click arrow to play Download TWiV 1301 (75 MB .mp3, 125 min) Subscribe (free): Apple Podcasts , RSS , email Become a&nbsp; patron &nbsp;of&nbsp;TWiV! Links for this episode Support science education at MicrobeTV Positions in Rosenfeld Lab (email) LCMV seroprevalence among pregnant women (Emerg Inf Dis) Giant viruses encode functional vIF4F (Cell) Ribosomal proteins encoded in viral genomes (virology blog) Letters read on TWiV 1301 Timestamps by&nbsp; Jolene Ramsey. Thanks! Weekly Picks Angela &#8211; \u201c The Song of the Cell\u201d by Siddhartha Mukherjee. Kathy &#8211; Fitbit for farts ( WSJ and 1\u00b0 article ) Rich &#8211; The Password That Lets Caterpillars Hide in an Ant\u2019s Lair Vincent &#8211; Astrophysics for People in a Hurry by Neil deGrasse Tyson Listener Pick Larry &#8211; Get an early start! ( primary article ) Intro music is by&nbsp; Ronald Jenkees Send your virology questions and comments to twiv@microbe.tv Content in this podcast should not be construed as medical advice. The post TWiV 1301: Lost in giant virus translation first appeared on This Week in Virology .",
+      "url": "https://www.microbe.tv/twiv/twiv-1301/",
+      "start_datetime": "2026-03-01T05:00:00",
       "end_datetime": null,
       "timezone": "UTC",
       "location": "Podcast",
