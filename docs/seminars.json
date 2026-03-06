@@ -2,12 +2,12 @@
   "metadata": {
     "title": "GID Seminars Feed",
     "description": "Aggregated seminars and webinars for Global Infectious Disease research",
-    "generated_at": "2026-03-05T06:17:31.545311Z",
+    "generated_at": "2026-03-06T06:15:56.093118Z",
     "time_window": {
       "days_behind": 30,
       "days_ahead": 30
     },
-    "total_events": 40,
+    "total_events": 39,
     "sources": [
       "astmh_events",
       "avac_events",
@@ -61,7 +61,7 @@
     {
       "id": "55cf0c491a8182bc",
       "title": "TWiV 1294: Clinical update with Dr. Daniel Griffin",
-      "description": "[Podcast: This Week in Virology]\n\nIn his weekly clinical update during Ground hog week, Dr. Griffin and Vincent Racaniello are back to discuss the measles outbreak in South Carolina, American Academy of Pediatrics vaccine recommendations and shingles vaccine and the reduction of dementia, then deep dives into recent statistics RSV, influenza and SARS-CoV-2 infections, the Wastewater Scan dashboard, Johns Hopkins measles tracker, where to find PEMGARDA, how to access and pay for Paxlovid, estimated effectiveness of this year\u2019s COVID-19 vaccine, long COVID treatment center, where to go for answers to your long COVID questions, long COVID in children, the potential benefits of metformin to reduce disease severity following SARS-CoV-2 infection in obese and overweight patients and contacting your federal government representative to stop the assault on science and biomedical research. Click arrow to play Download&nbsp; TWiV 1294 (34 MB .mp3, 57 min) Subscribe (free):&nbsp; Apple Podcasts , RSS ,&nbsp; email Become a&nbsp; patron &nbsp;of&nbsp;TWiV! Links for this episode Grading the groundhogs (National Oceanic and Atmospheric Administration) Sand Mountain Sam predicts an early spring (News19) All About the AAP Recommended Immunization Schedule (healthychildren.org) Recommended Childhood and Adolescent Immunization Schedule: United States, 2026: Policy Statement (American Academy of Pediatrics: Pediatrics) Herpes zoster vaccination and incident dementia in Canada: an analysis of natural experiments (LANCET: Neuro",
+      "description": "[Podcast: This Week in Virology]\n\nIn his weekly clinical update during Ground hog week, Dr. Griffin and Vincent Racaniello are back to discuss the measles outbreak in South Carolina, American Academy of Pediatrics vaccine recommendations and shingles vaccine and the reduction of dementia, then deep dives into recent statistics RSV, influenza and SARS-CoV-2 infections, the Wastewater Scan dashboard, Johns Hopkins measles tracker, where to find PEMGARDA, how to access and pay for Paxlovid, estimated effectiveness of this year\u2019s COVID-19 vaccine, long COVID treatment center, where to go for answers to your long COVID questions, long COVID in children, the potential benefits of metformin to reduce disease severity following SARS-CoV-2 infection in obese and overweight patients and contacting your federal government representative to stop the assault on science and biomedical research. Click arrow to play Download&nbsp; TWiV 1294 (34 MB .mp3, 57 min) Subscribe (free):&nbsp; Apple Podcasts , RSS ,&nbsp; email Become a&nbsp; patron &nbsp;of&nbsp;TWiV! Links for this episode Grading the groundhogs (National Oceanic and Atmospheric Administration) 9:19 Sand Mountain Sam predicts an early spring (News19) 7:15 All About the AAP Recommended Immunization Schedule (healthychildren.org) 11:02 Recommended Childhood and Adolescent Immunization Schedule: United States, 2026: Policy Statement (American Academy of Pediatrics: Pediatrics) 11:02 Herpes zoster vaccination and incident dementia in Canada: an analysis of natural expe",
       "url": "https://www.microbe.tv/twiv/twiv-1294/",
       "start_datetime": "2026-02-07T05:00:00",
       "end_datetime": null,
@@ -299,7 +299,7 @@
     {
       "id": "ec46b66fd71d1188",
       "title": "TWiV 1300: Clinical update with Dr. Daniel Griffin",
-      "description": "[Podcast: This Week in Virology]\n\nIn his weekly clinical update, Dr. Griffin and Vincent Racaniello discuss several states and the governor of Pennsylvania suing HHS over changes in the childhood vaccination schedule, the vaccine derived type 2 poliovirus outbreak in Pakistan and implications for the global withdrawal of the oral poliovirus vaccine, and the outbreak of Candida, then Dr. Griffin deep dives into recent statistics RSV, influenza and SARS-CoV-2 infections, the Wasterwater Scan dashboard, Johns Hopkins measles tracker, where to find PEMGARDA, how to access and pay for Paxlovid, when to use steroids for treating influenza, long COVID treatment center, where to go for answers to your long COVID questions, and contacting your federal government representative to stop the assault on science and biomedical research. Click arrow to play Download&nbsp; TWiV 1300 (25 MB .mp3, 41 min) Subscribe (free):&nbsp; Apple Podcasts , RSS ,&nbsp; email Become a&nbsp; patron &nbsp;of&nbsp;TWiV! Links for this episode Transcript for this episode ( pdf ) States vs RFK Jr and Bhattacharya: changes to the childhood vaccine schedule (Office of the Attorney General, California) Surgeon General Nominee Sidesteps Questions on Vaccines at Senate Hearing (NY Times) Unqualified failure in&nbsp;polio vaccine policy left thousands of kids paralyzed (Science) Clinical and Epidemiological Investigation of Vaccine-Derived Poliovirus Type 2 Outbreak in Pakistan During 2019\u20132021 (CID) Inactivated Polio Vaccine Must Be an Essential Par",
+      "description": "[Podcast: This Week in Virology]\n\nIn his weekly clinical update, Dr. Griffin and Vincent Racaniello discuss several states and the governor of Pennsylvania suing HHS over changes in the childhood vaccination schedule, the vaccine derived type 2 poliovirus outbreak in Pakistan and implications for the global withdrawal of the oral poliovirus vaccine, and the outbreak of Candida, then Dr. Griffin deep dives into recent statistics RSV, influenza and SARS-CoV-2 infections, the Wasterwater Scan dashboard, Johns Hopkins measles tracker, where to find PEMGARDA, how to access and pay for Paxlovid, when to use steroids for treating influenza, long COVID treatment center, where to go for answers to your long COVID questions, and contacting your federal government representative to stop the assault on science and biomedical research. Click arrow to play Download&nbsp; TWiV 1300 (25 MB .mp3, 41 min) Subscribe (free):&nbsp; Apple Podcasts , RSS ,&nbsp; email Become a&nbsp; patron &nbsp;of&nbsp;TWiV! Links for this episode Transcript for this episode ( pdf ) States vs RFK Jr and Bhattacharya: changes to the childhood vaccine schedule (Office of the Attorney General, California) 3:00 Surgeon General Nominee Sidesteps Questions on Vaccines at Senate Hearing (NY Times) 3:23 Unqualified failure in polio vaccine policy left thousands of kids paralyzed (Science) 13:25 Clinical and Epidemiological Investigation of Vaccine-Derived Poliovirus Type 2 Outbreak in Pakistan During 2019\u20132021 (CID) 8:32 Inactivated Polio Vaccine Must Be ",
       "url": "https://www.microbe.tv/twiv/twiv-1300/",
       "start_datetime": "2026-02-28T05:00:00",
       "end_datetime": null,
@@ -316,7 +316,7 @@
     {
       "id": "63948b58fafd99eb",
       "title": "TWiV 1301: Lost in giant virus translation",
-      "description": "[Podcast: This Week in Virology]\n\nTWiV reviews lymphocytic choriomeningitis virus seroprevalence among urban pregnant women and newborns in Philadelphia, and a functional translation initiation complex encoded in the genome of giant viruses that drives synthesis of viral structural proteins. Hosts:&nbsp; Vincent Racaniello , Rich Condit , Kathy Spindler, and Angela Mingarelli Click arrow to play Download TWiV 1301 (75 MB .mp3, 125 min) Subscribe (free): Apple Podcasts , RSS , email Become a&nbsp; patron &nbsp;of&nbsp;TWiV! Links for this episode Support science education at MicrobeTV Positions in Rosenfeld Lab (email) LCMV seroprevalence among pregnant women (Emerg Inf Dis) Giant viruses encode functional vIF4F (Cell) Ribosomal proteins encoded in viral genomes (virology blog) Letters read on TWiV 1301 Timestamps by&nbsp; Jolene Ramsey. Thanks! Weekly Picks Angela &#8211; \u201c The Song of the Cell\u201d by Siddhartha Mukherjee. Kathy &#8211; Fitbit for farts ( WSJ and 1\u00b0 article ) Rich &#8211; The Password That Lets Caterpillars Hide in an Ant\u2019s Lair Vincent &#8211; Astrophysics for People in a Hurry by Neil deGrasse Tyson Listener Pick Larry &#8211; Get an early start! ( primary article ) Intro music is by&nbsp; Ronald Jenkees Send your virology questions and comments to twiv@microbe.tv Content in this podcast should not be construed as medical advice. The post TWiV 1301: Lost in giant virus translation first appeared on This Week in Virology .",
+      "description": "[Podcast: This Week in Virology]\n\nTWiV reviews lymphocytic choriomeningitis virus seroprevalence among urban pregnant women and newborns in Philadelphia, and a functional translation initiation complex encoded in the genome of giant viruses that drives synthesis of viral structural proteins. Hosts:&nbsp; Vincent Racaniello , Rich Condit , Kathy Spindler, and Angela Mingarelli Click arrow to play Download TWiV 1301 (75 MB .mp3, 125 min) Subscribe (free):&nbsp; Apple Podcasts ,&nbsp; RSS ,&nbsp; email Become a&nbsp; patron &nbsp;of&nbsp;TWiV! Links for this episode Support science education at MicrobeTV 4:27 Positions in Rosenfeld Lab (email) 4:58 LCMV seroprevalence among pregnant women (Emerg Inf Dis) 5:51 Giant viruses encode functional vIF4F (Cell) 37:35 Ribosomal proteins encoded in viral genomes (virology blog) 34:10 Letters read on TWiV 1301 34:23, 1:28:15 Timestamps by&nbsp; Jolene Ramsey. Thanks! Weekly Picks 1:45:03 Angela &#8211; \u201c The Song of the Cell\u201d by Siddhartha Mukherjee. Kathy &#8211; Fitbit for farts ( WSJ and 1\u00b0 article ) Rich &#8211; The Password That Lets Caterpillars Hide in an Ant\u2019s Lair Vincent &#8211; Astrophysics for People in a Hurry by Neil deGrasse Tyson Listener Pick Larry &#8211; Get an early start! ( primary article ) Intro music is by&nbsp; Ronald Jenkees Send your virology questions and comments to twiv@microbe.tv Content in this podcast should not be construed as medical advice. The post TWiV 1301: Lost in giant virus translation first appeared on This Week in Virology .",
       "url": "https://www.microbe.tv/twiv/twiv-1301/",
       "start_datetime": "2026-03-01T05:00:00",
       "end_datetime": null,
@@ -359,23 +359,6 @@
       "organizer": null,
       "source": "stanford_virtual",
       "category": "Class/Seminar",
-      "tags": [],
-      "access_restriction": "Public",
-      "registration_url": null,
-      "recording_url": null
-    },
-    {
-      "id": "22ec74f40fc98535",
-      "title": "CFAR Seminar with Dr. Florence Momplaisir - March 5, 2026",
-      "description": "Event interval: Single day event\nOnline Meeting Link: https://washington.zoom.us/meeting/register/tn2DJDYRRRGfMqmpnHfNKQ\nAccessibility Contact: cfar@uw.edu\nEvent Types: Lectures/Seminars\nEvent sponsors: Center for AIDS Research\n\nREGISTER NOW!\nRegister via this link for virtual attendance\nzoom registration: \nhttps://washington.zoom.us/meeting/register/tn2DJDYRRRGfMqmpnHfNKQ\n--------------------------------------------------------------------------------\n\n3:30pm - 4:00pm\nVIRTUAL\nNew Faces Speaker: Dr. Matt Durstenfeld, MD, MAS, FACC\nTalk Title: Prediction and Prevention of Cardiovascular Disease Among People with  HIV in 2026\n\nMatt Durstenfeld, MD, MAS, FACC, is an Assistant Professor-In-Residence at the University of California Los Angeles and the Director of Cardiopulmonary Exercise Testing Research in the Division of Cardiology. His clinical research focuses on how infections impact cardiovascular risk and strategies to address that risk. He completed medical school at the University of Pennsylvania, residency and chief residency at NYU, and cardiology fellowship and a Master\u2019s in Clinical Research at UCSF. He joined the faculty at UCSF, where he completed a K12 career development award on cardiopulmonary Long COVID before moving to UCLA. His K23 career development award from National Heart, Lung, and Blood Institute is focused on cardiorespiratory fitness in HIV. He leads the Cardiopulmonary Exercise Testing core lab for multiple NIH-funded studies in HIV, Long COVID, and post-TB cardiopulmonary disease. In addition to his research, he also practices clinically as a general cardiologist and echocardiographer at UCLA Ronald Reagan. He has published over 50 peer reviewed manuscripts and been recognized as an Emerging Leader by the World Heart Federation and a Young Physician-Scientist by the American Society of Clinical Investigation. \n\n\n\n4:00pm - 5:00pm\nVIRTUAL\nCFAR Seminar Speaker: Dr. Florence Momplaisir, MD, MSHP\nTalk Title: Women Involved in Supporting Health (",
-      "url": "https://washington.zoom.us/meeting/register/tn2DJDYRRRGfMqmpnHfNKQ",
-      "start_datetime": "2026-03-05T23:30:00",
-      "end_datetime": "2026-03-06T01:00:00",
-      "timezone": "America/Los_Angeles",
-      "location": "Zoom",
-      "organizer": null,
-      "source": "uw_cfar",
-      "category": "Fred Hutch Center for AIDS Research (CFAR)",
       "tags": [],
       "access_restriction": "Public",
       "registration_url": null,
@@ -469,7 +452,7 @@
     {
       "id": "a5fc866aac33d469",
       "title": "Special K: New kid on the block \u2013 emerging variant impact",
-      "description": "Webinar co-chairsMaria Zambon, UKHSA, London, UK and Frederick Hayden, University of Virginia School of Medicine, VA, USA",
+      "description": "Maria Zambon,UKHSA, London, UKFrederick Hayden,University of Virginia School of Medicine, VA, USA",
       "url": "https://www.isrv.global/events-calendar/special-k-new-kid-on-the-block-emerging-variant-impact/",
       "start_datetime": "2026-03-10T00:00:00",
       "end_datetime": null,
@@ -503,7 +486,7 @@
     {
       "id": "b285ae9d6ae674af",
       "title": "\"Sex and Dissent: Stories of Feminist Resistance in Argentina, Chile, Mexico, and Spain\" by Meaghan Beatley",
-      "description": "Part of the Feminism in Theory and Practice Series.\n\nSex and Dissent: Stories of Feminist Resistance in Argentina, Chile, Mexico, and Spain offers four electrifying and hopeful accounts of feminist uprising that have swept through Latin America and Spain in the wake of #MeToo\u2014and what we can learn from these protest cultures in a fraught moment for democracy in the U.S.\n\nAs women\u2019s rights have faced alarming rollbacks in the United States over the past decade, mass feminist movements beyond our borders have achieved historic victories. Award-winning journalist Meaghan Beatley takes us to the frontlines to tell inspiring stories of resistance and political imagination that will be a vital roadmap in the years to come. A national reckoning over abortion in Argentina; a constitutional rewrite confronting structural inequality in Chile; a high-profile sexual assault case in Spain that sparked wide debate about consent; and in Mexico, student protesters forcing a national spotlight on the epidemic of femicide. \n\nThe product of a decade of immersive reporting, Beatley captures the urgency and creativity of these movements and the women who led a motley crew of former guerrilla fighters, student occupiers, and mothers standing down narco violence. \n\nOrganized by Writer in Residence Moira Donegan, the Feminism in Theory and Practice series welcomes contemporary creators, writers, scholars, and activists whose work challenges gender inequality in urgent and innovative ways.\n\nRSVP for this online event\n\nAuthor Bio:\n\nMeaghan Beatley is a French and U.S. journalist covering feminist movements across Latin America and Spain. Her reporting has appeared in Time, The Guardian, The Atlantic, The Nation, and Foreign Policy. Formerly an editor in Chile and Argentina, she has reported from seven countries and won the One World Media Award for Best Feature. She is fluent in French, English, and Spanish, and her work bridges languages, cultures, and continents.\n\nRSVP for this online even",
+      "description": "Part of the Feminism in Theory and Practice Series.\n\nSex and Dissent: Stories of Feminist Resistance in Argentina, Chile, Mexico, and Spain offers four electrifying and hopeful accounts of feminist uprising that have swept through Latin America and Spain in the wake of #MeToo\u2014and what we can learn from these protest cultures in a fraught moment for democracy in the U.S.\n\nAs women\u2019s rights have faced alarming rollbacks in the United States over the past decade, mass feminist movements beyond our borders have achieved historic victories. Award-winning journalist Meaghan Beatley takes us to the frontlines to tell inspiring stories of resistance and political imagination that will be a vital roadmap in the years to come. A national reckoning over abortion in Argentina; a constitutional rewrite confronting structural inequality in Chile; a high-profile sexual assault case in Spain that sparked wide debate about consent; and in Mexico, student protesters forcing a national spotlight on the epidemic of femicide. \n\nThe product of a decade of immersive reporting, Beatley captures the urgency and creativity of these movements and the women who led a motley crew of former guerrilla fighters, student occupiers, and mothers standing down narco violence. \n\nOrganized by Writer in Residence Moira Donegan, the Feminism in Theory and Practice series welcomes contemporary creators, writers, scholars, and activists whose work challenges gender inequality in urgent and innovative ways.\n\nRSVP for this online event\n\nAuthor Bio:\n\nMeaghan Beatley is a French and U.S. journalist covering feminist movements across Latin America and Spain. Her reporting has appeared in Time, The Guardian, The Atlantic, The Nation, and Foreign Policy. Formerly an editor in Chile and Argentina, she has reported from seven countries and won the One World Media Award for Best Feature. She is fluent in French, English, and Spanish, and her work bridges languages, cultures, and continents.",
       "url": "https://events.stanford.edu/event/feminism-in-theory-and-practice-featuring-meaghan-beatley-author-sex-and-dissent",
       "start_datetime": "2026-03-11T19:00:00",
       "end_datetime": "2026-03-11T20:00:00",
@@ -671,6 +654,23 @@
       "recording_url": null
     },
     {
+      "id": "0eb0b40e9d86f2cd",
+      "title": "Public Health Workforce Pipeline | Passport into Public Health Webinar Series: Destination CHW",
+      "description": null,
+      "url": "https://tephi.texas.gov/events/event?id=c7280133-c84d-4d82-b546-6904adee73b5",
+      "start_datetime": "2026-03-25T10:00:00",
+      "end_datetime": null,
+      "timezone": "America/Chicago",
+      "location": "Virtual",
+      "organizer": "Texas EPHI",
+      "source": "tephi_events",
+      "category": "TEPHI",
+      "tags": [],
+      "access_restriction": "Public",
+      "registration_url": null,
+      "recording_url": null
+    },
+    {
       "id": "e376f7962136f9db",
       "title": "WHO Antimicrobial Resistance Learning Programme - Learning 4 Impact Lab Global consultation meeting 2026",
       "description": "WHO\u2019s antimicrobial resistance (AMR) Department and WHO Academy are planning a consultation meeting for a multi-year AMR learning and health workforce capacity building programme in collaboration with key partners.",
@@ -699,23 +699,6 @@
       "organizer": null,
       "source": "iasusa_webinars",
       "category": "IAS-USA",
-      "tags": [],
-      "access_restriction": "Public",
-      "registration_url": null,
-      "recording_url": null
-    },
-    {
-      "id": "133f3056b6de9a6d",
-      "title": "TEPHI Grand Rounds | Hepatitis B and Recent Updates in Pediatric Immunization Schedules",
-      "description": null,
-      "url": "https://tephi.texas.gov/events/event?id=c3d1758d-9c34-49d6-a6f4-6ce05c8a1308",
-      "start_datetime": "2026-03-31T15:00:00",
-      "end_datetime": null,
-      "timezone": "America/Chicago",
-      "location": "Virtual",
-      "organizer": "Texas EPHI",
-      "source": "tephi_events",
-      "category": "TEPHI",
       "tags": [],
       "access_restriction": "Public",
       "registration_url": null,
