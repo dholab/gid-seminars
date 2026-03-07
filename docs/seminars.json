@@ -2,7 +2,7 @@
   "metadata": {
     "title": "GID Seminars Feed",
     "description": "Aggregated seminars and webinars for Global Infectious Disease research",
-    "generated_at": "2026-03-06T06:15:56.093118Z",
+    "generated_at": "2026-03-07T06:10:45.037891Z",
     "time_window": {
       "days_behind": 30,
       "days_ahead": 30
@@ -586,10 +586,10 @@
       "recording_url": null
     },
     {
-      "id": "c78554dd28045860",
-      "title": "BIC Workshop - Part 1",
-      "description": "Event interval: Single day event\nCampus location: Hans Rosling Center for Population Health (HRC)\nCampus room: HRC 101\nAccessibility Contact: g0201@uw.edu\nEvent Types: Workshops\nEvent sponsors: CFAR Behavioral Innovations Core\n\nTBD!",
-      "url": null,
+      "id": "3e665f0751be3ee5",
+      "title": "REDCap Workshop Series - Part 1",
+      "description": "Event interval: Single day event\nCampus location: Hans Rosling Center for Population Health (HRC)\nCampus room: HRC 101\nAccessibility Contact: g0201@uw.edu\nEvent Types: Workshops\nEvent sponsors: CFAR Behavioral Innovations Core\n\nFriday, March 20, 2026 | 2:30pm-4:30pm\n\nRegister here: \nhttps://app.smartsheet.com/b/form/019cc43ab8c875428c299f4b1ac85095!\n \n--------------------------------------------------------------------------------\n\nThis course is targeted to individuals who are new to REDCap or would like to gain more experience with the REDCap system. In this two hour course, we will use REDCap to demonstrate and practice entering, storing, and managing epidemiologic data. To join the workshop, please register using the link above. \n*This event will not be recorded or available on Zoom as it is structured as an in-person workshop*",
+      "url": "https://app.smartsheet.com/b/form/019cc43ab8c875428c299f4b1ac85095",
       "start_datetime": "2026-03-20T21:30:00",
       "end_datetime": "2026-03-20T23:30:00",
       "timezone": "America/Los_Angeles",
@@ -707,7 +707,7 @@
     {
       "id": "a8eb19cea256ae17",
       "title": "CFAR Seminar with Dr. Gregg Gonsalves - April 2, 2026",
-      "description": "Event interval: Single day event\nOnline Meeting Link: https://washington.zoom.us/meeting/register/hC13xdiQS4OKvW_Mh77qkA\nCampus room: Pelton Auditorium\nAccessibility Contact: cfar@uw.edu\nEvent Types: Lectures/Seminars\n\nREGISTER NOW!\nRegister via this link for virtual attendance\nzoom registration: \nhttps://washington.zoom.us/meeting/register/hC13xdiQS4OKvW_Mh77qkA\n--------------------------------------------------------------------------------\n4:00pm - 5:00pm\nVIRTUAL\nCFAR Seminar Speaker: Gregg Gonsalves",
+      "description": "Event interval: Single day event\nOnline Meeting Link: https://washington.zoom.us/meeting/register/hC13xdiQS4OKvW_Mh77qkA\nCampus room: Pelton Auditorium\nAccessibility Contact: cfar@uw.edu\nEvent Types: Lectures/Seminars\n\nREGISTER NOW!\nRegister via this link for virtual attendance\nzoom registration: \nhttps://washington.zoom.us/meeting/register/hC13xdiQS4OKvW_Mh77qkA\n--------------------------------------------------------------------------------\n4:00pm - 5:00pm\nVIRTUAL\nCFAR Seminar Speaker: Gregg Gonsalves\nTalk Title and Bio TBA!",
       "url": "https://washington.zoom.us/meeting/register/hC13xdiQS4OKvW_Mh77qkA",
       "start_datetime": "2026-04-02T23:00:00",
       "end_datetime": "2026-04-03T00:00:00",
