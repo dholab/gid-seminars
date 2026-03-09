@@ -2,12 +2,12 @@
   "metadata": {
     "title": "GID Seminars Feed",
     "description": "Aggregated seminars and webinars for Global Infectious Disease research",
-    "generated_at": "2026-03-08T06:14:13.238833Z",
+    "generated_at": "2026-03-09T06:23:09.607718Z",
     "time_window": {
       "days_behind": 30,
       "days_ahead": 30
     },
-    "total_events": 44,
+    "total_events": 43,
     "sources": [
       "astmh_events",
       "avac_events",
@@ -58,23 +58,6 @@
     ]
   },
   "events": [
-    {
-      "id": "55cf0c491a8182bc",
-      "title": "TWiV 1294: Clinical update with Dr. Daniel Griffin",
-      "description": "[Podcast: This Week in Virology]\n\nIn his weekly clinical update during Ground hog week, Dr. Griffin and Vincent Racaniello are back to discuss the measles outbreak in South Carolina, American Academy of Pediatrics vaccine recommendations and shingles vaccine and the reduction of dementia, then deep dives into recent statistics RSV, influenza and SARS-CoV-2 infections, the Wastewater Scan dashboard, Johns Hopkins measles tracker, where to find PEMGARDA, how to access and pay for Paxlovid, estimated effectiveness of this year\u2019s COVID-19 vaccine, long COVID treatment center, where to go for answers to your long COVID questions, long COVID in children, the potential benefits of metformin to reduce disease severity following SARS-CoV-2 infection in obese and overweight patients and contacting your federal government representative to stop the assault on science and biomedical research. Click arrow to play Download&nbsp; TWiV 1294 (34 MB .mp3, 57 min) Subscribe (free):&nbsp; Apple Podcasts , RSS ,&nbsp; email Become a&nbsp; patron &nbsp;of&nbsp;TWiV! Links for this episode Grading the groundhogs (National Oceanic and Atmospheric Administration) 9:19 Sand Mountain Sam predicts an early spring (News19) 7:15 All About the AAP Recommended Immunization Schedule (healthychildren.org) 11:02 Recommended Childhood and Adolescent Immunization Schedule: United States, 2026: Policy Statement (American Academy of Pediatrics: Pediatrics) 11:02 Herpes zoster vaccination and incident dementia in Canada: an analysis of natural expe",
-      "url": "https://www.microbe.tv/twiv/twiv-1294/",
-      "start_datetime": "2026-02-07T05:00:00",
-      "end_datetime": null,
-      "timezone": "UTC",
-      "location": "Podcast",
-      "organizer": "This Week in Virology",
-      "source": "twiv_podcast",
-      "category": "Podcast - TWiV",
-      "tags": [],
-      "access_restriction": "Public",
-      "registration_url": null,
-      "recording_url": null
-    },
     {
       "id": "e9803189dfa5e3c4",
       "title": "TWiV 1295: Are YOU willing to take one for the team?",
@@ -741,12 +724,12 @@
     {
       "id": "a8eb19cea256ae17",
       "title": "CFAR Seminar with Dr. Gregg Gonsalves - April 2, 2026",
-      "description": "Event interval: Single day event\nOnline Meeting Link: https://washington.zoom.us/meeting/register/hC13xdiQS4OKvW_Mh77qkA\nCampus room: Pelton Auditorium\nAccessibility Contact: cfar@uw.edu\nEvent Types: Lectures/Seminars\n\nREGISTER NOW!\nRegister via this link for virtual attendance\nzoom registration: \nhttps://washington.zoom.us/meeting/register/hC13xdiQS4OKvW_Mh77qkA\n--------------------------------------------------------------------------------\n4:00pm - 5:00pm\nVIRTUAL\nCFAR Seminar Speaker: Gregg Gonsalves\nTalk Title and Bio TBA!",
+      "description": "Event interval: Single day event\nOnline Meeting Link: https://washington.zoom.us/meeting/register/hC13xdiQS4OKvW_Mh77qkA\nCampus room: Pelton Auditorium\nAccessibility Contact: cfar@uw.edu\nEvent Types: Lectures/Seminars\n\nREGISTER NOW!\n\nRegister via this link for in-person attendance\nin-person registration: \nhttps://app.smartsheet.com/b/form/019ccf81faa77e6d85ad09265e292660\n\nRegister via this link for virtual attendance\nzoom registration: \nhttps://washington.zoom.us/meeting/register/hC13xdiQS4OKvW_Mh77qkA\n--------------------------------------------------------------------------------\n4:00pm - 5:00pm\nIN-PERSON\nCFAR Seminar Speaker: Gregg Gonsalves, PhD\nTalk title: I Will Bear Witness: Policy Modeling in Perilous Times\n\nGregg Gonsalves is a Professor (as of July 1) in the Department of the Epidemiology of Microbial Diseases at Yale School of Public Health, in the Public Health Modeling Unit and a Professor (Adjunct) at Yale Law School. At Yale, he also co-directs the Global Health Justice Partnership, an initiative of YSPH and YLS, working at the intersections of health and human rights and social justice. For over 35 years, he has been an AIDS activist, working first with the AIDS Coalition to Unleash Power (ACT UP) in Boston and New York, then co-founding the Treatment Action Group (TAG) and the International Treatment Preparedness Coalition (ITPC). He has also worked with Gay Men\u2019s Health Crisis in New York and the AIDS and Rights Alliance for Southern Africa in Cape Town. He is a 2018 MacArthur Fellow.",
       "url": "https://washington.zoom.us/meeting/register/hC13xdiQS4OKvW_Mh77qkA",
       "start_datetime": "2026-04-02T23:00:00",
       "end_datetime": "2026-04-03T00:00:00",
       "timezone": "America/Los_Angeles",
-      "location": "Pelton Auditorium at Fred Hutch, 1100 Fairview Ave N, Seattle, WA 98109",
+      "location": "Fred Hutchinson Cancer Center, Weintraub Building, Pelton Auditorium, 1100 Fairview Ave N, Seattle, WA 98109, (Zoom option Available)",
       "organizer": null,
       "source": "uw_cfar",
       "category": "Fred Hutch Center for AIDS Research (CFAR)",
