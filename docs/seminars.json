@@ -2,12 +2,12 @@
   "metadata": {
     "title": "GID Seminars Feed",
     "description": "Aggregated seminars and webinars for Global Infectious Disease research",
-    "generated_at": "2026-03-10T06:16:01.828928Z",
+    "generated_at": "2026-03-11T06:17:28.453383Z",
     "time_window": {
       "days_behind": 30,
       "days_ahead": 30
     },
-    "total_events": 46,
+    "total_events": 45,
     "sources": [
       "astmh_events",
       "avac_events",
@@ -53,45 +53,10 @@
       "University - UCSF",
       "University - USask",
       "University - UW-Madison",
-      "WHO",
-      "Workshop"
+      "WHO"
     ]
   },
   "events": [
-    {
-      "id": "e9803189dfa5e3c4",
-      "title": "TWiV 1295: Are YOU willing to take one for the team?",
-      "description": "[Podcast: This Week in Virology]\n\nTWiV reviews a survey conducted in Cambodia&#8217;s floating villages to explore measles vaccination perceptions and willingness to consider novel vaccination approaches, and how a prophage defends against an infecting phage. Hosts:&nbsp; Vincent Racaniello , Rich Condit , Brianne Barker, and Jolene Ramsey Click arrow to play Download TWiV 1295 (66 MB .mp3, 110 min) Subscribe (free):&nbsp; Apple Podcasts ,&nbsp; RSS ,&nbsp; email Become a&nbsp; patron &nbsp;of&nbsp;TWiV! Links for this episode Support science education at MicrobeTV 2:47 ASV 2026 3:59 Positions in Rosenfeld Lab (email) 3:12 Update on US measles outbreak (npr) 4:42 Tracking Poll on Trust in the CDC and Views of Federal Childhood Vaccine Schedule Changes (KFF) 8:22 Measles vaccination perceptions in Cambodia (J Virol) 15:12 Prophage defends against infecting phage (Cell Host Micro) 39:47 Letters read on TWiV 1295 1:24:29 Timestamps by&nbsp; Jolene Ramsey. Thanks! Weekly Picks 1:34:17 Brianne &#8211; Libib book cataloging app Rich &#8211; The Mysterious Case of Rudolf Diesel: Genius, Power, and Deception on the Eve of World War I by Douglas Brunt Jolene &#8211; Ellie Jameson artwork and Redbubble Vincent &#8211; Recursion by Blake Crouch Intro music is by&nbsp; Ronald Jenkees Send your virology questions and comments to twiv@microbe.tv Content in this podcast should not be construed as medical advice. The post TWiV 1295: Are YOU willing to take one for the team? first appeared on This Week in Virology .",
-      "url": "https://www.microbe.tv/twiv/twiv-1295/",
-      "start_datetime": "2026-02-08T12:20:21",
-      "end_datetime": null,
-      "timezone": "UTC",
-      "location": "Podcast",
-      "organizer": "This Week in Virology",
-      "source": "twiv_podcast",
-      "category": "Podcast - TWiV",
-      "tags": [],
-      "access_restriction": "Public",
-      "registration_url": null,
-      "recording_url": null
-    },
-    {
-      "id": "c520275de0a72339",
-      "title": "Winter Global Health Club Mapathon",
-      "description": "This event is part of Love Data Week at Stanford, an annual festival highlighting topics, opportunities and services relevant to data in research. \n\nJoin us in mapping a high-priority global health project, helping organizations like Doctors without Borders and the Red Cross deliver vital aid to at-risk communities around the world. In just 20 minutes, you'll join a movement of over 100K volunteers across the world using Humanitarian OpenStreetMap (HOTOSM). \n\nIn our Winter Mapathon, we\u2019ll be using satellite imagery and simple online GIS tools to trace building outlines, creating detailed digital maps of unmapped areas. Last spring, we mapped 2084 buildings in Malawi and hope to break that record! This Winter, we\u2019ll be mapping a high-priority global health project that helps organizations like Doctors Without Borders and the Red Cross deliver vital, life-saving aid. Through Missing Maps, these efforts are sustained in collaboration with local communities, ensuring long-term resilience in the regions we map.\n\nREGISTER HERE: https://luma.com/iekdb0rh\n\nOpen to all Stanford affiliates in person or over Zoom & dinner will be provided!Non-Stanford affiliates may join us over Zoom! \nZoom: https://stanford.zoom.us/j/91622371366?pwd=ytaMaENiIgaR6rnR7HScVgPwA2NpRr.1&from=addon\n\nWhat is a Mapathon? Accurate maps are essential for humanitarian responses and global health\u2014yet many communities remain unmapped. Missing Maps is a humanitarian initiative started in 2014 to address this critical gap by mapping crucial infrastructure in underrepresented areas, often through collaborative \u201cMapathon\u201d events. The maps created help emergency responders reach communities during natural disasters, enable healthcare workers to organize vaccination campaigns, and support NGOs in developing resilient infrastructure. \n\nSo, join us for an evening of impact on Monday February 9th from 6-8 pm in Branner Earth Sciences Library. No prior experience is necessary\u2014mapping is easy to learn in just 20 min",
-      "url": "https://events.stanford.edu/event/global-health-club-mapathon-2026",
-      "start_datetime": "2026-02-10T02:00:00",
-      "end_datetime": "2026-02-10T04:00:00",
-      "timezone": "America/Los_Angeles",
-      "location": "Mitchell Earth Sciences, Branner Earth Sciences Library & Map Collections",
-      "organizer": null,
-      "source": "stanford_virtual",
-      "category": "Workshop",
-      "tags": [],
-      "access_restriction": "Public",
-      "registration_url": null,
-      "recording_url": null
-    },
     {
       "id": "4c486e829d3d7506",
       "title": "The Educational Impacts of School Phone Bans",
@@ -450,23 +415,6 @@
       "recording_url": null
     },
     {
-      "id": "47c8e43b6c087185",
-      "title": "CFAR & PHSKC Lunchbox Talk with Hannah Collins",
-      "description": "Event interval: Single day event\nOnline Meeting Link: https://washington.zoom.us/meeting/register/MJFRRfkRQG-EyHSAK9EIig\nAccessibility Contact: g0201@uw.edu\nEvent Types: Lectures/Seminars\nEvent sponsors: CFAR and Public Health - Seattle King County\n\nSpeaker: Hannah Collins, MPH\nTalk Title: Racial disparities in Opioid Use Outcomes: Compiling the Evidence Across King County Data Systems\nBio: Hannah Collins, MPH, is an Epidemiologist at Public Health - Seattle & King County (PHSKC). Hannah holds an MPH from the University of California, Berkeley School of Public Health and was previously a CSTE Applied Epidemiology Fellow. Hannah\u2019s work at PHSKC includes monitoring overdose and substance use-related data, evaluating overdose prevention and harm reduction programs, and disseminating data through a variety of methods.",
-      "url": "https://washington.zoom.us/meeting/register/MJFRRfkRQG-EyHSAK9EIig",
-      "start_datetime": "2026-03-10T19:00:00",
-      "end_datetime": "2026-03-10T20:00:00",
-      "timezone": "America/Los_Angeles",
-      "location": "Online",
-      "organizer": null,
-      "source": "uw_cfar",
-      "category": "Fred Hutch Center for AIDS Research (CFAR)",
-      "tags": [],
-      "access_restriction": "Public",
-      "registration_url": null,
-      "recording_url": null
-    },
-    {
       "id": "b285ae9d6ae674af",
       "title": "\"Sex and Dissent: Stories of Feminist Resistance in Argentina, Chile, Mexico, and Spain\" by Meaghan Beatley",
       "description": "Part of the Feminism in Theory and Practice Series.\n\nSex and Dissent: Stories of Feminist Resistance in Argentina, Chile, Mexico, and Spain offers four electrifying and hopeful accounts of feminist uprising that have swept through Latin America and Spain in the wake of #MeToo\u2014and what we can learn from these protest cultures in a fraught moment for democracy in the U.S.\n\nAs women\u2019s rights have faced alarming rollbacks in the United States over the past decade, mass feminist movements beyond our borders have achieved historic victories. Award-winning journalist Meaghan Beatley takes us to the frontlines to tell inspiring stories of resistance and political imagination that will be a vital roadmap in the years to come. A national reckoning over abortion in Argentina; a constitutional rewrite confronting structural inequality in Chile; a high-profile sexual assault case in Spain that sparked wide debate about consent; and in Mexico, student protesters forcing a national spotlight on the epidemic of femicide. \n\nThe product of a decade of immersive reporting, Beatley captures the urgency and creativity of these movements and the women who led a motley crew of former guerrilla fighters, student occupiers, and mothers standing down narco violence. \n\nOrganized by Writer in Residence Moira Donegan, the Feminism in Theory and Practice series welcomes contemporary creators, writers, scholars, and activists whose work challenges gender inequality in urgent and innovative ways.\n\nRSVP for this online event\n\nAuthor Bio:\n\nMeaghan Beatley is a French and U.S. journalist covering feminist movements across Latin America and Spain. Her reporting has appeared in Time, The Guardian, The Atlantic, The Nation, and Foreign Policy. Formerly an editor in Chile and Argentina, she has reported from seven countries and won the One World Media Award for Best Feature. She is fluent in French, English, and Spanish, and her work bridges languages, cultures, and continents.",
@@ -597,6 +545,23 @@
       "organizer": "World Health Organization",
       "source": "who_events",
       "category": "WHO",
+      "tags": [],
+      "access_restriction": "Public",
+      "registration_url": null,
+      "recording_url": null
+    },
+    {
+      "id": "18b4e2689ae073c8",
+      "title": "CFAS Seminar March 2026: Partner Treatment for Bacterial Vaginosis with Jen Balkus, PhD, MPH",
+      "description": "Event interval: Single day event\nAccessibility Contact: cfas@uw.edu\nEvent Types: Lectures/Seminars\n\nWe welcome your attendance at the March 2026 UW Center for AIDS & STD (CFAS): \nhttp://depts.washington.edu/cfas/ Research Seminar. \n \nPlease join us on Thursday, March 19, 2026 at 4 PM PST on Zoom. \nFor Zoom info: Please email CFAS@uw.edu or click here to be added to the mailing list: \nhttp://docs.google.com/forms/d/e/1FAIpQLSeBLOZoWLDhU5wTra_LeNAbN5iAfoW1ARO4E9Z2pFKtHRpXLA/viewform. \n\n\"Partner Treatment for Bacterial Vaginosis: Questions and Considerations for Implementation in the US Context\" \n\nJen Balkus, PhD, MPH\nClinical Associate Professor, Epidemiology\nUniversity of Washington",
+      "url": "http://depts.washington.edu/cfas/",
+      "start_datetime": "2026-03-19T23:00:00",
+      "end_datetime": "2026-03-20T00:00:00",
+      "timezone": "America/Los_Angeles",
+      "location": "Zoom",
+      "organizer": null,
+      "source": "uw_cfar",
+      "category": "Fred Hutch Center for AIDS Research (CFAR)",
       "tags": [],
       "access_restriction": "Public",
       "registration_url": null,
@@ -830,6 +795,23 @@
       "url": "https://www.who.int/news-room/events/detail/2026/04/07/default-calendar/world-health-day-2026-together-for-health-stand-with-science",
       "start_datetime": "2026-04-07T00:00:00",
       "end_datetime": "2026-04-08T00:00:00",
+      "timezone": "UTC",
+      "location": "Online/Geneva",
+      "organizer": "World Health Organization",
+      "source": "who_events",
+      "category": "WHO",
+      "tags": [],
+      "access_restriction": "Public",
+      "registration_url": null,
+      "recording_url": null
+    },
+    {
+      "id": "3c763ea971655c44",
+      "title": "One Health Festival event: Climate-resilient and low carbon health systems as a practical One Health solution",
+      "description": "Drawing on country experience and initiatives such as the Alliance for Transformative Action on Climate and Health (ATACH) and the B\u00e9lem Health Action Plan, the discussion will focus on climate-resilient and low-carbon health systems, financing and accelerating action across sectors, supportive of a one health approach.",
+      "url": "https://www.who.int/news-room/events/detail/2026/04/09/default-calendar/climate-resilient-and-low-carbon-health-systems-as-a-practical-one-health-solution",
+      "start_datetime": "2026-04-09T09:00:00",
+      "end_datetime": "2026-04-09T11:00:00",
       "timezone": "UTC",
       "location": "Online/Geneva",
       "organizer": "World Health Organization",
