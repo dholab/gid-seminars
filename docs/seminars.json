@@ -2,12 +2,12 @@
   "metadata": {
     "title": "GID Seminars Feed",
     "description": "Aggregated seminars and webinars for Global Infectious Disease research",
-    "generated_at": "2026-03-11T06:17:28.453383Z",
+    "generated_at": "2026-03-12T06:19:00.266388Z",
     "time_window": {
       "days_behind": 30,
       "days_ahead": 30
     },
-    "total_events": 45,
+    "total_events": 43,
     "sources": [
       "astmh_events",
       "avac_events",
@@ -57,40 +57,6 @@
     ]
   },
   "events": [
-    {
-      "id": "4c486e829d3d7506",
-      "title": "The Educational Impacts of School Phone Bans",
-      "description": "Join the Tech Impact and Policy Center on February 10th from 12PM\u20131PM Pacific for a seminar with Guilherme Lichand.\n\nStanford affiliates are invited to join us at 11:40 AM for lunch, prior to the seminar.  The Winter Seminar Series continues through March; see our Winter Seminar Series page for speakers and topics. Sign up for our newsletter for announcements. \n\nAbout the Seminar:\n\nA rapidly expanding literature documents the detrimental effects of excessive cell phone use, particularly on mental health outcomes and attention. While nearly all studies focus on adult populations, many experts have used them to support phone bans in schools \u2013 partially in the hope that these might help reverse declining trends in standardized test scores dating from even before the Covid-19 pandemic. This paper provides first-hand evidence that phone restrictions in schools indeed causally boost K\u201312 learning outcomes. Leveraging the introduction of a policy that banned non-pedagogical uses of cell phones within schools in Rio de Janeiro, Brazil, we contrast schools that already had strict rules on phone use even before the policy (the control group) to all other schools (the treatment group), before and after the ban. We find that, 1.5 year after roll-out, (1) the prevalence of high-usage schools converged across groups; and (2) standardized test scores significantly increased in treatment schools, relative to control: in the former, students learned 0.06 s.d. more \u2013 enough to fully eliminate the baseline gap in test scores across groups.\n\nAbout the Speaker:\n\nGuilherme is an Assistant Professor of Education at Stanford, co-Director at the Stanford Lemann Center for Entrepreneurship and Educational Innovation in Brazil, and a faculty affiliate at the Stanford King Center for Global Development, the Stanford Center on Early Childhood, the Stanford Institute for Advancing Just Societies, and the UC Berkeley Center for Effective Global Action. He holds a PhD in Political Economy and Gove",
-      "url": "https://events.stanford.edu/event/the-educational-impacts-of-school-phone-bans",
-      "start_datetime": "2026-02-10T20:00:00",
-      "end_datetime": "2026-02-10T21:00:00",
-      "timezone": "America/Los_Angeles",
-      "location": "Building 120, McClatchy Hall, Main Quad, Studio S40 - bring your Stanford ID card/mobile ID to enter the building",
-      "organizer": null,
-      "source": "stanford_virtual",
-      "category": "Lecture/Presentation/Talk",
-      "tags": [],
-      "access_restriction": "Public",
-      "registration_url": null,
-      "recording_url": null
-    },
-    {
-      "id": "f39dcce95c42c363",
-      "title": "Fighting Servants: Why Democratic Leaders Politicize Foreign Policy Bureaucracies",
-      "description": "About the event: Why do democratic leaders politicize foreign policy bureaucracies? While existing scholarship recognizes that leaders and bureaucrats often clash, it usually attributes these conflicts to organizational pathologies, principal-agent problems, or policy disagreements. This project develops a theory that explains when leaders attack their foreign policy bureaucracies by installing loyalists, marginalizing or purging careerists, and creating parallel agencies, a strategy I call politicization. It argues that leaders tend to politicize instead of bypassing or coordinating with the bureaucracy when two forces come together: when leaders strongly distrust the bureaucracy, fueled by intense partisan, ideological, and social conflicts, and have enough domestic political power to reshape institutions in their own image.\n\nAbout the speaker: Emily Tallo is the India-U.S. security studies postdoctoral fellow at CISAC. She received her Ph.D. in political science from the University of Chicago in August 2025. Emily\u2019s research centers on the domestic politics of foreign policy, focusing on how leaders, bureaucracies, and political parties shape international politics with a regional emphasis on South Asia. Before academia, Emily was a researcher at the Henry L. Stimson Center\u2019s South Asia program in Washington, DC, and an editor of the online magazine South Asian Voices. Her commentary has been featured in Foreign Policy, The Washington Post\u2019s Monkey Cage blog, and War on the Rocks.",
-      "url": "https://events.stanford.edu/event/fighting-servants-why-democratic-leaders-politicize-foreign-policy-bureaucracies",
-      "start_datetime": "2026-02-10T20:00:00",
-      "end_datetime": "2026-02-10T21:15:00",
-      "timezone": "America/Los_Angeles",
-      "location": "Encina Hall, William J. Perry Conference Room",
-      "organizer": null,
-      "source": "stanford_virtual",
-      "category": "Lecture/Presentation/Talk",
-      "tags": [],
-      "access_restriction": "Public",
-      "registration_url": null,
-      "recording_url": null
-    },
     {
       "id": "f4f15a7483db5682",
       "title": "Encore: Black in ID",
@@ -518,7 +484,7 @@
     },
     {
       "id": "7f39ae24ad7ada87",
-      "title": "WHO EPI-WIN webinar: Preparing for and responding to an influenza pandemic: what is the PIP Framework?",
+      "title": "WHO Health Emergencies EPI-WIN webinar: Preparing for and responding to an influenza pandemic: what is the PIP Framework?",
       "description": "This webinar is aimed to enhance understanding and awareness of the PIP Framework, and its role in advancing equity in pandemic influenza preparedness and response; to highlight its main components; and to engage participants in a discussion on the Framework\u2019s role in strengthening pandemic influenza preparedness and response.",
       "url": "https://www.who.int/news-room/events/detail/2026/03/18/default-calendar/who-epi-win-webinar-preparing-for-and-responding-to-an-influenza-pandemic-what-is-the-pip-framework",
       "start_datetime": "2026-03-18T12:00:00",
@@ -653,23 +619,6 @@
       "recording_url": null
     },
     {
-      "id": "e87a1fc250c7ccc4",
-      "title": "A Tour of Taste: How Evolution Shapes Flavor Perception",
-      "description": "Join Women@Broad in welcoming back Lori Shapiro of Suenos Chocolate for a delicious and interactive exploration of the evolution of chocolate from the cocao tree in tropical forests to the delightful bars on store shelves. Lori will guide us through the human history of cacao consumption, explore the different varietals of cacao, learn how shade grown benefits environmental and human health, and the many physical and mental health benefits of consuming dark chocolate. During this unique event, we will enjoy a selection of bars featuring rare, exceptionally aromatic and flavorful varieties of heirloom cacao.\n \n\nThe event will begin at 11AM on March 24th in Monadnock. Space is limited and is first-come, first-served. All Broadies welcome to attend!\n\n \n\nAbout our host:  Lori Shapiro (\u2018Dr. Chocolate\u2019) is a scientist-turned-chocolatier. She earned her undergraduate degrees from the University of Georgia, her PhD at Penn State University, and completed a postdoctoral fellowship at Harvard. Her academic research integrated ecology, molecular biology and microbial genomics to track the emergence of a plant pathogen into local agro-ecosystems. When she found herself at the classic postdoctoral conundrum of which fork of life's road to pursue after her current contract ended, she chose chocolate! Lori had never forgotten the cacao farm in Ecuador she worked at as part of her undergraduate studies. During her postdoctoral work, she had met several local chocolatiers (Eric Parkes of Somerville Chocolate and Mateo from Prophecy Chocolate) who were direct importers of cacao. In addition to being incredibly encouraging, their support was crucial for navigating permits and licenses. She had kept in touch over the intervening years with the cacao growers in Ecuador who were thrilled at the possibility of exporting to her, and the Sue\u00f1os project began! Luckily, years of troubleshooting molecular biology experiments was incredibly helpful for learning how to consistently temper chocol",
-      "url": "https://events.broadinstitute.org/event/a-tour-of-taste-how-evolution-shapes-flavor-perception",
-      "start_datetime": "2026-03-24T15:00:00",
-      "end_datetime": "2026-03-24T16:00:00",
-      "timezone": "America/New_York",
-      "location": "Merkin Building (415M), Monadnock",
-      "organizer": null,
-      "source": "broad_institute",
-      "category": "Talks",
-      "tags": [],
-      "access_restriction": "Public",
-      "registration_url": null,
-      "recording_url": null
-    },
-    {
       "id": "56172fbc042f7f37",
       "title": "The Injectors of Tomorrow are Here Today",
       "description": null,
@@ -749,6 +698,23 @@
       "organizer": null,
       "source": "uw_cfar",
       "category": "Fred Hutch Center for AIDS Research (CFAR)",
+      "tags": [],
+      "access_restriction": "Public",
+      "registration_url": null,
+      "recording_url": null
+    },
+    {
+      "id": "a27fc2ee69732ec5",
+      "title": "Film screening and discussion on education for a balance between animal, plant and human health - One Health World Summit, Lyon, France",
+      "description": "WHO proposes to its partners in the Quadripartite One Health collaboration (FAO, UNEP, WHO, WOAH) that they jointly organize this screening and discussion on the use of films for health education",
+      "url": "https://www.who.int/news-room/events/detail/2026/04/06/default-calendar/film-screening-and-discussion-on-education-for-a-balance-between-animal--plant-and-human-health---one-health-world-summit",
+      "start_datetime": "2026-04-06T09:30:00",
+      "end_datetime": "2026-04-06T11:30:00",
+      "timezone": "UTC",
+      "location": "Online/Geneva",
+      "organizer": "World Health Organization",
+      "source": "who_events",
+      "category": "WHO",
       "tags": [],
       "access_restriction": "Public",
       "registration_url": null,
