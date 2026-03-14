@@ -2,12 +2,12 @@
   "metadata": {
     "title": "GID Seminars Feed",
     "description": "Aggregated seminars and webinars for Global Infectious Disease research",
-    "generated_at": "2026-03-13T06:18:00.565696Z",
+    "generated_at": "2026-03-14T06:16:37.510936Z",
     "time_window": {
       "days_behind": 30,
       "days_ahead": 30
     },
-    "total_events": 45,
+    "total_events": 46,
     "sources": [
       "astmh_events",
       "avac_events",
@@ -409,6 +409,23 @@
       "organizer": null,
       "source": "broad_institute",
       "category": "Talks",
+      "tags": [],
+      "access_restriction": "Public",
+      "registration_url": null,
+      "recording_url": null
+    },
+    {
+      "id": "9b987b76813fcadf",
+      "title": "TWiV 1304: Clinical update with Dr. Daniel Griffin",
+      "description": "[Podcast: This Week in Virology]\n\nIn his weekly clinical update, Dr. Griffin and Vincent Racaniello discuss the global spread of the \u2018eradicated\u2019 poliovirus, the suggestion of RFK\u2019s autocratic ability to change vaccine policy and the \u2018resignation\u2019 for the second time of CBER director Vinjay Prasad, and zoonotic spillover of viruses without adaptation, before Dr. Griffin deep dives into economic costs of not vaccinating against measles, the measles outbreak in South Carolina, Utah and ICE detention centers, recent statistics RSV, influenza and SARS-CoV-2 infections, the Wasterwater Scan dashboard, Johns Hopkins measles tracker, where to find PEMGARDA, VRPBEC meeting for \u2018flu\u2019 vaccine strain selection, how to access and pay for Paxlovid, closing of long COVID treatment centers globally, and contacting your federal government representative to stop the assault on science and biomedical research. Click arrow to play Download TWiV 1304 (31 MB .mp3, 51 min) Subscribe (free): Apple Podcasts , RSS , email Become a&nbsp; patron &nbsp;of&nbsp;TWiV! Links for this episode Polio : Practice enhanced precautions\u2026..but isn\u2019t it eradicated? (CDC: Travelers\u2019 Health) RFK Jr has &#8216; unreviewable &#8216; authority to reshape vaccine policy, DOJ lawyer tells judge\u2026.\u2019unreviewable\u2019 is not even a word! (Reuters) Stark Divide: Americans More Confident in Career Scientists at U.S. Health Agencies Than Leaders (Annenberg: Public Policy Center, University of Pennsylvania) Divisive F.D.A. Vaccine Regulator Is Resigning\u2026..for the seco",
+      "url": "https://www.microbe.tv/twiv/twiv-1304/",
+      "start_datetime": "2026-03-14T04:00:00",
+      "end_datetime": null,
+      "timezone": "UTC",
+      "location": "Podcast",
+      "organizer": "This Week in Virology",
+      "source": "twiv_podcast",
+      "category": "Podcast - TWiV",
       "tags": [],
       "access_restriction": "Public",
       "registration_url": null,
