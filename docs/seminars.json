@@ -2,7 +2,7 @@
   "metadata": {
     "title": "GID Seminars Feed",
     "description": "Aggregated seminars and webinars for Global Infectious Disease research",
-    "generated_at": "2026-03-15T06:21:50.530262Z",
+    "generated_at": "2026-03-16T06:33:36.211289Z",
     "time_window": {
       "days_behind": 30,
       "days_ahead": 30
@@ -57,23 +57,6 @@
     ]
   },
   "events": [
-    {
-      "id": "f4f15a7483db5682",
-      "title": "Encore: Black in ID",
-      "description": "[Podcast: Let's Talk ID] Duration: 3066\n\nIn a special encore presentation in honor of Black History Month, Let\u2019s Talk ID host and IDSA Board member Mati Hlatshwayo Davis, MD, MPH, FIDSA, speaks with HIVMA Chair Allison Agwu, MD, ScM, FIDSA, HIVMA Immediate Past Chair Michelle Cespedes, MD, MS, and Darrell McBride, DO, about their experiences as Black infectious diseases physicians.",
-      "url": "https://www.buzzsprout.com/2019912/episodes/18676750-encore-black-in-id.mp3",
-      "start_datetime": "2026-02-14T00:00:00",
-      "end_datetime": null,
-      "timezone": "UTC",
-      "location": "Podcast",
-      "organizer": "Let's Talk ID",
-      "source": "idsa_podcast",
-      "category": "Podcast - IDSA",
-      "tags": [],
-      "access_restriction": "Public",
-      "registration_url": null,
-      "recording_url": null
-    },
     {
       "id": "02aea3015915498c",
       "title": "TWiV 1296: Clinical update with Dr. Daniel Griffin",
@@ -885,6 +868,23 @@
       "organizer": null,
       "source": "ucsf_qbi_pasteur",
       "category": "University - UCSF",
+      "tags": [],
+      "access_restriction": "Public",
+      "registration_url": null,
+      "recording_url": null
+    },
+    {
+      "id": "8c606de237c2595e",
+      "title": "Overview of PCC & PCC Symptoms",
+      "description": "Post-COVID Condition webinar series by University of Saskatchewan. Presenters: Dr. Donna Goodridge, RN, Ph.D and Kelly Corrine (KC) Hall, MPH, CHES",
+      "url": "https://usask-ca.zoom.us/meeting/register/y7_V0-FTSAenzuFQuqWNwQ",
+      "start_datetime": "2026-04-14T12:00:00",
+      "end_datetime": null,
+      "timezone": "America/Regina",
+      "location": "Online (Zoom)",
+      "organizer": "University of Saskatchewan",
+      "source": "usask_pcc",
+      "category": "University - USask",
       "tags": [],
       "access_restriction": "Public",
       "registration_url": null,
