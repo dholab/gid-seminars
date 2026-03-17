@@ -2,12 +2,12 @@
   "metadata": {
     "title": "GID Seminars Feed",
     "description": "Aggregated seminars and webinars for Global Infectious Disease research",
-    "generated_at": "2026-03-16T06:33:36.211289Z",
+    "generated_at": "2026-03-17T06:24:01.956014Z",
     "time_window": {
       "days_behind": 30,
       "days_ahead": 30
     },
-    "total_events": 49,
+    "total_events": 51,
     "sources": [
       "astmh_events",
       "avac_events",
@@ -57,23 +57,6 @@
     ]
   },
   "events": [
-    {
-      "id": "02aea3015915498c",
-      "title": "TWiV 1296: Clinical update with Dr. Daniel Griffin",
-      "description": "[Podcast: This Week in Virology]\n\nIn his weekly clinical update, Dr. Griffin and Vincent Racaniello are shocked by recent events, including Dr. Oz\u2019s appeal for measles vaccination, Vinjay Prasad\u2019s unilateral rejection of Moderna\u2019s mRNA influenza vaccine application, and the increasing number of New World screw worm cases, then Dr. Griffin then deep dives into recent statistics on RSV, influenza and SARS-CoV-2 infections, the Wasterwater Scan dashboard, Johns Hopkins measles tracker, where to find PEMGARDA, how to access and pay for Paxlovid, the number of measles deaths in Mexico, long COVID treatment center, where to go for answers to your long COVID questions, choroid plexus alterations in long COVID association with neuropathologies and contacting your federal government representative to stop the assault on science and biomedical research. Click arrow to play Download&nbsp; TWiV 1296 (28 MB .mp3, 47 min) Subscribe (free):&nbsp; Apple Podcasts , RSS ,&nbsp; email Become a&nbsp; patron &nbsp;of&nbsp;TWiV! Links for this episode How Dr. Oz&#8217;s appeal to get measles vaccine may differ from RFK Jr.&#8217;s messaging (ABC News) 2:54 FDA reverses course, refuses to review Moderna\u2019s application for new mRNA flu vaccine (CIDRAP) 4:18 Hepatitis B Vaccination at Birth: Safety, Effectiveness, and Public Health Benefit (American Academy of Pediatrics: Pediatrics) 8:48 US Olympic Committee remains \u2018dialed in\u2019 to prevent spread of stomach illness at Winter Games (CNN) 13:31 Oz promotes measles vaccination (NY Times;",
-      "url": "https://www.microbe.tv/twiv/twiv-1296/",
-      "start_datetime": "2026-02-14T12:06:57",
-      "end_datetime": null,
-      "timezone": "UTC",
-      "location": "Podcast",
-      "organizer": "This Week in Virology",
-      "source": "twiv_podcast",
-      "category": "Podcast - TWiV",
-      "tags": [],
-      "access_restriction": "Public",
-      "registration_url": null,
-      "recording_url": null
-    },
     {
       "id": "ee8f64657bbb0215",
       "title": "TWiV 1297: Spillover squirrel",
@@ -602,6 +585,23 @@
       "recording_url": null
     },
     {
+      "id": "9571b4c9ba310cfb",
+      "title": "Sixth meeting of the Intergovernmental Working Group (IGWG) on the WHO Pandemic Agreement",
+      "description": "The sixth meeting of the Intergovernmental Working Group (IGWG) on the WHO Pandemic Agreement will be conducted in hybrid format during 23\u201328 March 2026.",
+      "url": "https://www.who.int/news-room/events/detail/2026/03/23/default-calendar/sixth-meeting-of-the-intergovernmental-working-group-(igwg)-on-the-who-pandemic-agreement",
+      "start_datetime": "2026-03-23T00:00:00",
+      "end_datetime": "2026-03-29T00:00:00",
+      "timezone": "UTC",
+      "location": "Online/Geneva",
+      "organizer": "World Health Organization",
+      "source": "who_events",
+      "category": "WHO",
+      "tags": [],
+      "access_restriction": "Public",
+      "registration_url": null,
+      "recording_url": null
+    },
+    {
       "id": "d8204e84b20b19de",
       "title": "World TB Day 2026: Yes! We can end TB: Led by countries, powered by people",
       "description": "The theme of World TB Day 2026 - \u2018Yes! We can end TB!\u2019 -  is a bold call to action and a message of hope, affirming that it is possible to get back on track and turn the tide on the TB epidemic, even in a challenging global environment.",
@@ -681,6 +681,23 @@
       "organizer": "World Health Organization",
       "source": "who_events",
       "category": "WHO",
+      "tags": [],
+      "access_restriction": "Public",
+      "registration_url": null,
+      "recording_url": null
+    },
+    {
+      "id": "0cfe127fd94a4ad6",
+      "title": "HIV Prevention 2030: A Global Access Framework for Country-Led Responses dissemination webinar",
+      "description": null,
+      "url": "https://avac.org/event/hiv-prevention-2030/",
+      "start_datetime": "2026-03-31T00:00:00",
+      "end_datetime": null,
+      "timezone": "America/New_York",
+      "location": "Online",
+      "organizer": "AVAC",
+      "source": "avac_events",
+      "category": "AVAC",
       "tags": [],
       "access_restriction": "Public",
       "registration_url": null,
@@ -885,6 +902,23 @@
       "organizer": "University of Saskatchewan",
       "source": "usask_pcc",
       "category": "University - USask",
+      "tags": [],
+      "access_restriction": "Public",
+      "registration_url": null,
+      "recording_url": null
+    },
+    {
+      "id": "89095baab8528a0e",
+      "title": "Immunization Guidance for People With HIV: Where Do You Go and Who Do You Trust?",
+      "description": null,
+      "url": "https://www.iasusa.org/events/webinar-2026-thompson/",
+      "start_datetime": "2026-04-15T10:00:00",
+      "end_datetime": null,
+      "timezone": "America/Los_Angeles",
+      "location": "Online",
+      "organizer": null,
+      "source": "iasusa_webinars",
+      "category": "IAS-USA",
       "tags": [],
       "access_restriction": "Public",
       "registration_url": null,
