@@ -2,12 +2,12 @@
   "metadata": {
     "title": "GID Seminars Feed",
     "description": "Aggregated seminars and webinars for Global Infectious Disease research",
-    "generated_at": "2026-03-19T06:22:26.916338Z",
+    "generated_at": "2026-03-20T06:19:13.985582Z",
     "time_window": {
       "days_behind": 30,
       "days_ahead": 30
     },
-    "total_events": 51,
+    "total_events": 50,
     "sources": [
       "astmh_events",
       "avac_events",
@@ -415,23 +415,6 @@
       "recording_url": null
     },
     {
-      "id": "18b4e2689ae073c8",
-      "title": "CFAS Seminar March 2026: Partner Treatment for Bacterial Vaginosis with Jen Balkus, PhD, MPH",
-      "description": "Event interval: Single day event\nAccessibility Contact: cfas@uw.edu\nEvent Types: Lectures/Seminars\n\nWe welcome your attendance at the March 2026 UW Center for AIDS & STD (CFAS): \nhttp://depts.washington.edu/cfas/ Research Seminar. \n \nPlease join us on Thursday, March 19, 2026 at 4 PM PST on Zoom. \nFor Zoom info: Please email CFAS@uw.edu or click here to be added to the mailing list: \nhttp://docs.google.com/forms/d/e/1FAIpQLSeBLOZoWLDhU5wTra_LeNAbN5iAfoW1ARO4E9Z2pFKtHRpXLA/viewform. \n\n\"Partner Treatment for Bacterial Vaginosis: Questions and Considerations for Implementation in the US Context\" \n\nJen Balkus, PhD, MPH\nClinical Associate Professor, Epidemiology\nUniversity of Washington",
-      "url": "http://depts.washington.edu/cfas/",
-      "start_datetime": "2026-03-19T23:00:00",
-      "end_datetime": "2026-03-20T00:00:00",
-      "timezone": "America/Los_Angeles",
-      "location": "Zoom",
-      "organizer": null,
-      "source": "uw_cfar",
-      "category": "Fred Hutch Center for AIDS Research (CFAR)",
-      "tags": [],
-      "access_restriction": "Public",
-      "registration_url": null,
-      "recording_url": null
-    },
-    {
       "id": "59db066ca5124571",
       "title": "Forward in SYNChronicity through Research and Care",
       "description": null,
@@ -670,6 +653,23 @@
       "recording_url": null
     },
     {
+      "id": "7bad0ffa92a08364",
+      "title": "One Health Summit, Lyon, France, 5-7 April 2026",
+      "description": "\ufeffThe One Health Summit will take place in Lyon, France, with the High-Level Summit on 7 April, coinciding with World Health Day.",
+      "url": "https://www.who.int/news-room/events/detail/2026/04/05/default-calendar/one-health-summit",
+      "start_datetime": "2026-04-05T00:00:00",
+      "end_datetime": "2026-04-08T00:00:00",
+      "timezone": "UTC",
+      "location": "Online/Geneva",
+      "organizer": "World Health Organization",
+      "source": "who_events",
+      "category": "WHO",
+      "tags": [],
+      "access_restriction": "Public",
+      "registration_url": null,
+      "recording_url": null
+    },
+    {
       "id": "a27fc2ee69732ec5",
       "title": "Film screening and discussion on education for a balance between animal, plant and human health - One Health World Summit, Lyon, France",
       "description": "WHO proposes to its partners in the Quadripartite One Health collaboration (FAO, UNEP, WHO, WOAH) that they jointly organize this screening and discussion on the use of films for health education",
@@ -715,23 +715,6 @@
       "organizer": null,
       "source": "uw_cfar",
       "category": "Fred Hutch Center for AIDS Research (CFAR)",
-      "tags": [],
-      "access_restriction": "Public",
-      "registration_url": null,
-      "recording_url": null
-    },
-    {
-      "id": "9c3e90603915c318",
-      "title": "One Health Summit, Lyon, France, 7 April 2026",
-      "description": "\ufeffThe One Health Summit will take place in Lyon, France, with the High-Level Summit on 7 April, coinciding with World Health Day.",
-      "url": "https://www.who.int/news-room/events/detail/2026/04/07/default-calendar/one-health-summit",
-      "start_datetime": "2026-04-07T00:00:00",
-      "end_datetime": "2026-04-08T00:00:00",
-      "timezone": "UTC",
-      "location": "Online/Geneva",
-      "organizer": "World Health Organization",
-      "source": "who_events",
-      "category": "WHO",
       "tags": [],
       "access_restriction": "Public",
       "registration_url": null,
@@ -790,7 +773,7 @@
     },
     {
       "id": "11afb212a1bcfa19",
-      "title": "Advancing One Health Learning: Mapping, Connecting, Building",
+      "title": "Advancing One Health Learning: mapping, connecting, building",
       "description": "Held alongside the One Health Festival in Lyon, this meeting will bring together leaders from academia, government and international organizations to strengthen collaboration and advance innovative approaches to One Health learning and capacity-building.\r\n\r\nStrengthening One Health capacity is essential to address the interconnected challenges of human, animal and environmental health. The meeting will provide a platform to share experiences, align priorities and explore collaborative approaches to advancing effective One Health learning initiatives globally.",
       "url": "https://www.who.int/news-room/events/detail/2026/04/09/default-calendar/advancing-one-health-learning-mapping-connecting-building",
       "start_datetime": "2026-04-09T07:00:00",
