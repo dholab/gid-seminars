@@ -2,12 +2,12 @@
   "metadata": {
     "title": "GID Seminars Feed",
     "description": "Aggregated seminars and webinars for Global Infectious Disease research",
-    "generated_at": "2026-03-22T06:18:40.286902Z",
+    "generated_at": "2026-03-23T06:27:20.192604Z",
     "time_window": {
       "days_behind": 30,
       "days_ahead": 30
     },
-    "total_events": 53,
+    "total_events": 54,
     "sources": [
       "astmh_events",
       "avac_events",
@@ -953,6 +953,23 @@
       "organizer": "ISRV",
       "source": "isrv_events",
       "category": "ISRV",
+      "tags": [],
+      "access_restriction": "Public",
+      "registration_url": null,
+      "recording_url": null
+    },
+    {
+      "id": "bc02c9ff64144e12",
+      "title": "Cognitive and Mental Health Aspects of PCC",
+      "description": "Post-COVID Condition webinar series by University of Saskatchewan. Presenters: Dr. Rachana Bodani, MD, MSc, FRCPC",
+      "url": "https://usask-ca.zoom.us/meeting/register/vw1reBx7SaKkTlShJrT-Xw",
+      "start_datetime": "2026-04-21T12:00:00",
+      "end_datetime": null,
+      "timezone": "America/Regina",
+      "location": "Online (Zoom)",
+      "organizer": "University of Saskatchewan",
+      "source": "usask_pcc",
+      "category": "University - USask",
       "tags": [],
       "access_restriction": "Public",
       "registration_url": null,
