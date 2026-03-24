@@ -2,7 +2,7 @@
   "metadata": {
     "title": "GID Seminars Feed",
     "description": "Aggregated seminars and webinars for Global Infectious Disease research",
-    "generated_at": "2026-03-23T06:27:20.192604Z",
+    "generated_at": "2026-03-24T06:24:33.040335Z",
     "time_window": {
       "days_behind": 30,
       "days_ahead": 30
@@ -57,23 +57,6 @@
     ]
   },
   "events": [
-    {
-      "id": "3aa04c53dd6a0b56",
-      "title": "TWiV 1298: Clinical update with Dr. Daniel Griffin",
-      "description": "[Podcast: This Week in Virology]\n\nIn his weekly clinical update, Dr. Griffin and Vincent Racaniello discuss reversal of last week\u2019s no review decision on a flu mRNA vaccine by Vinjay Prasad, appointment of Jay Bhattacharya as CDC director, no experience required, and already detectable reduction in hepatitis B virus vaccination rates, then Dr. Griffin then deep dives into recent statistics on RSV, influenza and SARS-CoV-2 infections, the Wasterwater Scan dashboard, Johns Hopkins measles tracker, where to find PEMGARDA, how to access and pay for Paxlovid, the consequences of measles infection on immune amnesia (shout out to Immune 26), long COVID treatment center, where to go for answers to your long COVID questions, long COVID effect on fertility and type 2 diabetes and contacting your federal government representative to stop the assault on science and biomedical research. Click arrow to play Download&nbsp; TWiV 1298 (26 MB .mp3, 43 min) Subscribe (free):&nbsp; Apple Podcasts , RSS ,&nbsp; email Become a&nbsp; patron &nbsp;of&nbsp;TWiV! Links for this episode Whiplash! F.D.A. Reverses Decision and Agrees to Review Moderna\u2019s Flu Vaccine (NY Times, Wall Street Journal , Access New wire ) 2:35 N.I.H. Director Will Temporarily Run C.D.C. in Leadership Shake-Up (NY Times) Reduction in infant Hepatitis B Immunizations (Oregon State Health Department) Why Adenovirus vectored vaccine failed : Adenoviral Inciting Antigen and Somatic Hypermutation in VITT (NEJM) 6:44 Wastewater for measles (WasterWater Scan) Measles c",
-      "url": "https://www.microbe.tv/twiv/twiv-1298/",
-      "start_datetime": "2026-02-21T13:51:47",
-      "end_datetime": null,
-      "timezone": "UTC",
-      "location": "Podcast",
-      "organizer": "This Week in Virology",
-      "source": "twiv_podcast",
-      "category": "Podcast - TWiV",
-      "tags": [],
-      "access_restriction": "Public",
-      "registration_url": null,
-      "recording_url": null
-    },
     {
       "id": "95eec5434fd9eae6",
       "title": "TWiV 1299: Moth balls and blood clots",
@@ -451,7 +434,7 @@
     {
       "id": "2df7f25976a31fc9",
       "title": "TWiV 1306: Clinical update with Dr. Daniel Griffin",
-      "description": "[Podcast: This Week in Virology]\n\nIn his weekly clinical update, Dr. Griffin and Vincent Racaniello chat about death of water fowl on Long Island, \u2018renaming\u2019 of the FDA adverse event monitoring system, lawsuits against RFK Jr and HHS for illegal changes in routine immunization practices, before Dr. Griffin deep dives into economic costs of not vaccinating against measles, the measles outbreak in South Carolina, Utah and ICE detention centers, recent statistics on RSV, influenza and SARS-CoV-2 infections, the Wasterwater Scan dashboard, Johns Hopkins measles tracker, where to find PEMGARDA, expansion of the RSV vaccine licensure to include high risk yound adults, association between lung cancer and respiratory illnesses, how to access and pay for Paxlovid, effectiveness of vaccination or supplemental vitamin D to reduce the risk of long COVID, and contacting your federal government representative to stop the assault on science and biomedical research. Click arrow to play Download TWiV 1306 (26 MB .mp3, 44 min) Subscribe (free): Apple Podcasts , RSS , email Become a&nbsp; patron &nbsp;of&nbsp;TWiV! Links for this episode Local waterfowl die-off likely caused by bird flu (The Suffolk Times) East End officials respond as dead birds pile up on Long Island shorelines (news 12: Long Island) FDA Adverse Event Monitoring System (AEMS) ( FDA) FDA Launches New Adverse Event Look-Up Tool(FDA) FDA announces AEMS, new adverse-event database to replace VAERS (CIDRAP) US cuts broad recommendation for four childhood vaccines ",
+      "description": "[Podcast: This Week in Virology]\n\nIn his weekly clinical update, Dr. Griffin and Vincent Racaniello chat about death of water fowl on Long Island, \u2018renaming\u2019 of the FDA adverse event monitoring system, lawsuits against RFK Jr and HHS for illegal changes in routine immunization practices, before Dr. Griffin deep dives into economic costs of not vaccinating against measles, the measles outbreak in South Carolina, Utah and ICE detention centers, recent statistics on RSV, influenza and SARS-CoV-2 infections, the Wasterwater Scan dashboard, Johns Hopkins measles tracker, where to find PEMGARDA, expansion of the RSV vaccine licensure to include high risk yound adults, association between lung cancer and respiratory illnesses, how to access and pay for Paxlovid, effectiveness of vaccination or supplemental vitamin D to reduce the risk of long COVID, and contacting your federal government representative to stop the assault on science and biomedical research. Click arrow to play Download&nbsp; TWiV 1306 (26 MB .mp3, 44 min) Subscribe (free):&nbsp; Apple Podcasts , RSS ,&nbsp; email Become a&nbsp; patron &nbsp;of&nbsp;TWiV! Links for this episode Local waterfowl die-off likely caused by bird flu (The Suffolk Times) 3:01 East End officials respond as dead birds pile up on Long Island shorelines (news 12: Long Island) 3:01 FDA Adverse Event Monitoring System (AEMS) ( FDA) 4:25 FDA Launches New Adverse Event Look-Up Tool (FDA) 4:25 FDA announces AEMS, new adverse-event database to replace VAERS (CIDRAP) 4:25 US cuts broad",
       "url": "https://www.microbe.tv/twiv/twiv-1306/",
       "start_datetime": "2026-03-21T04:00:00",
       "end_datetime": null,
@@ -468,7 +451,7 @@
     {
       "id": "c627285d822f4ffc",
       "title": "TWiV 1307: My heart breaks for flu",
-      "description": "[Podcast: This Week in Virology]\n\nTWiV reviews the structural basis for Rep-mediated adeno-associated virus DNA genome packaging, how influenza virus-infected myeloid cells travel to the heart and infect cardiomyocytes, leading to IFN-fueled heart damage. Hosts:&nbsp; Vincent Racaniello , Rich Condit , Kathy Spindler , and Brianne Barker Click arrow to play Download TWiV 1307 (68 MB .mp3, 113 min) Subscribe (free): Apple Podcasts , RSS , email Become a&nbsp; patron &nbsp;of&nbsp;TWiV! Links for this episode Support science education at MicrobeTV Positions in Rosenfeld Lab (email) Robin Weiss passes (ICR) Judge strikes down RFK Jr.&#8217;s vaccine policies (NYTimes) How Rep protein packages AAV DNA (Cell Rep) How influenza virus causes heart damage (Immunity) Influenza virus hitches a cellular ride to the heart (Cell Host Microbe) Letters read &nbsp; on TWiV 1307 Timestamps by&nbsp; Jolene Ramsey. Thanks! Weekly Picks Brianne &#8211; The math of March Madness brackets Kathy &#8211; SpaceX launch plume, jellyfish APOD and Cleveland Meteor, map of meteorites fall and a doorbell cam photo Rich &#8211; After barista\u2019s tips were stolen, strangers showed up with $900 Vincent &#8211; What Causes Gravitational Time Dilation? A Physical Explanation. Listener Pick Charles &#8211; They&#8217;re Made Out Of Meat Intro music is by Ronald Jenkees Send your virology questions and comments to twiv@microbe.tv Content in this podcast should not be construed as medical advice. The post TWiV 1307: My heart breaks for flu first ap",
+      "description": "[Podcast: This Week in Virology]\n\nTWiV reviews the structural basis for Rep-mediated adeno-associated virus DNA genome packaging, how influenza virus-infected myeloid cells travel to the heart and infect cardiomyocytes, leading to IFN-fueled heart damage. Hosts:&nbsp; Vincent Racaniello , Rich Condit , Kathy Spindler , and Brianne Barker Click arrow to play Download TWiV 1307 (68 MB .mp3, 113 min) Subscribe (free):&nbsp; Apple Podcasts ,&nbsp; RSS ,&nbsp; email Become a&nbsp; patron &nbsp;of&nbsp;TWiV! Links for this episode Support science education at MicrobeTV 1:40 Positions in Rosenfeld Lab (email) 2:20 Robin Weiss passes (ICR) 5:26 Judge strikes down RFK Jr.&#8217;s vaccine policies (NYTimes) 6:55 How Rep protein packages AAV DNA (Cell Rep) 13:38 How influenza virus causes heart damage (Immunity) 43:36 Influenza virus hitches a cellular ride to the heart (Cell Host Microbe) 44:57 Letters read on TWiV 1307 1:25:53 Timestamps by&nbsp; Jolene Ramsey. Thanks! Weekly Picks 1:37:18 Brianne &#8211; The math of March Madness brackets Kathy &#8211; SpaceX launch plume, jellyfish APOD and Cleveland Meteor, map of meteorites fall and a doorbell cam photo Rich &#8211; After barista\u2019s tips were stolen, strangers showed up with $900 Vincent &#8211; What Causes Gravitational Time Dilation? A Physical Explanation. Listener Pick Charles &#8211; They&#8217;re Made Out Of Meat Intro music is by&nbsp; Ronald Jenkees Send your virology questions and comments to twiv@microbe.tv Content in this podcast should not be construed ",
       "url": "https://www.microbe.tv/twiv/twiv-1307/",
       "start_datetime": "2026-03-22T04:00:00",
       "end_datetime": null,
@@ -477,23 +460,6 @@
       "organizer": "This Week in Virology",
       "source": "twiv_podcast",
       "category": "Podcast - TWiV",
-      "tags": [],
-      "access_restriction": "Public",
-      "registration_url": null,
-      "recording_url": null
-    },
-    {
-      "id": "9571b4c9ba310cfb",
-      "title": "Sixth meeting of the Intergovernmental Working Group (IGWG) on the WHO Pandemic Agreement",
-      "description": "The sixth meeting of the Intergovernmental Working Group (IGWG) on the WHO Pandemic Agreement will be conducted in hybrid format during 23\u201328 March 2026.",
-      "url": "https://www.who.int/news-room/events/detail/2026/03/23/default-calendar/sixth-meeting-of-the-intergovernmental-working-group-(igwg)-on-the-who-pandemic-agreement",
-      "start_datetime": "2026-03-23T00:00:00",
-      "end_datetime": "2026-03-29T00:00:00",
-      "timezone": "UTC",
-      "location": "Online/Geneva",
-      "organizer": "World Health Organization",
-      "source": "who_events",
-      "category": "WHO",
       "tags": [],
       "access_restriction": "Public",
       "registration_url": null,
@@ -557,6 +523,23 @@
       "url": "https://www.who.int/news-room/events/detail/2026/03/25/default-calendar/webinar-on-dhis2-packages-for-hiv-tb-hepatitis-and-stis",
       "start_datetime": "2026-03-25T08:00:00",
       "end_datetime": "2026-03-25T14:30:00",
+      "timezone": "UTC",
+      "location": "Online/Geneva",
+      "organizer": "World Health Organization",
+      "source": "who_events",
+      "category": "WHO",
+      "tags": [],
+      "access_restriction": "Public",
+      "registration_url": null,
+      "recording_url": null
+    },
+    {
+      "id": "356ea9089e6671d3",
+      "title": "Webinar \u2013 WHO guidance for high quality GC8 proposals: TB technical briefing",
+      "description": "WHO\u2019s Department for HIV, TB, Hepatitis and Sexually Transmitted Infections is pleased to invite you to this webinar series 2, focused on the technical component of TB programmes in the context of Global Fund GC8 funding requests. The objective of this deep dive webinar is to empower countries to submit GC8 proposals that are comprehensive, evidence-based, and responsive to both global and national priorities.",
+      "url": "https://www.who.int/news-room/events/detail/2026/03/25/default-calendar/webinar-who-guidance-for-high-quality-gc8-proposals-for-hiv-and-tb",
+      "start_datetime": "2026-03-25T09:00:00",
+      "end_datetime": "2026-03-25T10:30:00",
       "timezone": "UTC",
       "location": "Online/Geneva",
       "organizer": "World Health Organization",
@@ -670,6 +653,23 @@
       "recording_url": null
     },
     {
+      "id": "c622b9b3fd44f489",
+      "title": "WHO Health Emergencies EPI-WIN webinar: Information session on influenza, COVID-19 and other respiratory threats",
+      "description": "Influenza, COVID\u201119 and other respiratory pathogens continue to impose a significant global health burden, requiring sustained vigilance and coordinated action. This session supports WHO\u2019s mandate by facilitating the dissemination of evidence\u2011based updates, strengthening alignment of public health messages, and reinforcing WHO\u2019s role in guiding preparedness efforts across sectors and regions.",
+      "url": "https://www.who.int/news-room/events/detail/2026/04/01/default-calendar/who-health-emergencies-epi-win-webinar--information-session-on-influenza-covid-19-and-other-respiratory-threats",
+      "start_datetime": "2026-04-01T12:00:00",
+      "end_datetime": "2026-04-01T13:15:00",
+      "timezone": "UTC",
+      "location": "Online/Geneva",
+      "organizer": "World Health Organization",
+      "source": "who_events",
+      "category": "WHO",
+      "tags": [],
+      "access_restriction": "Public",
+      "registration_url": null,
+      "recording_url": null
+    },
+    {
       "id": "a8eb19cea256ae17",
       "title": "CFAR Seminar with Dr. Gregg Gonsalves - April 2, 2026",
       "description": "Event interval: Single day event\nOnline Meeting Link: https://washington.zoom.us/meeting/register/hC13xdiQS4OKvW_Mh77qkA\nCampus room: Pelton Auditorium\nAccessibility Contact: cfar@uw.edu\nEvent Types: Lectures/Seminars\n\nREGISTER NOW!\n\nRegister via this link for in-person attendance\nin-person registration: \nhttps://app.smartsheet.com/b/form/019ccf81faa77e6d85ad09265e292660\n\nRegister via this link for virtual attendance\nzoom registration: \nhttps://washington.zoom.us/meeting/register/hC13xdiQS4OKvW_Mh77qkA\n--------------------------------------------------------------------------------\n4:00pm - 5:00pm\nIN-PERSON\nCFAR Seminar Speaker: Gregg Gonsalves, PhD\nTalk title: I Will Bear Witness: Policy Modeling in Perilous Times\n\nGregg Gonsalves is a Professor (as of July 1) in the Department of the Epidemiology of Microbial Diseases at Yale School of Public Health, in the Public Health Modeling Unit and a Professor (Adjunct) at Yale Law School. At Yale, he also co-directs the Global Health Justice Partnership, an initiative of YSPH and YLS, working at the intersections of health and human rights and social justice. For over 35 years, he has been an AIDS activist, working first with the AIDS Coalition to Unleash Power (ACT UP) in Boston and New York, then co-founding the Treatment Action Group (TAG) and the International Treatment Preparedness Coalition (ITPC). He has also worked with Gay Men\u2019s Health Crisis in New York and the AIDS and Rights Alliance for Southern Africa in Cape Town. He is a 2018 MacArthur Fellow.",
@@ -723,7 +723,7 @@
     {
       "id": "dac8bc9eba7992e6",
       "title": "Together for One Health at the Local Level",
-      "description": "Health and climate crises have made one reality increasingly clear: human health is inseparable from the health of animals, plants and ecosystems. Local and regional authorities are at the centre of this challenge, directly affected by the impacts of these crises and, at times, part of the dynamics that intensify them. They also hold essential levers to prevent risks, strengthen resilience and embed the One Health approach in local public policies.\r\n\r\nYet turning this vision into concrete action remains a major challenge. Many local authorities continue to face fragmented governance, institutional silos, limited operational tools and insufficient access to appropriate training. Strengthening local capacities is therefore essential to ensure that One Health becomes not only a shared ambition but a practical and lasting reality for communities.",
+      "description": "This event brings together a diverse group of partners driven by a shared ambition: to advance the One Health approach at both local and global levels.",
       "url": "https://www.who.int/news-room/events/detail/2026/04/06/default-calendar/together-for-one-health-at-the-local-level",
       "start_datetime": "2026-04-06T12:00:00",
       "end_datetime": "2026-04-06T15:30:00",
