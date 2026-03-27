@@ -7,56 +7,10 @@ X-WR-CALDESC:Aggregated seminars and webinars for Global Infectious Diseas
  e research
 X-WR-CALNAME:GID Seminars
 BEGIN:VEVENT
-SUMMARY:Civil & Environmental Engineering Seminar Series
-DTSTART;TZID=America/Los_Angeles:20260225T200000
-DTEND;TZID=America/Los_Angeles:20260225T210000
-DTSTAMP:20260326T062652Z
-UID:70efd619753a9264@gid-seminars.wnprc.wisc.edu
-CATEGORIES:Class/Seminar
-DESCRIPTION:Title: Climate-resilient cities: science and solutions for glo
- bal urban heat stress\n\n \n\nAbstract: Extreme urban heat\, driven by cli
- mate change and rapid urbanization\, poses a growing threat to public heal
- th\, energy systems\, and economic productivity. Yet effective urban heat 
- mitigation is hindered by two key gaps: limited mechanistic understanding 
- of urban heat environment across global cities\, and a lack of robust tool
- s to assess the climate and economic tradeoffs of heat mitigation strategi
- es. \n\nMy research bridges these gaps by combining urban climate\, global
-  climate modelling\, and econometric analysis to inform climate-resilient 
- urban planning. In this talk\, I first examine how urbanization reshapes s
- urface climate and humid heat stress across global cities\, highlighting a
- n overlooked humid heat risk in tropical cities where informal settlements
-  lack access to cooling facilities. I then evaluate the climate and energy
-  impacts of novel building materials under various background climates. Fi
- nally\, I extend these physical climate insights into policy-relevant outc
- omes by quantifying the economic costs of the urban heat island\, which su
- pports economically rational decision-making in heat interventions. \n\nTo
- gether\, my work provides a scientific and decision-making foundation for 
- designing effective and equitable heat mitigation strategies in a warming 
- world.\n\nKeer Zhang is a postdoctoral research associate in the High Mead
- ows Environmental Institute at Princeton University\, working with Profess
- or Elie Bou-Zeid. She received her Ph.D. in Environmental Studies from Yal
- e University in 2024 under the supervision of Professor Xuhui Lee\, and he
- r B.S. in Atmospheric Science from Sun Yat-sen University\, where she work
- ed with Professor Jian Hang. She has an interdisciplinary background in ur
- ban climate\, climate modelling\, and climate economics. Her research inve
- stigates the drivers and impacts of urban heat stress and evaluates eviden
- ce-based heat solutions for climate-resil\n\nEvent URL: https://events.sta
- nford.edu/event/civil-environmental-engineering-seminar-series-6809\n\nSou
- rce: stanford_virtual
-LOCATION:Y2E2 Building\, 299
-URL:https://events.stanford.edu/event/civil-environmental-engineering-semi
- nar-series-6809
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Civil & Environmental Engineering Seminar Series
-TRIGGER:-PT1H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ISTM Travel Medicine Review and Update Course
 DTSTART;TZID=America/New_York:20260227T000000
 DTEND;TZID=America/New_York:20260228T000000
-DTSTAMP:20260326T062652Z
+DTSTAMP:20260327T062729Z
 UID:028ddf4c9da7e484@gid-seminars.wnprc.wisc.edu
 CATEGORIES:ASTMH
 DESCRIPTION:\nEvent URL: https://www.astmh.org/news-events/events-calendar
@@ -75,7 +29,7 @@ SUMMARY:Inside theMednet: The Community of Experts Solving Tough Clinical
  Questions
 DTSTART:20260228T000000Z
 DTEND:20260228T010000Z
-DTSTAMP:20260326T062652Z
+DTSTAMP:20260327T062729Z
 UID:1d80730576bf6235@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Podcast - IDSA
 DESCRIPTION:[Podcast: Let's Talk ID] Duration: 951\n\nPaul Sax\, MD\, FIDS
@@ -100,7 +54,7 @@ BEGIN:VEVENT
 SUMMARY:TWiV 1300: Clinical update with Dr. Daniel Griffin
 DTSTART:20260228T050000Z
 DTEND:20260228T060000Z
-DTSTAMP:20260326T062652Z
+DTSTAMP:20260327T062729Z
 UID:ec46b66fd71d1188@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Podcast - TWiV
 DESCRIPTION:[Podcast: This Week in Virology]\n\nIn his weekly clinical upd
@@ -138,7 +92,7 @@ BEGIN:VEVENT
 SUMMARY:TWiV 1301: Lost in giant virus translation
 DTSTART:20260301T050000Z
 DTEND:20260301T060000Z
-DTSTAMP:20260326T062652Z
+DTSTAMP:20260327T062729Z
 UID:63948b58fafd99eb@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Podcast - TWiV
 DESCRIPTION:[Podcast: This Week in Virology]\n\nTWiV reviews lymphocytic c
@@ -176,7 +130,7 @@ BEGIN:VEVENT
 SUMMARY:Diagnosing Asthma in Children Under Age 5
 DTSTART;TZID=America/Los_Angeles:20260304T200000
 DTEND;TZID=America/Los_Angeles:20260304T210000
-DTSTAMP:20260326T062652Z
+DTSTAMP:20260327T062729Z
 UID:b7ed467640d07286@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Class/Seminar
 DESCRIPTION:OverviewPediatricians play an important role in diagnosing you
@@ -222,7 +176,7 @@ BEGIN:VEVENT
 SUMMARY:Managing Unexpected Expenses and Navigating Market Volatility
 DTSTART;TZID=America/Los_Angeles:20260305T200000
 DTEND;TZID=America/Los_Angeles:20260305T210000
-DTSTAMP:20260326T062652Z
+DTSTAMP:20260327T062729Z
 UID:6a5b8916ecb121f0@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Class/Seminar
 DESCRIPTION:They say the only constant in life is change\, and the last fe
@@ -265,7 +219,7 @@ BEGIN:VEVENT
 SUMMARY:The Longevity Advantage: How Strength Determines Healthspan
 DTSTART;TZID=America/Los_Angeles:20260306T030000
 DTEND;TZID=America/Los_Angeles:20260306T040000
-DTSTAMP:20260326T062652Z
+DTSTAMP:20260327T062729Z
 UID:b1d1f545ca6d6652@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Lecture/Presentation/Talk
 DESCRIPTION:The latest science is transforming how we think about aging. R
@@ -298,7 +252,7 @@ BEGIN:VEVENT
 SUMMARY:SDRC Friday Seminar- Peter Jackson\, PhD
 DTSTART;TZID=America/Los_Angeles:20260306T200000
 DTEND;TZID=America/Los_Angeles:20260306T210000
-DTSTAMP:20260326T062652Z
+DTSTAMP:20260327T062729Z
 UID:19d6b1b99924cea6@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Class/Seminar
 DESCRIPTION:Peter Jackson\, PhD\nProfessor\, Departments of Microbiology a
@@ -320,7 +274,7 @@ BEGIN:VEVENT
 SUMMARY:TWiV 1302: Clinical update with Dr. Daniel Griffin
 DTSTART:20260307T121740Z
 DTEND:20260307T131740Z
-DTSTAMP:20260326T062652Z
+DTSTAMP:20260327T062729Z
 UID:6580bb7324b06eae@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Podcast - TWiV
 DESCRIPTION:[Podcast: This Week in Virology]\n\nIn his weekly clinical upd
@@ -358,7 +312,7 @@ BEGIN:VEVENT
 SUMMARY:TWiV 1303: Overachieving vaccines
 DTSTART:20260308T050000Z
 DTEND:20260308T060000Z
-DTSTAMP:20260326T062652Z
+DTSTAMP:20260327T062729Z
 UID:fcca9c31942b5b01@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Podcast - TWiV
 DESCRIPTION:[Podcast: This Week in Virology]\n\nTWiV reviews an associatio
@@ -398,7 +352,7 @@ SUMMARY:Schmidt Center - MIT EECS Colloquium: Engineering sharper cancer i
  et‍
 DTSTART;TZID=America/New_York:20260309T200000
 DTEND;TZID=America/New_York:20260309T210000
-DTSTAMP:20260326T062652Z
+DTSTAMP:20260327T062729Z
 UID:f2c30e5faff26e72@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Talks
 DESCRIPTION:Monday\, March 9\, 2026\n\n4:00 - 5:00 pm (refreshments at 3:3
@@ -436,7 +390,7 @@ BEGIN:VEVENT
 SUMMARY:Special K: New kid on the block – emerging variant impact
 DTSTART:20260310T000000Z
 DTEND:20260310T010000Z
-DTSTAMP:20260326T062652Z
+DTSTAMP:20260327T062729Z
 UID:a5fc866aac33d469@gid-seminars.wnprc.wisc.edu
 CATEGORIES:ISRV
 DESCRIPTION:Maria Zambon\,UKHSA\, London\, UKFrederick Hayden\,University 
@@ -458,7 +412,7 @@ SUMMARY:"Sex and Dissent: Stories of Feminist Resistance in Argentina\, Ch
  ile\, Mexico\, and Spain" by Meaghan Beatley
 DTSTART;TZID=America/Los_Angeles:20260311T190000
 DTEND;TZID=America/Los_Angeles:20260311T200000
-DTSTAMP:20260326T062652Z
+DTSTAMP:20260327T062729Z
 UID:b285ae9d6ae674af@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Lecture/Presentation/Talk
 DESCRIPTION:Part of the Feminism in Theory and Practice Series.\n\nSex and
@@ -506,7 +460,7 @@ SUMMARY:Broken Beakers and Brilliant Minds: Fixing the Machinery of Scienc
  e
 DTSTART;TZID=America/New_York:20260311T220000
 DTEND;TZID=America/New_York:20260311T230000
-DTSTAMP:20260326T062652Z
+DTSTAMP:20260327T062729Z
 UID:add1fdff8758763e@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Talks
 DESCRIPTION:Wednesday\, March 11\, 2026\n6:00 - 7:00 pm | Reception and bo
@@ -553,7 +507,7 @@ BEGIN:VEVENT
 SUMMARY:TWiV 1304: Clinical update with Dr. Daniel Griffin
 DTSTART:20260314T040000Z
 DTEND:20260314T050000Z
-DTSTAMP:20260326T062652Z
+DTSTAMP:20260327T062729Z
 UID:9b987b76813fcadf@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Podcast - TWiV
 DESCRIPTION:[Podcast: This Week in Virology]\n\nIn his weekly clinical upd
@@ -591,7 +545,7 @@ BEGIN:VEVENT
 SUMMARY:TWiV 1305: Lab leak idea called on the carpet
 DTSTART:20260315T040000Z
 DTEND:20260315T050000Z
-DTSTAMP:20260326T062652Z
+DTSTAMP:20260327T062729Z
 UID:0d515388cab79415@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Podcast - TWiV
 DESCRIPTION:[Podcast: This Week in Virology]\n\nTWiV introduces sunshine v
@@ -629,7 +583,7 @@ BEGIN:VEVENT
 SUMMARY:Unlock Better Sleep
 DTSTART;TZID=America/Los_Angeles:20260317T190000
 DTEND;TZID=America/Los_Angeles:20260317T200000
-DTSTAMP:20260326T062652Z
+DTSTAMP:20260327T062729Z
 UID:36bc5892bd555bb8@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Class/Seminar
 DESCRIPTION:We spend one-third of our lives asleep and nearly as much time
@@ -662,7 +616,7 @@ BEGIN:VEVENT
 SUMMARY:Chronic Inflammation
 DTSTART;TZID=America/Los_Angeles:20260320T190000
 DTEND;TZID=America/Los_Angeles:20260320T200000
-DTSTAMP:20260326T062652Z
+DTSTAMP:20260327T062729Z
 UID:b282a6176bc1c68d@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Class/Seminar
 DESCRIPTION:Did you know that fatigue\, muscle aches\, joint stiffness\, a
@@ -700,7 +654,7 @@ SUMMARY:From Clinic to Capitol Hill: What It Means to Be a Vaccine Advocat
  e
 DTSTART:20260321T000000Z
 DTEND:20260321T010000Z
-DTSTAMP:20260326T062652Z
+DTSTAMP:20260327T062729Z
 UID:e5c37139d8013c39@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Podcast - IDSA
 DESCRIPTION:[Podcast: Let's Talk ID] Duration: 1531\n\nHost Buddy Creech\,
@@ -727,7 +681,7 @@ BEGIN:VEVENT
 SUMMARY:TWiV 1306: Clinical update with Dr. Daniel Griffin
 DTSTART:20260321T040000Z
 DTEND:20260321T050000Z
-DTSTAMP:20260326T062652Z
+DTSTAMP:20260327T062729Z
 UID:2df7f25976a31fc9@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Podcast - TWiV
 DESCRIPTION:[Podcast: This Week in Virology]\n\nIn his weekly clinical upd
@@ -765,7 +719,7 @@ BEGIN:VEVENT
 SUMMARY:TWiV 1307: My heart breaks for flu
 DTSTART:20260322T040000Z
 DTEND:20260322T050000Z
-DTSTAMP:20260326T062652Z
+DTSTAMP:20260327T062729Z
 UID:c627285d822f4ffc@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Podcast - TWiV
 DESCRIPTION:[Podcast: This Week in Virology]\n\nTWiV reviews the structura
@@ -803,7 +757,7 @@ BEGIN:VEVENT
 SUMMARY:Register for Webinar
 DTSTART;TZID=America/Los_Angeles:20260323T000000
 DTEND;TZID=America/Los_Angeles:20260323T010000
-DTSTAMP:20260326T062652Z
+DTSTAMP:20260327T062729Z
 UID:2b2d301ecc4805e0@gid-seminars.wnprc.wisc.edu
 CATEGORIES:IAS-USA
 DESCRIPTION:\nEvent URL: https://www.iasusa.org/events/webinar-2026-buchbi
@@ -817,107 +771,10 @@ TRIGGER:-PT1H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:WHO Antimicrobial Resistance Learning Programme - Learning 4 Impac
- t Lab Global consultation meeting 2026
-DTSTART:20260326T080000Z
-DTEND:20260327T160000Z
-DTSTAMP:20260326T062652Z
-UID:e376f7962136f9db@gid-seminars.wnprc.wisc.edu
-CATEGORIES:WHO
-DESCRIPTION:WHO’s antimicrobial resistance (AMR) Department and WHO Acad
- emy are planning a consultation meeting for a multi-year AMR learning and 
- health workforce capacity building programme in collaboration with key par
- tners.\n\nEvent URL: https://www.who.int/news-room/events/detail/2026/03/2
- 6/default-calendar/who-antimicrobial-resistance-learning-programme---learn
- ing-4-impact-lab-global-consultation-meeting-2026\n\nSource: who_events
-LOCATION:Online/Geneva
-URL:https://www.who.int/news-room/events/detail/2026/03/26/default-calenda
- r/who-antimicrobial-resistance-learning-programme---learning-4-impact-lab-
- global-consultation-meeting-2026
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: WHO Antimicrobial Resistance Learning Programme - Le
- arning 4 Impact Lab Global consultation meeting 2026
-TRIGGER:-PT1H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Public Health Workforce Pipeline | Internship Panel Discussion
-DTSTART;TZID=America/Chicago:20260326T110000
-DTEND;TZID=America/Chicago:20260326T120000
-DTSTAMP:20260326T062652Z
-UID:c4d574b9552635b0@gid-seminars.wnprc.wisc.edu
-CATEGORIES:TEPHI
-DESCRIPTION:\nEvent URL: https://tephi.texas.gov/events/event?id=a6719975-
- 88c1-4a73-8e1d-d6fd5303e702\n\nSource: tephi_events
-LOCATION:Virtual
-URL:https://tephi.texas.gov/events/event?id=a6719975-88c1-4a73-8e1d-d6fd53
- 03e702
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Public Health Workforce Pipeline | Internship Panel 
- Discussion
-TRIGGER:-PT1H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Webinar – new consolidated guidance on hepatitis B and C: an imp
- lementation handbook
-DTSTART:20260326T113000Z
-DTEND:20260326T130000Z
-DTSTAMP:20260326T062652Z
-UID:2a5b07b9ddae35e3@gid-seminars.wnprc.wisc.edu
-CATEGORIES:WHO
-DESCRIPTION:Join us in this webinar on 26 March and learn more about the r
- ecently launched WHO Consolidated guidance on hepatitis B and C prevention
- \, testing\, treatment\, service delivery and monitoring: an implementatio
- n handbook for a public health approach.\n\nEvent URL: https://www.who.int
- /news-room/events/detail/2026/03/26/default-calendar/webinar-new-consolida
- ted-guidance-on-hepatitis-b-and-c-an-implementation-handbook\n\nSource: wh
- o_events
-LOCATION:Online/Geneva
-URL:https://www.who.int/news-room/events/detail/2026/03/26/default-calenda
- r/webinar-new-consolidated-guidance-on-hepatitis-b-and-c-an-implementation
- -handbook
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Webinar – new consolidated guidance on hepatitis B
-  and C: an implementation handbook
-TRIGGER:-PT1H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Webinar: Global One Health Intelligence in action\, Official launc
- h of the GLEWS+ platform and website
-DTSTART:20260326T120000Z
-DTEND:20260326T130000Z
-DTSTAMP:20260326T062652Z
-UID:0b47f7b340e5eb0f@gid-seminars.wnprc.wisc.edu
-CATEGORIES:WHO
-DESCRIPTION:The Food and Agriculture Organization of the United Nations (F
- AO)\, the World Health Organization (WHO) and the World Organization for A
- nimal Health (WOAH) will host a virtual event on Thursday\, 26 March 2026\
- , from 13:00 to 14:30 CET\, marking the official launch of the modernized 
- Global Early Warning System (GLEWS+) platform and its new public website.\
- n\nEvent URL: https://www.who.int/news-room/events/detail/2026/03/26/defau
- lt-calendar/webinar--global-one-health-intelligence-in-action--official-la
- unch-of-the-glews--platform-and-website\n\nSource: who_events
-LOCATION:Online/Geneva
-URL:https://www.who.int/news-room/events/detail/2026/03/26/default-calenda
- r/webinar--global-one-health-intelligence-in-action--official-launch-of-th
- e-glews--platform-and-website
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Webinar: Global One Health Intelligence in action\, 
- Official launch of the GLEWS+ platform and website
-TRIGGER:-PT1H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Key side events during the One Health Festival
 DTSTART:20260330T000000Z
 DTEND:20260413T000000Z
-DTSTAMP:20260326T062652Z
+DTSTAMP:20260327T062729Z
 UID:f546846a712f08aa@gid-seminars.wnprc.wisc.edu
 CATEGORIES:WHO
 DESCRIPTION:The World Health Organization (WHO) will host nine key side ev
@@ -939,7 +796,7 @@ SUMMARY:One Health approaches to prevent urban yellow fever spillover and
  spread
 DTSTART:20260330T130000Z
 DTEND:20260330T143000Z
-DTSTAMP:20260326T062652Z
+DTSTAMP:20260327T062729Z
 UID:3f971c5abcc05993@gid-seminars.wnprc.wisc.edu
 CATEGORIES:WHO
 DESCRIPTION:Exploratory discussion to understand the potential value add a
@@ -963,7 +820,7 @@ SUMMARY:HIV Prevention 2030: A Global Access Framework for Country-Led Res
  ponses dissemination webinar
 DTSTART;TZID=America/New_York:20260331T000000
 DTEND;TZID=America/New_York:20260331T010000
-DTSTAMP:20260326T062652Z
+DTSTAMP:20260327T062729Z
 UID:0cfe127fd94a4ad6@gid-seminars.wnprc.wisc.edu
 CATEGORIES:AVAC
 DESCRIPTION:\nEvent URL: https://avac.org/event/hiv-prevention-2030/\n\nSo
@@ -981,7 +838,7 @@ BEGIN:VEVENT
 SUMMARY:Antiretroviral Management of HIV: New Data From CROI 2026
 DTSTART;TZID=America/Los_Angeles:20260331T110000
 DTEND;TZID=America/Los_Angeles:20260331T120000
-DTSTAMP:20260326T062652Z
+DTSTAMP:20260327T062729Z
 UID:eda0b09f83c36c83@gid-seminars.wnprc.wisc.edu
 CATEGORIES:IAS-USA
 DESCRIPTION:\nEvent URL: https://www.iasusa.org/events/webinar-2026-daar/\
@@ -1000,7 +857,7 @@ SUMMARY:One Health lessons on arboviruses for stronger preparedness in LMI
  Cs
 DTSTART:20260331T130000Z
 DTEND:20260331T143000Z
-DTSTAMP:20260326T062652Z
+DTSTAMP:20260327T062729Z
 UID:f3ddc095ac6d3593@gid-seminars.wnprc.wisc.edu
 CATEGORIES:WHO
 DESCRIPTION:Exploratory discussion to understand the potential value add a
@@ -1020,11 +877,31 @@ TRIGGER:-PT1H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:TEPHI Grand Rounds | Hepatitis B and Recent Updates in Pediatric I
+ mmunization Schedules
+DTSTART;TZID=America/Chicago:20260331T150000
+DTEND;TZID=America/Chicago:20260331T160000
+DTSTAMP:20260327T062729Z
+UID:133f3056b6de9a6d@gid-seminars.wnprc.wisc.edu
+CATEGORIES:TEPHI
+DESCRIPTION:\nEvent URL: https://tephi.texas.gov/events/event?id=c3d1758d-
+ 9c34-49d6-a6f4-6ce05c8a1308\n\nSource: tephi_events
+LOCATION:Virtual
+URL:https://tephi.texas.gov/events/event?id=c3d1758d-9c34-49d6-a6f4-6ce05c
+ 8a1308
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: TEPHI Grand Rounds | Hepatitis B and Recent Updates 
+ in Pediatric Immunization Schedules
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:WHO Health Emergencies EPI-WIN webinar: Information session on inf
  luenza\, COVID-19 and other respiratory threats
 DTSTART:20260401T120000Z
 DTEND:20260401T131500Z
-DTSTAMP:20260326T062652Z
+DTSTAMP:20260327T062729Z
 UID:c622b9b3fd44f489@gid-seminars.wnprc.wisc.edu
 CATEGORIES:WHO
 DESCRIPTION:Influenza\, COVID‑19 and other respiratory pathogens continu
@@ -1051,7 +928,7 @@ BEGIN:VEVENT
 SUMMARY:CFAR Seminar with Dr. Gregg Gonsalves - April 2\, 2026
 DTSTART;TZID=America/Los_Angeles:20260402T230000
 DTEND;TZID=America/Los_Angeles:20260403T000000
-DTSTAMP:20260326T062652Z
+DTSTAMP:20260327T062729Z
 UID:a8eb19cea256ae17@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Fred Hutch Center for AIDS Research (CFAR)
 DESCRIPTION:Event interval: Single day event\nOnline Meeting Link: https:/
@@ -1091,7 +968,7 @@ BEGIN:VEVENT
 SUMMARY:One Health Summit\, Lyon\, France\, 5-7 April 2026
 DTSTART:20260405T000000Z
 DTEND:20260408T000000Z
-DTSTAMP:20260326T062652Z
+DTSTAMP:20260327T062729Z
 UID:7bad0ffa92a08364@gid-seminars.wnprc.wisc.edu
 CATEGORIES:WHO
 DESCRIPTION:The One Health Summit will take place in Lyon\, France\, with 
@@ -1112,7 +989,7 @@ SUMMARY:Film screening and discussion on education for a balance between a
  nimal\, plant and human health - One Health World Summit\, Lyon\, France
 DTSTART:20260406T093000Z
 DTEND:20260406T113000Z
-DTSTAMP:20260326T062652Z
+DTSTAMP:20260327T062729Z
 UID:a27fc2ee69732ec5@gid-seminars.wnprc.wisc.edu
 CATEGORIES:WHO
 DESCRIPTION:WHO proposes to its partners in the Quadripartite One Health c
@@ -1137,7 +1014,7 @@ BEGIN:VEVENT
 SUMMARY:Together for One Health at the Local Level
 DTSTART:20260406T120000Z
 DTEND:20260406T153000Z
-DTSTAMP:20260326T062652Z
+DTSTAMP:20260327T062729Z
 UID:dac8bc9eba7992e6@gid-seminars.wnprc.wisc.edu
 CATEGORIES:WHO
 DESCRIPTION:This event brings together a diverse group of partners driven 
@@ -1159,7 +1036,7 @@ SUMMARY:HEIST Workshop: Introduction to Costing Methods for Public Health
  Research
 DTSTART;TZID=America/Los_Angeles:20260406T200000
 DTEND;TZID=America/Los_Angeles:20260406T220000
-DTSTAMP:20260326T062652Z
+DTSTAMP:20260327T062729Z
 UID:83d5f99199a19914@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Fred Hutch Center for AIDS Research (CFAR)
 DESCRIPTION:Event interval: Single day event\nOnline Meeting Link: https:/
@@ -1190,7 +1067,7 @@ BEGIN:VEVENT
 SUMMARY:World Health Day 2026: Together for health. Stand with science
 DTSTART:20260407T000000Z
 DTEND:20260408T000000Z
-DTSTAMP:20260326T062652Z
+DTSTAMP:20260327T062729Z
 UID:dead8db84bd4c316@gid-seminars.wnprc.wisc.edu
 CATEGORIES:WHO
 DESCRIPTION:World Health Day\, celebrated on 7 April 2026\, will kick off 
@@ -1217,7 +1094,7 @@ SUMMARY:Explore the WHO Academy – creating lifelong learning for the glo
  bal health workforce
 DTSTART:20260407T100000Z
 DTEND:20260407T120000Z
-DTSTAMP:20260326T062652Z
+DTSTAMP:20260327T062729Z
 UID:84a0f34eb85f4920@gid-seminars.wnprc.wisc.edu
 CATEGORIES:WHO
 DESCRIPTION:Ahead of the Global Forum of WHO Collaborating Centres\, explo
@@ -1245,7 +1122,7 @@ SUMMARY:19th meeting of the Strategic and Technical Advisory Group for Neg
  lected Tropical Diseases
 DTSTART:20260407T220000Z
 DTEND:20260409T150000Z
-DTSTAMP:20260326T062652Z
+DTSTAMP:20260327T062729Z
 UID:3a5cd478b51d4f53@gid-seminars.wnprc.wisc.edu
 CATEGORIES:WHO
 DESCRIPTION:The 19th meeting of the WHO Strategic and Technical Advisory G
@@ -1270,7 +1147,7 @@ BEGIN:VEVENT
 SUMMARY:Pediatric Orthopedics and Sports Medicine: The Limping Child
 DTSTART;TZID=America/Los_Angeles:20260408T190000
 DTEND;TZID=America/Los_Angeles:20260408T200000
-DTSTAMP:20260326T062652Z
+DTSTAMP:20260327T062729Z
 UID:01ac4c56789411aa@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Class/Seminar
 DESCRIPTION:Overview\nChildren may develop a limp for a variety of reasons
@@ -1317,7 +1194,7 @@ BEGIN:VEVENT
 SUMMARY:Advancing One Health Learning: mapping\, connecting\, building
 DTSTART:20260409T070000Z
 DTEND:20260409T100000Z
-DTSTAMP:20260326T062652Z
+DTSTAMP:20260327T062729Z
 UID:11afb212a1bcfa19@gid-seminars.wnprc.wisc.edu
 CATEGORIES:WHO
 DESCRIPTION:Held alongside the One Health Festival in Lyon\, this meeting 
@@ -1341,7 +1218,7 @@ SUMMARY:One Health Festival event: Climate-resilient and low carbon health
   systems as a practical One Health solution
 DTSTART:20260409T090000Z
 DTEND:20260409T110000Z
-DTSTAMP:20260326T062652Z
+DTSTAMP:20260327T062729Z
 UID:3c763ea971655c44@gid-seminars.wnprc.wisc.edu
 CATEGORIES:WHO
 DESCRIPTION:Drawing on country experience and initiatives such as the Alli
@@ -1367,7 +1244,7 @@ BEGIN:VEVENT
 SUMMARY:Food and Mood
 DTSTART;TZID=America/Los_Angeles:20260413T190000
 DTEND;TZID=America/Los_Angeles:20260413T200000
-DTSTAMP:20260326T062652Z
+DTSTAMP:20260327T062729Z
 UID:4e05ade8fd3c09e1@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Class/Seminar
 DESCRIPTION:Join us for a noontime webinar to discover how your daily diet
@@ -1401,7 +1278,7 @@ BEGIN:VEVENT
 SUMMARY:2026 Systems Biology for Infectious Diseases Workshop
 DTSTART;TZID=America/Los_Angeles:20260414T000000
 DTEND;TZID=America/Los_Angeles:20260414T000000
-DTSTAMP:20260326T062652Z
+DTSTAMP:20260327T062729Z
 UID:8541fce6e257f820@gid-seminars.wnprc.wisc.edu
 CATEGORIES:University - UCSF
 DESCRIPTION:\n\nSource: ucsf_qbi_pasteur
@@ -1417,7 +1294,7 @@ BEGIN:VEVENT
 SUMMARY:Overview of PCC & PCC Symptoms
 DTSTART;TZID=America/Regina:20260414T120000
 DTEND;TZID=America/Regina:20260414T130000
-DTSTAMP:20260326T062652Z
+DTSTAMP:20260327T062729Z
 UID:8c606de237c2595e@gid-seminars.wnprc.wisc.edu
 CATEGORIES:University - USask
 DESCRIPTION:Post-COVID Condition webinar series by University of Saskatche
@@ -1437,7 +1314,7 @@ SUMMARY:Immunization Guidance for People With HIV: Where Do You Go and Who
   Do You Trust?
 DTSTART;TZID=America/Los_Angeles:20260415T100000
 DTEND;TZID=America/Los_Angeles:20260415T110000
-DTSTAMP:20260326T062652Z
+DTSTAMP:20260327T062729Z
 UID:89095baab8528a0e@gid-seminars.wnprc.wisc.edu
 CATEGORIES:IAS-USA
 DESCRIPTION:\nEvent URL: https://www.iasusa.org/events/webinar-2026-thomps
@@ -1455,7 +1332,7 @@ BEGIN:VEVENT
 SUMMARY:MCCPOP Perinatal Potpourri Conference 2026
 DTSTART;TZID=America/Los_Angeles:20260416T150000
 DTEND;TZID=America/Los_Angeles:20260416T233000
-DTSTAMP:20260326T062652Z
+DTSTAMP:20260327T062729Z
 UID:18e7b1fe2df7e360@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Conference/Symposium
 DESCRIPTION:Overview\n\nRooted in Community. Transforming Care. \n\nCelebr
@@ -1501,7 +1378,7 @@ BEGIN:VEVENT
 SUMMARY:MCCPOP Perinatal Potpourri Conference 2026
 DTSTART;TZID=America/Los_Angeles:20260417T150000
 DTEND;TZID=America/Los_Angeles:20260417T233000
-DTSTAMP:20260326T062652Z
+DTSTAMP:20260327T062729Z
 UID:e65e1bfed5990877@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Conference/Symposium
 DESCRIPTION:Overview\n\nRooted in Community. Transforming Care. \n\nCelebr
@@ -1547,7 +1424,7 @@ BEGIN:VEVENT
 SUMMARY:ESCMID Global Conference 2026
 DTSTART:20260421T000000Z
 DTEND:20260421T010000Z
-DTSTAMP:20260326T062652Z
+DTSTAMP:20260327T062729Z
 UID:75b978dbc9c352b2@gid-seminars.wnprc.wisc.edu
 CATEGORIES:ISRV
 DESCRIPTION:21 April 2026 - 8:30 AM to 10:30 AM CEST\, Munich\, Germany\n\
@@ -1566,7 +1443,7 @@ BEGIN:VEVENT
 SUMMARY:Cognitive and Mental Health Aspects of PCC
 DTSTART;TZID=America/Regina:20260421T120000
 DTEND;TZID=America/Regina:20260421T130000
-DTSTAMP:20260326T062652Z
+DTSTAMP:20260327T062729Z
 UID:bc02c9ff64144e12@gid-seminars.wnprc.wisc.edu
 CATEGORIES:University - USask
 DESCRIPTION:Post-COVID Condition webinar series by University of Saskatche
@@ -1585,7 +1462,7 @@ BEGIN:VEVENT
 SUMMARY:CFAS Seminar April 2026: Ina Park\, MD\, MS
 DTSTART;TZID=America/Los_Angeles:20260423T230000
 DTEND;TZID=America/Los_Angeles:20260424T000000
-DTSTAMP:20260326T062652Z
+DTSTAMP:20260327T062729Z
 UID:e19ece5ee1337c21@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Fred Hutch Center for AIDS Research (CFAR)
 DESCRIPTION:Event interval: Single day event\nAccessibility Contact: cfas@
@@ -1610,7 +1487,7 @@ BEGIN:VEVENT
 SUMMARY:World Immunization Week 2026: For every generation\, vaccines work
 DTSTART:20260424T000000Z
 DTEND:20260501T000000Z
-DTSTAMP:20260326T062652Z
+DTSTAMP:20260327T062729Z
 UID:68e4c01544a06140@gid-seminars.wnprc.wisc.edu
 CATEGORIES:WHO
 DESCRIPTION:World Immunization Week\, celebrated in the last week of April
@@ -1630,26 +1507,21 @@ TRIGGER:-PT1H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:REDCap Workshop: REDCap Mobile
-DTSTART;TZID=America/Los_Angeles:20260424T170000
-DTEND;TZID=America/Los_Angeles:20260424T190000
-DTSTAMP:20260326T062652Z
-UID:a748d2990e4bc179@gid-seminars.wnprc.wisc.edu
+SUMMARY:REDCap Workshop: Survey Design
+DTSTART;TZID=America/Los_Angeles:20260424T210000
+DTEND;TZID=America/Los_Angeles:20260424T230000
+DTSTAMP:20260327T062729Z
+UID:d5061be08ebe5dc3@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Fred Hutch Center for AIDS Research (CFAR)
 DESCRIPTION:Event interval: Single day event\nCampus location: Hans Roslin
  g Center for Population Health (HRC)\nCampus room: HRC 101\nAccessibility 
  Contact: Cfarbic@uw.edu\nEvent Types: Workshops\nEvent sponsors: Center fo
- r AIDS Research (CFAR) - Behavioral Innovations Core (BIC)\n\nThis worksho
- p focuses on how to conduct offline data collection using the REDCap Mobil
- e App. Please download the REDCap Mobile App to your device (phone or tabl
- et) in advance\, using your device’s app store. We will be using a test 
- project to practice set up and collection procedures\, but if you would li
- ke to use your own REDCap project\, ensure you have an active REDCap accou
- nt and a project created.\n\n\nSource: uw_cfar
+ r AIDS Research (CFAR) - Behavioral Innovations Core (BIC)\n\nMore info TB
+ A!\n\n\nSource: uw_cfar
 LOCATION:Hans Rosling Center for Population Health (HRC)
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Reminder: REDCap Workshop: REDCap Mobile
+DESCRIPTION:Reminder: REDCap Workshop: Survey Design
 TRIGGER:-PT1H
 END:VALARM
 END:VEVENT
