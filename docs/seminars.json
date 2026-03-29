@@ -2,12 +2,12 @@
   "metadata": {
     "title": "GID Seminars Feed",
     "description": "Aggregated seminars and webinars for Global Infectious Disease research",
-    "generated_at": "2026-03-28T06:21:56.305224Z",
+    "generated_at": "2026-03-29T06:25:58.306240Z",
     "time_window": {
       "days_behind": 30,
       "days_ahead": 30
     },
-    "total_events": 54,
+    "total_events": 56,
     "sources": [
       "astmh_events",
       "avac_events",
@@ -57,23 +57,6 @@
     ]
   },
   "events": [
-    {
-      "id": "028ddf4c9da7e484",
-      "title": "ISTM Travel Medicine Review and Update Course",
-      "description": null,
-      "url": "https://www.astmh.org/news-events/events-calendar/istm-travel-medicine-review-and-update-course-(1)",
-      "start_datetime": "2026-02-27T00:00:00",
-      "end_datetime": "2026-02-28T00:00:00",
-      "timezone": "America/New_York",
-      "location": "Virtual/Online",
-      "organizer": "ASTMH",
-      "source": "astmh_events",
-      "category": "ASTMH",
-      "tags": [],
-      "access_restriction": "Public",
-      "registration_url": null,
-      "recording_url": null
-    },
     {
       "id": "1d80730576bf6235",
       "title": "Inside theMednet: The Community of Experts Solving Tough Clinical Questions",
@@ -449,6 +432,23 @@
       "recording_url": null
     },
     {
+      "id": "584b996cb5053c2f",
+      "title": "TWiV 1309: Maybe they\u2019re all cancer vaccines",
+      "description": "[Podcast: This Week in Virology]\n\nTWiV explains why human papillomavirus vaccine-induced immunity can block infection, unlike all other vaccines, and how respiratory viral infections such as COVID and influenza prime accelerated lung cancer growth. Hosts:&nbsp; Vincent Racaniello , Alan Dove , Rich Condit , and Brianne Barker Click arrow to play Download TWiV 1309 (64 MB .mp3, 106 min) Subscribe (free): Apple Podcasts , RSS , email Become a&nbsp; patron &nbsp;of&nbsp;TWiV! Links for this episode Support science education at MicrobeTV Positions in Rosenfeld Lab (email) J. Michael Bishop passes (NY Times) Vincent interviews JM Bishop (YouTube) David Botstein passes (NY Times) Post-attachment neutralization of HPV (npj vaccines) HPV vaccine blocks infection (Cancer Discov) Respiratory viral infections prime lung cancer growth (Cell) Respiratory virus infections&nbsp; awaken metastatic breast cancer &nbsp;( TWiV 1243 ) SARS-CoV-2 mRNA vaccines&nbsp;sensitize tumors to immunotherapy ( TWiV 1265 ) Letters read &nbsp; on TWiV 1309 Timestamps by&nbsp; Jolene Ramsey. Thanks! Weekly Picks Brianne &#8211; Project Hail Mary Rich &#8211; After a decade as a Yale hospital janitor, she is now a doctor there Alan &#8211; Scientific analysis of jokes in conference talks Vincent &#8211; Yuval Noah Harari: Why advanced societies fall for mass delusion Listener Pick Greg &#8211; Changes in Terrestrial N Budgets and Riverine Nitrate-N Yields from Mississippi River Basin Watersheds 2000 to 2020 Intro music is by&nbsp; Ronald Jenke",
+      "url": "https://www.microbe.tv/twiv/twiv-1309/",
+      "start_datetime": "2026-03-29T04:00:00",
+      "end_datetime": null,
+      "timezone": "UTC",
+      "location": "Podcast",
+      "organizer": "This Week in Virology",
+      "source": "twiv_podcast",
+      "category": "Podcast - TWiV",
+      "tags": [],
+      "access_restriction": "Public",
+      "registration_url": null,
+      "recording_url": null
+    },
+    {
       "id": "f546846a712f08aa",
       "title": "Key WHO side events during the One Health Festival",
       "description": "The World Health Organization (WHO) will host nine key side events during the One Health Festival, held alongside the One Health Summit in Lyon, France.",
@@ -772,6 +772,23 @@
       "recording_url": null
     },
     {
+      "id": "9a2c0b6f3e759096",
+      "title": "Hand hygiene action saves live! Are you ready to plan and act?",
+      "description": "Warming up for World Hand Hygiene Day, 5 May 2026 and for achieving the global monitoring framework for infection prevention and control (IPC).",
+      "url": "https://www.who.int/news-room/events/detail/2026/04/13/default-calendar/hand-hygiene-action-saves-live!-are-you-ready-to-plan-and-act",
+      "start_datetime": "2026-04-13T13:00:00",
+      "end_datetime": "2026-04-13T14:00:00",
+      "timezone": "UTC",
+      "location": "Online/Geneva",
+      "organizer": "World Health Organization",
+      "source": "who_events",
+      "category": "WHO",
+      "tags": [],
+      "access_restriction": "Public",
+      "registration_url": null,
+      "recording_url": null
+    },
+    {
       "id": "4e05ade8fd3c09e1",
       "title": "Food and Mood",
       "description": "Join us for a noontime webinar to discover how your daily diet impacts not just your physical health, but also your brain function and emotional resilience.\n\nYou will learn how the foods we eat influence our gut microbiome, which communicates with our immune system and ultimately affects neurotransmitter signaling in our brains. We'll delve into the benefits of the Mediterranean Diet for gut health and how to incorporate its mood-boosting principles into any lifestyle.\n\nWe'll also uncover how sugar and refined carbohydrates affect hormones and cortisol levels. You will learn practical strategies to manage the blood sugar effects of these foods, enabling you to consume carbohydrates wisely for optimal health and well-being.\n\nBy the end of the session, you'll have a deeper understanding of the science behind nutrition's impact on the brain and mood, along with practical tips for enhancing your well-being through diet.\n\nThis class will be recorded and a one-week link to the recording will be shared with all registered participants. To receive incentive points, attend at least 80% of the live session or listen to the entire recording within one week.  Request disability accommodations and access info.\n\nClass details are subject to change.",
@@ -967,6 +984,23 @@
       "end_datetime": "2026-04-24T23:00:00",
       "timezone": "America/Los_Angeles",
       "location": "Hans Rosling Center for Population Health (HRC)",
+      "organizer": null,
+      "source": "uw_cfar",
+      "category": "Fred Hutch Center for AIDS Research (CFAR)",
+      "tags": [],
+      "access_restriction": "Public",
+      "registration_url": null,
+      "recording_url": null
+    },
+    {
+      "id": "6b4527ec733ff969",
+      "title": "HEIST Workshop: Introduction to Mathematical Modeling for Public Health Research",
+      "description": "Event interval: Single day event\nOnline Meeting Link: https://washington.zoom.us/meeting/register/p7yfUqJYRKOh9X79aG3YSQ\nAccessibility Contact: cfar@uw.edu\nEvent Types: Lectures/Seminars\nEvent sponsors: CFAR Implementation Science (IS) Core\n\nPlease join the HEIST team for a workshop series on Economic Evaluation for Public Health Research. This workshop series will be facilitated by the HEIST team, including Drs. Monisha Sharma, David Watkins, Shan Liu, and Marita Zimmermann. Each session will be 2 hours long and occur virtually (Zoom link provided upon registration). See detailed information about the workshop session below. Please note that attendance at all three workshops is not necessary to attend; people may choose to attend any one session that interests them.\n\nThis session will cover:\n\t - Decision Trees\t\n - Markov Models\t\n - Individual-based and SRI Models \t\n - Simulation Models",
+      "url": "https://washington.zoom.us/meeting/register/p7yfUqJYRKOh9X79aG3YSQ",
+      "start_datetime": "2026-04-27T20:00:00",
+      "end_datetime": "2026-04-27T22:00:00",
+      "timezone": "America/Los_Angeles",
+      "location": "Online",
       "organizer": null,
       "source": "uw_cfar",
       "category": "Fred Hutch Center for AIDS Research (CFAR)",
