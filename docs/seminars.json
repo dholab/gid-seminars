@@ -2,7 +2,7 @@
   "metadata": {
     "title": "GID Seminars Feed",
     "description": "Aggregated seminars and webinars for Global Infectious Disease research",
-    "generated_at": "2026-04-03T06:27:00.168659Z",
+    "generated_at": "2026-04-04T06:22:52.579295Z",
     "time_window": {
       "days_behind": 30,
       "days_ahead": 30
@@ -57,23 +57,6 @@
     ]
   },
   "events": [
-    {
-      "id": "b7ed467640d07286",
-      "title": "Diagnosing Asthma in Children Under Age 5",
-      "description": "OverviewPediatricians play an important role in diagnosing young patients with asthma, but it can be difficult to make the diagnosis in children younger than 5 years old. In this webinar, participants will learn an approach to asthma diagnosis in this age group. Since lung testing is difficult, the diagnosis is often based on identifying signs and symptoms of reversible airflow obstruction and the documentation of response to asthma medication. The webinar will also discuss the indications for specialized care when the diagnosis of asthma is not straightforward or response to therapy is not successful. In addition, pediatricians will learn about practical day-to-day management issues of patients with asthma and the types of treatments these patients may be receiving.\n\nRegistrationRegistration for all practitioners - free\n\nTo register for this activity, please click HERE.\n\nCreditsAMA PRA Category 1 Credits\u2122 (1.00 hours), AAPA Category 1 CME credits (1.00 hours), ANCC Contact Hours (1.00 hours), Non-Physician Participation Credit (1.00 hours)\n\nTarget AudienceSpecialties - Family Medicine & Community Health, PediatricsProfessions - Advance Practice Nurse (APN), Fellow/Resident, Nurse, Physician, Physician Associate, Registered Nurse (RN) ObjectivesAt the conclusion of this activity, learners should be able to:\n1. Discuss why it is often difficult to diagnose young children with asthma since it is a heterogeneous disorder with different causes and triggers.\n2. Identify the predictors of asthma and how to separate from wheezing with viral illnesses.\n3. Define the signs, symptoms and response to therapy that may indicate asthma in young children.\n4. Describe when to order further testing for patients with suspected asthma.\n5. Review the indications for specialized asthma care and further examination for asthma.\n6. Summarize the daily management of patients with asthma.\n7. Explain the treatments for asthma in children including the various medications, environmental contro",
-      "url": "https://events.stanford.edu/event/diagnosing-asthma-in-children-under-age-5",
-      "start_datetime": "2026-03-04T20:00:00",
-      "end_datetime": "2026-03-04T21:00:00",
-      "timezone": "America/Los_Angeles",
-      "location": "Online",
-      "organizer": null,
-      "source": "stanford_virtual",
-      "category": "Class/Seminar",
-      "tags": [],
-      "access_restriction": "Public",
-      "registration_url": null,
-      "recording_url": null
-    },
     {
       "id": "6a5b8916ecb121f0",
       "title": "Managing Unexpected Expenses and Navigating Market Volatility",
@@ -409,6 +392,23 @@
       "organizer": null,
       "source": "stanford_virtual",
       "category": "Conference/Symposium",
+      "tags": [],
+      "access_restriction": "Public",
+      "registration_url": null,
+      "recording_url": null
+    },
+    {
+      "id": "91d607387e3e00b9",
+      "title": "TWiV 1310: Clinical update with Dr. Daniel Griffin",
+      "description": "[Podcast: This Week in Virology]\n\nIn his weekly clinical update, Dr. Griffin and Vincent Racaniello cover if the \u201cfive-second\u201d rule for things that fall on the floor apply to surgical equipment, an outbreak of E. coli illness caused by raw cheese before Dr. Griffin then deep dives into the measles outbreak in South Carolina and Utah, recent statistics RSV, influenza and SARS-CoV-2 infections, the Wasterwater Scan dashboard, Johns Hopkins measles tracker, where to find PEMGARDA, strain selection for the 2026-2027 season influenza vaccine by the FDA, if standard or high dose influenza vaccination influences dementia protection, a new variant of SARS-CoV-2, how to access and pay for Paxlovid, specific effects of Paxlovid and contacting your federal government representative to stop the assault on science and biomedical research. Click arrow to play Download TWiV 1310 (24 MB .mp3, 40 min) Subscribe (free): Apple Podcasts , RSS , email Become a&nbsp; patron &nbsp;of&nbsp;TWiV! Links for this episode The \u201c five-second \u201d rule for dropped food: does it apply to dropped medical objects in the operating room? A randomized study of disinfection approaches for contaminated arthroplasty implants (Infection Control &amp; Hospital Epidemiology) Whole Genome Sequencing ( WGS ) Program (FDA) Outbreak Investigation of E. coli O157:H7: Raw Cheddar Cheese (March 2026) (FDA) Wastewater for norovirus (WasterWater Scan) Wastewater for measles (WasterWater Scan) Measles cases and outbreaks (CDC Rubeola) Big outbreak, bright lights\u2026 ",
+      "url": "https://www.microbe.tv/twiv/twiv-1310/",
+      "start_datetime": "2026-04-04T04:00:00",
+      "end_datetime": null,
+      "timezone": "UTC",
+      "location": "Podcast",
+      "organizer": "This Week in Virology",
+      "source": "twiv_podcast",
+      "category": "Podcast - TWiV",
       "tags": [],
       "access_restriction": "Public",
       "registration_url": null,
