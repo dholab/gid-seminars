@@ -2,12 +2,12 @@
   "metadata": {
     "title": "GID Seminars Feed",
     "description": "Aggregated seminars and webinars for Global Infectious Disease research",
-    "generated_at": "2026-04-04T06:22:52.579295Z",
+    "generated_at": "2026-04-05T06:27:58.376913Z",
     "time_window": {
       "days_behind": 30,
       "days_ahead": 30
     },
-    "total_events": 53,
+    "total_events": 52,
     "sources": [
       "astmh_events",
       "avac_events",
@@ -57,40 +57,6 @@
     ]
   },
   "events": [
-    {
-      "id": "6a5b8916ecb121f0",
-      "title": "Managing Unexpected Expenses and Navigating Market Volatility",
-      "description": "They say the only constant in life is change, and the last few years have certainly brought an inordinate amount of change for all of us around the world. Many people may feel unprepared to weather unexpected events and expenses brought on by the pandemic, increased cost of living, or other life crisis. The volatile fluctuations in the financial markets add another layer of uncertainty and stress.\n\nIn this free noontime webinar, you will learn important strategies you can put in place to prepare for unexpected expenses and navigate market volatility. You will gain a better understanding of how to assess your spending habits and discover how to take control of your finances with a budget, as well as the ramifications of taking money from a workplace savings plan to get you through a difficult time.\n\nWe will also explore the history of market downturns, common pitfalls faced by investors, and the importance of following a plan with your investments. By planning ahead and understanding all the financial tools at your disposal, you will be better equipped to weather whatever comes your way.\n\nThis class will not be recorded. Attendance requirement for incentive points - at least 80% of the live session.  Request disability accommodations and access info.\n\nInstructors: Nick Maly is a Fidelity Workplace Financial Consultant and has been with Fidelity since 2013. He is a Certified Financial Planner professional, investment advisor representative, registered securities representative, and licensed insurance representative and promotes financial wellness for plan participants through one-on-one planning and educational events.\n\nClass details are subject to change.",
-      "url": "https://events.stanford.edu/event/managing-unexpected-expenses-and-navigating-market-volatility-2688",
-      "start_datetime": "2026-03-05T20:00:00",
-      "end_datetime": "2026-03-05T21:00:00",
-      "timezone": "America/Los_Angeles",
-      "location": "Online",
-      "organizer": null,
-      "source": "stanford_virtual",
-      "category": "Class/Seminar",
-      "tags": [],
-      "access_restriction": "Public",
-      "registration_url": null,
-      "recording_url": null
-    },
-    {
-      "id": "b1d1f545ca6d6652",
-      "title": "The Longevity Advantage: How Strength Determines Healthspan",
-      "description": "The latest science is transforming how we think about aging. Research now shows that muscle acts as a dynamic organ\u2014fueling metabolism, protecting brain health, strengthening immunity, and driving recovery. Sarita Khemani, MD, shares the latest research and insights on how muscle strength predicts healthspan, the evidence-based strategies that can help you build resilience, and where future discoveries in muscle and longevity research are leading us.\n\nThis webinar will be presented by Sarita Khemani, MD, who is a clinical associate professor of Medicine at Stanford University specializing in perioperative medicine. Her clinical expertise focuses on the prevention, early detection, and management of medical complications in surgical patients. She also serves as Director of the Stanford Resilience and Longevity Initiative (STRIVE) in Hospital Medicine, which aims to enhance physical and cognitive resilience and promote long-term healthspan.",
-      "url": "https://events.stanford.edu/event/the-longevity-advantage-how-strength-determines-healthspan",
-      "start_datetime": "2026-03-06T03:00:00",
-      "end_datetime": "2026-03-06T04:00:00",
-      "timezone": "America/Los_Angeles",
-      "location": "Online",
-      "organizer": null,
-      "source": "stanford_virtual",
-      "category": "Lecture/Presentation/Talk",
-      "tags": [],
-      "access_restriction": "Public",
-      "registration_url": null,
-      "recording_url": null
-    },
     {
       "id": "19d6b1b99924cea6",
       "title": "SDRC Friday Seminar- Peter Jackson, PhD",
@@ -953,6 +919,23 @@
       "organizer": null,
       "source": "uw_cfar",
       "category": "Fred Hutch Center for AIDS Research (CFAR)",
+      "tags": [],
+      "access_restriction": "Public",
+      "registration_url": null,
+      "recording_url": null
+    },
+    {
+      "id": "ec36d1781e7df8ea",
+      "title": "Up close and personal \u2013 respiratory virus transmission in close quarters",
+      "description": "Office 7, 35-37 Ludgate Hill, London, EC4M 7JN, United Kingdom",
+      "url": "https://www.isrv.global/events-calendar/up-close-and-personal-respiratory-virus-transmission-in-close-quarters/",
+      "start_datetime": "2026-05-05T00:00:00",
+      "end_datetime": null,
+      "timezone": "UTC",
+      "location": "Online",
+      "organizer": "ISRV",
+      "source": "isrv_events",
+      "category": "ISRV",
       "tags": [],
       "access_restriction": "Public",
       "registration_url": null,
