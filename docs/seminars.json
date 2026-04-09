@@ -2,12 +2,12 @@
   "metadata": {
     "title": "GID Seminars Feed",
     "description": "Aggregated seminars and webinars for Global Infectious Disease research",
-    "generated_at": "2026-04-08T06:35:28.289483Z",
+    "generated_at": "2026-04-09T06:34:24.573964Z",
     "time_window": {
       "days_behind": 30,
       "days_ahead": 30
     },
-    "total_events": 50,
+    "total_events": 48,
     "sources": [
       "astmh_events",
       "avac_events",
@@ -57,40 +57,6 @@
     ]
   },
   "events": [
-    {
-      "id": "f2c30e5faff26e72",
-      "title": "Schmidt Center - MIT EECS Colloquium: Engineering sharper cancer immunotherapies using robotics and machine learning by Gr\u00e9goire Altan-Bonnet\u200d",
-      "description": "Monday, March 9, 2026\n\n4:00 - 5:00 pm (refreshments at 3:30 pm)\n\nMonadnock (Broad Institute, 415 Main St., room 2040*) and virtually at broad.io/ewsc\n\n \n\n\u270d\ufe0f Learn more and register\n\n \n\nPlease join us for a colloquium featuring Gr\u00e9goire Altan-Bonnet\u200d, Deputy Chief, Laboratory of Integrative Cancer Immunology, National Cancer Institute on Engineering sharper cancer immunotherapies using robotics and machine learning.\n\n \n\nThis colloquium is part of a series hosted jointly by the Eric and Wendy Schmidt Center at the Broad Institute and the Department of Electrical Engineering and Computer Science at MIT. Gr\u00e9goire\u2019s colloquium will run from 4:00-5:00 pm with refreshments served at 3:30 pm.\n\n \n\nThe colloquium will be held at the Broad Institute Auditorium (415 Main St) as well as virtually via YouTube Livestream: broad.io/ewsc. \n\n \n\nLearn more and register.\n\n \n\n*If you do not have a Broad badge, please arrive 10 minutes early with a different ID to register with security and be escorted up to Monadnock.\n\n \n\nQuestions? Email Amanda Ogden at aogden@broadinstitute.org.",
-      "url": "https://events.broadinstitute.org/event/schmidt-center-mit-eecs-colloquium-engineering-sharper-cancer-immunotherapies-using-robotics-and-machine-learning-by-gregoire-altan-bonnet",
-      "start_datetime": "2026-03-09T20:00:00",
-      "end_datetime": "2026-03-09T21:00:00",
-      "timezone": "America/New_York",
-      "location": "Broad Institute, Monadnock (room 2040)",
-      "organizer": null,
-      "source": "broad_institute",
-      "category": "Talks",
-      "tags": [],
-      "access_restriction": "Public",
-      "registration_url": null,
-      "recording_url": null
-    },
-    {
-      "id": "a5fc866aac33d469",
-      "title": "Special K: New kid on the block \u2013 emerging variant impact",
-      "description": "Maria Zambon,UKHSA, London, UKFrederick Hayden,University of Virginia School of Medicine, VA, USA",
-      "url": "https://www.isrv.global/events-calendar/special-k-new-kid-on-the-block-emerging-variant-impact/",
-      "start_datetime": "2026-03-10T00:00:00",
-      "end_datetime": null,
-      "timezone": "UTC",
-      "location": "Online",
-      "organizer": "ISRV",
-      "source": "isrv_events",
-      "category": "ISRV",
-      "tags": [],
-      "access_restriction": "Public",
-      "registration_url": null,
-      "recording_url": null
-    },
     {
       "id": "b285ae9d6ae674af",
       "title": "\"Sex and Dissent: Stories of Feminist Resistance in Argentina, Chile, Mexico, and Spain\" by Meaghan Beatley",
