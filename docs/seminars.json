@@ -2,12 +2,12 @@
   "metadata": {
     "title": "GID Seminars Feed",
     "description": "Aggregated seminars and webinars for Global Infectious Disease research",
-    "generated_at": "2026-04-09T06:34:24.573964Z",
+    "generated_at": "2026-04-10T06:38:03.617501Z",
     "time_window": {
       "days_behind": 30,
       "days_ahead": 30
     },
-    "total_events": 48,
+    "total_events": 46,
     "sources": [
       "astmh_events",
       "avac_events",
@@ -330,57 +330,6 @@
       "recording_url": null
     },
     {
-      "id": "11afb212a1bcfa19",
-      "title": "Advancing One Health Learning: mapping, connecting, building",
-      "description": "Held alongside the One Health Festival in Lyon, this meeting will bring together leaders from academia, government and international organizations to strengthen collaboration and advance innovative approaches to One Health learning and capacity-building.",
-      "url": "https://www.who.int/news-room/events/detail/2026/04/09/default-calendar/advancing-one-health-learning-mapping-connecting-building",
-      "start_datetime": "2026-04-09T07:00:00",
-      "end_datetime": "2026-04-09T10:00:00",
-      "timezone": "UTC",
-      "location": "Online/Geneva",
-      "organizer": "World Health Organization",
-      "source": "who_events",
-      "category": "WHO",
-      "tags": [],
-      "access_restriction": "Public",
-      "registration_url": null,
-      "recording_url": null
-    },
-    {
-      "id": "3c763ea971655c44",
-      "title": "One Health Festival event: Climate-resilient and low carbon health systems as a practical One Health solution",
-      "description": "Drawing on country experience and initiatives such as the Alliance for Transformative Action on Climate and Health (ATACH) and the B\u00e9lem Health Action Plan, the discussion will focus on climate-resilient and low-carbon health systems, financing and accelerating action across sectors, supportive of a one health approach.",
-      "url": "https://www.who.int/news-room/events/detail/2026/04/09/default-calendar/climate-resilient-and-low-carbon-health-systems-as-a-practical-one-health-solution",
-      "start_datetime": "2026-04-09T09:00:00",
-      "end_datetime": "2026-04-09T11:00:00",
-      "timezone": "UTC",
-      "location": "Online/Geneva",
-      "organizer": "World Health Organization",
-      "source": "who_events",
-      "category": "WHO",
-      "tags": [],
-      "access_restriction": "Public",
-      "registration_url": null,
-      "recording_url": null
-    },
-    {
-      "id": "414a753f7654d378",
-      "title": "TEPHI Community Health Worker Training | Vaccination for Your Community: Building Trust for Effective Communication",
-      "description": null,
-      "url": "https://tephi.texas.gov/events/event?id=55918799-3a07-409d-91ab-c7b4295cfa35",
-      "start_datetime": "2026-04-09T12:00:00",
-      "end_datetime": null,
-      "timezone": "America/Chicago",
-      "location": "Virtual",
-      "organizer": "Texas EPHI",
-      "source": "tephi_events",
-      "category": "TEPHI",
-      "tags": [],
-      "access_restriction": "Public",
-      "registration_url": null,
-      "recording_url": null
-    },
-    {
       "id": "8b49debbd064e5e2",
       "title": "Ultra\u2011processed foods: a One Health agenda for action and accountability",
       "description": "This side event will examine the growing role of ultra-processed foods within modern food systems and explore how these products intersect with interconnected risks across human health, animal health and environmental sustainability.",
@@ -585,6 +534,23 @@
       "recording_url": null
     },
     {
+      "id": "4061b45a01acfcfe",
+      "title": "TEPHI | OneHealth and Tuberculosis",
+      "description": null,
+      "url": "https://tephi.texas.gov/events/event?id=74dd33aa-cb8d-4167-b477-160e7ef95165",
+      "start_datetime": "2026-04-22T09:30:00",
+      "end_datetime": null,
+      "timezone": "America/Chicago",
+      "location": "Virtual or In-Person",
+      "organizer": "Texas EPHI",
+      "source": "tephi_events",
+      "category": "TEPHI",
+      "tags": [],
+      "access_restriction": "Public",
+      "registration_url": null,
+      "recording_url": null
+    },
+    {
       "id": "e19ece5ee1337c21",
       "title": "CFAS Seminar April 2026: Mycoplasma genitalium with Ina Park, MD, MS",
       "description": "Event interval: Single day event\nAccessibility Contact: cfas@uw.edu\nEvent Types: Lectures/Seminars\n\nWe welcome your attendance at the April 2026 UW Center for AIDS & STD (CFAS): \nhttp://depts.washington.edu/cfas/ Research Seminar. \n \nPlease join us on Thursday, April 23, 2026 at 4 PM PST on Zoom. \nFor Zoom info: Please email CFAS@uw.edu or click here to be added to the mailing list: \nhttp://docs.google.com/forms/d/e/1FAIpQLSeBLOZoWLDhU5wTra_LeNAbN5iAfoW1ARO4E9Z2pFKtHRpXLA/viewform. \n\n\"Mycoplasma genitalium: Small Bug, Big Problem\" \n\nIna Park, MD, MS\nUniversity of California San Francisco School of Medicine",
@@ -756,8 +722,8 @@
     },
     {
       "id": "f91d85af893bc73d",
-      "title": "UW Diversity in Clinical Trials Initiative Webinar",
-      "description": "Event interval: Single day event\nOnline Meeting Link: https://washington.zoom.us/meeting/register/1gmaHlIpSM2LbQo4xCNlMw\nAccessibility Contact: cfar@uw.edu\nEvent Types: Lectures/Seminars\nEvent sponsors: CFAR Health Access Scientific Working Group, Office of Community Engagement, Behavioral Innovations Core, and UW BIRCH&nbsp;\n\nREGISTER NOW!\nZoom Registration : \nhttps://washington.zoom.us/meeting/register/1gmaHlIpSM2LbQo4xCNlMw\n \n--------------------------------------------------------------------------------\n\n1:00pm - 2:00pm\nVIRTUAL\nJoin us for a virtual webinar with Charlie Gregor, Juliana Garcia, and Jason Malone about the UW Diversity in Clinical Trials Initiative. More details TBA!",
+      "title": "The Diversity in Clinical Trials Initiative Webinar",
+      "description": "Event interval: Single day event\nOnline Meeting Link: https://washington.zoom.us/meeting/register/1gmaHlIpSM2LbQo4xCNlMw\nAccessibility Contact: cfar@uw.edu\nEvent Types: Lectures/Seminars\nEvent sponsors: CFAR Health Access Scientific Working Group, Office of Community Engagement, Behavioral Innovations Core, and UW BIRCH&nbsp;\n\nREGISTER NOW!\nZoom Registration : \nhttps://washington.zoom.us/meeting/register/1gmaHlIpSM2LbQo4xCNlMw\n \n--------------------------------------------------------------------------------\n\n1:00pm - 2:00pm\nVIRTUAL\nFirst-of-its kind WA legislation (RCW 69.78: \nhttps://urldefense.com/v3/__https:/app.leg.wa.gov/RCW/default.aspx?cite=69.78__;!!K-Hz7m0Vt54!mBodrqBV2BQTna5f_a5V7tkRy-hMmFGPaxgjFWdy2lTfFNxghqT6B5kCC8XUMvr9Lif7aT4zTjb96UlQrQ$) requires UW and UW researchers to take specific steps to improve representation in clinical trials. Beginning Jan 1, 2026, most new clinical trials at UW will be required to submit a Diversity Supplement to the IRB which includes a recruitment strategy for underrepresented groups and community engagement standards. Additionally, researchers will need to provide translation and interpreter services and an e-consent options, as well as track enrollment metrics. The Diversity in Clinical Trials Iniative: \nhttps://urldefense.com/v3/__https:/equity.uwmedicine.org/uwm-jedictr/dcti/__;!!K-Hz7m0Vt54!mBodrqBV2BQTna5f_a5V7tkRy-hMmFGPaxgjFWdy2lTfFNxghqT6B5kCC8XUMvr9Lif7aT4zTjaWCKdcVQ$ has stood up several resources to support researchers and as they navigagte UW's new Diversity in Clinical Trials policy: \nhttps://www.washington.edu/research/hsd/guidance/dct/. Join Jason Malone from the Human Subjects Division, Juliana Garcia from UW's Office of Healthcare Equity and Charlie Gregor from the Institute of Translational Health Sciences as they discuss the new policy and supporting resources, including the new Community-Based Research Collaboratory.\nFacilitators:\nCharlie Gregor, MPH: Charlie has been with the Institute of Translatio",
       "url": "https://washington.zoom.us/meeting/register/1gmaHlIpSM2LbQo4xCNlMw",
       "start_datetime": "2026-05-04T20:00:00",
       "end_datetime": "2026-05-04T21:00:00",
