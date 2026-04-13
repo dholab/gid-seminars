@@ -2,7 +2,7 @@
   "metadata": {
     "title": "GID Seminars Feed",
     "description": "Aggregated seminars and webinars for Global Infectious Disease research",
-    "generated_at": "2026-04-12T06:33:34.967151Z",
+    "generated_at": "2026-04-13T06:45:31.123813Z",
     "time_window": {
       "days_behind": 30,
       "days_ahead": 30
@@ -57,23 +57,6 @@
     ]
   },
   "events": [
-    {
-      "id": "9b987b76813fcadf",
-      "title": "TWiV 1304: Clinical update with Dr. Daniel Griffin",
-      "description": "[Podcast: This Week in Virology]\n\nIn his weekly clinical update, Dr. Griffin and Vincent Racaniello discuss the global spread of the \u2018eradicated\u2019 poliovirus, the suggestion of RFK\u2019s autocratic ability to change vaccine policy and the \u2018resignation\u2019 for the second time of CBER director Vinjay Prasad, and zoonotic spillover of viruses without adaptation, before Dr. Griffin deep dives into economic costs of not vaccinating against measles, the measles outbreak in South Carolina, Utah and ICE detention centers, recent statistics RSV, influenza and SARS-CoV-2 infections, the Wasterwater Scan dashboard, Johns Hopkins measles tracker, where to find PEMGARDA, VRPBEC meeting for \u2018flu\u2019 vaccine strain selection, how to access and pay for Paxlovid, closing of long COVID treatment centers globally, and contacting your federal government representative to stop the assault on science and biomedical research. Click arrow to play Download&nbsp; TWiV 1304 (31 MB .mp3, 51 min) Subscribe (free):&nbsp; Apple Podcasts , RSS ,&nbsp; email Become a&nbsp; patron &nbsp;of&nbsp;TWiV! Links for this episode Polio : Practice enhanced precautions\u2026..but isn\u2019t it eradicated? (CDC: Travelers\u2019 Health) 4:02 RFK Jr has &#8216; unreviewable &#8216; authority to reshape vaccine policy, DOJ lawyer tells judge\u2026.\u2019unreviewable\u2019 is not even a word! (Reuters) 8:28 Stark Divide: Americans More Confident in Career Scientists at U.S. Health Agencies Than Leaders (Annenberg: Public Policy Center, University of Pennsylvania) 11:15 Divisive F.D.A. Vaccine Reg",
-      "url": "https://www.microbe.tv/twiv/twiv-1304/",
-      "start_datetime": "2026-03-14T04:00:00",
-      "end_datetime": null,
-      "timezone": "UTC",
-      "location": "Podcast",
-      "organizer": "This Week in Virology",
-      "source": "twiv_podcast",
-      "category": "Podcast - TWiV",
-      "tags": [],
-      "access_restriction": "Public",
-      "registration_url": null,
-      "recording_url": null
-    },
     {
       "id": "0d515388cab79415",
       "title": "TWiV 1305: Lab leak idea called on the carpet",
@@ -902,6 +885,23 @@
       "organizer": "AVAC",
       "source": "avac_events",
       "category": "AVAC",
+      "tags": [],
+      "access_restriction": "Public",
+      "registration_url": null,
+      "recording_url": null
+    },
+    {
+      "id": "cdadee303a43b573",
+      "title": "CFAR & PHSKC Lunchbox Talk with Judith Tsui and Sara Glick",
+      "description": "Event interval: Single day event\nOnline Meeting Link: https://washington.zoom.us/meeting/register/MPyjkeYMSqWeGk3N6fVaxQ\nAccessibility Contact: g0201@uw.edu\nEvent Types: Lectures/Seminars\nEvent sponsors: CFAR and Public Health - Seattle King County\n\nSpeakers: Judith Tsui, MD, MPH & Sara Glick, PhD, MPH\nTalk Title: TBA",
+      "url": "https://washington.zoom.us/meeting/register/MPyjkeYMSqWeGk3N6fVaxQ",
+      "start_datetime": "2026-05-12T19:00:00",
+      "end_datetime": "2026-05-12T20:00:00",
+      "timezone": "America/Los_Angeles",
+      "location": "Online",
+      "organizer": null,
+      "source": "uw_cfar",
+      "category": "Fred Hutch Center for AIDS Research (CFAR)",
       "tags": [],
       "access_restriction": "Public",
       "registration_url": null,
