@@ -2,12 +2,12 @@
   "metadata": {
     "title": "GID Seminars Feed",
     "description": "Aggregated seminars and webinars for Global Infectious Disease research",
-    "generated_at": "2026-04-13T06:45:31.123813Z",
+    "generated_at": "2026-04-14T06:38:29.427866Z",
     "time_window": {
       "days_behind": 30,
       "days_ahead": 30
     },
-    "total_events": 50,
+    "total_events": 49,
     "sources": [
       "astmh_events",
       "avac_events",
@@ -57,23 +57,6 @@
     ]
   },
   "events": [
-    {
-      "id": "0d515388cab79415",
-      "title": "TWiV 1305: Lab leak idea called on the carpet",
-      "description": "[Podcast: This Week in Virology]\n\nTWiV introduces sunshine virus of carpet pythons and its effect snakes after experimental infection, and development of a new tool to distinguish between naturally ocurring outbreaks and those that arise from lab accidents. Hosts:&nbsp; Vincent Racaniello , Alan Dove , Rich Condit , and Brianne Barker Click arrow to play Download TWiV 1305 (65 MB .mp3, 108 min) Subscribe (free):&nbsp; Apple Podcasts ,&nbsp; RSS ,&nbsp; email Become a&nbsp; patron &nbsp;of&nbsp;TWiV! Links for this episode Support science education at MicrobeTV 3:20 Positions in Rosenfeld Lab (email) 6:57 IgNobel Prize ceremony moved to Europe (Science) 7:45 Prasad is out of the FDA (again) (npr) 11:32 Sunshine virus in carpet pythons (J Virol) 13:42 Selection preceding epidemics and pandemics (Cell) 40:44 Letters read on TWiV 1307on TWiV 1305 1:16:25 Timestamps by&nbsp; Jolene Ramsey. Thanks! Weekly Picks 1:28:59 Brianne &#8211; Galileo&#8217;s handwritten notes found in ancient astronomy text Rich &#8211; Dungeon Crawler Carl by Matt Dinniman Alan &#8211; High-resolution 3D imaging of the USS Monitor by NOAA&#8217;s new \u00b5SAS system Vincent &#8211; The Order of Time by Carlo Rovelli Listener Pick Douglas &#8211; Grandparents for vaccines Intro music is by&nbsp; Ronald Jenkees Send your virology questions and comments to twiv@microbe.tv Content in this podcast should not be construed as medical advice. The post TWiV 1305: Lab leak idea called on the carpet first appeared on This Week in Virology .",
-      "url": "https://www.microbe.tv/twiv/twiv-1305/",
-      "start_datetime": "2026-03-15T04:00:00",
-      "end_datetime": null,
-      "timezone": "UTC",
-      "location": "Podcast",
-      "organizer": "This Week in Virology",
-      "source": "twiv_podcast",
-      "category": "Podcast - TWiV",
-      "tags": [],
-      "access_restriction": "Public",
-      "registration_url": null,
-      "recording_url": null
-    },
     {
       "id": "36bc5892bd555bb8",
       "title": "Unlock Better Sleep",
@@ -307,23 +290,6 @@
       "organizer": "This Week in Virology",
       "source": "twiv_podcast",
       "category": "Podcast - TWiV",
-      "tags": [],
-      "access_restriction": "Public",
-      "registration_url": null,
-      "recording_url": null
-    },
-    {
-      "id": "c80d2fcc17dcf5d3",
-      "title": "Hand hygiene action saves live! Are you ready to plan and act?",
-      "description": "Warming up for World Hand Hygiene Day, 5 May 2026 and for achieving the global monitoring framework for infection prevention and control (IPC).",
-      "url": "https://www.who.int/news-room/events/detail/2026/04/13/default-calendar/hand-hygiene-action-saves-live!-are-you-ready-to-plan-and-act",
-      "start_datetime": "2026-04-13T11:00:00",
-      "end_datetime": "2026-04-13T12:00:00",
-      "timezone": "UTC",
-      "location": "Online/Geneva",
-      "organizer": "World Health Organization",
-      "source": "who_events",
-      "category": "WHO",
       "tags": [],
       "access_restriction": "Public",
       "registration_url": null,
@@ -698,6 +664,23 @@
       "organizer": "University of Saskatchewan",
       "source": "usask_pcc",
       "category": "University - USask",
+      "tags": [],
+      "access_restriction": "Public",
+      "registration_url": null,
+      "recording_url": null
+    },
+    {
+      "id": "eb6805073a5fe95d",
+      "title": "Education, inspiration, and participation: Community engagement as science communication",
+      "description": "In-person and on Zoom (https://broadinstitute.zoom.us/j/98200131831?pwd=PHDMZLOIbVtVSfQXlZw1yW3FAZWHCn.1&jst=2)\n\n \n\nJoin us to hear from Broadies whose day-to-day work encompasses different forms of public or community engagement, followed by a Q&A. Featuring:\n\n \n\nSellers Hill, Operation Outbreak\n\nElinor Karlsson, Darwin's Ark\nA. Nora Long, Broad Discovery Center\nAdrianna Matos-Nieves, Office of STEM Engagement Initiatives",
+      "url": "https://events.broadinstitute.org/event/education-inspiration-and-participation-community-engagement-as-science-communication",
+      "start_datetime": "2026-04-28T19:00:00",
+      "end_datetime": "2026-04-28T20:00:00",
+      "timezone": "America/New_York",
+      "location": "Stanley Building (75A), Cascades (11032)",
+      "organizer": null,
+      "source": "broad_institute",
+      "category": "Talks",
       "tags": [],
       "access_restriction": "Public",
       "registration_url": null,
