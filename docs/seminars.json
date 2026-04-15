@@ -2,12 +2,12 @@
   "metadata": {
     "title": "GID Seminars Feed",
     "description": "Aggregated seminars and webinars for Global Infectious Disease research",
-    "generated_at": "2026-04-14T06:38:29.427866Z",
+    "generated_at": "2026-04-15T06:39:02.342781Z",
     "time_window": {
       "days_behind": 30,
       "days_ahead": 30
     },
-    "total_events": 49,
+    "total_events": 50,
     "sources": [
       "astmh_events",
       "avac_events",
@@ -880,6 +880,23 @@
       "url": "https://washington.zoom.us/meeting/register/MPyjkeYMSqWeGk3N6fVaxQ",
       "start_datetime": "2026-05-12T19:00:00",
       "end_datetime": "2026-05-12T20:00:00",
+      "timezone": "America/Los_Angeles",
+      "location": "Online",
+      "organizer": null,
+      "source": "uw_cfar",
+      "category": "Fred Hutch Center for AIDS Research (CFAR)",
+      "tags": [],
+      "access_restriction": "Public",
+      "registration_url": null,
+      "recording_url": null
+    },
+    {
+      "id": "2ca31f73c38a48f6",
+      "title": "Access to and Uptake of Prevention Tools and Treatments in a Multi-Site US Cohort of People with HIV in Care Webinar",
+      "description": "Event interval: Single day event\nAccessibility Contact: cfar@uw.edu\nEvent Types: Lectures/Seminars",
+      "url": null,
+      "start_datetime": "2026-05-14T19:00:00",
+      "end_datetime": "2026-05-14T20:00:00",
       "timezone": "America/Los_Angeles",
       "location": "Online",
       "organizer": null,
