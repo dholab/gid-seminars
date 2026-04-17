@@ -2,7 +2,7 @@
   "metadata": {
     "title": "GID Seminars Feed",
     "description": "Aggregated seminars and webinars for Global Infectious Disease research",
-    "generated_at": "2026-04-16T06:39:33.737671Z",
+    "generated_at": "2026-04-17T06:39:11.601257Z",
     "time_window": {
       "days_behind": 30,
       "days_ahead": 30
@@ -57,23 +57,6 @@
     ]
   },
   "events": [
-    {
-      "id": "36bc5892bd555bb8",
-      "title": "Unlock Better Sleep",
-      "description": "We spend one-third of our lives asleep and nearly as much time worrying about how much sleep we are getting - or not getting. Sleep is critical for the optimization or maintenance of nearly every aspect of human mental and physical health, and inadequate sleep has been linked to disruptions in mood, metabolism, cognition, heart function, and immunity, among others. Worrying about it makes it worse, so finding the balance is a crucial step in overall sleep health.\n\nJoin us for a noontime webinar with a Stanford sleep expert to learn more about this vital process. You will learn about the basic biology behind sleep, common sleep problems, the utility (or lack thereof) of wearables, and ways to improve sleep. Bring your questions and leave with a deeper understanding and practical tools to help you get a better night\u2019s sleep.\n\nThis class will be recorded and a one-week link to the recording will be shared with all registered participants. To receive incentive points, attend at least 80% of the live session or listen to the entire recording within one week.  Request disability accommodations and access info.\n\nClass details are subject to change.",
-      "url": "https://events.stanford.edu/event/unlock-better-sleep",
-      "start_datetime": "2026-03-17T19:00:00",
-      "end_datetime": "2026-03-17T20:00:00",
-      "timezone": "America/Los_Angeles",
-      "location": "Online",
-      "organizer": null,
-      "source": "stanford_virtual",
-      "category": "Class/Seminar",
-      "tags": [],
-      "access_restriction": "Public",
-      "registration_url": null,
-      "recording_url": null
-    },
     {
       "id": "b282a6176bc1c68d",
       "title": "Chronic Inflammation",
@@ -678,6 +661,23 @@
       "end_datetime": "2026-05-01T00:00:00",
       "timezone": "America/Los_Angeles",
       "location": "HMC Ninth and Jefferson Building (NJB), 908 Jefferson St, Seattle, WA 98104",
+      "organizer": null,
+      "source": "uw_cfar",
+      "category": "Fred Hutch Center for AIDS Research (CFAR)",
+      "tags": [],
+      "access_restriction": "Public",
+      "registration_url": null,
+      "recording_url": null
+    },
+    {
+      "id": "3c302a7a3acc692f",
+      "title": "UW Support for the Somali-American Community: Past Successes and Future Directions",
+      "description": "Event interval: Single day event\nCampus location: Hans Rosling Center for Population Health (HRC)\nCampus room: 155\nAccessibility Contact: dghcomm@uw.edu\nEvent Types: Lectures/Seminars\nEvent sponsors: This Department of Global Health event is co-sponsored by the School&nbsp;of Public Health, the Department of Anthropology, the Department of Law Societies and Justice, the Center for AIDS Research (CFAR), the Center for Anti-Racism and Community Health (ARCH), the African Studies Program, and the American Association of University Professors (AAUP). &nbsp;\nLink: https://bit.ly/4tArZHF\n\nPlease RSVP by Friday, April 24: https://bit.ly/4tArZHF\n\nThe Seattle region is home to the third largest Somali\u2011American community in the nation, and Somali\u2011American students, staff, and faculty have long been an integral part of the UW community. The UW School of Public Health has a long history of training and collaboration with Somali-American health professionals to build impactful partnerships. Join us for a dynamic panel featuring Somali\u2011American UW students, faculty, and alumni alongside UW faculty. They will highlight public health collaborations in our region and focus on how the UW can continue to support and stand in partnership with the Somali\u2011American community during this critical time. \n\nPanel Participants: \n\t - Ahmed Abdille - WSU Pharm.D. , former Somali Health Board (SHB) Executive Director and business leader \t\n - Najma Osman - UW MPH in Global Health, current Executive Director of SHB \t\n - Farah Mohamed - UW MPH in Global Health, current DrGH student \t\n - Mohamed Ali - UW MPH in Global Health, founder of SHB, Environmental Health Planner, King County Public Health \t\n - Sumaya Mohamed - UW MPH in Global Health, current UW PhD student in Anthropology \t\n - Anisa Ibrahim MD - UW MD, UW Clinical Associate Professor of Pediatrics and Medical Director, Pediatric Clinic, Harborview Medical Center\nModerators:\n\t - Rachel Chapman - UW Professor, Anthropology \t\n - Keshet Ronen - ",
+      "url": "https://bit.ly/4tArZHF",
+      "start_datetime": "2026-05-01T00:30:00",
+      "end_datetime": "2026-05-01T02:00:00",
+      "timezone": "America/Los_Angeles",
+      "location": "Hans Rosling Center for Population Health (HRC)",
       "organizer": null,
       "source": "uw_cfar",
       "category": "Fred Hutch Center for AIDS Research (CFAR)",
