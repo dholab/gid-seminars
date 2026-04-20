@@ -7,113 +7,10 @@ X-WR-CALDESC:Aggregated seminars and webinars for Global Infectious Diseas
  e research
 X-WR-CALNAME:GID Seminars
 BEGIN:VEVENT
-SUMMARY:Chronic Inflammation
-DTSTART;TZID=America/Los_Angeles:20260320T190000
-DTEND;TZID=America/Los_Angeles:20260320T200000
-DTSTAMP:20260419T063624Z
-UID:b282a6176bc1c68d@gid-seminars.wnprc.wisc.edu
-CATEGORIES:Class/Seminar
-DESCRIPTION:Did you know that fatigue\, muscle aches\, joint stiffness\, a
- nd weight gain or loss can be common symptoms of chronic inflammation? Whi
- le these symptoms can have many causes\, chronic low-level inflammation is
-  increasingly recognized as one potential contributor.\n\nInflammation is 
- a vital part of the immune system's response to injury and infection. Howe
- ver\, when the inflammatory response goes on too long or shows up where it
- 's not needed\, it can become problematic. This type of inflammation - cal
- led chronic low-level inflammation - has been linked to health conditions 
- including heart disease\, certain types of cancer\, cardio-respiratory dis
- ease\, diabetes\, and obesity.\n\nIn this engaging\, evidence-based webina
- r\, you will learn relevant research related to the causes of low-level ch
- ronic inflammation and how lifestyle choices such as nutrition\, movement\
- , sleep\, and reframing stress can protect us from this type of "inflammat
- ion gone awry." Walk away with an action plan of 1-2 changes you can make 
- in your daily life to minimize your risk of low-level chronic inflammation
-  and improve your health and well-being.\n\nThis class will be recorded an
- d a one-week link to the recording will be shared with all registered part
- icipants. To receive incentive points\, attend at least 80% of the live se
- ssion or listen to the entire recording within one week.  Request disabili
- ty accommodations and access info.\n\nClass details are subject to change.
- \n\nEvent URL: https://events.stanford.edu/event/chronic-inflammation-1610
- \n\nSource: stanford_virtual
-LOCATION:Online
-URL:https://events.stanford.edu/event/chronic-inflammation-1610
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Chronic Inflammation
-TRIGGER:-PT1H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:From Clinic to Capitol Hill: What It Means to Be a Vaccine Advocat
- e
-DTSTART:20260321T000000Z
-DTEND:20260321T010000Z
-DTSTAMP:20260419T063624Z
-UID:e5c37139d8013c39@gid-seminars.wnprc.wisc.edu
-CATEGORIES:Podcast - IDSA
-DESCRIPTION:[Podcast: Let's Talk ID] Duration: 1531\n\nHost Buddy Creech\,
-  MD\, MPH\, FPIDS\, is joined by pediatric infectious diseases fellows to 
- explore what it takes to be an effective vaccine advocate\, from patient c
- onversations to policymaking. They discuss the importance of clear communi
- cation\, building trust\, and advancing policies that protect equitable ac
- cess to vaccines. Become an advocate: www.idsociety.org/MAP ID/HIV Advocat
- e Learning Series: https://academy.idsociety.org/content/become-idhiv-advo
- cate-learning-series\n\nEvent URL: https://www.buzzsprout.com/2019912/epis
- odes/18881590-from-clinic-to-capitol-hill-what-it-means-to-be-a-vaccine-ad
- vocate.mp3\n\nSource: idsa_podcast
-LOCATION:Podcast
-URL:https://www.buzzsprout.com/2019912/episodes/18881590-from-clinic-to-ca
- pitol-hill-what-it-means-to-be-a-vaccine-advocate.mp3
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: From Clinic to Capitol Hill: What It Means to Be a V
- accine Advocate
-TRIGGER:-PT1H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:TWiV 1306: Clinical update with Dr. Daniel Griffin
-DTSTART:20260321T040000Z
-DTEND:20260321T050000Z
-DTSTAMP:20260419T063624Z
-UID:2df7f25976a31fc9@gid-seminars.wnprc.wisc.edu
-CATEGORIES:Podcast - TWiV
-DESCRIPTION:[Podcast: This Week in Virology]\n\nIn his weekly clinical upd
- ate\, Dr. Griffin and Vincent Racaniello chat about death of water fowl on
-  Long Island\, ‘renaming’ of the FDA adverse event monitoring system\,
-  lawsuits against RFK Jr and HHS for illegal changes in routine immunizati
- on practices\, before Dr. Griffin deep dives into economic costs of not va
- ccinating against measles\, the measles outbreak in South Carolina\, Utah 
- and ICE detention centers\, recent statistics on RSV\, influenza and SARS-
- CoV-2 infections\, the Wasterwater Scan dashboard\, Johns Hopkins measles 
- tracker\, where to find PEMGARDA\, expansion of the RSV vaccine licensure 
- to include high risk yound adults\, association between lung cancer and re
- spiratory illnesses\, how to access and pay for Paxlovid\, effectiveness o
- f vaccination or supplemental vitamin D to reduce the risk of long COVID\,
-  and contacting your federal government representative to stop the assault
-  on science and biomedical research. Click arrow to play Download&nbsp\; T
- WiV 1306 (26 MB .mp3\, 44 min) Subscribe (free):&nbsp\; Apple Podcasts \, 
- RSS \,&nbsp\; email Become a&nbsp\; patron &nbsp\;of&nbsp\;TWiV! Links for
-  this episode Local waterfowl die-off likely caused by bird flu (The Suffo
- lk Times) 3:01 East End officials respond as dead birds pile up on Long Is
- land shorelines (news 12: Long Island) 3:01 FDA Adverse Event Monitoring S
- ystem (AEMS) ( FDA) 4:25 FDA Launches New Adverse Event Look-Up Tool (FDA)
-  4:25 FDA announces AEMS\, new adverse-event database to replace VAERS (CI
- DRAP) 4:25 US cuts broad\n\nEvent URL: https://www.microbe.tv/twiv/twiv-13
- 06/\n\nSource: twiv_podcast
-LOCATION:Podcast
-URL:https://www.microbe.tv/twiv/twiv-1306/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: TWiV 1306: Clinical update with Dr. Daniel Griffin
-TRIGGER:-PT1H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:TWiV 1307: My heart breaks for flu
 DTSTART:20260322T040000Z
 DTEND:20260322T050000Z
-DTSTAMP:20260419T063624Z
+DTSTAMP:20260420T064627Z
 UID:c627285d822f4ffc@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Podcast - TWiV
 DESCRIPTION:[Podcast: This Week in Virology]\n\nTWiV reviews the structura
@@ -151,7 +48,7 @@ BEGIN:VEVENT
 SUMMARY:TWiV 1308: Clinical update with Dr. Daniel Griffin
 DTSTART:20260328T040000Z
 DTEND:20260328T050000Z
-DTSTAMP:20260419T063624Z
+DTSTAMP:20260420T064627Z
 UID:097cf26be45c6ddd@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Podcast - TWiV
 DESCRIPTION:[Podcast: This Week in Virology]\n\nIn his weekly clinical upd
@@ -189,7 +86,7 @@ BEGIN:VEVENT
 SUMMARY:TWiV 1309: Maybe they’re all cancer vaccines
 DTSTART:20260329T040000Z
 DTEND:20260329T050000Z
-DTSTAMP:20260419T063624Z
+DTSTAMP:20260420T064627Z
 UID:584b996cb5053c2f@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Podcast - TWiV
 DESCRIPTION:[Podcast: This Week in Virology]\n\nTWiV explains why human pa
@@ -228,7 +125,7 @@ SUMMARY:Stanford Existential Risks Initiative (SERI) Symposium 2026: Emerg
  ing Technologies & Existential Risk (VIRTUAL)
 DTSTART;TZID=America/Los_Angeles:20260403T160000
 DTEND;TZID=America/Los_Angeles:20260404T000000
-DTSTAMP:20260419T063624Z
+DTSTAMP:20260420T064627Z
 UID:05640676c76aab27@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Conference/Symposium
 DESCRIPTION:The 2026 Stanford Existential Risk Initiative (SERI) Symposium
@@ -259,7 +156,7 @@ BEGIN:VEVENT
 SUMMARY:TWiV 1310: Clinical update with Dr. Daniel Griffin
 DTSTART:20260404T040000Z
 DTEND:20260404T050000Z
-DTSTAMP:20260419T063624Z
+DTSTAMP:20260420T064627Z
 UID:91d607387e3e00b9@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Podcast - TWiV
 DESCRIPTION:[Podcast: This Week in Virology]\n\nIn his weekly clinical upd
@@ -297,7 +194,7 @@ BEGIN:VEVENT
 SUMMARY:TWiV 1311: Jayhawks go viral
 DTSTART:20260405T182908Z
 DTEND:20260405T192908Z
-DTSTAMP:20260419T063624Z
+DTSTAMP:20260420T064627Z
 UID:4fdd42140fe9a85e@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Podcast - TWiV
 DESCRIPTION:[Podcast: This Week in Virology]\n\nVincent visits the Univers
@@ -328,7 +225,7 @@ BEGIN:VEVENT
 SUMMARY:Pediatric Orthopedics and Sports Medicine: The Limping Child
 DTSTART;TZID=America/Los_Angeles:20260408T190000
 DTEND;TZID=America/Los_Angeles:20260408T200000
-DTSTAMP:20260419T063624Z
+DTSTAMP:20260420T064627Z
 UID:01ac4c56789411aa@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Class/Seminar
 DESCRIPTION:Overview\nChildren may develop a limp for a variety of reasons
@@ -376,7 +273,7 @@ SUMMARY:"When Health Systems Are Under Pressure: Rethinking Health Innovat
  ion from Africa" - Dr. Cherise Dunn
 DTSTART;TZID=America/Los_Angeles:20260408T190000
 DTEND;TZID=America/Los_Angeles:20260408T200000
-DTSTAMP:20260419T063624Z
+DTSTAMP:20260420T064627Z
 UID:f239c5eed5907a17@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Lecture/Presentation/Talk
 DESCRIPTION:Session Description:\n\nAcross Africa\, many health systems ar
@@ -424,7 +321,7 @@ BEGIN:VEVENT
 SUMMARY:TWiV 1312: Clinical update with Dr. Daniel Griffin
 DTSTART:20260411T040000Z
 DTEND:20260411T050000Z
-DTSTAMP:20260419T063624Z
+DTSTAMP:20260420T064627Z
 UID:dfd734e57b26b12a@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Podcast - TWiV
 DESCRIPTION:[Podcast: This Week in Virology]\n\nIn his weekly clinical upd
@@ -462,7 +359,7 @@ BEGIN:VEVENT
 SUMMARY:TWiV 1313: Maybe they’re all dementia vaccines
 DTSTART:20260412T040229Z
 DTEND:20260412T050229Z
-DTSTAMP:20260419T063624Z
+DTSTAMP:20260420T064627Z
 UID:5ef9064709f9a37c@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Podcast - TWiV
 DESCRIPTION:[Podcast: This Week in Virology]\n\nTWiV reviews evidence that
@@ -499,7 +396,7 @@ BEGIN:VEVENT
 SUMMARY:Food and Mood
 DTSTART;TZID=America/Los_Angeles:20260413T190000
 DTEND;TZID=America/Los_Angeles:20260413T200000
-DTSTAMP:20260419T063624Z
+DTSTAMP:20260420T064627Z
 UID:4e05ade8fd3c09e1@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Class/Seminar
 DESCRIPTION:Join us for a noontime webinar to discover how your daily diet
@@ -533,7 +430,7 @@ BEGIN:VEVENT
 SUMMARY:2026 Systems Biology for Infectious Diseases Workshop
 DTSTART;TZID=America/Los_Angeles:20260414T000000
 DTEND;TZID=America/Los_Angeles:20260414T000000
-DTSTAMP:20260419T063624Z
+DTSTAMP:20260420T064627Z
 UID:8541fce6e257f820@gid-seminars.wnprc.wisc.edu
 CATEGORIES:University - UCSF
 DESCRIPTION:\n\nSource: ucsf_qbi_pasteur
@@ -550,7 +447,7 @@ SUMMARY:Health disparities in America: Why the innovation community needs
  to be a part of the solution
 DTSTART;TZID=America/Los_Angeles:20260414T180000
 DTEND;TZID=America/Los_Angeles:20260414T190000
-DTSTAMP:20260419T063624Z
+DTSTAMP:20260420T064627Z
 UID:6d92439c075341d3@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Lecture/Presentation/Talk
 DESCRIPTION:Speaker: Stella Safo\, MD\, MPH\nFounder and CEO at Just Equit
@@ -580,7 +477,7 @@ BEGIN:VEVENT
 SUMMARY:MCCPOP Perinatal Potpourri Conference 2026
 DTSTART;TZID=America/Los_Angeles:20260416T150000
 DTEND;TZID=America/Los_Angeles:20260416T233000
-DTSTAMP:20260419T063624Z
+DTSTAMP:20260420T064627Z
 UID:18e7b1fe2df7e360@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Conference/Symposium
 DESCRIPTION:Overview\n\nRooted in Community. Transforming Care. \n\nCelebr
@@ -626,7 +523,7 @@ BEGIN:VEVENT
 SUMMARY:MCCPOP Perinatal Potpourri Conference 2026
 DTSTART;TZID=America/Los_Angeles:20260417T150000
 DTEND;TZID=America/Los_Angeles:20260417T233000
-DTSTAMP:20260419T063624Z
+DTSTAMP:20260420T064627Z
 UID:e65e1bfed5990877@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Conference/Symposium
 DESCRIPTION:Overview\n\nRooted in Community. Transforming Care. \n\nCelebr
@@ -672,7 +569,7 @@ BEGIN:VEVENT
 SUMMARY:The Draft Returns: Love/Hates in Infectious Diseases
 DTSTART:20260418T000000Z
 DTEND:20260418T010000Z
-DTSTAMP:20260419T063624Z
+DTSTAMP:20260420T064627Z
 UID:47e86e4f6b861147@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Podcast - IDSA
 DESCRIPTION:[Podcast: Let's Talk ID] Duration: 1677\n\nHost Paul Sax\, MD\
@@ -696,7 +593,7 @@ BEGIN:VEVENT
 SUMMARY:TWiV 1314: Clinical update with Dr. Daniel Griffin
 DTSTART:20260418T040000Z
 DTEND:20260418T050000Z
-DTSTAMP:20260419T063624Z
+DTSTAMP:20260420T064627Z
 UID:7134285fa2f05b40@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Podcast - TWiV
 DESCRIPTION:[Podcast: This Week in Virology]\n\nIn his weekly clinical upd
@@ -715,13 +612,13 @@ DESCRIPTION:[Podcast: This Week in Virology]\n\nIn his weekly clinical upd
  ity where to go for answers about long COVID-19\, potential therapies for 
  the pediatric long COVID population and contacting your federal government
   representative to stop the assault on science and biomedical research. Cl
- ick arrow to play Download TWiV 1314 (28 MB .mp3\, 47 min) Subscribe (free
- ): Apple Podcasts \, RSS \, email Become a&nbsp\; patron &nbsp\;of&nbsp\;T
- WiV! Links for this episode More Americans doubt vaccine safety than trust
-  it\, POLITICO Poll finds (Politico) Top C.D.C. Official Delays Report on 
- Covid Shot’s Effectiveness (NY Times) Vampire bats in Mexico may feed on
-  CWD-positive deer\, sp\n\nEvent URL: https://www.microbe.tv/twiv/twiv-131
- 4/\n\nSource: twiv_podcast
+ ick arrow to play Download&nbsp\; TWiV 1314 (28 MB .mp3\, 47 min) Subscrib
+ e (free):&nbsp\; Apple Podcasts \, RSS \,&nbsp\; email Become a&nbsp\; pat
+ ron &nbsp\;of&nbsp\;TWiV! Links for this episode More Americans doubt vacc
+ ine safety than trust it\, POLITICO Poll finds (Politico) 3:13 Top C.D.C. 
+ Official Delays Report on Covid Shot’s Effectiveness (NY Times) 5:30 Vam
+ pire bats in Mexico may f\n\nEvent URL: https://www.microbe.tv/twiv/twiv-1
+ 314/\n\nSource: twiv_podcast
 LOCATION:Podcast
 URL:https://www.microbe.tv/twiv/twiv-1314/
 BEGIN:VALARM
@@ -734,32 +631,32 @@ BEGIN:VEVENT
 SUMMARY:TWiV 1315: Jabs for bats
 DTSTART:20260419T040000Z
 DTEND:20260419T050000Z
-DTSTAMP:20260419T063624Z
+DTSTAMP:20260420T064627Z
 UID:0426740469aa6d3e@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Podcast - TWiV
 DESCRIPTION:[Podcast: This Week in Virology]\n\nTWiV explains a study show
  ing that the wildlife trade\, including live-animal markets\, is a major d
  river of animal-to-human pathogen transmission\, and ecological vaccinatio
- n\, a strategy to prevent zoonotic spillover from bats. Hosts: Vincent Rac
- aniello \, Alan Dove \, Rich Condit \, and Angela Mingarelli Click arrow t
- o play Download TWiV 1315 (66 MB .mp3\, 110 min) Subscribe (free): Apple P
- odcasts \, RSS \, email Become a&nbsp\; patron &nbsp\;of&nbsp\;TWiV! Links
-  for this episode Support science education at MicrobeTV Positions in Rose
- nfeld Lab (email) Bernard Roizman passes ( Wikipedia ) Maturation of a sci
- entist (Ann Rev Virology) Wildlife trade drives pathogen transmission (Sci
- ence) Ecological vaccination of bats (Sci Adv) Letters read &nbsp\; on TWi
- V 1315 Timestamps by&nbsp\; Jolene Ramsey. Thanks! Weekly Picks Angela &#8
- 211\; Real-time tracking of pathogen evolution Rich &#8211\; A Precarious 
- Perch \; Suwannee’s track \; Avian Research and Conservation Institute A
- lan &#8211\; Bookshop.org Vincent &#8211\; The Mysterious 30 Year Journey 
- of Apollo 12 Listener Picks Fernando &#8211\; Sean M. Carroll&#8217\;s ser
- ies &#8220\;The Biggest Ideas in the Universe&#8221\;: &#8220\;Space\, Tim
- e\, and Motion&#8221\;\, and &#8220\;Quanta and Fields .&#8221\; Intro mus
- ic is by&nbsp\; Ronald Jenkees Send your virology questions and comments t
- o twiv@microbe.tv Content in this podcast should not be construed as medic
- al advice. The post TWiV 1315: Jabs for bats first appeared on This Week i
- n Virology .\n\nEvent URL: https://www.microbe.tv/twiv/twiv-1315/\n\nSourc
- e: twiv_podcast
+ n\, a strategy to prevent zoonotic spillover from bats. Hosts:&nbsp\; Vinc
+ ent Racaniello \, Alan Dove \, Rich Condit \, and Angela Mingarelli Click 
+ arrow to play Download TWiV 1315 (66 MB .mp3\, 110 min) Subscribe (free):&
+ nbsp\; Apple Podcasts \,&nbsp\; RSS \,&nbsp\; email Become a&nbsp\; patron
+  &nbsp\;of&nbsp\;TWiV! Links for this episode Support science education at
+  MicrobeTV 4:15 Positions in Rosenfeld Lab (email) 5:10 Bernard Roizman pa
+ sses ( Wikipedia ) 8:42 Maturation of a scientist (Ann Rev Virology) 10:15
+  Wildlife trade drives pathogen transmission (Science) 14:35 Ecological va
+ ccination of bats (Sci Adv) 43:05 Letters read on TWiV 1315 1:21:45 Timest
+ amps by&nbsp\; Jolene Ramsey. Thanks! Weekly Picks 1:35:45 Angela &#8211\;
+  Real-time tracking of pathogen evolution Rich &#8211\; A Precarious Perch
+  \; Suwannee’s track \; Avian Research and Conservation Institute Alan &
+ #8211\; Bookshop.org Vincent &#8211\; The Mysterious 30 Year Journey of Ap
+ ollo 12 Listener Picks Fernando &#8211\; Sean M. Carroll&#8217\;s series &
+ #8220\;The Biggest Ideas in the Universe&#8221\;: &#8220\;Space\, Time\, a
+ nd Motion&#8221\;\, and &#8220\;Quanta and Fields .&#8221\; Intro music is
+  by&nbsp\; Ronald Jenkees Send your virology questions and comments to twi
+ v@microbe.tv Content in this podcast should not be construed as medical ad
+ vice. The post TWiV 1315: Jabs f\n\nEvent URL: https://www.microbe.tv/twiv
+ /twiv-1315/\n\nSource: twiv_podcast
 LOCATION:Podcast
 URL:https://www.microbe.tv/twiv/twiv-1315/
 BEGIN:VALARM
@@ -772,7 +669,7 @@ BEGIN:VEVENT
 SUMMARY:ESCMID Global Conference 2026
 DTSTART:20260421T000000Z
 DTEND:20260421T010000Z
-DTSTAMP:20260419T063624Z
+DTSTAMP:20260420T064627Z
 UID:75b978dbc9c352b2@gid-seminars.wnprc.wisc.edu
 CATEGORIES:ISRV
 DESCRIPTION:21 April 2026 - 8:30 AM to 10:30 AM CEST\, Munich\, Germany\n\
@@ -791,7 +688,7 @@ BEGIN:VEVENT
 SUMMARY:Cognitive and Mental Health Aspects of PCC
 DTSTART;TZID=America/Regina:20260421T120000
 DTEND;TZID=America/Regina:20260421T130000
-DTSTAMP:20260419T063624Z
+DTSTAMP:20260420T064627Z
 UID:bc02c9ff64144e12@gid-seminars.wnprc.wisc.edu
 CATEGORIES:University - USask
 DESCRIPTION:Post-COVID Condition webinar series by University of Saskatche
@@ -811,7 +708,7 @@ SUMMARY:Register for PCC 2026 Webinar Series Cognitive and Mental Health A
  spects of PCC
 DTSTART;TZID=America/Regina:20260421T120000
 DTEND;TZID=America/Regina:20260421T130000
-DTSTAMP:20260419T063624Z
+DTSTAMP:20260420T064627Z
 UID:502256ae48353be6@gid-seminars.wnprc.wisc.edu
 CATEGORIES:University - USask
 DESCRIPTION:Post-COVID Condition webinar series by University of Saskatche
@@ -832,7 +729,7 @@ SUMMARY:Register for PCC 2026 Webinar Series Cognitive and Mental Health A
  spects of PCC
 DTSTART;TZID=America/Regina:20260421T120000
 DTEND;TZID=America/Regina:20260421T130000
-DTSTAMP:20260419T063624Z
+DTSTAMP:20260420T064627Z
 UID:e1624a299800a6fe@gid-seminars.wnprc.wisc.edu
 CATEGORIES:University - USask
 DESCRIPTION:Post-COVID Condition webinar series by University of Saskatche
@@ -852,7 +749,7 @@ BEGIN:VEVENT
 SUMMARY:TEPHI | OneHealth and Tuberculosis
 DTSTART;TZID=America/Chicago:20260422T093000
 DTEND;TZID=America/Chicago:20260422T103000
-DTSTAMP:20260419T063624Z
+DTSTAMP:20260420T064627Z
 UID:4061b45a01acfcfe@gid-seminars.wnprc.wisc.edu
 CATEGORIES:TEPHI
 DESCRIPTION:\nEvent URL: https://tephi.texas.gov/events/event?id=74dd33aa-
@@ -871,7 +768,7 @@ SUMMARY:Goliath's Curse: The History and Future of Societal Collapse — A
   Book Talk and Expert Discussion | Luke Kemp
 DTSTART;TZID=America/Los_Angeles:20260423T223000
 DTEND;TZID=America/Los_Angeles:20260424T000000
-DTSTAMP:20260419T063624Z
+DTSTAMP:20260420T064627Z
 UID:9a7a43376920636f@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Class/Seminar
 DESCRIPTION:About the event: Join us for a special seminar featuring Cambr
@@ -920,7 +817,7 @@ SUMMARY:CFAS Seminar April 2026: Mycoplasma genitalium with Ina Park\, MD\
  , MS
 DTSTART;TZID=America/Los_Angeles:20260423T230000
 DTEND;TZID=America/Los_Angeles:20260424T000000
-DTSTAMP:20260419T063624Z
+DTSTAMP:20260420T064627Z
 UID:e19ece5ee1337c21@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Fred Hutch Center for AIDS Research (CFAR)
 DESCRIPTION:Event interval: Single day event\nAccessibility Contact: cfas@
@@ -946,7 +843,7 @@ BEGIN:VEVENT
 SUMMARY:CFAR Wallace Awards Information Session
 DTSTART;TZID=America/Los_Angeles:20260423T230000
 DTEND;TZID=America/Los_Angeles:20260424T000000
-DTSTAMP:20260419T063624Z
+DTSTAMP:20260420T064627Z
 UID:1b5ad03777ace67f@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Fred Hutch Center for AIDS Research (CFAR)
 DESCRIPTION:Event interval: Single day event\nOnline Meeting Link: https:/
@@ -982,7 +879,7 @@ BEGIN:VEVENT
 SUMMARY:World Immunization Week 2026: For every generation\, vaccines work
 DTSTART:20260424T000000Z
 DTEND:20260501T000000Z
-DTSTAMP:20260419T063624Z
+DTSTAMP:20260420T064627Z
 UID:68e4c01544a06140@gid-seminars.wnprc.wisc.edu
 CATEGORIES:WHO
 DESCRIPTION:World Immunization Week\, celebrated in the last week of April
@@ -1006,7 +903,7 @@ SUMMARY:World Malaria Day 2026 - Driven to End Malaria: Now We Can. Now We
   Must.
 DTSTART:20260424T000000Z
 DTEND:20260425T000000Z
-DTSTAMP:20260419T063624Z
+DTSTAMP:20260420T064627Z
 UID:dba514b89949e0ef@gid-seminars.wnprc.wisc.edu
 CATEGORIES:WHO
 DESCRIPTION:On World Malaria Day 2026\, the World Health Organization join
@@ -1029,7 +926,7 @@ BEGIN:VEVENT
 SUMMARY:Survey Design Workshop
 DTSTART;TZID=America/Los_Angeles:20260424T203000
 DTEND;TZID=America/Los_Angeles:20260424T223000
-DTSTAMP:20260419T063624Z
+DTSTAMP:20260420T064627Z
 UID:ce8e1a3d0d3ff18d@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Fred Hutch Center for AIDS Research (CFAR)
 DESCRIPTION:Event interval: Single day event\nOnline Meeting Link: https:/
@@ -1060,7 +957,7 @@ BEGIN:VEVENT
 SUMMARY:Tuberculosis Vaccine Accelerator Forum
 DTSTART:20260427T083000Z
 DTEND:20260428T173000Z
-DTSTAMP:20260419T063624Z
+DTSTAMP:20260420T064627Z
 UID:dec42e4e9d08585f@gid-seminars.wnprc.wisc.edu
 CATEGORIES:WHO
 DESCRIPTION:WHO will host the first global Tuberculosis Vaccine Accelerato
@@ -1086,7 +983,7 @@ SUMMARY:HEIST Workshop: Introduction to Mathematical Modeling for Public H
  ealth Research
 DTSTART;TZID=America/Los_Angeles:20260427T200000
 DTEND;TZID=America/Los_Angeles:20260427T220000
-DTSTAMP:20260419T063624Z
+DTSTAMP:20260420T064627Z
 UID:6b4527ec733ff969@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Fred Hutch Center for AIDS Research (CFAR)
 DESCRIPTION:Event interval: Single day event\nOnline Meeting Link: https:/
@@ -1119,7 +1016,7 @@ BEGIN:VEVENT
 SUMMARY:29th meeting of the Malaria Policy Advisory Group (MPAG)
 DTSTART:20260428T000000Z
 DTEND:20260501T000000Z
-DTSTAMP:20260419T063624Z
+DTSTAMP:20260420T064627Z
 UID:5ecf68bf465d430c@gid-seminars.wnprc.wisc.edu
 CATEGORIES:WHO
 DESCRIPTION:The 29th meeting of the Malaria Policy Advisory Group (MPAG) w
@@ -1141,7 +1038,7 @@ SUMMARY:Promises and Complications of Doxy-PEP for the Prevention of Sexua
  lly Transmitted Infections in People With HIV: Complex Cases
 DTSTART;TZID=America/Los_Angeles:20260428T110000
 DTEND;TZID=America/Los_Angeles:20260428T120000
-DTSTAMP:20260419T063624Z
+DTSTAMP:20260420T064627Z
 UID:670a9af4ed4cc193@gid-seminars.wnprc.wisc.edu
 CATEGORIES:IAS-USA
 DESCRIPTION:\nEvent URL: https://www.iasusa.org/events/webinar-2026-zucker
@@ -1160,7 +1057,7 @@ SUMMARY:Understanding the Lived Experience of Saskatchewan Métis People L
  iving with Long COVID: a Hermeneutic Phenomenological Study
 DTSTART;TZID=America/Regina:20260428T120000
 DTEND;TZID=America/Regina:20260428T130000
-DTSTAMP:20260419T063624Z
+DTSTAMP:20260420T064627Z
 UID:f6fbc1e907dc42ae@gid-seminars.wnprc.wisc.edu
 CATEGORIES:University - USask
 DESCRIPTION:Post-COVID Condition webinar series by University of Saskatche
@@ -1181,7 +1078,7 @@ SUMMARY:Education\, inspiration\, and participation: Community engagement
  as science communication
 DTSTART;TZID=America/New_York:20260428T190000
 DTEND;TZID=America/New_York:20260428T200000
-DTSTAMP:20260419T063624Z
+DTSTAMP:20260420T064627Z
 UID:eb6805073a5fe95d@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Talks
 DESCRIPTION:In-person and on Zoom (https://broadinstitute.zoom.us/j/982001
@@ -1208,7 +1105,7 @@ SUMMARY:WHO Health Emergencies EPI-WIN webinar: operationalizing One Healt
  h: from IHR amendments to the Pandemic Agreement
 DTSTART:20260429T070000Z
 DTEND:20260430T081500Z
-DTSTAMP:20260419T063624Z
+DTSTAMP:20260420T064627Z
 UID:c3e780c118a9f17a@gid-seminars.wnprc.wisc.edu
 CATEGORIES:WHO
 DESCRIPTION:The International Health Regulations (IHR) remain the cornerst
@@ -1237,7 +1134,7 @@ BEGIN:VEVENT
 SUMMARY:State of inequality in childhood immunization webinar
 DTSTART:20260430T110000Z
 DTEND:20260430T120000Z
-DTSTAMP:20260419T063624Z
+DTSTAMP:20260420T064627Z
 UID:777911f1ce56ee70@gid-seminars.wnprc.wisc.edu
 CATEGORIES:WHO
 DESCRIPTION:State of inequality in childhood immunization webinar\n\nEvent
@@ -1258,7 +1155,7 @@ BEGIN:VEVENT
 SUMMARY:CFAR Substance Use Talk ft. Keynote Speaker Dr. Czarina Behrends
 DTSTART;TZID=America/Los_Angeles:20260430T223000
 DTEND;TZID=America/Los_Angeles:20260501T000000
-DTSTAMP:20260419T063624Z
+DTSTAMP:20260420T064627Z
 UID:cd00f5c338a0f1bb@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Fred Hutch Center for AIDS Research (CFAR)
 DESCRIPTION:Event interval: Single day event\nOnline Meeting Link: https:/
@@ -1306,7 +1203,7 @@ SUMMARY:UW Support for the Somali-American Community: Past Successes and F
  uture Directions
 DTSTART;TZID=America/Los_Angeles:20260501T003000
 DTEND;TZID=America/Los_Angeles:20260501T020000
-DTSTAMP:20260419T063624Z
+DTSTAMP:20260420T064627Z
 UID:3c302a7a3acc692f@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Fred Hutch Center for AIDS Research (CFAR)
 DESCRIPTION:Event interval: Single day event\nCampus location: Hans Roslin
@@ -1351,7 +1248,7 @@ BEGIN:VEVENT
 SUMMARY:The Diversity in Clinical Trials Initiative Webinar
 DTSTART;TZID=America/Los_Angeles:20260504T200000
 DTEND;TZID=America/Los_Angeles:20260504T210000
-DTSTAMP:20260419T063624Z
+DTSTAMP:20260420T064627Z
 UID:f91d85af893bc73d@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Fred Hutch Center for AIDS Research (CFAR)
 DESCRIPTION:Event interval: Single day event\nOnline Meeting Link: https:/
@@ -1396,7 +1293,7 @@ SUMMARY:Up close and personal – respiratory virus transmission in close
  quarters
 DTSTART:20260505T000000Z
 DTEND:20260505T010000Z
-DTSTAMP:20260419T063624Z
+DTSTAMP:20260420T064627Z
 UID:ec36d1781e7df8ea@gid-seminars.wnprc.wisc.edu
 CATEGORIES:ISRV
 DESCRIPTION:Office 7\, 35-37 Ludgate Hill\, London\, EC4M 7JN\, United Kin
@@ -1418,7 +1315,7 @@ SUMMARY:GLP-1 Receptor Agonists in People With HIV: Emerging Evidence and
  Clinical Implications
 DTSTART;TZID=America/Los_Angeles:20260505T100000
 DTEND;TZID=America/Los_Angeles:20260505T110000
-DTSTAMP:20260419T063624Z
+DTSTAMP:20260420T064627Z
 UID:ee45da4b91029efe@gid-seminars.wnprc.wisc.edu
 CATEGORIES:IAS-USA
 DESCRIPTION:\nEvent URL: https://www.iasusa.org/events/webinar-2026-wooten
@@ -1436,7 +1333,7 @@ BEGIN:VEVENT
 SUMMARY:CFAR Seminar with Dr. Brooke Nichols - May 7\, 2026
 DTSTART;TZID=America/Los_Angeles:20260507T160000
 DTEND;TZID=America/Los_Angeles:20260507T173000
-DTSTAMP:20260419T063624Z
+DTSTAMP:20260420T064627Z
 UID:d9da2ae1ae9320c8@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Fred Hutch Center for AIDS Research (CFAR)
 DESCRIPTION:Event interval: Single day event\nOnline Meeting Link: https:/
@@ -1481,7 +1378,7 @@ BEGIN:VEVENT
 SUMMARY:Coincidence Analysis Workshop
 DTSTART;TZID=America/Los_Angeles:20260507T160000
 DTEND;TZID=America/Los_Angeles:20260507T230000
-DTSTAMP:20260419T063624Z
+DTSTAMP:20260420T064627Z
 UID:0019af18d9fee1d7@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Fred Hutch Center for AIDS Research (CFAR)
 DESCRIPTION:Event interval: Single day event\nCampus location: Hans Roslin
@@ -1525,7 +1422,7 @@ BEGIN:VEVENT
 SUMMARY:Genomics Seminar Series: Anna Selmecki\, University of Minnesota
 DTSTART;TZID=America/Chicago:20260507T183000
 DTEND;TZID=America/Chicago:20260507T193000
-DTSTAMP:20260419T063624Z
+DTSTAMP:20260420T064627Z
 UID:34e8811aa028b8bd@gid-seminars.wnprc.wisc.edu
 CATEGORIES:University - UW-Madison
 DESCRIPTION:The Candida albicans Pangenome: Insights into Evolution and Pa
@@ -1544,7 +1441,7 @@ SUMMARY:Geophysics Seminar - Zhuo Wang\, "Beyond the Tropics: Linking Atmo
  spheric Stationary Waves to Tropical Cyclone Activity"
 DTSTART;TZID=America/Los_Angeles:20260507T190000
 DTEND;TZID=America/Los_Angeles:20260507T200000
-DTSTAMP:20260419T063624Z
+DTSTAMP:20260420T064627Z
 UID:7879eb10554b5a8a@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Class/Seminar
 DESCRIPTION:Skillful prediction and projection of tropical cyclone (TC) ac
@@ -1581,7 +1478,7 @@ BEGIN:VEVENT
 SUMMARY:INTEREST 2026
 DTSTART;TZID=America/New_York:20260512T000000
 DTEND;TZID=America/New_York:20260512T010000
-DTSTAMP:20260419T063624Z
+DTSTAMP:20260420T064627Z
 UID:cbd44f9e7cbd5da2@gid-seminars.wnprc.wisc.edu
 CATEGORIES:AVAC
 DESCRIPTION:\nEvent URL: https://avac.org/event/interest2026/\n\nSource: a
@@ -1598,7 +1495,7 @@ SUMMARY:Launching STI Advocacy Hubs: National Agendas from Kenya\, South A
  frica & Zimbabwe
 DTSTART;TZID=America/New_York:20260512T000000
 DTEND;TZID=America/New_York:20260512T010000
-DTSTAMP:20260419T063624Z
+DTSTAMP:20260420T064627Z
 UID:79e16786650e5743@gid-seminars.wnprc.wisc.edu
 CATEGORIES:AVAC
 DESCRIPTION:\nEvent URL: https://avac.org/event/launching-sti-advocacy-hub
@@ -1616,7 +1513,7 @@ BEGIN:VEVENT
 SUMMARY:CFAR & PHSKC Lunchbox Talk with Judith Tsui and Sara Glick
 DTSTART;TZID=America/Los_Angeles:20260512T190000
 DTEND;TZID=America/Los_Angeles:20260512T200000
-DTSTAMP:20260419T063624Z
+DTSTAMP:20260420T064627Z
 UID:cdadee303a43b573@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Fred Hutch Center for AIDS Research (CFAR)
 DESCRIPTION:Event interval: Single day event\nOnline Meeting Link: https:/
@@ -1639,7 +1536,7 @@ SUMMARY:Access to and Uptake of Prevention Tools and Treatments in a Multi
  -Site US Cohort of People with HIV in Care Webinar
 DTSTART;TZID=America/Los_Angeles:20260514T190000
 DTEND;TZID=America/Los_Angeles:20260514T200000
-DTSTAMP:20260419T063624Z
+DTSTAMP:20260420T064627Z
 UID:2ca31f73c38a48f6@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Fred Hutch Center for AIDS Research (CFAR)
 DESCRIPTION:Event interval: Single day event\nAccessibility Contact: cfar@
@@ -1656,7 +1553,7 @@ BEGIN:VEVENT
 SUMMARY:REDCap Workshop: Intro to REDCap
 DTSTART;TZID=America/Los_Angeles:20260515T170000
 DTEND;TZID=America/Los_Angeles:20260515T190000
-DTSTAMP:20260419T063624Z
+DTSTAMP:20260420T064627Z
 UID:42a96e9ddf82eabb@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Fred Hutch Center for AIDS Research (CFAR)
 DESCRIPTION:Event interval: Single day event\nCampus location: Hans Roslin
@@ -1678,7 +1575,7 @@ BEGIN:VEVENT
 SUMMARY:Health and climate change at the 79th World Health Assembly
 DTSTART:20260518T000000Z
 DTEND:20260524T000000Z
-DTSTAMP:20260419T063624Z
+DTSTAMP:20260420T064627Z
 UID:b10e1f80586b630e@gid-seminars.wnprc.wisc.edu
 CATEGORIES:WHO
 DESCRIPTION:The Seventy-ninth World Health Assembly (WHA79) takes place in
@@ -1701,7 +1598,7 @@ BEGIN:VEVENT
 SUMMARY:BIA 28th Annual Clinical and Scientific Meeting
 DTSTART;TZID=America/New_York:20260519T000000
 DTEND;TZID=America/New_York:20260520T000000
-DTSTAMP:20260419T063624Z
+DTSTAMP:20260420T064627Z
 UID:28b246e007879429@gid-seminars.wnprc.wisc.edu
 CATEGORIES:ASTMH
 DESCRIPTION:\nEvent URL: https://www.astmh.org/news-events/events-calendar
@@ -1720,7 +1617,7 @@ BEGIN:VEVENT
 SUMMARY:BIA 28th Annual Scientific Meeting
 DTSTART;TZID=America/New_York:20260519T000000
 DTEND;TZID=America/New_York:20260520T000000
-DTSTAMP:20260419T063624Z
+DTSTAMP:20260420T064627Z
 UID:4003cb0cc68b9f62@gid-seminars.wnprc.wisc.edu
 CATEGORIES:ASTMH
 DESCRIPTION:\nEvent URL: https://www.astmh.org/news-events/events-calendar
