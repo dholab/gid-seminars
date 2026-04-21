@@ -2,12 +2,12 @@
   "metadata": {
     "title": "GID Seminars Feed",
     "description": "Aggregated seminars and webinars for Global Infectious Disease research",
-    "generated_at": "2026-04-20T06:46:27.338949Z",
+    "generated_at": "2026-04-21T06:39:22.917780Z",
     "time_window": {
       "days_behind": 30,
       "days_ahead": 30
     },
-    "total_events": 54,
+    "total_events": 53,
     "sources": [
       "astmh_events",
       "avac_events",
@@ -57,23 +57,6 @@
     ]
   },
   "events": [
-    {
-      "id": "c627285d822f4ffc",
-      "title": "TWiV 1307: My heart breaks for flu",
-      "description": "[Podcast: This Week in Virology]\n\nTWiV reviews the structural basis for Rep-mediated adeno-associated virus DNA genome packaging, how influenza virus-infected myeloid cells travel to the heart and infect cardiomyocytes, leading to IFN-fueled heart damage. Hosts:&nbsp; Vincent Racaniello , Rich Condit , Kathy Spindler , and Brianne Barker Click arrow to play Download TWiV 1307 (68 MB .mp3, 113 min) Subscribe (free):&nbsp; Apple Podcasts ,&nbsp; RSS ,&nbsp; email Become a&nbsp; patron &nbsp;of&nbsp;TWiV! Links for this episode Support science education at MicrobeTV 1:40 Positions in Rosenfeld Lab (email) 2:20 Robin Weiss passes (ICR) 5:26 Judge strikes down RFK Jr.&#8217;s vaccine policies (NYTimes) 6:55 How Rep protein packages AAV DNA (Cell Rep) 13:38 How influenza virus causes heart damage (Immunity) 43:36 Influenza virus hitches a cellular ride to the heart (Cell Host Microbe) 44:57 Letters read on TWiV 1307 1:25:53 Timestamps by&nbsp; Jolene Ramsey. Thanks! Weekly Picks 1:37:18 Brianne &#8211; The math of March Madness brackets Kathy &#8211; SpaceX launch plume, jellyfish APOD and Cleveland Meteor, map of meteorites fall and a doorbell cam photo Rich &#8211; After barista\u2019s tips were stolen, strangers showed up with $900 Vincent &#8211; What Causes Gravitational Time Dilation? A Physical Explanation. Listener Pick Charles &#8211; They&#8217;re Made Out Of Meat Intro music is by&nbsp; Ronald Jenkees Send your virology questions and comments to twiv@microbe.tv Content in this podcast should not be construed ",
-      "url": "https://www.microbe.tv/twiv/twiv-1307/",
-      "start_datetime": "2026-03-22T04:00:00",
-      "end_datetime": null,
-      "timezone": "UTC",
-      "location": "Podcast",
-      "organizer": "This Week in Virology",
-      "source": "twiv_podcast",
-      "category": "Podcast - TWiV",
-      "tags": [],
-      "access_restriction": "Public",
-      "registration_url": null,
-      "recording_url": null
-    },
     {
       "id": "097cf26be45c6ddd",
       "title": "TWiV 1308: Clinical update with Dr. Daniel Griffin",
@@ -893,7 +876,7 @@
     {
       "id": "2ca31f73c38a48f6",
       "title": "Access to and Uptake of Prevention Tools and Treatments in a Multi-Site US Cohort of People with HIV in Care Webinar",
-      "description": "Event interval: Single day event\nAccessibility Contact: cfar@uw.edu\nEvent Types: Lectures/Seminars",
+      "description": "Event interval: Single day event\nAccessibility Contact: cfar@uw.edu\nEvent Types: Lectures/Seminars\nEvent sponsors: CFAR Health Access SWG and UW BIRCH\n\nSpeaker: Rob Fredericksen, PhD MPH\nBio: Rob Fredericksen, PhD MPH is an anthropologist and mixed-methods researcher in the UW Department of Medicine/Division of Allergy & Infectious Diseases, with 20+ years in the field of HIV care. He is currently an MPI on a NIDA-funded R01 addressing issues of health equity across demographic groups of persons with HIV in care with a focus on substance use, its treatment, and related HIV outcomes. He leads the development and integration of patient reported outcome measures into clinical HIV care for the Centers for AIDS Research Network of Integrated Clinical Systems (CNICS). \nOverview of Session: This session provides an overview of demographic differences in access to and uptake of a variety of prevention tools and treatments in the CNICS network, a multi-site geographically diverse U.S. cohort of people with HIV in care. Data presented will include prescriptions for GLP-1 receptor agonists (e.g., semaglutide), varenicline for smoking cessation, use of doxy-PEP, and uptake of vaccination against Mpox.",
       "url": null,
       "start_datetime": "2026-05-14T19:00:00",
       "end_datetime": "2026-05-14T20:00:00",
