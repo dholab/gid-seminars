@@ -2,12 +2,12 @@
   "metadata": {
     "title": "GID Seminars Feed",
     "description": "Aggregated seminars and webinars for Global Infectious Disease research",
-    "generated_at": "2026-04-22T06:39:37.482243Z",
+    "generated_at": "2026-04-23T06:42:27.430431Z",
     "time_window": {
       "days_behind": 30,
       "days_ahead": 30
     },
-    "total_events": 54,
+    "total_events": 55,
     "sources": [
       "astmh_events",
       "avac_events",
@@ -791,7 +791,7 @@
     {
       "id": "34e8811aa028b8bd",
       "title": "Genomics Seminar Series: Anna Selmecki, University of Minnesota",
-      "description": "The Candida albicans Pangenome: Insights into Evolution and Pathogenicity.",
+      "description": "Single-cell detection of genomic instability in human fungal pathogens.",
       "url": null,
       "start_datetime": "2026-05-07T18:30:00",
       "end_datetime": "2026-05-07T19:30:00",
@@ -859,7 +859,7 @@
     {
       "id": "cdadee303a43b573",
       "title": "CFAR & PHSKC Lunchbox Talk with Judith Tsui and Sara Glick",
-      "description": "Event interval: Single day event\nOnline Meeting Link: https://washington.zoom.us/meeting/register/MPyjkeYMSqWeGk3N6fVaxQ\nAccessibility Contact: g0201@uw.edu\nEvent Types: Lectures/Seminars\nEvent sponsors: CFAR and Public Health - Seattle King County\n\nSpeakers: Judith Tsui, MD, MPH & Sara Glick, PhD, MPH\nTalk Title: TBA",
+      "description": "Event interval: Single day event\nOnline Meeting Link: https://washington.zoom.us/meeting/register/MPyjkeYMSqWeGk3N6fVaxQ\nAccessibility Contact: g0201@uw.edu\nEvent Types: Lectures/Seminars\nEvent sponsors: CFAR and Public Health - Seattle King County\n\nSpeakers: Judith Tsui, MD, MPH & Sara Glick, PhD, MPH\nTalk Title: Bringing Hepatitis C Treatment to Permanent Supportive Housing Residents Using the Pharmacist, Physician, and Patient Navigator Collaborative Care Model (PPP-CCM)\n\nJudith Tsui: \nJudith Tsui, MD, MPH, is a Professor of Medicine at the University of Washington in the Division of General Internal Medicine based at Harborview Medical Center and Adjunct Professor in the UW Department of Health Science and Population Health (SPop). She is an Addiction Medicine physician and researcher conducting NIH/NIDA funded clinical and implementation research on innovative care delivery models to treat and prevent substance use disorders and related co-morbidities such as Hepatitis C and HIV. \n\nSara Glick: \nSara Glick is an Associate Professor of Medicine at the University of Washington and an Epidemiologist at Public Health - Seattle & King County. Her research and public health focus largely focuses on interventions to improve the health and well-being of people who use drugs. She leads or co-leads several studies funded by the Centers for Disease Control and Prevention and the National Institutes of Health. She also leads the SHaRP team at the University of Washington, which provides technical assistance and research support to syringe services programs across the United States.",
       "url": "https://washington.zoom.us/meeting/register/MPyjkeYMSqWeGk3N6fVaxQ",
       "start_datetime": "2026-05-12T19:00:00",
       "end_datetime": "2026-05-12T20:00:00",
@@ -874,10 +874,10 @@
       "recording_url": null
     },
     {
-      "id": "2ca31f73c38a48f6",
+      "id": "c4154e73a44a9cf7",
       "title": "Access to and Uptake of Prevention Tools and Treatments in a Multi-Site US Cohort of People with HIV in Care Webinar",
-      "description": "Event interval: Single day event\nAccessibility Contact: cfar@uw.edu\nEvent Types: Lectures/Seminars\nEvent sponsors: CFAR Health Access SWG and UW BIRCH\n\nSpeaker: Rob Fredericksen, PhD MPH\nBio: Rob Fredericksen, PhD MPH is an anthropologist and mixed-methods researcher in the UW Department of Medicine/Division of Allergy & Infectious Diseases, with 20+ years in the field of HIV care. He is currently an MPI on a NIDA-funded R01 addressing issues of health equity across demographic groups of persons with HIV in care with a focus on substance use, its treatment, and related HIV outcomes. He leads the development and integration of patient reported outcome measures into clinical HIV care for the Centers for AIDS Research Network of Integrated Clinical Systems (CNICS). \nOverview of Session: This session provides an overview of demographic differences in access to and uptake of a variety of prevention tools and treatments in the CNICS network, a multi-site geographically diverse U.S. cohort of people with HIV in care. Data presented will include prescriptions for GLP-1 receptor agonists (e.g., semaglutide), varenicline for smoking cessation, use of doxy-PEP, and uptake of vaccination against Mpox.",
-      "url": null,
+      "description": "Event interval: Single day event\nOnline Meeting Link: https://washington.zoom.us/meeting/register/Fnrb-nxxRlK1hqQKOGW81w#/registration\nAccessibility Contact: cfar@uw.edu\nEvent Types: Lectures/Seminars\nEvent sponsors: CFAR Health Access SWG and UW BIRCH\n\nSpeaker: Rob Fredericksen, PhD MPH\nBio: Rob Fredericksen, PhD MPH is an anthropologist and mixed-methods researcher in the UW Department of Medicine/Division of Allergy & Infectious Diseases, with 20+ years in the field of HIV care. He is currently an MPI on a NIDA-funded R01 addressing issues of health equity across demographic groups of persons with HIV in care with a focus on substance use, its treatment, and related HIV outcomes. He leads the development and integration of patient reported outcome measures into clinical HIV care for the Centers for AIDS Research Network of Integrated Clinical Systems (CNICS). \nOverview of Session: This session provides an overview of demographic differences in access to and uptake of a variety of prevention tools and treatments in the CNICS network, a multi-site geographically diverse U.S. cohort of people with HIV in care. Data presented will include prescriptions for GLP-1 receptor agonists (e.g., semaglutide), varenicline for smoking cessation, use of doxy-PEP, and uptake of vaccination against Mpox.",
+      "url": "https://washington.zoom.us/meeting/register/Fnrb-nxxRlK1hqQKOGW81w#/registration",
       "start_datetime": "2026-05-14T19:00:00",
       "end_datetime": "2026-05-14T20:00:00",
       "timezone": "America/Los_Angeles",
@@ -953,6 +953,23 @@
       "organizer": "ASTMH",
       "source": "astmh_events",
       "category": "ASTMH",
+      "tags": [],
+      "access_restriction": "Public",
+      "registration_url": null,
+      "recording_url": null
+    },
+    {
+      "id": "debcc8d78b686012",
+      "title": "Sustaining the momentum: cross-border collaboration to achieve Malaria and NTD Elimination",
+      "description": "On the sidelines of the 79th World Health Assembly, this high-level breakfast meeting will bring together Ministers of Health, senior government officials from endemic countries, partners, advocates, and public health experts to accelerate elimination of malaria and neglected tropical diseases (NTDs).",
+      "url": "https://www.who.int/news-room/events/detail/2026/05/20/default-calendar/sustaining-the-momentum--cross-border-collaboration-to-achieve-malaria-and-ntd-elimination",
+      "start_datetime": "2026-05-20T07:30:00",
+      "end_datetime": "2026-05-20T21:30:00",
+      "timezone": "UTC",
+      "location": "Online/Geneva",
+      "organizer": "World Health Organization",
+      "source": "who_events",
+      "category": "WHO",
       "tags": [],
       "access_restriction": "Public",
       "registration_url": null,
