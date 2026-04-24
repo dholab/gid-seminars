@@ -2,7 +2,7 @@
   "metadata": {
     "title": "GID Seminars Feed",
     "description": "Aggregated seminars and webinars for Global Infectious Disease research",
-    "generated_at": "2026-04-23T06:42:27.430431Z",
+    "generated_at": "2026-04-24T06:40:31.499563Z",
     "time_window": {
       "days_behind": 30,
       "days_ahead": 30
@@ -398,40 +398,6 @@
       "recording_url": null
     },
     {
-      "id": "e19ece5ee1337c21",
-      "title": "CFAS Seminar April 2026: Mycoplasma genitalium with Ina Park, MD, MS",
-      "description": "Event interval: Single day event\nAccessibility Contact: cfas@uw.edu\nEvent Types: Lectures/Seminars\n\nWe welcome your attendance at the April 2026 UW Center for AIDS & STD (CFAS): \nhttp://depts.washington.edu/cfas/ Research Seminar. \n \nPlease join us on Thursday, April 23, 2026 at 4 PM PST on Zoom. \nFor Zoom info: Please email CFAS@uw.edu or click here to be added to the mailing list: \nhttp://docs.google.com/forms/d/e/1FAIpQLSeBLOZoWLDhU5wTra_LeNAbN5iAfoW1ARO4E9Z2pFKtHRpXLA/viewform. \n\n\"Mycoplasma genitalium: Small Bug, Big Problem\" \n\nIna Park, MD, MS\nUniversity of California San Francisco School of Medicine",
-      "url": "http://depts.washington.edu/cfas/",
-      "start_datetime": "2026-04-23T23:00:00",
-      "end_datetime": "2026-04-24T00:00:00",
-      "timezone": "America/Los_Angeles",
-      "location": "Zoom",
-      "organizer": null,
-      "source": "uw_cfar",
-      "category": "Fred Hutch Center for AIDS Research (CFAR)",
-      "tags": [],
-      "access_restriction": "Public",
-      "registration_url": null,
-      "recording_url": null
-    },
-    {
-      "id": "1b5ad03777ace67f",
-      "title": "CFAR Wallace Awards Information Session",
-      "description": "Event interval: Single day event\nOnline Meeting Link: https://washington.zoom.us/meeting/register/-K9e5p18QcuzGIjeP8IeHg\nAccessibility Contact: cfaroce@uw.edu\nEvent Types: Information Sessions\nEvent sponsors: CFAR Office of Community Engagement (OCE)\n\nRegister for the Zoom Session: \nhttps://urldefense.com/v3/__https://washington.zoom.us/meeting/register/-K9e5p18QcuzGIjeP8IeHg__;!!K-Hz7m0Vt54!izLI0DuXX0FzHU0ZqkYXyr6B6eQArai3NC2059BGlW2kpwYMv4KAU_pKlziO8CFO-UA2_9lJbptxyilKvw$\n\nThe purpose of the Wallace Awards is to grow capacity for community-led HIV research by providing funding, mentoring and educational support for community leaders. The Wallace Awards are also intended to facilitate connections and collaborations between community-based organizations (CBOs) and UW/Fred Hutch CFAR members. This award program honors the founding director of the OCE, Dr. Stephaun Elite Wallace who was a scientist, advocate, leader in the Ballroom community, and champion of community-led research.\n \nCFAR's Office of Community Engagement (OCE) has scheduled an information session for those interested in the Wallace Awards to learn more about them and ask any questions that may arise. The information session is scheduled for Thursday, April 23, from 4 to 5pm and will be held via Zoom. \n \nAny questions about the information session or the Wallace Awards may be sent to the OCE at cfaroce@uw.edu.",
-      "url": "https://washington.zoom.us/meeting/register/-K9e5p18QcuzGIjeP8IeHg",
-      "start_datetime": "2026-04-23T23:00:00",
-      "end_datetime": "2026-04-24T00:00:00",
-      "timezone": "America/Los_Angeles",
-      "location": "Zoom",
-      "organizer": null,
-      "source": "uw_cfar",
-      "category": "Fred Hutch Center for AIDS Research (CFAR)",
-      "tags": [],
-      "access_restriction": "Public",
-      "registration_url": null,
-      "recording_url": null
-    },
-    {
       "id": "68e4c01544a06140",
       "title": "World Immunization Week 2026: For every generation, vaccines work",
       "description": "World Immunization Week, celebrated in the last week of April, aims to promote the life-saving power of immunization to protect people of all ages against vaccine-preventable diseases.",
@@ -755,6 +721,23 @@
       "recording_url": null
     },
     {
+      "id": "e65d84d9723b457b",
+      "title": "5 May World Hand Hygiene Day: Action saves lives!",
+      "description": "For World Hand Hygiene Day 2026, WHO calls on all those providing and supporting health care to refresh their action on hand hygiene and infection prevention and control (IPC), to ensure patient and health worker safety.",
+      "url": "https://www.who.int/news-room/events/detail/2026/05/05/default-calendar/5-may-world-hand-hygiene-day--action-saves-lives",
+      "start_datetime": "2026-05-05T12:00:00",
+      "end_datetime": "2026-05-05T13:30:00",
+      "timezone": "UTC",
+      "location": "Online/Geneva",
+      "organizer": "World Health Organization",
+      "source": "who_events",
+      "category": "WHO",
+      "tags": [],
+      "access_restriction": "Public",
+      "registration_url": null,
+      "recording_url": null
+    },
+    {
       "id": "d9da2ae1ae9320c8",
       "title": "CFAR Seminar with Dr. Brooke Nichols - May 7, 2026",
       "description": "Event interval: Single day event\nOnline Meeting Link: https://washington.zoom.us/meeting/register/h92B3kzpRjy3zxG0GFjrXw\nAccessibility Contact: cfar@uw.edu\nEvent Types: Lectures/Seminars\n\nREGISTER NOW!\nRegister via this link for virtual attendance\nzoom registration: \nhttps://washington.zoom.us/meeting/register/h92B3kzpRjy3zxG0GFjrXw\n--------------------------------------------------------------------------------\n9:30am-10:30am\n*Please note that this Seminar will be taking place earlier in the day than usual in order to accommodate our speaker who will be joining us from a different time zone*\nVIRTUAL\nCFAR Seminar Speaker: Brooke Nichols\nTalk Title: Complexity in the Right Places: Reorienting HIV Models for Implementation\nBio: \nBrooke Nichols, PhD, MSc, is an Associate Professor of Global Health at Boston University School of Public Health and an infectious disease mathematical modeller and health economist based. Her research sits at the intersection of transmission dynamics, implementation modelling, and health economics, using quantitative approaches to answer practical questions about how HIV, tuberculosis, antimicrobial resistance, and other pathogens can be tackled more effectively in real-world health systems. Her work has shaped national and global health policy across several domains, including WHO Target Product Profiles for diagnostics, normative guidance on HIV prevention and care, and global strategies for optimal diagnostic use during the COVID-19 pandemic.\n \n\n9:00am-9:30am\nVIRTUAL\nNew Faces Speaker: Khai Hoan Tram\nTalk Title: Modeling the Fallout: Projecting the Global Impact of US Funding Cuts\nBio: \nDr. Tram, MD, MS, is an infectious diseases physician-scientist in the Division of Allergy & Infectious Diseases at the University of Washington. He conducts research on HIV and TB and practices medicine at Harborview Medical Center and UW Medical Center. He sees patients weekly at the Madison HIV Clinic. Dr. Tram attended Stanford University medical schoo",
@@ -953,6 +936,23 @@
       "organizer": "ASTMH",
       "source": "astmh_events",
       "category": "ASTMH",
+      "tags": [],
+      "access_restriction": "Public",
+      "registration_url": null,
+      "recording_url": null
+    },
+    {
+      "id": "81fc6b38cebfaa97",
+      "title": "The microscopic world of kelp forest ecosystems",
+      "description": "Towering giant kelp forests can reach heights of 100 feet tall in our coastal ocean, but did you know that half of the kelp life cycle is microscopic \u2013 hidden beneath the waves on the ocean floor? In this talk, Dr. Brooke Weigel will take you on a tour of the microscopic world contained within kelp forest ecosystems. In addition to growing and studying microscopic kelp in her lab at Hopkins, Brooke's research zooms in even further - using genomic tools to discover the diverse microbial communities that live on the surfaces of kelp. Every square centimeter of kelp hosts 25 million bacteria - but what do they do for the kelp? Are they friends or foes? Join us as we dive into the microscopic world of our local kelp forest ecosystems!\n\nDr. Brooke Weigel is an Assistant Professor of Oceans at Hopkins Marine Station of Stanford University.\n\nRegistration required whether attending in person or via Zoom.\n\nZoom Registration Link\n\nIn-Person Registration Link",
+      "url": "https://events.stanford.edu/event/microscopic-world-of-kelp-forest-ecosystems",
+      "start_datetime": "2026-05-20T01:00:00",
+      "end_datetime": "2026-05-20T02:00:00",
+      "timezone": "America/Los_Angeles",
+      "location": "Hopkins Marine Station, Izzie Abbott Boatworks Auditorium",
+      "organizer": null,
+      "source": "stanford_virtual",
+      "category": "Lecture/Presentation/Talk",
       "tags": [],
       "access_restriction": "Public",
       "registration_url": null,
