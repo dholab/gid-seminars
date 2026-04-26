@@ -2,12 +2,12 @@
   "metadata": {
     "title": "GID Seminars Feed",
     "description": "Aggregated seminars and webinars for Global Infectious Disease research",
-    "generated_at": "2026-04-25T06:32:21.197834Z",
+    "generated_at": "2026-04-26T06:39:04.675551Z",
     "time_window": {
       "days_behind": 30,
       "days_ahead": 30
     },
-    "total_events": 54,
+    "total_events": 55,
     "sources": [
       "astmh_events",
       "avac_events",
@@ -403,6 +403,23 @@
       "description": "[Podcast: This Week in Virology]\n\nIn his weekly clinical update, Dr. Griffin and Vincent Racaniello are distressed by RFK Jr\u2019s testimony in front of Congress, surges in rotavirus infections and the staggering number of people who believe in unproven claims about vaccines and science, before Dr. Griffin then deep dives into the measles outbreak, recent statistics RSV, influenza and SARS-CoV-2 infections, the Wasterwater Scan dashboard, Johns Hopkins measles tracker, the fatal consequences of measles infection, prevalence of influenza and other respiratory infections in dead people, PEMGARDA authorized use for certain immunocompromised individuals where to find PEMGARDA, how to access and pay for Paxlovid, results from a human RSV challenge study, where to go for answers about long COVID-19, negatively associated school-related outcomes in children and adolescents with long COVID, and contacting your federal government representative to stop the assault on science and biomedical research. Click arrow to play Download TWiV 1316 (32 MB .mp3, 53 min) Subscribe (free): Apple Podcasts , RSS , email Become a&nbsp; patron &nbsp;of&nbsp;TWiV! Links for this episode Kennedy denies being sidelined by the White House (Politico) Kennedy continued to back away from his criticism of the measles vaccine (NY Times) Rotavirus surges after ACIP removes recommendation for vaccine(Discovermagazine) \u2018Staggering\u2019 number of people believe unproven claims about vaccines, raw milk and more (Nature) Health is confronting division, confu",
       "url": "https://www.microbe.tv/twiv/twiv-1316/",
       "start_datetime": "2026-04-25T04:00:00",
+      "end_datetime": null,
+      "timezone": "UTC",
+      "location": "Podcast",
+      "organizer": "This Week in Virology",
+      "source": "twiv_podcast",
+      "category": "Podcast - TWiV",
+      "tags": [],
+      "access_restriction": "Public",
+      "registration_url": null,
+      "recording_url": null
+    },
+    {
+      "id": "f8206380d0f07d29",
+      "title": "TWiV 1317: Dead shrimp walking",
+      "description": "[Podcast: This Week in Virology]\n\nTWiV explains a study showing that viral DNA load in blood and saliva varied markedly with age, time of day season, sex, and depended on dozens of genetic loci, and identification of an emerging human eye disease associated with aquatic virus zoonotic infection. Hosts:&nbsp; Vincent Racaniello , Alan Dove , Rich Condit , and Brianne Barker Click arrow to play Download TWiV 1317 (61 MB .mp3, 102 min) Subscribe (free):&nbsp; Apple Podcasts ,&nbsp; RSS ,&nbsp; email Become a&nbsp; patron &nbsp;of&nbsp;TWiV! Links for this episode Support science education at MicrobeTV Positions in Rosenfeld Lab (email) DNA virome varies with human genes and environments (Nature) Emerging eye infection from aquatic virus (Nat Micro) Letters read &nbsp; on TWiV 1317 Timestamps by&nbsp; Jolene Ramsey. Thanks! Weekly Picks Brianne &#8211; Wayback Machine: Internet Archive Rich &#8211; Grandparents for Vaccines Alan &#8211; On Writing by Stephen King Vincent &#8211; The Real Reason The Soviets Lost The Space Race! Listener Picks Ginny &#8211; Dr. Cal Your Science Pal Intro music is by&nbsp; Ronald Jenkees Send your virology questions and comments to twiv@microbe.tv Content in this podcast should not be construed as medical advice. The post TWiV 1317: Dead shrimp walking first appeared on This Week in Virology .",
+      "url": "https://www.microbe.tv/twiv/twiv-1317/",
+      "start_datetime": "2026-04-26T04:00:00",
       "end_datetime": null,
       "timezone": "UTC",
       "location": "Podcast",
