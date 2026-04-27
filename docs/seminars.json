@@ -2,7 +2,7 @@
   "metadata": {
     "title": "GID Seminars Feed",
     "description": "Aggregated seminars and webinars for Global Infectious Disease research",
-    "generated_at": "2026-04-26T06:39:04.675551Z",
+    "generated_at": "2026-04-27T06:54:37.017456Z",
     "time_window": {
       "days_behind": 30,
       "days_ahead": 30
@@ -57,23 +57,6 @@
     ]
   },
   "events": [
-    {
-      "id": "097cf26be45c6ddd",
-      "title": "TWiV 1308: Clinical update with Dr. Daniel Griffin",
-      "description": "[Podcast: This Week in Virology]\n\nIn his weekly clinical update, Dr. Griffin and Vincent Racaniello talk about the resignation of a member of the advisory committee for immunization practices and the irony of his rationale that a judge slandered him, vaccinating dairy cattle against H5N1, illnesses resulting from drinking raw milk and the US norovirus outbreak, which is not cruise related, then Dr. Griffin deep dives into the measles outbreak in South Carolina and Utah, recent statistics on RSV, influenza and SARS-CoV-2 infections, the Wasterwater Scan dashboard, Johns Hopkins measles tracker, where to find PEMGARDA, safety data of the RSV vaccine for high risk young adults, recognition of unrecognized COVID-19 deaths (but weren\u2019t we not allowed to call it a COVID-19 death in 2020?), retraction of and how the ANTIBIOTIC azithromycin is NOT an antiviral drug, how to access and pay for Paxlovid, long COVID patients with neurocognitive symptoms and contacting your federal government representative to stop the assault on science and biomedical research. Click arrow to play Download&nbsp; TWiV 1308 (31 MB .mp3, 51 min) Subscribe (free):&nbsp; Apple Podcasts , RSS ,&nbsp; email Become a&nbsp; patron &nbsp;of&nbsp;TWiV! Links for this episode Confusion abounds over future of US vaccine advisory committee (The Guardian) Key Adviser Quits Federal Vaccine Panel (NY Times) 4:56 Vaccinate the vacca ? \u2026..Why We Must Vaccinate US Dairy Cattle Against HPAI H5N1 (JID) 9:00 Largest Animal Health Emergency in US History Contin",
-      "url": "https://www.microbe.tv/twiv/twiv-1308/",
-      "start_datetime": "2026-03-28T04:00:00",
-      "end_datetime": null,
-      "timezone": "UTC",
-      "location": "Podcast",
-      "organizer": "This Week in Virology",
-      "source": "twiv_podcast",
-      "category": "Podcast - TWiV",
-      "tags": [],
-      "access_restriction": "Public",
-      "registration_url": null,
-      "recording_url": null
-    },
     {
       "id": "584b996cb5053c2f",
       "title": "TWiV 1309: Maybe they\u2019re all cancer vaccines",
@@ -987,6 +970,23 @@
       "organizer": null,
       "source": "uw_cfar",
       "category": "Fred Hutch Center for AIDS Research (CFAR)",
+      "tags": [],
+      "access_restriction": "Public",
+      "registration_url": null,
+      "recording_url": null
+    },
+    {
+      "id": "36c9ca01836e73b7",
+      "title": "Sleep Your Way to Health and Happiness",
+      "description": "Good sleep is critical to a healthy lifestyle. Studies have shown that poor sleep is linked to higher body weight, greater risk of heart disease, stroke, type 2 diabetes, inflammation, and depression, while good sleep can improve concentration and productivity, athletic performance, and immune function. Yet for many of us, a good night's sleep remains an elusive dream. One study by the CDC found that more than a third of American adults are not getting enough sleep or good quality sleep on a regular basis.\n\nJoin us in this noontime webinar to explore the science of sleep. Learn how sleep is related to the core pillars of health -- exercise, diet, and stress resilience. Gain information about what constitutes good sleep and how to spot common sleep disruptions. Finally, learn evidence-based techniques to improve sleep, leading to better health, resiliency, and quality of life.\n\nThis class will be recorded and a one-week link to the recording will be shared with all registered participants. To receive incentive points, attend at least 80% of the live session or listen to the entire recording within one week.  Request disability accommodations and access info.\n\nClass details are subject to change.",
+      "url": "https://events.stanford.edu/event/sleep-your-way-to-health-and-happiness",
+      "start_datetime": "2026-05-26T19:00:00",
+      "end_datetime": "2026-05-26T20:00:00",
+      "timezone": "America/Los_Angeles",
+      "location": "Online",
+      "organizer": null,
+      "source": "stanford_virtual",
+      "category": "Class/Seminar",
       "tags": [],
       "access_restriction": "Public",
       "registration_url": null,
