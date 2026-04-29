@@ -2,7 +2,7 @@
   "metadata": {
     "title": "GID Seminars Feed",
     "description": "Aggregated seminars and webinars for Global Infectious Disease research",
-    "generated_at": "2026-04-28T06:56:09.937693Z",
+    "generated_at": "2026-04-29T06:51:06.500541Z",
     "time_window": {
       "days_behind": 30,
       "days_ahead": 30
@@ -399,28 +399,11 @@
       "recording_url": null
     },
     {
-      "id": "5ecf68bf465d430c",
-      "title": "29th meeting of the Malaria Policy Advisory Group (MPAG)",
-      "description": "The 29th meeting of the Malaria Policy Advisory Group (MPAG) will take place on 28\u201330 April.\ufeff",
-      "url": "https://www.who.int/news-room/events/detail/2026/04/28/default-calendar/29th-meeting-of-the-malaria-policy-advisory-group-(mpag)",
-      "start_datetime": "2026-04-28T00:00:00",
-      "end_datetime": "2026-05-01T00:00:00",
-      "timezone": "UTC",
-      "location": "Online/Geneva",
-      "organizer": "World Health Organization",
-      "source": "who_events",
-      "category": "WHO",
-      "tags": [],
-      "access_restriction": "Public",
-      "registration_url": null,
-      "recording_url": null
-    },
-    {
-      "id": "670a9af4ed4cc193",
-      "title": "Promises and Complications of Doxy-PEP for the Prevention of Sexually Transmitted Infections in People With HIV: Complex Cases",
+      "id": "a6f2f8dbea6a81bd",
+      "title": "Register for the Webinar",
       "description": null,
       "url": "https://www.iasusa.org/events/webinar-2026-zucker/",
-      "start_datetime": "2026-04-28T11:00:00",
+      "start_datetime": "2026-04-27T00:00:00",
       "end_datetime": null,
       "timezone": "America/Los_Angeles",
       "location": "Online",
@@ -671,6 +654,23 @@
       "recording_url": null
     },
     {
+      "id": "d903b9d9ea535e16",
+      "title": "WHO Health Emergencies EPI-WIN webinar: artificial intelligence (AI) supported listening to communities for cholera",
+      "description": "AI-supported listening to communities is helping make cholera responses more precise, timely and people-centred. By analysing large volumes of community feedback from hotlines, social media, radio, surveys and frontline reports, AI can rapidly detect early reports of outbreaks, concerns, rumours, service gaps and barriers to care. This helps health authorities understand where trust is low, where water points may be unsafe, or where people lack information on treatment and prevention.",
+      "url": "https://www.who.int/news-room/events/detail/2026/05/06/default-calendar/who-health-emergencies-epi-win-webinar-artificial-intelligence-supported-listening-to-communities-for-cholera",
+      "start_datetime": "2026-05-06T11:00:00",
+      "end_datetime": "2026-05-06T12:15:00",
+      "timezone": "UTC",
+      "location": "Online/Geneva",
+      "organizer": "World Health Organization",
+      "source": "who_events",
+      "category": "WHO",
+      "tags": [],
+      "access_restriction": "Public",
+      "registration_url": null,
+      "recording_url": null
+    },
+    {
       "id": "d9da2ae1ae9320c8",
       "title": "CFAR Seminar with Dr. Brooke Nichols - May 7, 2026",
       "description": "Event interval: Single day event\nOnline Meeting Link: https://washington.zoom.us/meeting/register/h92B3kzpRjy3zxG0GFjrXw\nAccessibility Contact: cfar@uw.edu\nEvent Types: Lectures/Seminars\n\nREGISTER NOW!\nRegister via this link for virtual attendance\nzoom registration: \nhttps://washington.zoom.us/meeting/register/h92B3kzpRjy3zxG0GFjrXw\n--------------------------------------------------------------------------------\n9:30am-10:30am\n*Please note that this Seminar will be taking place earlier in the day than usual in order to accommodate our speaker who will be joining us from a different time zone*\nVIRTUAL\nCFAR Seminar Speaker: Brooke Nichols\nTalk Title: Complexity in the Right Places: Reorienting HIV Models for Implementation\nBio: \nBrooke Nichols, PhD, MSc, is an Associate Professor of Global Health at Boston University School of Public Health and an infectious disease mathematical modeller and health economist based. Her research sits at the intersection of transmission dynamics, implementation modelling, and health economics, using quantitative approaches to answer practical questions about how HIV, tuberculosis, antimicrobial resistance, and other pathogens can be tackled more effectively in real-world health systems. Her work has shaped national and global health policy across several domains, including WHO Target Product Profiles for diagnostics, normative guidance on HIV prevention and care, and global strategies for optimal diagnostic use during the COVID-19 pandemic.\n \n\n9:00am-9:30am\nVIRTUAL\nNew Faces Speaker: Khai Hoan Tram\nTalk Title: Modeling the Fallout: Projecting the Global Impact of US Funding Cuts\nBio: \nDr. Tram, MD, MS, is an infectious diseases physician-scientist in the Division of Allergy & Infectious Diseases at the University of Washington. He conducts research on HIV and TB and practices medicine at Harborview Medical Center and UW Medical Center. He sees patients weekly at the Madison HIV Clinic. Dr. Tram attended Stanford University medical schoo",
@@ -825,7 +825,7 @@
     },
     {
       "id": "b10e1f80586b630e",
-      "title": "Health and climate change at the 79th World Health Assembly",
+      "title": "Health, climate change, air quality and energy at the 79th World Health Assembly",
       "description": "The Seventy-ninth World Health Assembly (WHA79) takes place in Geneva, Switzerland from 18 to 23 May 2026, bringing together delegations from WHO Member States to set global health policy and advance the Organization's strategic priorities.",
       "url": "https://www.who.int/news-room/events/detail/2026/05/18/default-calendar/health-and-climate-change-at-the-79th-world-health-assembly",
       "start_datetime": "2026-05-18T00:00:00",
