@@ -2,7 +2,7 @@
   "metadata": {
     "title": "GID Seminars Feed",
     "description": "Aggregated seminars and webinars for Global Infectious Disease research",
-    "generated_at": "2026-04-29T06:51:06.500541Z",
+    "generated_at": "2026-04-30T06:53:35.607508Z",
     "time_window": {
       "days_behind": 30,
       "days_ahead": 30
@@ -501,17 +501,17 @@
       "recording_url": null
     },
     {
-      "id": "c3e780c118a9f17a",
-      "title": "WHO Health Emergencies EPI-WIN webinar: operationalizing One Health: from IHR amendments to the Pandemic Agreement",
-      "description": "The International Health Regulations (IHR) remain the cornerstone of global health security, while One Health provides a practical, multisectoral approach to strengthen preparedness and response capacities. This two-part webinar series will 1) explain how One Health is reflected within the IHR and the Pandemic Agreement and what it means for IHR States Parties, and 2) showcase concrete country and regional experiences on strengthening core IHR capacities to address zoonotic diseases through multisectoral coordination.",
-      "url": "https://www.who.int/news-room/events/detail/2026/04/29/default-calendar/who-health-emergencies-epi-win-webinar-operationalizing-one-health-from-ihr-amendments-to-the-pandemic-agreement",
-      "start_datetime": "2026-04-29T07:00:00",
-      "end_datetime": "2026-04-30T08:15:00",
-      "timezone": "UTC",
-      "location": "Online/Geneva",
-      "organizer": "World Health Organization",
-      "source": "who_events",
-      "category": "WHO",
+      "id": "9fd1793f4e21839a",
+      "title": "Uganda Key Populations Consortium Conversation on LEN",
+      "description": null,
+      "url": "https://avac.org/event/ukpc-conversation-on-len/",
+      "start_datetime": "2026-04-30T00:00:00",
+      "end_datetime": null,
+      "timezone": "America/New_York",
+      "location": "Online",
+      "organizer": "AVAC",
+      "source": "avac_events",
+      "category": "AVAC",
       "tags": [],
       "access_restriction": "Public",
       "registration_url": null,
