@@ -2,12 +2,12 @@
   "metadata": {
     "title": "GID Seminars Feed",
     "description": "Aggregated seminars and webinars for Global Infectious Disease research",
-    "generated_at": "2026-05-02T06:40:19.922474Z",
+    "generated_at": "2026-05-03T06:52:31.589686Z",
     "time_window": {
       "days_behind": 30,
       "days_ahead": 30
     },
-    "total_events": 53,
+    "total_events": 54,
     "sources": [
       "astmh_events",
       "avac_events",
@@ -472,6 +472,23 @@
       "description": "[Podcast: This Week in Virology]\n\nIn his weekly clinical update, Dr. Griffin and Vincent Racaniello note the uncertain future of the National Science Foundation amid shifting U.S. funding priorities and governance; the rise of China as a global research powerhouse; ongoing advances and controversies in vaccines shaped by the World Health Organization and the Centers for Disease Control and Prevention; vaccine policy battles in Florida; European approval of the moderna mCOMBRIAX, COVID-19 and influenza vaccine, the mounting evidence supporting preventive vaccination strategies including that for HPV and the HepB birth dose; the spread of drug-resistant infections and the resurgence of HIV in Zambia; and the enduring public trust in scientists despite political turbulence, before Dr. Griffin deep dives into the measles outbreak, recent statistics RSV, influenza and SARS-CoV-2 infections, the Wasterwater Scan dashboard, Johns Hopkins measles tracker, the efficacy of the influenza vaccine for children, PEMGARDA authorized use for certain immunocompromised individuals where to find PEMGARDA, how to access and pay for Paxlovid, use of remdesivir for RSV, how administration of Paxlovid did not affect hospitalization of high-risk vaccinated patients, where to go for answers about long COVID-19, if SARS-CoV-2 infection may facilitate EBV reactivation, exercise for treating long COVID and contacting your federal government representative to stop the assault on science and biomedical research. Click arrow to play Downlo",
       "url": "https://www.microbe.tv/twiv/twiv-1318/",
       "start_datetime": "2026-05-02T04:00:00",
+      "end_datetime": null,
+      "timezone": "UTC",
+      "location": "Podcast",
+      "organizer": "This Week in Virology",
+      "source": "twiv_podcast",
+      "category": "Podcast - TWiV",
+      "tags": [],
+      "access_restriction": "Public",
+      "registration_url": null,
+      "recording_url": null
+    },
+    {
+      "id": "b114766e9e78e857",
+      "title": "TWiV 1319: An earful of SARS-CoV-2",
+      "description": "[Podcast: This Week in Virology]\n\nTWiV explains the emergence of vaccine-derived poliovirus strains from the novel oral polio vaccine in the Central African Republic, and the infection of spiral ganglion neurons in the inner ear by SARS-CoV-2, which may explain hearing loss in humans. Hosts: Vincent Racaniello , Alan Dove , and Kathy Spindler Click arrow to play Download TWiV 1319 (62MB .mp3, 104 min) Subscribe (free): Apple Podcasts , RSS , email Become a&nbsp; patron &nbsp;of&nbsp;TWiV! Links for this episode Support science education at MicrobeTV Positions in Rosenfeld Lab (email) Bernard Roizman dies (U Chicago) Craig Venter dies (Sci Am) Trump fires National Science Board (AAU) It was World Vaccine Week (WHO) nOPV2 phenotypically reverts via recombination (mBio) SARS-CoV-2 infects inner ear (Cell Rep) Letters read on TWiV 1319 Timestamps by&nbsp; Jolene Ramsey. Thanks! Weekly Picks Kathy &#8211; Science of rats and other organisms in the East River Alan &#8211; Chronolog citizen science project Vincent &#8211; Why Do Train Engines Sometimes Face Backwards? Listener Picks Chris &#8211; Consensus: AI for research Intro music is by Ronald Jenkees Send your virology questions and comments to twiv@microbe.tv Content in this podcast should not be construed as medical advice. The post TWiV 1319: An earful of SARS-CoV-2 first appeared on This Week in Virology .",
+      "url": "https://www.microbe.tv/twiv/twiv-1319/",
+      "start_datetime": "2026-05-03T04:00:00",
       "end_datetime": null,
       "timezone": "UTC",
       "location": "Podcast",
