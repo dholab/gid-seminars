@@ -2,12 +2,12 @@
   "metadata": {
     "title": "GID Seminars Feed",
     "description": "Aggregated seminars and webinars for Global Infectious Disease research",
-    "generated_at": "2026-05-03T06:52:31.589686Z",
+    "generated_at": "2026-05-04T07:03:21.975223Z",
     "time_window": {
       "days_behind": 30,
       "days_ahead": 30
     },
-    "total_events": 54,
+    "total_events": 52,
     "sources": [
       "astmh_events",
       "avac_events",
@@ -58,40 +58,6 @@
     ]
   },
   "events": [
-    {
-      "id": "05640676c76aab27",
-      "title": "Stanford Existential Risks Initiative (SERI) Symposium 2026: Emerging Technologies & Existential Risk (VIRTUAL)",
-      "description": "The 2026 Stanford Existential Risk Initiative (SERI) Symposium, titled Emerging Technologies and Existential Risk, will explore the risks from emerging technologies, with a particular attention to governance and technological solutions. The event will bring together leading experts and researchers from across the Bay Area who specialize in a range of global risks, including artificial intelligence, climate change, biosecurity, and nuclear threats.\n\nThis symposium will provide an interdisciplinary platform for participants to engage in discussions around the policies and solutions needed to address these large-scale, existential risks. Attendees will gain insights from diverse perspectives as they collaborate to find innovative approaches to safeguard our future. \n\nFor a detailed agenda, visit the event page here: https://cisac.fsi.stanford.edu/events/stanford-existential-risks-initiative-seri-symposium-2026-emerging-technologies-existential",
-      "url": "https://events.stanford.edu/event/seri-symposium-2026-virtual",
-      "start_datetime": "2026-04-03T16:00:00",
-      "end_datetime": "2026-04-04T00:00:00",
-      "timezone": "America/Los_Angeles",
-      "location": "Online",
-      "organizer": null,
-      "source": "stanford_virtual",
-      "category": "Conference/Symposium",
-      "tags": [],
-      "access_restriction": "Public",
-      "registration_url": null,
-      "recording_url": null
-    },
-    {
-      "id": "91d607387e3e00b9",
-      "title": "TWiV 1310: Clinical update with Dr. Daniel Griffin",
-      "description": "[Podcast: This Week in Virology]\n\nIn his weekly clinical update, Dr. Griffin and Vincent Racaniello cover if the \u201cfive-second\u201d rule for things that fall on the floor apply to surgical equipment, an outbreak of E. coli illness caused by raw cheese before Dr. Griffin then deep dives into the measles outbreak in South Carolina and Utah, recent statistics RSV, influenza and SARS-CoV-2 infections, the Wasterwater Scan dashboard, Johns Hopkins measles tracker, where to find PEMGARDA, strain selection for the 2026-2027 season influenza vaccine by the FDA, if standard or high dose influenza vaccination influences dementia protection, a new variant of SARS-CoV-2, how to access and pay for Paxlovid, specific effects of Paxlovid and contacting your federal government representative to stop the assault on science and biomedical research. Click arrow to play Download&nbsp; TWiV 1310 (24 MB .mp3, 40 min) Subscribe (free):&nbsp; Apple Podcasts , RSS ,&nbsp; email Become a&nbsp; patron &nbsp;of&nbsp;TWiV! Links for this episode The \u201c five-second \u201d rule for dropped food: does it apply to dropped medical objects in the operating room? A randomized study of disinfection approaches for contaminated arthroplasty implants (Infection Control &amp; Hospital Epidemiology) 4:31 Whole Genome Sequencing ( WGS ) Program (FDA) Outbreak Investigation of E. coli O157:H7: Raw Cheddar Cheese (March 2026) (FDA) 9:28 Wastewater for norovirus (WasterWater Scan) Wastewater for measles (WasterWater Scan) Measles cases and outbreaks (CDC Rubeola) B",
-      "url": "https://www.microbe.tv/twiv/twiv-1310/",
-      "start_datetime": "2026-04-04T04:00:00",
-      "end_datetime": null,
-      "timezone": "UTC",
-      "location": "Podcast",
-      "organizer": "This Week in Virology",
-      "source": "twiv_podcast",
-      "category": "Podcast - TWiV",
-      "tags": [],
-      "access_restriction": "Public",
-      "registration_url": null,
-      "recording_url": null
-    },
     {
       "id": "4fdd42140fe9a85e",
       "title": "TWiV 1311: Jayhawks go viral",
