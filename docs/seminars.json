@@ -2,12 +2,12 @@
   "metadata": {
     "title": "GID Seminars Feed",
     "description": "Aggregated seminars and webinars for Global Infectious Disease research",
-    "generated_at": "2026-05-08T06:37:56.120268Z",
+    "generated_at": "2026-05-09T06:44:10.328539Z",
     "time_window": {
       "days_behind": 30,
       "days_ahead": 30
     },
-    "total_events": 48,
+    "total_events": 47,
     "sources": [
       "astmh_events",
       "avac_events",
@@ -58,40 +58,6 @@
     ]
   },
   "events": [
-    {
-      "id": "01ac4c56789411aa",
-      "title": "Pediatric Orthopedics and Sports Medicine: The Limping Child",
-      "description": "Overview\nChildren may develop a limp for a variety of reasons, with causes that differ widely in urgency and management. This lecture provides clinicians with practical strategies to evaluate pediatric limping through a review of epidemiology, clinical presentation, physical examination, and diagnostic testing. Learners will explore common infectious and non-infectious causes, as well as less frequent but critical diagnoses, to improve clinical decision-making and timely management in pediatric patients.\n\nRegistration\nRegistration is required.\nAll practitioners: free.\n\nCredits\nAMA PRA Category 1 Credits\u2122 (1.00 hours), BOC Category A Hours/CEUs (1.00 hours), Non-Physician Participation Credit (1.00 hours), Occupational Therapy Contact Hours (1.00 hours), Physical Therapy Contact Hours (1.00 hours)\n\nTarget Audience\nSpecialties - Orthopedics & Sports Medicine\nProfessions - Athletic Trainer, Fellow/Resident, Non-Physician, Occupational Therapist, Physical Therapist, Physician\n\nObjectives\nAt the conclusion of this activity, learners should be able to:\n\n1. Define a limp and differentiate common gait patterns in pediatric patients.  \n2. Identify common infectious causes of limping in children and select appropriate examination and treatment strategies. \n3. Review common non-infectious causes of limping in children and determine appropriate diagnostic and management strategies.\n4. Discuss uncommon but clinically significant causes of pediatric limping.\n\nAccreditation\nIn support of improving patient care, Stanford Medicine is jointly accredited by the Accreditation Council for Continuing Medical Education (ACCME), the Accreditation Council for Pharmacy Education (ACPE), and the American Nurses Credentialing Center (ANCC), to provide continuing education for the healthcare team. \n \nCredit Designation \nAmerican Medical Association (AMA) \nStanford Medicine designates this Live Activity for a maximum of 1.00 AMA PRA Category 1 CreditsTM.  Physicians should claim only the credit ",
-      "url": "https://events.stanford.edu/event/pediatric-orthopedics-and-sports-medicine-the-limping-child",
-      "start_datetime": "2026-04-08T19:00:00",
-      "end_datetime": "2026-04-08T20:00:00",
-      "timezone": "America/Los_Angeles",
-      "location": "Online",
-      "organizer": null,
-      "source": "stanford_virtual",
-      "category": "Class/Seminar",
-      "tags": [],
-      "access_restriction": "Public",
-      "registration_url": null,
-      "recording_url": null
-    },
-    {
-      "id": "f239c5eed5907a17",
-      "title": "\"When Health Systems Are Under Pressure: Rethinking Health Innovation from Africa\" - Dr. Cherise Dunn",
-      "description": "Session Description:\n\nAcross Africa, many health systems are carrying immense pressure while trying to do more with too little: too few healthcare workers, constrained budgets, and major gaps in access to timely care. In that kind of environment, innovation has to mean more than novelty. It has to make care more practical, more reachable, and more responsive to the realities people face.\n\nIn this talk, Dr. Dunn reflects on what it means to rethink innovation from Africa, especially at a moment when AI is reshaping healthcare conversations worldwide. At the heart of this talk is the idea that Africa should not only be seen as a site of need, but also as a source of insight. She will explore the kinds of solutions these settings call for, and why perspectives from African health systems matter far beyond the continent.\n\nRSVP to Attend\n\nSpeaker Bio:\n\n Dr. Cherise Dunn is a South African health technology entrepreneur, strategist, and systems builder working at the intersection of healthcare, advanced manufacturing, and artificial intelligence. She brings over a decade of experience designing and implementing innovation-led programs across Africa, the United States, and Brazil, with a focus on translating emerging technologies into practical, scalable solutions that improve access and outcomes. \n\nCherise holds a PhD in Medical Biochemistry and recently completed her Master of Public Health in Health Management at the Harvard T.H. Chan School of Public Health. Her work has spanned public health systems, venture development, and workforce innovation, including leading national-scale training programs reaching over 20,000 learners and advising on global health and innovation initiatives through platforms such as the G20, BRICS, and the U.S. State Department. \n\nShe is the co-founder of multiple ventures, including Impact Mechanica, a U.S.-based company developing custom, data-driven protective headgear to reduce traumatic brain injuries, and Authentica.ai, an AI-enabled pla",
-      "url": "https://events.stanford.edu/event/when-health-systems-are-under-pressure-rethinking-health-innovation-from-africa-dr-cherise-dunn",
-      "start_datetime": "2026-04-08T19:00:00",
-      "end_datetime": "2026-04-08T20:00:00",
-      "timezone": "America/Los_Angeles",
-      "location": "Online",
-      "organizer": null,
-      "source": "stanford_virtual",
-      "category": "Lecture/Presentation/Talk",
-      "tags": [],
-      "access_restriction": "Public",
-      "registration_url": null,
-      "recording_url": null
-    },
     {
       "id": "dfd734e57b26b12a",
       "title": "TWiV 1312: Clinical update with Dr. Daniel Griffin",
@@ -495,6 +461,23 @@
       "organizer": null,
       "source": "stanford_virtual",
       "category": "Class/Seminar",
+      "tags": [],
+      "access_restriction": "Public",
+      "registration_url": null,
+      "recording_url": null
+    },
+    {
+      "id": "f6a9531e7abd3e14",
+      "title": "TWiV 1320: Clinical update with Dr. Daniel Griffin",
+      "description": "[Podcast: This Week in Virology]\n\nIn his weekly clinical update, Dr. Griffin and Vincent Racaniello discuss the outbreak of Hantavirus on a cruise ship and its potential for person-person transmission, how cessation of funding for global health by the Trump administration has compromised American health and well being, as well as the description of paralytic poliomyelitis outbreaks in Central Africa associated with the administration of nOPV2, before Dr. Griffin deep dives into the measles outbreak, recent statistics RSV, influenza and SARS-CoV-2 infections, the Wasterwater Scan dashboard, Johns Hopkins measles tracker, association of ear infections in children with RSV, PEMGARDA authorized use for certain immunocompromised individuals where to find PEMGARDA, how to access and pay for Paxlovid, where to go for answers about long COVID-19, multisystem inflammatory syndrome in children and contacting your federal government representative to stop the assault on science and biomedical research. Click arrow to play Download TWiV 1320 (27 MB .mp3, 44 min) Subscribe (free): Apple Podcasts , RSS , email Become a&nbsp; patron &nbsp;of&nbsp;TWiV! Links for this episode Hantavirus Pulmonary Syndrome \u2014The 25th Anniversary of the Four Corners Outbreak (CDC: Emerging Infectious Diseases) Outbreak of Hantavirus Infection in the Four Corners Region of the United States in the Wake of the 1997\u20131998 El Nino\u2014Southern Oscillation (JID) Person-to-Person Transmission of Andes Virus in Hantavirus Pulmonary Syndrome, Argentina, 201",
+      "url": "https://www.microbe.tv/twiv/twiv-1320/",
+      "start_datetime": "2026-05-09T04:00:00",
+      "end_datetime": null,
+      "timezone": "UTC",
+      "location": "Podcast",
+      "organizer": "This Week in Virology",
+      "source": "twiv_podcast",
+      "category": "Podcast - TWiV",
       "tags": [],
       "access_restriction": "Public",
       "registration_url": null,
