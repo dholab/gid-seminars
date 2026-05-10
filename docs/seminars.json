@@ -2,12 +2,12 @@
   "metadata": {
     "title": "GID Seminars Feed",
     "description": "Aggregated seminars and webinars for Global Infectious Disease research",
-    "generated_at": "2026-05-09T06:44:10.328539Z",
+    "generated_at": "2026-05-10T06:56:04.562819Z",
     "time_window": {
       "days_behind": 30,
       "days_ahead": 30
     },
-    "total_events": 47,
+    "total_events": 48,
     "sources": [
       "astmh_events",
       "avac_events",
@@ -472,6 +472,23 @@
       "description": "[Podcast: This Week in Virology]\n\nIn his weekly clinical update, Dr. Griffin and Vincent Racaniello discuss the outbreak of Hantavirus on a cruise ship and its potential for person-person transmission, how cessation of funding for global health by the Trump administration has compromised American health and well being, as well as the description of paralytic poliomyelitis outbreaks in Central Africa associated with the administration of nOPV2, before Dr. Griffin deep dives into the measles outbreak, recent statistics RSV, influenza and SARS-CoV-2 infections, the Wasterwater Scan dashboard, Johns Hopkins measles tracker, association of ear infections in children with RSV, PEMGARDA authorized use for certain immunocompromised individuals where to find PEMGARDA, how to access and pay for Paxlovid, where to go for answers about long COVID-19, multisystem inflammatory syndrome in children and contacting your federal government representative to stop the assault on science and biomedical research. Click arrow to play Download TWiV 1320 (27 MB .mp3, 44 min) Subscribe (free): Apple Podcasts , RSS , email Become a&nbsp; patron &nbsp;of&nbsp;TWiV! Links for this episode Hantavirus Pulmonary Syndrome \u2014The 25th Anniversary of the Four Corners Outbreak (CDC: Emerging Infectious Diseases) Outbreak of Hantavirus Infection in the Four Corners Region of the United States in the Wake of the 1997\u20131998 El Nino\u2014Southern Oscillation (JID) Person-to-Person Transmission of Andes Virus in Hantavirus Pulmonary Syndrome, Argentina, 201",
       "url": "https://www.microbe.tv/twiv/twiv-1320/",
       "start_datetime": "2026-05-09T04:00:00",
+      "end_datetime": null,
+      "timezone": "UTC",
+      "location": "Podcast",
+      "organizer": "This Week in Virology",
+      "source": "twiv_podcast",
+      "category": "Podcast - TWiV",
+      "tags": [],
+      "access_restriction": "Public",
+      "registration_url": null,
+      "recording_url": null
+    },
+    {
+      "id": "3c674163b0dda6a5",
+      "title": "TWiV 1321: Phage cross talk and cross reactions",
+      "description": "[Podcast: This Week in Virology]\n\nTWiV explains how cross-reactive anti-prophage antibodies and bacterial heteroresistance is implicated in phage therapeutic failure, and how phages communicate across species to shape microbial ecosystems. Hosts: Vincent Racaniello , Rich Condit , Brianne Barker , and Jolene Ramsey Click arrow to play Download TWiV 1321 (67 MB .mp3, 111 min) Subscribe (free): Apple Podcasts , RSS , email Become a&nbsp; patron &nbsp;of&nbsp;TWiV! Links for this episode Support science education at MicrobeTV Positions in Rosenfeld Lab (email) Craig Venter dies (Nature) Hantavirus outbreak (WHO) Hantavirus on board (YouTube) HPS 25th anniversary discovery story (EID) Phage therapeutic failure unraveled (Nat Med) Phages communicate across species (Cell) Control of lysis-lysogeny decisions (Trends Micro) Arbitrium phages manipulate each other (Cell) Elio Schaechter on arbitrium ( TWiM 146 ) Letters read on TWiV 1321 Timestamps by&nbsp; Jolene Ramsey. Thanks! Weekly Picks Brianne &#8211; Could this fungus contaminate Mars? Rich &#8211; Supernova in a Sideways Spiral Jolene &#8211; Virology class communication projects 2026 Vincent &#8211; Facts About The Boeing 747 Hump That Will Surprise You Listener Picks David &#8211; My first science video in 3 years Intro music is by Ronald Jenkees Send your virology questions and comments to twiv@microbe.tv Content in this podcast should not be construed as medical advice. The post TWiV 1321: Phage cross talk and cross reactions first appeared on This Week in",
+      "url": "https://www.microbe.tv/twiv/twiv-1321/",
+      "start_datetime": "2026-05-10T04:00:00",
       "end_datetime": null,
       "timezone": "UTC",
       "location": "Podcast",
