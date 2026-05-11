@@ -2,12 +2,12 @@
   "metadata": {
     "title": "GID Seminars Feed",
     "description": "Aggregated seminars and webinars for Global Infectious Disease research",
-    "generated_at": "2026-05-10T06:56:04.562819Z",
+    "generated_at": "2026-05-11T07:13:07.223592Z",
     "time_window": {
       "days_behind": 30,
       "days_ahead": 30
     },
-    "total_events": 48,
+    "total_events": 47,
     "sources": [
       "astmh_events",
       "avac_events",
@@ -58,23 +58,6 @@
     ]
   },
   "events": [
-    {
-      "id": "dfd734e57b26b12a",
-      "title": "TWiV 1312: Clinical update with Dr. Daniel Griffin",
-      "description": "[Podcast: This Week in Virology]\n\nIn his weekly clinical update, Dr. Griffin and Vincent Racaniello are aghast at the CDC\u2019s decision to no longer test for rabies and mpox and the revised charter for its the advisory committee on immunization practices, an outbreak of E. coli illness in raw cheese, before Dr. Griffin then deep dives into the measles outbreak, recent statistics RSV, influenza and SARS-CoV-2 infections, the Wasterwater Scan dashboard, Johns Hopkins measles tracker, clinical practice guidelines for treating COVID-19, PEMGARDA authorized use for certain immunocompromised individuals where to find PEMGARDA, how to access and pay for Paxlovid, if the nasal microbiome modulates COVID-19 disease severity, reviews the use of steroid, antibiotics, anticoagulants and IVIG for treating COVID-19 including long COVID, and contacting your federal government representative to stop the assault on science and biomedical research. Click arrow to play Download&nbsp; TWiV 1312 (27 MB .mp3, 45 min) Subscribe (free):&nbsp; Apple Podcasts , RSS ,&nbsp; email Become a&nbsp; patron &nbsp;of&nbsp;TWiV! Links for this episode State public health labs step up as CDC pauses testing for various pathogens, including rabies, mpox (CIDRAP) 2:46 Infectious Diseases Laboratories : Test Directory (CDC) Kennedy rewrites the rule for membership on US vaccine advisory panel (Reuters) 5:02 Advisory Committee on Immunization Practices (ACIP): ACIP charter (CDC) 5:31 Quick takes: More E coli tied to raw cheese , drug-resistant Shigella",
-      "url": "https://www.microbe.tv/twiv/twiv-1312/",
-      "start_datetime": "2026-04-11T04:00:00",
-      "end_datetime": null,
-      "timezone": "UTC",
-      "location": "Podcast",
-      "organizer": "This Week in Virology",
-      "source": "twiv_podcast",
-      "category": "Podcast - TWiV",
-      "tags": [],
-      "access_restriction": "Public",
-      "registration_url": null,
-      "recording_url": null
-    },
     {
       "id": "5ef9064709f9a37c",
       "title": "TWiV 1313: Maybe they\u2019re all dementia vaccines",
