@@ -2,7 +2,7 @@
   "metadata": {
     "title": "GID Seminars Feed",
     "description": "Aggregated seminars and webinars for Global Infectious Disease research",
-    "generated_at": "2026-05-11T07:13:07.223592Z",
+    "generated_at": "2026-05-12T06:59:43.610161Z",
     "time_window": {
       "days_behind": 30,
       "days_ahead": 30
@@ -58,23 +58,6 @@
     ]
   },
   "events": [
-    {
-      "id": "5ef9064709f9a37c",
-      "title": "TWiV 1313: Maybe they\u2019re all dementia vaccines",
-      "description": "[Podcast: This Week in Virology]\n\nTWiV reviews evidence that influenza standard and high-dose vaccines reduce risk of Alzheimer&#8217;s dementia, and spread of deltaviruses by a viral Trojan horse mechanism. Hosts:&nbsp; Vincent Racaniello , Alan Dove , and Rich Condit Click arrow to play Download TWiV 1313 (70 MB .mp3, 116 min) Subscribe (free):&nbsp; Apple Podcasts ,&nbsp; RSS ,&nbsp; email Become a&nbsp; patron &nbsp;of&nbsp;TWiV! Links for this episode Support science education at MicrobeTV 6:30 Positions in Rosenfeld Lab (email) 6:45 Dennis O&#8217;Callaghan passes ( Wikipedia , LSU ) 18:13 Reduced dementia risk after influenza vaccine (Neurology) 20:51 Deltaviruses spread via Trojan Horse (Cell) 51:10 Letters read on TWiV 1313 1:26:46 Timestamps by&nbsp; Jolene Ramsey. Thanks! Weekly Picks 1:38:18 Rich &#8211; The Path of Artemis II Alan &#8211; Climate change is causing cherry blossoms to miss their peak blooms in Japan Vincent &#8211; The Fabric of the Cosmos: Space, Time, and the Texture of Reality by Brian Greene Listener Picks Ann &#8211; Artemis II Launch \u2013 7.5 Seconds in Slo-Mo Torsten &#8211; \u2018This feels fragile\u2019: how a satellite-smashing chain reaction could spiral out of control Intro music is by&nbsp; Ronald Jenkees Send your virology questions and comments to twiv@microbe.tv Content in this podcast should not be construed as medical advice. The post TWiV 1313: Maybe they\u2019re all dementia vaccines first appeared on This Week in Virology .",
-      "url": "https://www.microbe.tv/twiv/twiv-1313/",
-      "start_datetime": "2026-04-12T04:02:29",
-      "end_datetime": null,
-      "timezone": "UTC",
-      "location": "Podcast",
-      "organizer": "This Week in Virology",
-      "source": "twiv_podcast",
-      "category": "Podcast - TWiV",
-      "tags": [],
-      "access_restriction": "Public",
-      "registration_url": null,
-      "recording_url": null
-    },
     {
       "id": "4e05ade8fd3c09e1",
       "title": "Food and Mood",
@@ -359,23 +342,6 @@
       "organizer": "This Week in Virology",
       "source": "twiv_podcast",
       "category": "Podcast - TWiV",
-      "tags": [],
-      "access_restriction": "Public",
-      "registration_url": null,
-      "recording_url": null
-    },
-    {
-      "id": "49407e32c182b504",
-      "title": "Register for the Webinar",
-      "description": null,
-      "url": "https://www.iasusa.org/events/webinar-2026-wooten/",
-      "start_datetime": "2026-05-04T00:00:00",
-      "end_datetime": null,
-      "timezone": "America/Los_Angeles",
-      "location": "Online",
-      "organizer": null,
-      "source": "iasusa_webinars",
-      "category": "IAS-USA",
       "tags": [],
       "access_restriction": "Public",
       "registration_url": null,
@@ -739,6 +705,23 @@
       "recording_url": null
     },
     {
+      "id": "30f0ec0eeac6db8e",
+      "title": "ESS Oral Defense - Ian Harryman - May 21 - Green 365 @ 9:30 AM",
+      "description": "Stanford University\n\n*** Ph.D. Thesis/ Oral Defense ***\n\n \n\nRisk-Management in Rural Bangladesh: Characterizing Livelihood and Health Trade-Offs in a Highly Season Environment\n\n \n\nIan Harryman\n\nThursday, May 21, 2026, 9:30 AM\n\nGreen 365\n\nDepartment of Earth System Science\n\nAdvisor: Dr. Jamie Jones\n\nSocial relationships can have multidirectional impacts on health outcomes. Social support systems can buffer against certain adverse health outcomes such as food insecurity, while also creating potential pathways for infectious disease transmission. These effects have immense consequences for rural populations whose livelihoods are anchored to local environmental conditions. In this dissertation, I identify the functions, benefits, and costs of social networks for managing livelihood risks and health in a highly seasonal environment. From January to September 2024, I collected panel social network data in rural Bangladesh during rainy and dry seasons in four communities with distinct livelihood strategies. In July 2024, a political revolution briefly disrupted daily life in Bangladesh but also offered an unforeseen opportunity to observe socio-economic responses to an extrinsic shock. In Chapter 1, I explore the seasonal characteristics of informal support practices and their role in mitigating food insecurity. I find that informal support networks are both dynamic and effective at reducing food insecurity. In Chapter 2, I examine how economic support networks responded to the shock of a political revolution. I show that informal economic networks consolidated inward during a period of acute uncertainty, producing redundant and expedient pathways for monetary and resource flows. Finally, in Chapter 3, I generate simulated respiratory disease models to investigate how seasonal infection risk is mediated by social-contact structures and find that infection risk is shaped by livelihood responses to seasonal variability. These results show that densely connected contact netwo",
+      "url": "https://events.stanford.edu/event/copy-of-ess-oral-defense-anna-gomes-may-20-turing-auditorium-930-am",
+      "start_datetime": "2026-05-21T16:30:00",
+      "end_datetime": "2026-05-21T17:30:00",
+      "timezone": "America/Los_Angeles",
+      "location": "Green Earth Sciences Building, 365",
+      "organizer": null,
+      "source": "stanford_virtual",
+      "category": "PhD Defense",
+      "tags": [],
+      "access_restriction": "Public",
+      "registration_url": null,
+      "recording_url": null
+    },
+    {
       "id": "da5b541b7bd6067d",
       "title": "CFAR Seminar with Dr. Brooke Nichols - May 21, 2026",
       "description": "Event interval: Single day event\nOnline Meeting Link: https://washington.zoom.us/meeting/register/h92B3kzpRjy3zxG0GFjrXw\nAccessibility Contact: g0201@uw.edu\nEvent Types: Lectures/Seminars\n\nREGISTER NOW! \nRegister via this link for virtual attendance \nzoom registration: \nhttps://washington.zoom.us/meeting/register/h92B3kzpRjy3zxG0GFjrXw \n12:00pm - 1:30pm \n\n*Please note that this Seminar will be taking place earlier in the day than usual in order to accommodate our speaker who will be joining us from a different time zone* \n\n12:30pm - 1:30pm \nVIRTUAL \nCFAR Seminar Speaker: Brooke Nichols \nTalk Title: Complexity in the Right Places: Reorienting HIV Models for Implementation \nBio:  \nBrooke Nichols, PhD, MSc, is an Associate Professor of Global Health at Boston University School of Public Health and an infectious disease mathematical modeller and health economist based. Her research sits at the intersection of transmission dynamics, implementation modelling, and health economics, using quantitative approaches to answer practical questions about how HIV, tuberculosis, antimicrobial resistance, and other pathogens can be tackled more effectively in real-world health systems. Her work has shaped national and global health policy across several domains, including WHO Target Product Profiles for diagnostics, normative guidance on HIV prevention and care, and global strategies for optimal diagnostic use during the COVID-19 pandemic. \n \n12:00pm - 12:30pm\nVIRTUAL \nNew Faces Speaker: Khai Hoan Tram \nTalk Title: Modeling the Fallout: Projecting the Global Impact of US Funding Cuts \nBio:  \nDr. Tram, MD, MS, is an infectious diseases physician-scientist in the Division of Allergy & Infectious Diseases at the University of Washington. He conducts research on HIV and TB and practices medicine at Harborview Medical Center and UW Medical Center. He sees patients weekly at the Madison HIV Clinic. Dr. Tram attended Stanford University medical school and completed Internal Medicine residen",
@@ -841,17 +824,34 @@
       "recording_url": null
     },
     {
-      "id": "d49e7313039a2e68",
+      "id": "457a3456a85804c6",
       "title": "CFAR Seminar with Dr. Vincent Marconi - June 4, 2026",
-      "description": "Event interval: Single day event\nOnline Meeting Link: https://washington.zoom.us/meeting/register/hxWUcWKBTii-wAvaS382eg\nAccessibility Contact: cfar@uw.edu\nEvent Types: Lectures/Seminars\n\nREGISTER NOW!\nRegister via this link for virtual attendance\nzoom registration: \nhttps://washington.zoom.us/meeting/register/hxWUcWKBTii-wAvaS382eg\n--------------------------------------------------------------------------------\n4:00pm - 5:00pm\nVIRTUAL\nCFAR Seminar Speaker: Vincent Marconi",
+      "description": "Event interval: Single day event\nOnline Meeting Link: https://washington.zoom.us/meeting/register/hxWUcWKBTii-wAvaS382eg\nAccessibility Contact: cfar@uw.edu\nEvent Types: Lectures/Seminars\n\nREGISTER NOW!\nRegister via this link for virtual attendance\nzoom registration: \nhttps://washington.zoom.us/meeting/register/hxWUcWKBTii-wAvaS382eg\n--------------------------------------------------------------------------------\n4:00pm - 5:00pm\nVIRTUAL\nCFAR Seminar Speaker: Vincent Marconi, MD\nAging from Infection: Is there a Fountain of Youth?\n\nDr. Vincent Marconi is the Director of the Infectious Diseases Research Program at the Atlanta VA Medical Center and a Professor of Medicine in the Division of Infectious Diseases, Department of Medicine, Emory University School of Medicine and jointly a Professor of Global Health in the Rollins School of Public Health and the Emory Vaccine Center, Emory University. He has extensive experience as a PI of multiple NIH R and U grants and VA Merit awards as well as a mentor and investigator on numerous NIH, CDC, VA and industry-sponsored multi-site domestic and international clinical and translational trials for people with HIV and COVID-19. He is the Director of the Emory CFAR Data Science Core and has served on multiple national and international research and steering committees. His research focus areas are (1) to elucidate the role of viral infections in the aging process, (2) to study the impact of anti-inflammatory interventions on age-related outcomes and viral reservoirs, and (3) to utilize implementation science for improving treatment and care for people with HIV and Long COVID.",
       "url": "https://washington.zoom.us/meeting/register/hxWUcWKBTii-wAvaS382eg",
-      "start_datetime": "2026-06-04T22:30:00",
+      "start_datetime": "2026-06-04T23:00:00",
       "end_datetime": "2026-06-05T00:00:00",
       "timezone": "America/Los_Angeles",
       "location": "Zoom",
       "organizer": null,
       "source": "uw_cfar",
       "category": "Fred Hutch Center for AIDS Research (CFAR)",
+      "tags": [],
+      "access_restriction": "Public",
+      "registration_url": null,
+      "recording_url": null
+    },
+    {
+      "id": "5409e28c76f1d2e0",
+      "title": "Transgender Research 2026 \u2013 Findings from CROI and Beyond",
+      "description": null,
+      "url": "https://avac.org/event/transgender-research2026/",
+      "start_datetime": "2026-06-10T00:00:00",
+      "end_datetime": null,
+      "timezone": "America/New_York",
+      "location": "Online",
+      "organizer": "AVAC",
+      "source": "avac_events",
+      "category": "AVAC",
       "tags": [],
       "access_restriction": "Public",
       "registration_url": null,
