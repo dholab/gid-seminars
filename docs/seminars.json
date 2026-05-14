@@ -2,12 +2,12 @@
   "metadata": {
     "title": "GID Seminars Feed",
     "description": "Aggregated seminars and webinars for Global Infectious Disease research",
-    "generated_at": "2026-05-13T07:03:51.960225Z",
+    "generated_at": "2026-05-14T07:02:19.638678Z",
     "time_window": {
       "days_behind": 30,
       "days_ahead": 30
     },
-    "total_events": 44,
+    "total_events": 41,
     "sources": [
       "astmh_events",
       "avac_events",
@@ -58,40 +58,6 @@
     ]
   },
   "events": [
-    {
-      "id": "4e05ade8fd3c09e1",
-      "title": "Food and Mood",
-      "description": "Join us for a noontime webinar to discover how your daily diet impacts not just your physical health, but also your brain function and emotional resilience.\n\nYou will learn how the foods we eat influence our gut microbiome, which communicates with our immune system and ultimately affects neurotransmitter signaling in our brains. We'll delve into the benefits of the Mediterranean Diet for gut health and how to incorporate its mood-boosting principles into any lifestyle.\n\nWe'll also uncover how sugar and refined carbohydrates affect hormones and cortisol levels. You will learn practical strategies to manage the blood sugar effects of these foods, enabling you to consume carbohydrates wisely for optimal health and well-being.\n\nBy the end of the session, you'll have a deeper understanding of the science behind nutrition's impact on the brain and mood, along with practical tips for enhancing your well-being through diet.\n\nThis class will be recorded and a one-week link to the recording will be shared with all registered participants. To receive incentive points, attend at least 80% of the live session or listen to the entire recording within one week.  Request disability accommodations and access info.\n\nClass details are subject to change.",
-      "url": "https://events.stanford.edu/event/food-and-mood-7947",
-      "start_datetime": "2026-04-13T19:00:00",
-      "end_datetime": "2026-04-13T20:00:00",
-      "timezone": "America/Los_Angeles",
-      "location": "Online",
-      "organizer": null,
-      "source": "stanford_virtual",
-      "category": "Class/Seminar",
-      "tags": [],
-      "access_restriction": "Public",
-      "registration_url": null,
-      "recording_url": null
-    },
-    {
-      "id": "8541fce6e257f820",
-      "title": "2026 Systems Biology for Infectious Diseases Workshop",
-      "description": null,
-      "url": null,
-      "start_datetime": "2026-04-14T00:00:00",
-      "end_datetime": "2026-04-14T00:00:00",
-      "timezone": "America/Los_Angeles",
-      "location": "Online",
-      "organizer": null,
-      "source": "ucsf_qbi_pasteur",
-      "category": "University - UCSF",
-      "tags": [],
-      "access_restriction": "Public",
-      "registration_url": null,
-      "recording_url": null
-    },
     {
       "id": "6d92439c075341d3",
       "title": "Health disparities in America: Why the innovation community needs to be a part of the solution",
@@ -231,7 +197,7 @@
     {
       "id": "c25fe15b135d458c",
       "title": "TWiV 1316: Clinical update with Dr. Daniel Griffin",
-      "description": "[Podcast: This Week in Virology]\n\nIn his weekly clinical update, Dr. Griffin and Vincent Racaniello are distressed by RFK Jr\u2019s testimony in front of Congress, surges in rotavirus infections and the staggering number of people who believe in unproven claims about vaccines and science, before Dr. Griffin then deep dives into the measles outbreak, recent statistics RSV, influenza and SARS-CoV-2 infections, the Wasterwater Scan dashboard, Johns Hopkins measles tracker, the fatal consequences of measles infection, prevalence of influenza and other respiratory infections in dead people, PEMGARDA authorized use for certain immunocompromised individuals where to find PEMGARDA, how to access and pay for Paxlovid, results from a human RSV challenge study, where to go for answers about long COVID-19, negatively associated school-related outcomes in children and adolescents with long COVID, and contacting your federal government representative to stop the assault on science and biomedical research. Click arrow to play Download TWiV 1316 (32 MB .mp3, 53 min) Subscribe (free): Apple Podcasts , RSS , email Become a&nbsp; patron &nbsp;of&nbsp;TWiV! Links for this episode Kennedy denies being sidelined by the White House (Politico) Kennedy continued to back away from his criticism of the measles vaccine (NY Times) Rotavirus surges after ACIP removes recommendation for vaccine(Discovermagazine) \u2018Staggering\u2019 number of people believe unproven claims about vaccines, raw milk and more (Nature) Health is confronting division, confu",
+      "description": "[Podcast: This Week in Virology]\n\nIn his weekly clinical update, Dr. Griffin and Vincent Racaniello are distressed by RFK Jr\u2019s testimony in front of Congress, surges in rotavirus infections and the staggering number of people who believe in unproven claims about vaccines and science, before Dr. Griffin then deep dives into the measles outbreak, recent statistics RSV, influenza and SARS-CoV-2 infections, the Wasterwater Scan dashboard, Johns Hopkins measles tracker, the fatal consequences of measles infection, prevalence of influenza and other respiratory infections in dead people, PEMGARDA authorized use for certain immunocompromised individuals where to find PEMGARDA, how to access and pay for Paxlovid, results from a human RSV challenge study, where to go for answers about long COVID-19, negatively associated school-related outcomes in children and adolescents with long COVID, and contacting your federal government representative to stop the assault on science and biomedical research. Click arrow to play Download&nbsp; TWiV 1316 (32 MB .mp3, 53 min) Subscribe (free):&nbsp; Apple Podcasts , RSS ,&nbsp; email Become a&nbsp; patron &nbsp;of&nbsp;TWiV! Links for this episode Kennedy denies being sidelined by the White House (Politico) 3:35 Kennedy continued to back away from his criticism of the measles vaccine (NY Times) 6:21 Rotavirus surges after ACIP removes recommendation for vaccine (Discovermagazine) 7:26 \u2018Staggering\u2019 number of people believe unproven claims about vaccines, raw milk and more (Nature) 8:1",
       "url": "https://www.microbe.tv/twiv/twiv-1316/",
       "start_datetime": "2026-04-25T04:00:00",
       "end_datetime": null,
@@ -418,7 +384,7 @@
     {
       "id": "f6a9531e7abd3e14",
       "title": "TWiV 1320: Clinical update with Dr. Daniel Griffin",
-      "description": "[Podcast: This Week in Virology]\n\nIn his weekly clinical update, Dr. Griffin and Vincent Racaniello discuss the outbreak of Hantavirus on a cruise ship and its potential for person-person transmission, how cessation of funding for global health by the Trump administration has compromised American health and well being, as well as the description of paralytic poliomyelitis outbreaks in Central Africa associated with the administration of nOPV2, before Dr. Griffin deep dives into the measles outbreak, recent statistics RSV, influenza and SARS-CoV-2 infections, the Wasterwater Scan dashboard, Johns Hopkins measles tracker, association of ear infections in children with RSV, PEMGARDA authorized use for certain immunocompromised individuals where to find PEMGARDA, how to access and pay for Paxlovid, where to go for answers about long COVID-19, multisystem inflammatory syndrome in children and contacting your federal government representative to stop the assault on science and biomedical research. Click arrow to play Download TWiV 1320 (27 MB .mp3, 44 min) Subscribe (free): Apple Podcasts , RSS , email Become a&nbsp; patron &nbsp;of&nbsp;TWiV! Links for this episode Hantavirus Pulmonary Syndrome \u2014The 25th Anniversary of the Four Corners Outbreak (CDC: Emerging Infectious Diseases) Outbreak of Hantavirus Infection in the Four Corners Region of the United States in the Wake of the 1997\u20131998 El Nino\u2014Southern Oscillation (JID) Person-to-Person Transmission of Andes Virus in Hantavirus Pulmonary Syndrome, Argentina, 201",
+      "description": "[Podcast: This Week in Virology]\n\nIn his weekly clinical update, Dr. Griffin and Vincent Racaniello discuss the outbreak of Hantavirus on a cruise ship and its potential for person-person transmission, how cessation of funding for global health by the Trump administration has compromised American health and well being, as well as the description of paralytic poliomyelitis outbreaks in Central Africa associated with the administration of nOPV2, before Dr. Griffin deep dives into the measles outbreak, recent statistics RSV, influenza and SARS-CoV-2 infections, the Wasterwater Scan dashboard, Johns Hopkins measles tracker, association of ear infections in children with RSV, PEMGARDA authorized use for certain immunocompromised individuals where to find PEMGARDA, how to access and pay for Paxlovid, where to go for answers about long COVID-19, multisystem inflammatory syndrome in children and contacting your federal government representative to stop the assault on science and biomedical research. Click arrow to play Download&nbsp; TWiV 1320 (27 MB .mp3, 44 min) Subscribe (free):&nbsp; Apple Podcasts , RSS ,&nbsp; email Become a&nbsp; patron &nbsp;of&nbsp;TWiV! Links for this episode Hantavirus Pulmonary Syndrome \u2014The 25th Anniversary of the Four Corners Outbreak (CDC: Emerging Infectious Diseases) 3:58 Outbreak of Hantavirus Infection in the Four Corners Region of the United States in the Wake of the 1997\u20131998 El Nino\u2014Southern Oscillation (JID) 5:16 Person-to-Person Transmission of Andes Virus in Hantavirus Pulmon",
       "url": "https://www.microbe.tv/twiv/twiv-1320/",
       "start_datetime": "2026-05-09T04:00:00",
       "end_datetime": null,
@@ -435,7 +401,7 @@
     {
       "id": "3c674163b0dda6a5",
       "title": "TWiV 1321: Phage cross talk and cross reactions",
-      "description": "[Podcast: This Week in Virology]\n\nTWiV explains how cross-reactive anti-prophage antibodies and bacterial heteroresistance is implicated in phage therapeutic failure, and how phages communicate across species to shape microbial ecosystems. Hosts: Vincent Racaniello , Rich Condit , Brianne Barker , and Jolene Ramsey Click arrow to play Download TWiV 1321 (67 MB .mp3, 111 min) Subscribe (free): Apple Podcasts , RSS , email Become a&nbsp; patron &nbsp;of&nbsp;TWiV! Links for this episode Support science education at MicrobeTV Positions in Rosenfeld Lab (email) Craig Venter dies (Nature) Hantavirus outbreak (WHO) Hantavirus on board (YouTube) HPS 25th anniversary discovery story (EID) Phage therapeutic failure unraveled (Nat Med) Phages communicate across species (Cell) Control of lysis-lysogeny decisions (Trends Micro) Arbitrium phages manipulate each other (Cell) Elio Schaechter on arbitrium ( TWiM 146 ) Letters read on TWiV 1321 Timestamps by&nbsp; Jolene Ramsey. Thanks! Weekly Picks Brianne &#8211; Could this fungus contaminate Mars? Rich &#8211; Supernova in a Sideways Spiral Jolene &#8211; Virology class communication projects 2026 Vincent &#8211; Facts About The Boeing 747 Hump That Will Surprise You Listener Picks David &#8211; My first science video in 3 years Intro music is by Ronald Jenkees Send your virology questions and comments to twiv@microbe.tv Content in this podcast should not be construed as medical advice. The post TWiV 1321: Phage cross talk and cross reactions first appeared on This Week in",
+      "description": "[Podcast: This Week in Virology]\n\nTWiV explains how cross-reactive anti-prophage antibodies and bacterial heteroresistance is implicated in phage therapeutic failure, and how phages communicate across species to shape microbial ecosystems. Hosts:&nbsp; Vincent Racaniello , Rich Condit , Brianne Barker , and Jolene Ramsey Click arrow to play Download TWiV 1321 (67 MB .mp3, 111 min) Subscribe (free):&nbsp; Apple Podcasts ,&nbsp; RSS ,&nbsp; email Become a&nbsp; patron &nbsp;of&nbsp;TWiV! Links for this episode Support science education at MicrobeTV 3:20 Positions in Rosenfeld Lab (email) 3:43 Craig Venter dies (Nature) 5:11 Hantavirus outbreak (WHO) 9:33 Hantavirus on board (YouTube) 10:00 HPS 25th anniversary discovery story (EID) 10:12 Phage therapeutic failure unraveled (Nat Med) 17:23 Phages communicate across species (Cell) 48:37 Control of lysis-lysogeny decisions (Trends Micro) Arbitrium phages manipulate each other (Cell) Elio Schaechter on arbitrium ( TWiM 146 ) Letters read on TWiV 1321 1:27:13 Timestamps by&nbsp; Jolene Ramsey. Thanks! Weekly Picks 1:38:42 Brianne &#8211; Could this fungus contaminate Mars? Rich &#8211; Supernova in a Sideways Spiral Jolene &#8211; Virology class communication projects 2026 Vincent &#8211; Facts About The Boeing 747 Hump That Will Surprise You Listener Picks David &#8211; My first science video in 3 years Intro music is by&nbsp; Ronald Jenkees Send your virology questions and comments to twiv@microbe.tv Content in this podcast should not be construed as medical advic",
       "url": "https://www.microbe.tv/twiv/twiv-1321/",
       "start_datetime": "2026-05-10T04:00:00",
       "end_datetime": null,
@@ -509,23 +475,6 @@
       "end_datetime": "2026-05-14T20:00:00",
       "timezone": "America/Los_Angeles",
       "location": "Online",
-      "organizer": null,
-      "source": "uw_cfar",
-      "category": "Fred Hutch Center for AIDS Research (CFAR)",
-      "tags": [],
-      "access_restriction": "Public",
-      "registration_url": null,
-      "recording_url": null
-    },
-    {
-      "id": "42a96e9ddf82eabb",
-      "title": "REDCap Workshop: Intro to REDCap",
-      "description": "Event interval: Single day event\nCampus location: Hans Rosling Center for Population Health (HRC)\nCampus room: HRC 101\nAccessibility Contact: Cfarbic@uw.edu\nEvent Types: Workshops\nEvent sponsors: Center for AIDS Research (CFAR) - Behavioral Innovations Core (BIC)\n\nCourse is targeted to individuals who are new to REDCap or would like to gain more experience with the REDCap system. In this two hour course, we will use REDCap to demonstrate and practice entering, storing, and managing epidemiologic data.",
-      "url": null,
-      "start_datetime": "2026-05-15T17:00:00",
-      "end_datetime": "2026-05-15T19:00:00",
-      "timezone": "America/Los_Angeles",
-      "location": "Hans Rosling Center for Population Health (HRC)",
       "organizer": null,
       "source": "uw_cfar",
       "category": "Fred Hutch Center for AIDS Research (CFAR)",
