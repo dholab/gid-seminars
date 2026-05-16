@@ -10,7 +10,7 @@ BEGIN:VEVENT
 SUMMARY:MCCPOP Perinatal Potpourri Conference 2026
 DTSTART;TZID=America/Los_Angeles:20260416T150000
 DTEND;TZID=America/Los_Angeles:20260416T233000
-DTSTAMP:20260515T070815Z
+DTSTAMP:20260516T064814Z
 UID:18e7b1fe2df7e360@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Conference/Symposium
 DESCRIPTION:Overview\n\nRooted in Community. Transforming Care. \n\nCelebr
@@ -56,7 +56,7 @@ BEGIN:VEVENT
 SUMMARY:MCCPOP Perinatal Potpourri Conference 2026
 DTSTART;TZID=America/Los_Angeles:20260417T150000
 DTEND;TZID=America/Los_Angeles:20260417T233000
-DTSTAMP:20260515T070815Z
+DTSTAMP:20260516T064814Z
 UID:e65e1bfed5990877@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Conference/Symposium
 DESCRIPTION:Overview\n\nRooted in Community. Transforming Care. \n\nCelebr
@@ -102,7 +102,7 @@ BEGIN:VEVENT
 SUMMARY:The Draft Returns: Love/Hates in Infectious Diseases
 DTSTART:20260418T000000Z
 DTEND:20260418T010000Z
-DTSTAMP:20260515T070815Z
+DTSTAMP:20260516T064814Z
 UID:47e86e4f6b861147@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Podcast - IDSA
 DESCRIPTION:[Podcast: Let's Talk ID] Duration: 1677\n\nHost Paul Sax\, MD\
@@ -126,7 +126,7 @@ BEGIN:VEVENT
 SUMMARY:TWiV 1314: Clinical update with Dr. Daniel Griffin
 DTSTART:20260418T040000Z
 DTEND:20260418T050000Z
-DTSTAMP:20260515T070815Z
+DTSTAMP:20260516T064814Z
 UID:7134285fa2f05b40@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Podcast - TWiV
 DESCRIPTION:[Podcast: This Week in Virology]\n\nIn his weekly clinical upd
@@ -164,7 +164,7 @@ BEGIN:VEVENT
 SUMMARY:TWiV 1315: Jabs for bats
 DTSTART:20260419T040000Z
 DTEND:20260419T050000Z
-DTSTAMP:20260515T070815Z
+DTSTAMP:20260516T064814Z
 UID:0426740469aa6d3e@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Podcast - TWiV
 DESCRIPTION:[Podcast: This Week in Virology]\n\nTWiV explains a study show
@@ -202,7 +202,7 @@ BEGIN:VEVENT
 SUMMARY:ESCMID Global Conference 2026
 DTSTART:20260421T000000Z
 DTEND:20260421T010000Z
-DTSTAMP:20260515T070815Z
+DTSTAMP:20260516T064814Z
 UID:75b978dbc9c352b2@gid-seminars.wnprc.wisc.edu
 CATEGORIES:ISRV
 DESCRIPTION:21 April 2026 - 8:30 AM to 10:30 AM CEST\, Munich\, Germany\n\
@@ -222,7 +222,7 @@ SUMMARY:Goliath's Curse: The History and Future of Societal Collapse — A
   Book Talk and Expert Discussion | Luke Kemp
 DTSTART;TZID=America/Los_Angeles:20260423T223000
 DTEND;TZID=America/Los_Angeles:20260424T000000
-DTSTAMP:20260515T070815Z
+DTSTAMP:20260516T064814Z
 UID:9a7a43376920636f@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Class/Seminar
 DESCRIPTION:About the event: Join us for a special seminar featuring Cambr
@@ -270,7 +270,7 @@ BEGIN:VEVENT
 SUMMARY:TWiV 1316: Clinical update with Dr. Daniel Griffin
 DTSTART:20260425T040000Z
 DTEND:20260425T050000Z
-DTSTAMP:20260515T070815Z
+DTSTAMP:20260516T064814Z
 UID:c25fe15b135d458c@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Podcast - TWiV
 DESCRIPTION:[Podcast: This Week in Virology]\n\nIn his weekly clinical upd
@@ -308,7 +308,7 @@ BEGIN:VEVENT
 SUMMARY:TWiV 1317: Dead shrimp walking
 DTSTART:20260426T040000Z
 DTEND:20260426T050000Z
-DTSTAMP:20260515T070815Z
+DTSTAMP:20260516T064814Z
 UID:f8206380d0f07d29@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Podcast - TWiV
 DESCRIPTION:[Podcast: This Week in Virology]\n\nTWiV explains a study show
@@ -344,7 +344,7 @@ BEGIN:VEVENT
 SUMMARY:ReSViNET Webinar part of the CLARITY Project
 DTSTART:20260428T160000Z
 DTEND:20260428T170000Z
-DTSTAMP:20260515T070815Z
+DTSTAMP:20260516T064814Z
 UID:c183d9c693db01ca@gid-seminars.wnprc.wisc.edu
 CATEGORIES:ISRV
 DESCRIPTION:Hosted by Leyla Kragten and featured guest speaker Erik Abner\
@@ -363,7 +363,7 @@ BEGIN:VEVENT
 SUMMARY:ESS Oral Defense - Matthew Worden - Y2E2 299 @ 2:30 PM
 DTSTART;TZID=America/Los_Angeles:20260501T213000
 DTEND;TZID=America/Los_Angeles:20260501T223000
-DTSTAMP:20260515T070815Z
+DTSTAMP:20260516T064814Z
 UID:2e2de5b3fc9f4266@gid-seminars.wnprc.wisc.edu
 CATEGORIES:PhD Defense
 DESCRIPTION:Stanford University\n\n*** Ph.D. Thesis/ Oral Defense ***\n\nF
@@ -411,7 +411,7 @@ SUMMARY:Advocacy\, Workforce & the Future of ID: A Conversation With IDSA
  Leadership
 DTSTART:20260502T000000Z
 DTEND:20260502T010000Z
-DTSTAMP:20260515T070815Z
+DTSTAMP:20260516T064814Z
 UID:8425757e6744035a@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Podcast - IDSA
 DESCRIPTION:[Podcast: Let's Talk ID] Duration: 1698\n\nIDSA CEO Jeanne Mar
@@ -438,7 +438,7 @@ BEGIN:VEVENT
 SUMMARY:TWiV 1318: Clinical update with Dr. Daniel Griffin
 DTSTART:20260502T040000Z
 DTEND:20260502T050000Z
-DTSTAMP:20260515T070815Z
+DTSTAMP:20260516T064814Z
 UID:c6d790e93e6fc028@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Podcast - TWiV
 DESCRIPTION:[Podcast: This Week in Virology]\n\nIn his weekly clinical upd
@@ -476,7 +476,7 @@ BEGIN:VEVENT
 SUMMARY:TWiV 1319: An earful of SARS-CoV-2
 DTSTART:20260503T040000Z
 DTEND:20260503T050000Z
-DTSTAMP:20260515T070815Z
+DTSTAMP:20260516T064814Z
 UID:b114766e9e78e857@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Podcast - TWiV
 DESCRIPTION:[Podcast: This Week in Virology]\n\nTWiV explains the emergenc
@@ -514,7 +514,7 @@ SUMMARY:Up close and personal – respiratory virus transmission in close
  quarters
 DTSTART:20260505T000000Z
 DTEND:20260505T010000Z
-DTSTAMP:20260515T070815Z
+DTSTAMP:20260516T064814Z
 UID:ec36d1781e7df8ea@gid-seminars.wnprc.wisc.edu
 CATEGORIES:ISRV
 DESCRIPTION:Watch the recording of ‘Up close and personal – respirator
@@ -535,7 +535,7 @@ BEGIN:VEVENT
 SUMMARY:Models\, Inference & Algorithms (MIA) Meeting
 DTSTART;TZID=America/New_York:20260506T130000
 DTEND;TZID=America/New_York:20260506T160000
-DTSTAMP:20260515T070815Z
+DTSTAMP:20260516T064814Z
 UID:3af3e312b0433733@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Talks
 DESCRIPTION:Please join us on Wednesday\, May 6 for our MIA meeting featur
@@ -574,7 +574,7 @@ BEGIN:VEVENT
 SUMMARY:Genomics Seminar Series: Anna Selmecki\, University of Minnesota
 DTSTART;TZID=America/Chicago:20260507T183000
 DTEND;TZID=America/Chicago:20260507T193000
-DTSTAMP:20260515T070815Z
+DTSTAMP:20260516T064814Z
 UID:34e8811aa028b8bd@gid-seminars.wnprc.wisc.edu
 CATEGORIES:University - UW-Madison
 DESCRIPTION:Single-cell detection of genomic instability in human fungal p
@@ -593,7 +593,7 @@ SUMMARY:Geophysics Seminar - Zhuo Wang\, "Beyond the Tropics: Linking Atmo
  spheric Stationary Waves to Tropical Cyclone Activity"
 DTSTART;TZID=America/Los_Angeles:20260507T190000
 DTEND;TZID=America/Los_Angeles:20260507T200000
-DTSTAMP:20260515T070815Z
+DTSTAMP:20260516T064814Z
 UID:7879eb10554b5a8a@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Class/Seminar
 DESCRIPTION:Skillful prediction and projection of tropical cyclone (TC) ac
@@ -630,7 +630,7 @@ BEGIN:VEVENT
 SUMMARY:TWiV 1320: Clinical update with Dr. Daniel Griffin
 DTSTART:20260509T040000Z
 DTEND:20260509T050000Z
-DTSTAMP:20260515T070815Z
+DTSTAMP:20260516T064814Z
 UID:f6a9531e7abd3e14@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Podcast - TWiV
 DESCRIPTION:[Podcast: This Week in Virology]\n\nIn his weekly clinical upd
@@ -668,7 +668,7 @@ BEGIN:VEVENT
 SUMMARY:TWiV 1321: Phage cross talk and cross reactions
 DTSTART:20260510T040000Z
 DTEND:20260510T050000Z
-DTSTAMP:20260515T070815Z
+DTSTAMP:20260516T064814Z
 UID:3c674163b0dda6a5@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Podcast - TWiV
 DESCRIPTION:[Podcast: This Week in Virology]\n\nTWiV explains how cross-re
@@ -703,22 +703,6 @@ TRIGGER:-PT1H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:INTEREST 2026
-DTSTART;TZID=America/New_York:20260512T000000
-DTEND;TZID=America/New_York:20260512T010000
-DTSTAMP:20260515T070815Z
-UID:cbd44f9e7cbd5da2@gid-seminars.wnprc.wisc.edu
-CATEGORIES:AVAC
-DESCRIPTION:\nEvent URL: https://avac.org/event/interest2026/\n\nSource: a
- vac_events
-URL:https://avac.org/event/interest2026/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: INTEREST 2026
-TRIGGER:-PT1H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Upcoming Post COVID-19 Condition Educational Events Key Details fo
  r Webinars/Sessions Join our expert-led webinars\, covering practical stra
  tegies for managing Post COVID-19 Condition. Format: Virtual on Zoom︱Rec
@@ -735,7 +719,7 @@ SUMMARY:Upcoming Post COVID-19 Condition Educational Events Key Details fo
  iac Symptoms and Management Approach of PCC
 DTSTART;TZID=America/Regina:20260512T120000
 DTEND;TZID=America/Regina:20260512T130000
-DTSTAMP:20260515T070815Z
+DTSTAMP:20260516T064814Z
 UID:8a483f0dd468f3cd@gid-seminars.wnprc.wisc.edu
 CATEGORIES:University - USask
 DESCRIPTION:Post-COVID Condition webinar series by University of Saskatche
@@ -780,7 +764,7 @@ SUMMARY:Upcoming Post COVID-19 Condition Educational Events Key Details fo
  iac Symptoms and Management Approach of PCC
 DTSTART;TZID=America/Regina:20260512T120000
 DTEND;TZID=America/Regina:20260512T130000
-DTSTAMP:20260515T070815Z
+DTSTAMP:20260516T064814Z
 UID:fc7128202da97c7c@gid-seminars.wnprc.wisc.edu
 CATEGORIES:University - USask
 DESCRIPTION:Post-COVID Condition webinar series by University of Saskatche
@@ -809,24 +793,67 @@ TRIGGER:-PT1H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Emergency scientific consultation on Andes Virus medical counterme
- asures (MCM) R&D
-DTSTART:20260515T110000Z
-DTEND:20260515T140000Z
-DTSTAMP:20260515T070815Z
-UID:fed24556934f457e@gid-seminars.wnprc.wisc.edu
-CATEGORIES:WHO
-DESCRIPTION:\nEvent URL: https://www.who.int/news-room/events/detail/2026/
- 05/15/default-calendar/emergency-scientific-consultation-on-andes-virus-me
- dical-countermeasures-(mcm)-r-d\n\nSource: who_events
-LOCATION:Online/Geneva
-URL:https://www.who.int/news-room/events/detail/2026/05/15/default-calenda
- r/emergency-scientific-consultation-on-andes-virus-medical-countermeasures
- -(mcm)-r-d
+SUMMARY:Building HIV Care in Rural America
+DTSTART:20260516T000000Z
+DTEND:20260516T010000Z
+DTSTAMP:20260516T064814Z
+UID:97848259acbf6174@gid-seminars.wnprc.wisc.edu
+CATEGORIES:Podcast - IDSA
+DESCRIPTION:[Podcast: Let's Talk ID] Duration: 1863\n\nHost Mati Hlatshway
+ o Davis\, MD\, MPH\, FIDSA\, is joined by Darrell McBride\, DO\, FIDSA\, f
+ ormer program director and founder of the Geisinger Ryan White Program\, t
+ o discuss the realities of delivering HIV and infectious diseases care in 
+ rural communities. They explore barriers to care\, the role of telehealth 
+ and public health partnerships\, and what it takes to build sustainable\, 
+ equity-focused programs in underserved areas.\n\nEvent URL: https://www.bu
+ zzsprout.com/2019912/episodes/19185942-building-hiv-care-in-rural-america.
+ mp3\n\nSource: idsa_podcast
+LOCATION:Podcast
+URL:https://www.buzzsprout.com/2019912/episodes/19185942-building-hiv-care
+ -in-rural-america.mp3
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Reminder: Emergency scientific consultation on Andes Virus med
- ical countermeasures (MCM) R&D
+DESCRIPTION:Reminder: Building HIV Care in Rural America
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TWiV 1322: Clinical update with Dr. Daniel Griffin – Hantavirus 
+ special
+DTSTART:20260516T040000Z
+DTEND:20260516T050000Z
+DTSTAMP:20260516T064814Z
+UID:018fd2b4cdda3b92@gid-seminars.wnprc.wisc.edu
+CATEGORIES:Podcast - TWiV
+DESCRIPTION:[Podcast: This Week in Virology]\n\nIn his weekly clinical upd
+ ate\, Daniel Griffin and Vincent Racaniello reviewed the latest developmen
+ ts surrounding the hantavirus outbreak\, including new interim guidance fr
+ om the Centers for Disease Control and Prevention for the management of in
+ fectious cases\, whether the CDC may be downplaying the significance of th
+ e outbreak because of public backlash following the COVID-19 pandemic\, be
+ fore Dr. Griffin deep dives into the measles outbreak\, recent statistics 
+ RSV\, influenza and SARS-CoV-2 infections\, the Wasterwater Scan dashboard
+ \, Johns Hopkins measles tracker\, benefit of maternal vaccination against
+  RSV for infants\, efficacy and safety of a mRNA influenza vaccine how to 
+ access and pay for Paxlovid\, where to go for answers about long COVID-19\
+ , multisystem inflammatory syndrome in children and contacting your federa
+ l government representative to stop the assault on science and biomedical 
+ research. Click arrow to play Download TWiV 1322 (32 MB .mp3\, 53 min) Sub
+ scribe (free): Apple Podcasts \, RSS \, email Become a&nbsp\; patron &nbsp
+ \;of&nbsp\;TWiV! Links for this episode Interim Guidance for Public Health
+  Assessment and Management of People with Potential Exposure to Andes Viru
+ s Outbreak (CDC) Hantavirus in humans: a review of clinical aspects and ma
+ nagement (LANCET: Infectious Diseases) “Super-Spreaders” and Person-to
+ -Person Transmission of Andes Virus in Argentina (NEJM) Person-to-Person T
+ ransmission of Andes Virus in Hantavirus Pulmonary Syndrome\, Argentina\, 
+ 2014 (CDC: Emergin\n\nEvent URL: https://www.microbe.tv/twiv/twiv-1322/\n\
+ nSource: twiv_podcast
+LOCATION:Podcast
+URL:https://www.microbe.tv/twiv/twiv-1322/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: TWiV 1322: Clinical update with Dr. Daniel Griffin 
+ – Hantavirus special
 TRIGGER:-PT1H
 END:VALARM
 END:VEVENT
@@ -835,7 +862,7 @@ SUMMARY:Health\, climate change\, air quality and energy at the 79th World
   Health Assembly
 DTSTART:20260518T000000Z
 DTEND:20260524T000000Z
-DTSTAMP:20260515T070815Z
+DTSTAMP:20260516T064814Z
 UID:b10e1f80586b630e@gid-seminars.wnprc.wisc.edu
 CATEGORIES:WHO
 DESCRIPTION:The Seventy-ninth World Health Assembly (WHA79) takes place in
@@ -858,7 +885,7 @@ BEGIN:VEVENT
 SUMMARY:BIA 28th Annual Clinical and Scientific Meeting
 DTSTART;TZID=America/New_York:20260519T000000
 DTEND;TZID=America/New_York:20260520T000000
-DTSTAMP:20260515T070815Z
+DTSTAMP:20260516T064814Z
 UID:28b246e007879429@gid-seminars.wnprc.wisc.edu
 CATEGORIES:ASTMH
 DESCRIPTION:\nEvent URL: https://www.astmh.org/news-events/events-calendar
@@ -877,7 +904,7 @@ BEGIN:VEVENT
 SUMMARY:BIA 28th Annual Scientific Meeting
 DTSTART;TZID=America/New_York:20260519T000000
 DTEND;TZID=America/New_York:20260520T000000
-DTSTAMP:20260515T070815Z
+DTSTAMP:20260516T064814Z
 UID:4003cb0cc68b9f62@gid-seminars.wnprc.wisc.edu
 CATEGORIES:ASTMH
 DESCRIPTION:\nEvent URL: https://www.astmh.org/news-events/events-calendar
@@ -895,7 +922,7 @@ BEGIN:VEVENT
 SUMMARY:PrEP Power Webinar — African Countries
 DTSTART;TZID=America/New_York:20260519T000000
 DTEND;TZID=America/New_York:20260519T010000
-DTSTAMP:20260515T070815Z
+DTSTAMP:20260516T064814Z
 UID:6f7acbd5d1404252@gid-seminars.wnprc.wisc.edu
 CATEGORIES:AVAC
 DESCRIPTION:\nEvent URL: https://avac.org/event/prep-power-webinar-african
@@ -913,7 +940,7 @@ SUMMARY:Connecting for change: integrating disability equity across global
   health agendas
 DTSTART:20260519T100000Z
 DTEND:20260519T113000Z
-DTSTAMP:20260515T070815Z
+DTSTAMP:20260516T064814Z
 UID:c312a6e5a6f6b17e@gid-seminars.wnprc.wisc.edu
 CATEGORIES:WHO
 DESCRIPTION:\nEvent URL: https://www.who.int/news-room/events/detail/2026/
@@ -935,7 +962,7 @@ SUMMARY:Inside the Decisions that Changed Global Health: An AVAC Conversat
  ion with Nicholas Enrich
 DTSTART;TZID=America/New_York:20260520T000000
 DTEND;TZID=America/New_York:20260520T010000
-DTSTAMP:20260515T070815Z
+DTSTAMP:20260516T064814Z
 UID:f9432ac08e49272b@gid-seminars.wnprc.wisc.edu
 CATEGORIES:AVAC
 DESCRIPTION:\nEvent URL: https://avac.org/event/inside-the-decisions-that-
@@ -954,7 +981,7 @@ BEGIN:VEVENT
 SUMMARY:PrEP Power Webinar — Global Countries
 DTSTART;TZID=America/New_York:20260520T000000
 DTEND;TZID=America/New_York:20260520T010000
-DTSTAMP:20260515T070815Z
+DTSTAMP:20260516T064814Z
 UID:f3a344c4e7cb5bae@gid-seminars.wnprc.wisc.edu
 CATEGORIES:AVAC
 DESCRIPTION:\nEvent URL: https://avac.org/event/prep-power-webinar-global-
@@ -971,7 +998,7 @@ BEGIN:VEVENT
 SUMMARY:The microscopic world of kelp forest ecosystems
 DTSTART;TZID=America/Los_Angeles:20260520T010000
 DTEND;TZID=America/Los_Angeles:20260520T020000
-DTSTAMP:20260515T070815Z
+DTSTAMP:20260516T064814Z
 UID:81fc6b38cebfaa97@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Lecture/Presentation/Talk
 DESCRIPTION:Towering giant kelp forests can reach heights of 100 feet tall
@@ -1003,7 +1030,7 @@ SUMMARY:Sustaining the momentum: cross-border collaboration to achieve Mal
  aria and NTD Elimination
 DTSTART:20260520T053000Z
 DTEND:20260520T073000Z
-DTSTAMP:20260515T070815Z
+DTSTAMP:20260516T064814Z
 UID:38548d4522338c63@gid-seminars.wnprc.wisc.edu
 CATEGORIES:WHO
 DESCRIPTION:On the sidelines of the 79th World Health Assembly\, this high
@@ -1025,20 +1052,19 @@ TRIGGER:-PT1H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Beyond the Moment: Why HIV Vaccine Research Still Matters
+SUMMARY:The HIV Endgame: Can the World Deliver on Lenacapavir?
 DTSTART;TZID=America/New_York:20260521T000000
 DTEND;TZID=America/New_York:20260521T010000
-DTSTAMP:20260515T070815Z
-UID:04cc927d3f3feaf5@gid-seminars.wnprc.wisc.edu
+DTSTAMP:20260516T064814Z
+UID:5c8633b006473cc6@gid-seminars.wnprc.wisc.edu
 CATEGORIES:AVAC
-DESCRIPTION:\nEvent URL: https://avac.org/event/beyond-the-moment/\n\nSour
- ce: avac_events
-LOCATION:Online
-URL:https://avac.org/event/beyond-the-moment/
+DESCRIPTION:\nEvent URL: https://avac.org/event/hiv-endgame/\n\nSource: av
+ ac_events
+URL:https://avac.org/event/hiv-endgame/
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Reminder: Beyond the Moment: Why HIV Vaccine Research Still Ma
- tters
+DESCRIPTION:Reminder: The HIV Endgame: Can the World Deliver on Lenacapavi
+ r?
 TRIGGER:-PT1H
 END:VALARM
 END:VEVENT
@@ -1046,7 +1072,7 @@ BEGIN:VEVENT
 SUMMARY:ESS Oral Defense - Ian Harryman - May 21 - Green 365 @ 9:30 AM
 DTSTART;TZID=America/Los_Angeles:20260521T163000
 DTEND;TZID=America/Los_Angeles:20260521T173000
-DTSTAMP:20260515T070815Z
+DTSTAMP:20260516T064814Z
 UID:30f0ec0eeac6db8e@gid-seminars.wnprc.wisc.edu
 CATEGORIES:PhD Defense
 DESCRIPTION:Stanford University\n\n*** Ph.D. Thesis/ Oral Defense ***\n\n 
@@ -1093,7 +1119,7 @@ BEGIN:VEVENT
 SUMMARY:CFAR Seminar with Dr. Brooke Nichols - May 21\, 2026
 DTSTART;TZID=America/Los_Angeles:20260521T190000
 DTEND;TZID=America/Los_Angeles:20260521T203000
-DTSTAMP:20260515T070815Z
+DTSTAMP:20260516T064814Z
 UID:da5b541b7bd6067d@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Fred Hutch Center for AIDS Research (CFAR)
 DESCRIPTION:Event interval: Single day event\nOnline Meeting Link: https:/
@@ -1138,7 +1164,7 @@ BEGIN:VEVENT
 SUMMARY:Sleep Your Way to Health and Happiness
 DTSTART;TZID=America/Los_Angeles:20260526T190000
 DTEND;TZID=America/Los_Angeles:20260526T200000
-DTSTAMP:20260515T070815Z
+DTSTAMP:20260516T064814Z
 UID:36c9ca01836e73b7@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Class/Seminar
 DESCRIPTION:Good sleep is critical to a healthy lifestyle. Studies have sh
@@ -1174,7 +1200,7 @@ SUMMARY:TEPHI Grand Rounds | How the Texas Department of State Health Serv
  ices is Preparing for the World Cup
 DTSTART;TZID=America/Chicago:20260527T150000
 DTEND;TZID=America/Chicago:20260527T160000
-DTSTAMP:20260515T070815Z
+DTSTAMP:20260516T064814Z
 UID:38480a1b48ae1bec@gid-seminars.wnprc.wisc.edu
 CATEGORIES:TEPHI
 DESCRIPTION:\nEvent URL: https://tephi.texas.gov/events/event?id=92be3f1a-
@@ -1194,7 +1220,7 @@ SUMMARY:Planting Seeds in These Times: Stories of Resistance and Possibili
  ty for the HIV Movement
 DTSTART;TZID=America/New_York:20260528T000000
 DTEND;TZID=America/New_York:20260528T010000
-DTSTAMP:20260515T070815Z
+DTSTAMP:20260516T064814Z
 UID:8f4dac35c1d31bec@gid-seminars.wnprc.wisc.edu
 CATEGORIES:AVAC
 DESCRIPTION:\nEvent URL: https://avac.org/event/planting-seeds-in-these-ti
@@ -1213,7 +1239,7 @@ SUMMARY:Management of Cardiovascular Disease in People With HIV: Insights
  From the Latest Clinical Data
 DTSTART;TZID=America/Los_Angeles:20260603T110000
 DTEND;TZID=America/Los_Angeles:20260603T120000
-DTSTAMP:20260515T070815Z
+DTSTAMP:20260516T064814Z
 UID:a0e8262e8f0d81f3@gid-seminars.wnprc.wisc.edu
 CATEGORIES:IAS-USA
 DESCRIPTION:\nEvent URL: https://www.iasusa.org/events/webinar-2026-hsue/\
@@ -1231,7 +1257,7 @@ BEGIN:VEVENT
 SUMMARY:CFAR Seminar with Dr. Vincent Marconi - June 4\, 2026
 DTSTART;TZID=America/Los_Angeles:20260604T230000
 DTEND;TZID=America/Los_Angeles:20260605T000000
-DTSTAMP:20260515T070815Z
+DTSTAMP:20260516T064814Z
 UID:457a3456a85804c6@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Fred Hutch Center for AIDS Research (CFAR)
 DESCRIPTION:Event interval: Single day event\nOnline Meeting Link: https:/
@@ -1271,7 +1297,7 @@ BEGIN:VEVENT
 SUMMARY:Transgender Research 2026 – Findings from CROI and Beyond
 DTSTART;TZID=America/New_York:20260610T000000
 DTEND;TZID=America/New_York:20260610T010000
-DTSTAMP:20260515T070815Z
+DTSTAMP:20260516T064814Z
 UID:5409e28c76f1d2e0@gid-seminars.wnprc.wisc.edu
 CATEGORIES:AVAC
 DESCRIPTION:\nEvent URL: https://avac.org/event/transgender-research2026/\
@@ -1282,6 +1308,30 @@ BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Transgender Research 2026 – Findings from CROI and
   Beyond
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Simulation for global health: from innovation to implementation
+DTSTART:20260615T000000Z
+DTEND:20260616T000000Z
+DTSTAMP:20260516T064814Z
+UID:ce390ee2806ac01b@gid-seminars.wnprc.wisc.edu
+CATEGORIES:WHO
+DESCRIPTION:The WHO Academy\, the WHO Health Emergencies Programme (WHE)\,
+  and SESAM (Society for Simulation in Europe) are bringing together global
+  health leaders\, educators\, health professionals\, researchers and partn
+ ers for a collaborative event dedicated to the future of simulation-based 
+ learning in global health.\n\nEvent URL: https://www.who.int/news-room/eve
+ nts/detail/2026/06/15/default-calendar/simulation-for-global-health--from-
+ innovation-to-implementation\n\nSource: who_events
+LOCATION:Online/Geneva
+URL:https://www.who.int/news-room/events/detail/2026/06/15/default-calenda
+ r/simulation-for-global-health--from-innovation-to-implementation
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Simulation for global health: from innovation to imp
+ lementation
 TRIGGER:-PT1H
 END:VALARM
 END:VEVENT
