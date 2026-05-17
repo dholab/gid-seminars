@@ -2,7 +2,7 @@
   "metadata": {
     "title": "GID Seminars Feed",
     "description": "Aggregated seminars and webinars for Global Infectious Disease research",
-    "generated_at": "2026-05-16T06:48:14.893113Z",
+    "generated_at": "2026-05-17T06:58:49.564766Z",
     "time_window": {
       "days_behind": 30,
       "days_ahead": 30
@@ -58,23 +58,6 @@
     ]
   },
   "events": [
-    {
-      "id": "18e7b1fe2df7e360",
-      "title": "MCCPOP Perinatal Potpourri Conference 2026",
-      "description": "Overview\n\nRooted in Community. Transforming Care. \n\nCelebrating Black Maternal Health Week 2026 \n\nThis year\u2019s conference holds special significance as it aligns with the ten-year anniversary of Black Maternal Health Week. The theme acknowledges the week\u2019s focus on \u201cjustice and joy\u201d during the birthing experience and the role of healthcare professionals in fostering positive health and experience outcomes through exceptional care. \n\nThe Mid-Coastal California Perinatal Outreach Program (MCCPOP) is located at Stanford University School of Medicine, Division of Neonatology. MCCPOP leaders include neonatologists and maternal fetal medicine specialists who consult on perinatal clinical care questions and provide education on current standards of care for mothers and newborns. These leaders partner with the California Maternal Quality Care Collaborative (CMQCC) and the California Perinatal Quality Care Collaborative (CPQCC), as well as other specialists and healthcare providers at Stanford Medicine, to provide a full spectrum of expertise, supporting high quality care for newborns and for women. For over forty years, the Annual MCCPOP Perinatal Potpourri Conference has provided current advances in maternal, fetal, and neonatal medicine for healthcare providers around the world. Perinatal clinicians and other experts present on a variety of topics through lectures, panel presentations and case-based discussions. \n\nThis year\u2019s program will include a focus on multiple advances in perinatal care. Agenda subject to change. Some included topics: \n\nBlack Maternal Mental Health\n\nSevere Maternal Morbidity\n\nNeonatal Pain Management\n\nEquitable Use of AI\n\nObstetric Sepsis\n\nAnemia and Pregnancy\n\nPlacenta Accreta Spectrum\n\nRegistration\n\nVirtual attendance fees:\nPhysicians: $300\n\nNurses/AHPs/Pharmacists/Social Workers/Registered Dietitians/Midwives: $150\n\nFellows/Residents: $80\n\nPublic Health/Community Health Organizations Staff NOT Seeking Continuing Education Credit: $80\n\nBIH/PEI Part",
-      "url": "https://events.stanford.edu/event/mccpop-perinatal-potpourri-conference-2026",
-      "start_datetime": "2026-04-16T15:00:00",
-      "end_datetime": "2026-04-16T23:30:00",
-      "timezone": "America/Los_Angeles",
-      "location": "Stanford University School of Medicine, Division of Neonatology",
-      "organizer": null,
-      "source": "stanford_virtual",
-      "category": "Conference/Symposium",
-      "tags": [],
-      "access_restriction": "Public",
-      "registration_url": null,
-      "recording_url": null
-    },
     {
       "id": "e65e1bfed5990877",
       "title": "MCCPOP Perinatal Potpourri Conference 2026",
@@ -455,6 +438,23 @@
       "description": "[Podcast: This Week in Virology]\n\nIn his weekly clinical update, Daniel Griffin and Vincent Racaniello reviewed the latest developments surrounding the hantavirus outbreak, including new interim guidance from the Centers for Disease Control and Prevention for the management of infectious cases, whether the CDC may be downplaying the significance of the outbreak because of public backlash following the COVID-19 pandemic, before Dr. Griffin deep dives into the measles outbreak, recent statistics RSV, influenza and SARS-CoV-2 infections, the Wasterwater Scan dashboard, Johns Hopkins measles tracker, benefit of maternal vaccination against RSV for infants, efficacy and safety of a mRNA influenza vaccine how to access and pay for Paxlovid, where to go for answers about long COVID-19, multisystem inflammatory syndrome in children and contacting your federal government representative to stop the assault on science and biomedical research. Click arrow to play Download TWiV 1322 (32 MB .mp3, 53 min) Subscribe (free): Apple Podcasts , RSS , email Become a&nbsp; patron &nbsp;of&nbsp;TWiV! Links for this episode Interim Guidance for Public Health Assessment and Management of People with Potential Exposure to Andes Virus Outbreak (CDC) Hantavirus in humans: a review of clinical aspects and management (LANCET: Infectious Diseases) \u201cSuper-Spreaders\u201d and Person-to-Person Transmission of Andes Virus in Argentina (NEJM) Person-to-Person Transmission of Andes Virus in Hantavirus Pulmonary Syndrome, Argentina, 2014 (CDC: Emergin",
       "url": "https://www.microbe.tv/twiv/twiv-1322/",
       "start_datetime": "2026-05-16T04:00:00",
+      "end_datetime": null,
+      "timezone": "UTC",
+      "location": "Podcast",
+      "organizer": "This Week in Virology",
+      "source": "twiv_podcast",
+      "category": "Podcast - TWiV",
+      "tags": [],
+      "access_restriction": "Public",
+      "registration_url": null,
+      "recording_url": null
+    },
+    {
+      "id": "19eb45d9f4559536",
+      "title": "TWiV 1323: One influenza infection, two patients",
+      "description": "[Podcast: This Week in Virology]\n\nTWiV explains mRNA delivery of mosaic-8 pan-sarbecovirus RBD vaccines, and how toll-like receptor 7 alters the maternal immune landscape during influenza A infection to increase maternal and fetal morbidity. Hosts: Vincent Racaniello , Rich Condit , and Kathy Spindler Click arrow to play Download TWiV 1323 (65 MB .mp3, 109 min) Subscribe (free): Apple Podcasts , RSS , email Become a&nbsp; patron &nbsp;of&nbsp;TWiV! Links for this episode Support science education at MicrobeTV Positions in Rosenfeld Lab (email) RFK Jr. driving vast inquiry into vaccines (NY Times) Indiana plant biologist locked out of lab by school (Science) Trump cuts CDC role in PEPFAR (Science) Ralph Baric retires (The Assembly) Baric to fight NIH funding ban (Science) Ebola outbreak in DRC (npr) Persistence of Andes virus RNA in human semen (Viruses) mRNA delivery of mosaic-8 pan-sarbecovirus RBD vaccines (Cell Rep) Science will break your heart ( TWiV 920 ) TLR7 and maternal and fetal morbidity during influenza (Sci Adv) Letters read on TWiV 1323 Timestamps by&nbsp; Jolene Ramsey. Thanks! Weekly Picks Kathy &#8211; Bloomberg Connects app and What\u2019s in Bloom Peony Season 2026 Bloom Tracker Rich &#8211; Medpage Today: What you need to know about hantavirus Vincent &#8211; Apollo 11 Almost Never Left the Moon Intro music is by Ronald Jenkees Send your virology questions and comments to twiv@microbe.tv Content in this podcast should not be construed as medical advice. The post TWiV 1323: One influenza infecti",
+      "url": "https://www.microbe.tv/twiv/twiv-1323/",
+      "start_datetime": "2026-05-17T04:04:18",
       "end_datetime": null,
       "timezone": "UTC",
       "location": "Podcast",
