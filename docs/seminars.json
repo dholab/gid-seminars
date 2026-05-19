@@ -2,12 +2,12 @@
   "metadata": {
     "title": "GID Seminars Feed",
     "description": "Aggregated seminars and webinars for Global Infectious Disease research",
-    "generated_at": "2026-05-18T07:24:33.812007Z",
+    "generated_at": "2026-05-19T07:14:18.471223Z",
     "time_window": {
       "days_behind": 30,
       "days_ahead": 30
     },
-    "total_events": 40,
+    "total_events": 39,
     "sources": [
       "astmh_events",
       "avac_events",
@@ -57,23 +57,6 @@
     ]
   },
   "events": [
-    {
-      "id": "0426740469aa6d3e",
-      "title": "TWiV 1315: Jabs for bats",
-      "description": "[Podcast: This Week in Virology]\n\nTWiV explains a study showing that the wildlife trade, including live-animal markets, is a major driver of animal-to-human pathogen transmission, and ecological vaccination, a strategy to prevent zoonotic spillover from bats. Hosts:&nbsp; Vincent Racaniello , Alan Dove , Rich Condit , and Angela Mingarelli Click arrow to play Download TWiV 1315 (66 MB .mp3, 110 min) Subscribe (free):&nbsp; Apple Podcasts ,&nbsp; RSS ,&nbsp; email Become a&nbsp; patron &nbsp;of&nbsp;TWiV! Links for this episode Support science education at MicrobeTV 4:15 Positions in Rosenfeld Lab (email) 5:10 Bernard Roizman passes ( Wikipedia ) 8:42 Maturation of a scientist (Ann Rev Virology) 10:15 Wildlife trade drives pathogen transmission (Science) 14:35 Ecological vaccination of bats (Sci Adv) 43:05 Letters read on TWiV 1315 1:21:45 Timestamps by&nbsp; Jolene Ramsey. Thanks! Weekly Picks 1:35:45 Angela &#8211; Real-time tracking of pathogen evolution Rich &#8211; A Precarious Perch ; Suwannee\u2019s track ; Avian Research and Conservation Institute Alan &#8211; Bookshop.org Vincent &#8211; The Mysterious 30 Year Journey of Apollo 12 Listener Picks Fernando &#8211; Sean M. Carroll&#8217;s series &#8220;The Biggest Ideas in the Universe&#8221;: &#8220;Space, Time, and Motion&#8221;, and &#8220;Quanta and Fields .&#8221; Intro music is by&nbsp; Ronald Jenkees Send your virology questions and comments to twiv@microbe.tv Content in this podcast should not be construed as medical advice. The post TWiV 1315: Jabs f",
-      "url": "https://www.microbe.tv/twiv/twiv-1315/",
-      "start_datetime": "2026-04-19T04:00:00",
-      "end_datetime": null,
-      "timezone": "UTC",
-      "location": "Podcast",
-      "organizer": "This Week in Virology",
-      "source": "twiv_podcast",
-      "category": "Podcast - TWiV",
-      "tags": [],
-      "access_restriction": "Public",
-      "registration_url": null,
-      "recording_url": null
-    },
     {
       "id": "75b978dbc9c352b2",
       "title": "ESCMID Global Conference 2026",
@@ -179,7 +162,7 @@
     {
       "id": "8425757e6744035a",
       "title": "Advocacy, Workforce & the Future of ID: A Conversation With IDSA Leadership",
-      "description": "[Podcast: Let's Talk ID] Duration: 1698\n\nIDSA CEO Jeanne Marrazzo, MD, MPH, FIDSA, hosts IDSA board members Ronald Nahass, MD, MHCM, FIDSA, Wendy Armstrong, MD, FIDSA, and Max Brito, MD, MPH, FIDSA, to discuss the challenges and opportunities shaping the field of infectious diseases. From defending vaccine science to strengthening the ID workforce and growing membership, the group shares how IDSA is responding to today\u2019s health care challenges and preparing for the future.",
+      "description": "[Podcast: Let's Talk ID] Duration: 1693\n\nIDSA CEO Jeanne Marrazzo, MD, MPH, FIDSA, hosts IDSA board members Ronald Nahass, MD, MHCM, FIDSA, Wendy Armstrong, MD, FIDSA, and Max Brito, MD, MPH, FIDSA, to discuss the challenges and opportunities shaping the field of infectious diseases. From defending vaccine science to strengthening the ID workforce and growing membership, the group shares how IDSA is responding to today\u2019s health care challenges and preparing for the future.",
       "url": "https://www.buzzsprout.com/2019912/episodes/19110518-advocacy-workforce-the-future-of-id-a-conversation-with-idsa-leadership.mp3",
       "start_datetime": "2026-05-02T00:00:00",
       "end_datetime": null,
@@ -366,7 +349,7 @@
     {
       "id": "97848259acbf6174",
       "title": "Building HIV Care in Rural America",
-      "description": "[Podcast: Let's Talk ID] Duration: 1863\n\nHost Mati Hlatshwayo Davis, MD, MPH, FIDSA, is joined by Darrell McBride, DO, FIDSA, former program director and founder of the Geisinger Ryan White Program, to discuss the realities of delivering HIV and infectious diseases care in rural communities. They explore barriers to care, the role of telehealth and public health partnerships, and what it takes to build sustainable, equity-focused programs in underserved areas.",
+      "description": "[Podcast: Let's Talk ID] Duration: 1858\n\nHost Mati Hlatshwayo Davis, MD, MPH, FIDSA, is joined by Darrell McBride, DO, FIDSA, former program director and founder of the Geisinger Ryan White Program, to discuss the realities of delivering HIV and infectious diseases care in rural communities. They explore barriers to care, the role of telehealth and public health partnerships, and what it takes to build sustainable, equity-focused programs in underserved areas.",
       "url": "https://www.buzzsprout.com/2019912/episodes/19185942-building-hiv-care-in-rural-america.mp3",
       "start_datetime": "2026-05-16T00:00:00",
       "end_datetime": null,
@@ -383,7 +366,7 @@
     {
       "id": "018fd2b4cdda3b92",
       "title": "TWiV 1322: Clinical update with Dr. Daniel Griffin \u2013 Hantavirus special",
-      "description": "[Podcast: This Week in Virology]\n\nIn his weekly clinical update, Daniel Griffin and Vincent Racaniello reviewed the latest developments surrounding the hantavirus outbreak, including new interim guidance from the Centers for Disease Control and Prevention for the management of infectious cases, whether the CDC may be downplaying the significance of the outbreak because of public backlash following the COVID-19 pandemic, before Dr. Griffin deep dives into the measles outbreak, recent statistics RSV, influenza and SARS-CoV-2 infections, the Wasterwater Scan dashboard, Johns Hopkins measles tracker, benefit of maternal vaccination against RSV for infants, efficacy and safety of a mRNA influenza vaccine how to access and pay for Paxlovid, where to go for answers about long COVID-19, multisystem inflammatory syndrome in children and contacting your federal government representative to stop the assault on science and biomedical research. Click arrow to play Download TWiV 1322 (32 MB .mp3, 53 min) Subscribe (free): Apple Podcasts , RSS , email Become a&nbsp; patron &nbsp;of&nbsp;TWiV! Links for this episode Interim Guidance for Public Health Assessment and Management of People with Potential Exposure to Andes Virus Outbreak (CDC) Hantavirus in humans: a review of clinical aspects and management (LANCET: Infectious Diseases) \u201cSuper-Spreaders\u201d and Person-to-Person Transmission of Andes Virus in Argentina (NEJM) Person-to-Person Transmission of Andes Virus in Hantavirus Pulmonary Syndrome, Argentina, 2014 (CDC: Emergin",
+      "description": "[Podcast: This Week in Virology]\n\nIn his weekly clinical update, Daniel Griffin and Vincent Racaniello reviewed the latest developments surrounding the hantavirus outbreak, including new interim guidance from the Centers for Disease Control and Prevention for the management of infectious cases, whether the CDC may be downplaying the significance of the outbreak because of public backlash following the COVID-19 pandemic, before Dr. Griffin deep dives into the measles outbreak, recent statistics RSV, influenza and SARS-CoV-2 infections, the Wasterwater Scan dashboard, Johns Hopkins measles tracker, benefit of maternal vaccination against RSV for infants, efficacy and safety of a mRNA influenza vaccine &nbsp;how to access and pay for Paxlovid, where to go for answers about long COVID-19, multisystem inflammatory syndrome in children and contacting your federal government representative to stop the assault on science and biomedical research. Click arrow to play Download&nbsp; TWiV 1322 (32 MB .mp3, 53 min) Subscribe (free):&nbsp; Apple Podcasts , RSS ,&nbsp; email Become a&nbsp; patron &nbsp;of&nbsp;TWiV! Links for this episode Interim Guidance for Public Health Assessment and Management of People with Potential Exposure to Andes Virus Outbreak (CDC) 3:36 Hantavirus in humans: a review of clinical aspects and management (LANCET: Infectious Diseases) 15:21 \u201cSuper-Spreaders\u201d and Person-to-Person Transmission of Andes Virus in Argentina (NEJM) 17:00 Person-to-Person Transmission of Andes Virus in Hantavirus Pulmonar",
       "url": "https://www.microbe.tv/twiv/twiv-1322/",
       "start_datetime": "2026-05-16T04:00:00",
       "end_datetime": null,
@@ -400,7 +383,7 @@
     {
       "id": "19eb45d9f4559536",
       "title": "TWiV 1323: One influenza infection, two patients",
-      "description": "[Podcast: This Week in Virology]\n\nTWiV explains mRNA delivery of mosaic-8 pan-sarbecovirus RBD vaccines, and how toll-like receptor 7 alters the maternal immune landscape during influenza A infection to increase maternal and fetal morbidity. Hosts: Vincent Racaniello , Rich Condit , and Kathy Spindler Click arrow to play Download TWiV 1323 (65 MB .mp3, 109 min) Subscribe (free): Apple Podcasts , RSS , email Become a&nbsp; patron &nbsp;of&nbsp;TWiV! Links for this episode Support science education at MicrobeTV Positions in Rosenfeld Lab (email) RFK Jr. driving vast inquiry into vaccines (NY Times) Indiana plant biologist locked out of lab by school (Science) Trump cuts CDC role in PEPFAR (Science) Ralph Baric retires (The Assembly) Baric to fight NIH funding ban (Science) Ebola outbreak in DRC (npr) Persistence of Andes virus RNA in human semen (Viruses) mRNA delivery of mosaic-8 pan-sarbecovirus RBD vaccines (Cell Rep) Science will break your heart ( TWiV 920 ) TLR7 and maternal and fetal morbidity during influenza (Sci Adv) Letters read on TWiV 1323 Timestamps by&nbsp; Jolene Ramsey. Thanks! Weekly Picks Kathy &#8211; Bloomberg Connects app and What\u2019s in Bloom Peony Season 2026 Bloom Tracker Rich &#8211; Medpage Today: What you need to know about hantavirus Vincent &#8211; Apollo 11 Almost Never Left the Moon Intro music is by Ronald Jenkees Send your virology questions and comments to twiv@microbe.tv Content in this podcast should not be construed as medical advice. The post TWiV 1323: One influenza infecti",
+      "description": "[Podcast: This Week in Virology]\n\nTWiV explains mRNA delivery of mosaic-8 pan-sarbecovirus RBD vaccines, and how toll-like receptor 7 alters the maternal immune landscape during influenza A infection to increase maternal and fetal morbidity. Hosts:&nbsp; Vincent Racaniello , Rich Condit , and Kathy Spindler Click arrow to play Download TWiV 1323 (65 MB .mp3, 109 min) Subscribe (free):&nbsp; Apple Podcasts ,&nbsp; RSS ,&nbsp; email Become a&nbsp; patron &nbsp;of&nbsp;TWiV! Links for this episode Support science education at MicrobeTV 1:58 Positions in Rosenfeld Lab (email) 3:40 RFK Jr. driving vast inquiry into vaccines (NY Times) 14:46 Indiana plant biologist locked out of lab by school (Science) 16:26 Trump cuts CDC role in PEPFAR (Science) 17:34 Ralph Baric retires (The Assembly) 19:15 Baric to fight NIH funding ban (Science) 20:04 Ebola outbreak in DRC (npr) 26:16 Persistence of Andes virus RNA in human semen (Viruses) 7:42 mRNA delivery of mosaic-8 pan-sarbecovirus RBD vaccines (Cell Rep) 27:26 Science will break your heart ( TWiV 920 ) 28:05 TLR7 and maternal and fetal morbidity during influenza (Sci Adv) 1:00:51 Letters read on TWiV 1323 1:29:06 Timestamps by&nbsp; Jolene Ramsey. Thanks! Weekly Picks 1:31:48 Kathy &#8211; Bloomberg Connects app and What\u2019s in Bloom&nbsp; Peony Season 2026 Bloom Tracker Rich &#8211; Medpage Today: What you need to know about hantavirus Vincent &#8211; Apollo 11 Almost Never Left the Moon Intro music is by&nbsp; Ronald Jenkees Send your virology questions and comments to t",
       "url": "https://www.microbe.tv/twiv/twiv-1323/",
       "start_datetime": "2026-05-17T04:04:18",
       "end_datetime": null,
@@ -409,23 +392,6 @@
       "organizer": "This Week in Virology",
       "source": "twiv_podcast",
       "category": "Podcast - TWiV",
-      "tags": [],
-      "access_restriction": "Public",
-      "registration_url": null,
-      "recording_url": null
-    },
-    {
-      "id": "b10e1f80586b630e",
-      "title": "Health, climate change, air quality and energy at the 79th World Health Assembly",
-      "description": "The Seventy-ninth World Health Assembly (WHA79) takes place in Geneva, Switzerland from 18 to 23 May 2026, bringing together delegations from WHO Member States to set global health policy and advance the Organization's strategic priorities.",
-      "url": "https://www.who.int/news-room/events/detail/2026/05/18/default-calendar/health-and-climate-change-at-the-79th-world-health-assembly",
-      "start_datetime": "2026-05-18T00:00:00",
-      "end_datetime": "2026-05-24T00:00:00",
-      "timezone": "UTC",
-      "location": "Online/Geneva",
-      "organizer": "World Health Organization",
-      "source": "who_events",
-      "category": "WHO",
       "tags": [],
       "access_restriction": "Public",
       "registration_url": null,
@@ -557,6 +523,23 @@
       "url": "https://www.who.int/news-room/events/detail/2026/05/20/default-calendar/sustaining-the-momentum--cross-border-collaboration-to-achieve-malaria-and-ntd-elimination",
       "start_datetime": "2026-05-20T05:30:00",
       "end_datetime": "2026-05-20T07:30:00",
+      "timezone": "UTC",
+      "location": "Online/Geneva",
+      "organizer": "World Health Organization",
+      "source": "who_events",
+      "category": "WHO",
+      "tags": [],
+      "access_restriction": "Public",
+      "registration_url": null,
+      "recording_url": null
+    },
+    {
+      "id": "5015509309a86db2",
+      "title": "Hantavirus in Focus I: what we know and what it means",
+      "description": "Hantaviruses are rodent\u2011borne viruses that can cause severe and sometimes fatal disease in humans, primarily through exposure to contaminated rodent excreta. In the Americas, infection can lead to hantavirus cardiopulmonary syndrome, a serious respiratory illness. This webinar will share what is known about hantavirus, including the global and country perspectives, and what this event means for public health and community protection.",
+      "url": "https://www.who.int/news-room/events/detail/2026/05/20/default-calendar/hantavirus-in-focus-i-what-we-know-and-what-it-means",
+      "start_datetime": "2026-05-20T11:00:00",
+      "end_datetime": "2026-05-20T12:00:00",
       "timezone": "UTC",
       "location": "Online/Geneva",
       "organizer": "World Health Organization",
