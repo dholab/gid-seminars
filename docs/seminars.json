@@ -2,12 +2,12 @@
   "metadata": {
     "title": "GID Seminars Feed",
     "description": "Aggregated seminars and webinars for Global Infectious Disease research",
-    "generated_at": "2026-05-21T07:18:29.029631Z",
+    "generated_at": "2026-05-22T07:14:38.329119Z",
     "time_window": {
       "days_behind": 30,
       "days_ahead": 30
     },
-    "total_events": 35,
+    "total_events": 33,
     "sources": [
       "astmh_events",
       "avac_events",
@@ -432,23 +432,6 @@
       "recording_url": null
     },
     {
-      "id": "5c8633b006473cc6",
-      "title": "The HIV Endgame: Can the World Deliver on Lenacapavir?",
-      "description": null,
-      "url": "https://avac.org/event/hiv-endgame/",
-      "start_datetime": "2026-05-21T00:00:00",
-      "end_datetime": null,
-      "timezone": "America/New_York",
-      "location": null,
-      "organizer": "AVAC",
-      "source": "avac_events",
-      "category": "AVAC",
-      "tags": [],
-      "access_restriction": "Public",
-      "registration_url": null,
-      "recording_url": null
-    },
-    {
       "id": "30f0ec0eeac6db8e",
       "title": "ESS Oral Defense - Ian Harryman - May 21 - Green 365 @ 9:30 AM",
       "description": "Stanford University\n\n*** Ph.D. Thesis/ Oral Defense ***\n\n \n\nRisk-Management in Rural Bangladesh: Characterizing Livelihood and Health Trade-Offs in a Highly Season Environment\n\n \n\nIan Harryman\n\nThursday, May 21, 2026, 9:30 AM\n\nGreen 365\n\nDepartment of Earth System Science\n\nAdvisor: Dr. Jamie Jones\n\nSocial relationships can have multidirectional impacts on health outcomes. Social support systems can buffer against certain adverse health outcomes such as food insecurity, while also creating potential pathways for infectious disease transmission. These effects have immense consequences for rural populations whose livelihoods are anchored to local environmental conditions. In this dissertation, I identify the functions, benefits, and costs of social networks for managing livelihood risks and health in a highly seasonal environment. From January to September 2024, I collected panel social network data in rural Bangladesh during rainy and dry seasons in four communities with distinct livelihood strategies. In July 2024, a political revolution briefly disrupted daily life in Bangladesh but also offered an unforeseen opportunity to observe socio-economic responses to an extrinsic shock. In Chapter 1, I explore the seasonal characteristics of informal support practices and their role in mitigating food insecurity. I find that informal support networks are both dynamic and effective at reducing food insecurity. In Chapter 2, I examine how economic support networks responded to the shock of a political revolution. I show that informal economic networks consolidated inward during a period of acute uncertainty, producing redundant and expedient pathways for monetary and resource flows. Finally, in Chapter 3, I generate simulated respiratory disease models to investigate how seasonal infection risk is mediated by social-contact structures and find that infection risk is shaped by livelihood responses to seasonal variability. These results show that densely connected contact netwo",
@@ -460,23 +443,6 @@
       "organizer": null,
       "source": "stanford_virtual",
       "category": "PhD Defense",
-      "tags": [],
-      "access_restriction": "Public",
-      "registration_url": null,
-      "recording_url": null
-    },
-    {
-      "id": "da5b541b7bd6067d",
-      "title": "CFAR Seminar with Dr. Brooke Nichols - May 21, 2026",
-      "description": "Event interval: Single day event\nOnline Meeting Link: https://washington.zoom.us/meeting/register/h92B3kzpRjy3zxG0GFjrXw\nAccessibility Contact: g0201@uw.edu\nEvent Types: Lectures/Seminars\n\nREGISTER NOW! \nRegister via this link for virtual attendance \nzoom registration: \nhttps://washington.zoom.us/meeting/register/h92B3kzpRjy3zxG0GFjrXw \n12:00pm - 1:30pm \n\n*Please note that this Seminar will be taking place earlier in the day than usual in order to accommodate our speaker who will be joining us from a different time zone* \n\n12:30pm - 1:30pm \nVIRTUAL \nCFAR Seminar Speaker: Brooke Nichols \nTalk Title: Complexity in the Right Places: Reorienting HIV Models for Implementation \nBio:  \nBrooke Nichols, PhD, MSc, is an Associate Professor of Global Health at Boston University School of Public Health and an infectious disease mathematical modeller and health economist based. Her research sits at the intersection of transmission dynamics, implementation modelling, and health economics, using quantitative approaches to answer practical questions about how HIV, tuberculosis, antimicrobial resistance, and other pathogens can be tackled more effectively in real-world health systems. Her work has shaped national and global health policy across several domains, including WHO Target Product Profiles for diagnostics, normative guidance on HIV prevention and care, and global strategies for optimal diagnostic use during the COVID-19 pandemic. \n \n12:00pm - 12:30pm\nVIRTUAL \nNew Faces Speaker: Khai Hoan Tram \nTalk Title: Modeling the Fallout: Projecting the Global Impact of US Funding Cuts \nBio:  \nDr. Tram, MD, MS, is an infectious diseases physician-scientist in the Division of Allergy & Infectious Diseases at the University of Washington. He conducts research on HIV and TB and practices medicine at Harborview Medical Center and UW Medical Center. He sees patients weekly at the Madison HIV Clinic. Dr. Tram attended Stanford University medical school and completed Internal Medicine residen",
-      "url": "https://washington.zoom.us/meeting/register/h92B3kzpRjy3zxG0GFjrXw",
-      "start_datetime": "2026-05-21T19:00:00",
-      "end_datetime": "2026-05-21T20:30:00",
-      "timezone": "America/Los_Angeles",
-      "location": "Online",
-      "organizer": null,
-      "source": "uw_cfar",
-      "category": "Fred Hutch Center for AIDS Research (CFAR)",
       "tags": [],
       "access_restriction": "Public",
       "registration_url": null,
