@@ -2,7 +2,7 @@
   "metadata": {
     "title": "GID Seminars Feed",
     "description": "Aggregated seminars and webinars for Global Infectious Disease research",
-    "generated_at": "2026-05-23T06:56:30.864636Z",
+    "generated_at": "2026-05-24T07:07:27.887521Z",
     "time_window": {
       "days_behind": 30,
       "days_ahead": 30
@@ -57,23 +57,6 @@
     ]
   },
   "events": [
-    {
-      "id": "9a7a43376920636f",
-      "title": "Goliath's Curse: The History and Future of Societal Collapse \u2014 A Book Talk and Expert Discussion | Luke Kemp",
-      "description": "About the event: Join us for a special seminar featuring Cambridge scholar Luke Kemp, author of the bestseller Goliath\u2019s Curse: The History and Future of Societal Collapse. In this new book, Kemp conducts a historical autopsy of hundreds of polities over the last 300,000 years to draw lessons from history on how collapse could unfold in the future and what we can do to avoid it. Drawing on cutting-edge research in anthropology and archaeology, Goliath\u2019s Curse is a radical retelling of human history with many surprising lessons, including the role of inequality in past collapses, how these historical breakdowns often were blessings and not just reversions to a \u2018dark age\u2019, and why collapse in the future is a far grimmer prospect.\n\nDr. Stephen Luby, a physician, researcher, and educator whose global health work has spanned five years in Pakistan and eight years in Bangladesh before joining the Stanford faculty. Dr. Luby brings the perspective of a public health expert deeply familiar with the challenges faced by both fragile and resilient societies on the ground.\n\nDr. Scott Sagan, Co-Director and Senior Fellow at the Center for International Security and Cooperation and a leading authority on international security and political science. Dr. Sagan brings a global security and governance lens, informed by his academic and government experience, to the discussion of how great powers succeed or fail in adapting to existential threats.\n\nTogether, Drs. Kemp, Luby, and Sagan will engage in a wide-ranging discussion on what history can teach us about the risks and possibilities of collapse today, from the threats of pandemic and climate crisis to the resiliency of democratic institutions and the fragility of hierarchical power structures. The event will conclude with a moderated audience Q&A.\n\nAbout the speakers: Luke Kemp researches the end of the world. He is the author of the bestselling book Goliath\u2019s Curse: The History and Future of Societal Collapse and a Research Affil",
-      "url": "https://events.stanford.edu/event/goliaths-curse-the-history-and-future-of-societal-collapse-a-book-talk-and-expert-discussion-luke-kemp",
-      "start_datetime": "2026-04-23T22:30:00",
-      "end_datetime": "2026-04-24T00:00:00",
-      "timezone": "America/Los_Angeles",
-      "location": "Encina Hall, William J. Perry Conference Room",
-      "organizer": null,
-      "source": "stanford_virtual",
-      "category": "Class/Seminar",
-      "tags": [],
-      "access_restriction": "Public",
-      "registration_url": null,
-      "recording_url": null
-    },
     {
       "id": "c25fe15b135d458c",
       "title": "TWiV 1316: Clinical update with Dr. Daniel Griffin",
@@ -454,6 +437,23 @@
       "description": "[Podcast: This Week in Virology]\n\nIn his weekly clinical update, Daniel Griffin and Vincent Racaniello discuss withdrawal of the ACIP charter published in April 2026, the first council meeting on antibiotic resistant bacteria, the latest developments surrounding hantavirus infections, and the Ebola outbreak in the Congo and Uganda before Dr. Griffin deep dives into the measles outbreak, recent statistics RSV, influenza and SARS-CoV-2 infections, the Wasterwater Scan dashboard, Johns Hopkins measles tracker, transmission of SARS-CoV-2 through the air including ventilation systems, how to access and pay for Paxlovid, where to go for answers about long COVID-19, early use of antiviral drugs for COVID-19 patients and contacting your federal government representative to stop the assault on science and biomedical research. Click arrow to play Download TWiV 1324 (28 MB .mp3, 46 min) Subscribe (free): Apple Podcasts , RSS , email Become a&nbsp; patron &nbsp;of&nbsp;TWiV! Links for this episode US health department withdraws vaccine advisory panel charter (Reuters) Meeting of the Presidential Advisory Council on Combating Antibiotic-Resistant Bacteria (Federal Register) Andes Hantavirus Outbreak on a Cruise Ship , 2026 (NEJM) \u201cSuper-Spreaders\u201d and Person-to-Person Transmission of Andes Virus in Argentina (NEJM) Person-to-Person Transmission of Andes Virus in Hantavirus Pulmonary Syndrome, Argentina, 2014 (CDC: Emerging Infectious Diseases) Hantavirus on board with Prof. VincentRacaniello (microbeTV) Hantavirus Doesn\u2019t",
       "url": "https://www.microbe.tv/twiv/twiv-1324/",
       "start_datetime": "2026-05-23T04:55:04",
+      "end_datetime": null,
+      "timezone": "UTC",
+      "location": "Podcast",
+      "organizer": "This Week in Virology",
+      "source": "twiv_podcast",
+      "category": "Podcast - TWiV",
+      "tags": [],
+      "access_restriction": "Public",
+      "registration_url": null,
+      "recording_url": null
+    },
+    {
+      "id": "8d83538ab8cc1f18",
+      "title": "TWiV 1325: Sticky flu with Hannah Rowe",
+      "description": "[Podcast: This Week in Virology]\n\nVincent travels to Oregon State University in Corvallis to meet up with Hannah Rowe to talk about her career and her work demonstrating how the interaction of influenza A virus and Streptococcus pneumonia influences transmission. Hosts: Vincent Racaniello Guest: Hannah Rowe Click arrow to play Download TWiV 1325 (34 MB .mp3, 57 min) Subscribe (free): Apple Podcasts , RSS , email Become a&nbsp; patron &nbsp;of&nbsp;TWiV! Links for this episode Support science education at MicrobeTV Positions in Rosenfeld Lab (email) Respiratory bacteria stabilize influenza A virus (mSystems) S. pneumoniae and influenza A virus binding (mSphere) Bacterial alteration of redox stressors and stability of influenza A virus (mSphere) Timestamps by&nbsp; Jolene Ramsey. Thanks! Intro music is by Ronald Jenkees Send your virology questions and comments to twiv@microbe.tv Content in this podcast should not be construed as medical advice. The post TWiV 1325: Sticky flu with Hannah Rowe first appeared on This Week in Virology .",
+      "url": "https://www.microbe.tv/twiv/twiv-1325/",
+      "start_datetime": "2026-05-24T04:00:00",
       "end_datetime": null,
       "timezone": "UTC",
       "location": "Podcast",
