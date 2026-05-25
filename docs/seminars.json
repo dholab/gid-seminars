@@ -2,12 +2,12 @@
   "metadata": {
     "title": "GID Seminars Feed",
     "description": "Aggregated seminars and webinars for Global Infectious Disease research",
-    "generated_at": "2026-05-24T07:07:27.887521Z",
+    "generated_at": "2026-05-25T07:35:17.462669Z",
     "time_window": {
       "days_behind": 30,
       "days_ahead": 30
     },
-    "total_events": 34,
+    "total_events": 33,
     "sources": [
       "astmh_events",
       "avac_events",
@@ -57,23 +57,6 @@
     ]
   },
   "events": [
-    {
-      "id": "c25fe15b135d458c",
-      "title": "TWiV 1316: Clinical update with Dr. Daniel Griffin",
-      "description": "[Podcast: This Week in Virology]\n\nIn his weekly clinical update, Dr. Griffin and Vincent Racaniello are distressed by RFK Jr\u2019s testimony in front of Congress, surges in rotavirus infections and the staggering number of people who believe in unproven claims about vaccines and science, before Dr. Griffin then deep dives into the measles outbreak, recent statistics RSV, influenza and SARS-CoV-2 infections, the Wasterwater Scan dashboard, Johns Hopkins measles tracker, the fatal consequences of measles infection, prevalence of influenza and other respiratory infections in dead people, PEMGARDA authorized use for certain immunocompromised individuals where to find PEMGARDA, how to access and pay for Paxlovid, results from a human RSV challenge study, where to go for answers about long COVID-19, negatively associated school-related outcomes in children and adolescents with long COVID, and contacting your federal government representative to stop the assault on science and biomedical research. Click arrow to play Download&nbsp; TWiV 1316 (32 MB .mp3, 53 min) Subscribe (free):&nbsp; Apple Podcasts , RSS ,&nbsp; email Become a&nbsp; patron &nbsp;of&nbsp;TWiV! Links for this episode Kennedy denies being sidelined by the White House (Politico) 3:35 Kennedy continued to back away from his criticism of the measles vaccine (NY Times) 6:21 Rotavirus surges after ACIP removes recommendation for vaccine (Discovermagazine) 7:26 \u2018Staggering\u2019 number of people believe unproven claims about vaccines, raw milk and more (Nature) 8:1",
-      "url": "https://www.microbe.tv/twiv/twiv-1316/",
-      "start_datetime": "2026-04-25T04:00:00",
-      "end_datetime": null,
-      "timezone": "UTC",
-      "location": "Podcast",
-      "organizer": "This Week in Virology",
-      "source": "twiv_podcast",
-      "category": "Podcast - TWiV",
-      "tags": [],
-      "access_restriction": "Public",
-      "registration_url": null,
-      "recording_url": null
-    },
     {
       "id": "f8206380d0f07d29",
       "title": "TWiV 1317: Dead shrimp walking",
