@@ -2,7 +2,7 @@
   "metadata": {
     "title": "GID Seminars Feed",
     "description": "Aggregated seminars and webinars for Global Infectious Disease research",
-    "generated_at": "2026-05-25T07:35:17.462669Z",
+    "generated_at": "2026-05-26T07:13:22.383650Z",
     "time_window": {
       "days_behind": 30,
       "days_ahead": 30
@@ -57,23 +57,6 @@
     ]
   },
   "events": [
-    {
-      "id": "f8206380d0f07d29",
-      "title": "TWiV 1317: Dead shrimp walking",
-      "description": "[Podcast: This Week in Virology]\n\nTWiV explains a study showing that viral DNA load in blood and saliva varied markedly with age, time of day season, sex, and depended on dozens of genetic loci, and identification of an emerging human eye disease associated with aquatic virus zoonotic infection. Hosts:&nbsp; Vincent Racaniello , Alan Dove , Rich Condit , and Brianne Barker Click arrow to play Download TWiV 1317 (61 MB .mp3, 102 min) Subscribe (free):&nbsp; Apple Podcasts ,&nbsp; RSS ,&nbsp; email Become a&nbsp; patron &nbsp;of&nbsp;TWiV! Links for this episode Support science education at MicrobeTV 2:08 Positions in Rosenfeld Lab (email) 2:17 DNA virome varies with human genes and environments (Nature) 12:07 Emerging eye infection from aquatic virus (Nat Micro) 47:33 Letters read on TWiV 1317 1:22:20 Timestamps by&nbsp; Jolene Ramsey. Thanks! Weekly Picks 1:26:51 Brianne &#8211; Wayback Machine: Internet Archive Rich &#8211; Grandparents for Vaccines Alan &#8211; On Writing by Stephen King Vincent &#8211; The Real Reason The Soviets Lost The Space Race! Listener Picks Ginny &#8211; Dr. Cal Your Science Pal Intro music is by&nbsp; Ronald Jenkees Send your virology questions and comments to twiv@microbe.tv Content in this podcast should not be construed as medical advice. The post TWiV 1317: Dead shrimp walking first appeared on This Week in Virology .",
-      "url": "https://www.microbe.tv/twiv/twiv-1317/",
-      "start_datetime": "2026-04-26T04:00:00",
-      "end_datetime": null,
-      "timezone": "UTC",
-      "location": "Podcast",
-      "organizer": "This Week in Virology",
-      "source": "twiv_podcast",
-      "category": "Podcast - TWiV",
-      "tags": [],
-      "access_restriction": "Public",
-      "registration_url": null,
-      "recording_url": null
-    },
     {
       "id": "c183d9c693db01ca",
       "title": "ReSViNET Webinar part of the CLARITY Project",
@@ -417,7 +400,7 @@
     {
       "id": "42d6767096799585",
       "title": "TWiV 1324: Clinical update with Dr. Daniel Griffin",
-      "description": "[Podcast: This Week in Virology]\n\nIn his weekly clinical update, Daniel Griffin and Vincent Racaniello discuss withdrawal of the ACIP charter published in April 2026, the first council meeting on antibiotic resistant bacteria, the latest developments surrounding hantavirus infections, and the Ebola outbreak in the Congo and Uganda before Dr. Griffin deep dives into the measles outbreak, recent statistics RSV, influenza and SARS-CoV-2 infections, the Wasterwater Scan dashboard, Johns Hopkins measles tracker, transmission of SARS-CoV-2 through the air including ventilation systems, how to access and pay for Paxlovid, where to go for answers about long COVID-19, early use of antiviral drugs for COVID-19 patients and contacting your federal government representative to stop the assault on science and biomedical research. Click arrow to play Download TWiV 1324 (28 MB .mp3, 46 min) Subscribe (free): Apple Podcasts , RSS , email Become a&nbsp; patron &nbsp;of&nbsp;TWiV! Links for this episode US health department withdraws vaccine advisory panel charter (Reuters) Meeting of the Presidential Advisory Council on Combating Antibiotic-Resistant Bacteria (Federal Register) Andes Hantavirus Outbreak on a Cruise Ship , 2026 (NEJM) \u201cSuper-Spreaders\u201d and Person-to-Person Transmission of Andes Virus in Argentina (NEJM) Person-to-Person Transmission of Andes Virus in Hantavirus Pulmonary Syndrome, Argentina, 2014 (CDC: Emerging Infectious Diseases) Hantavirus on board with Prof. VincentRacaniello (microbeTV) Hantavirus Doesn\u2019t",
+      "description": "[Podcast: This Week in Virology]\n\nIn his weekly clinical update, Daniel Griffin and Vincent Racaniello discuss withdrawal of the ACIP charter published in April 2026, the first council meeting on antibiotic resistant bacteria, the latest developments surrounding hantavirus infections, and the Ebola outbreak in the Congo and Uganda before Dr. Griffin deep dives into the measles outbreak, recent statistics RSV, influenza and SARS-CoV-2 infections, the Wasterwater Scan dashboard, Johns Hopkins measles tracker, transmission of SARS-CoV-2 through the air including ventilation systems, how to access and pay for Paxlovid, where to go for answers about long COVID-19, early use of antiviral drugs for COVID-19 patients and contacting your federal government representative to stop the assault on science and biomedical research. Click arrow to play Download&nbsp; TWiV 1324 (28 MB .mp3, 46 min) Subscribe (free):&nbsp; Apple Podcasts , RSS ,&nbsp; email Become a&nbsp; patron &nbsp;of&nbsp;TWiV! Links for this episode US health department withdraws vaccine advisory panel charter (Reuters) 2:36 Meeting of the Presidential Advisory Council on Combating Antibiotic-Resistant Bacteria (Federal Register) 3:28 Andes Hantavirus Outbreak on a Cruise Ship , 2026 (NEJM) \u201cSuper-Spreaders\u201d and Person-to-Person Transmission of Andes Virus in Argentina (NEJM) 11:16 Person-to-Person Transmission of Andes Virus in Hantavirus Pulmonary Syndrome, Argentina, 2014 (CDC: Emerging Infectious Diseases) Hantavirus on board with Prof. Vincent Racani",
       "url": "https://www.microbe.tv/twiv/twiv-1324/",
       "start_datetime": "2026-05-23T04:55:04",
       "end_datetime": null,
@@ -434,7 +417,7 @@
     {
       "id": "8d83538ab8cc1f18",
       "title": "TWiV 1325: Sticky flu with Hannah Rowe",
-      "description": "[Podcast: This Week in Virology]\n\nVincent travels to Oregon State University in Corvallis to meet up with Hannah Rowe to talk about her career and her work demonstrating how the interaction of influenza A virus and Streptococcus pneumonia influences transmission. Hosts: Vincent Racaniello Guest: Hannah Rowe Click arrow to play Download TWiV 1325 (34 MB .mp3, 57 min) Subscribe (free): Apple Podcasts , RSS , email Become a&nbsp; patron &nbsp;of&nbsp;TWiV! Links for this episode Support science education at MicrobeTV Positions in Rosenfeld Lab (email) Respiratory bacteria stabilize influenza A virus (mSystems) S. pneumoniae and influenza A virus binding (mSphere) Bacterial alteration of redox stressors and stability of influenza A virus (mSphere) Timestamps by&nbsp; Jolene Ramsey. Thanks! Intro music is by Ronald Jenkees Send your virology questions and comments to twiv@microbe.tv Content in this podcast should not be construed as medical advice. The post TWiV 1325: Sticky flu with Hannah Rowe first appeared on This Week in Virology .",
+      "description": "[Podcast: This Week in Virology]\n\nVincent travels to Oregon State University in Corvallis to meet up with Hannah Rowe to talk about her career and her work demonstrating how the interaction of influenza A virus and Streptococcus pneumonia influences transmission. Hosts:&nbsp; Vincent Racaniello Guest: Hannah Rowe Click arrow to play Download TWiV 1325 (34 MB .mp3, 57 min) Subscribe (free):&nbsp; Apple Podcasts ,&nbsp; RSS ,&nbsp; email Become a&nbsp; patron &nbsp;of&nbsp;TWiV! Links for this episode Support science education at MicrobeTV Positions in Rosenfeld Lab (email) Respiratory bacteria stabilize influenza A virus (mSystems) 13:08 S. pneumoniae and influenza A virus binding (mSphere) 8:40, 12:56 Bacterial alteration of redox stressors and stability of influenza A virus (mSphere) 37:40 Timestamps by&nbsp; Jolene Ramsey. Thanks! Intro music is by&nbsp; Ronald Jenkees Send your virology questions and comments to twiv@microbe.tv Content in this podcast should not be construed as medical advice. The post TWiV 1325: Sticky flu with Hannah Rowe first appeared on This Week in Virology .",
       "url": "https://www.microbe.tv/twiv/twiv-1325/",
       "start_datetime": "2026-05-24T04:00:00",
       "end_datetime": null,
@@ -613,6 +596,23 @@
       "organizer": "World Health Organization",
       "source": "who_events",
       "category": "WHO",
+      "tags": [],
+      "access_restriction": "Public",
+      "registration_url": null,
+      "recording_url": null
+    },
+    {
+      "id": "d8b675af9b080b83",
+      "title": "APACI Respiratory Diseases Conference 2026",
+      "description": "25 June 2026 - 8:30 AM Hong Kong Time (UTC+8) - InterContinental Grand Stanford Hong Kong Hotel (In-person & Online)",
+      "url": "https://www.isrv.global/events-calendar/apaci-respiratory-diseases-conference/",
+      "start_datetime": "2026-06-25T00:00:00",
+      "end_datetime": null,
+      "timezone": "UTC",
+      "location": "Online",
+      "organizer": "ISRV",
+      "source": "isrv_events",
+      "category": "ISRV",
       "tags": [],
       "access_restriction": "Public",
       "registration_url": null,
