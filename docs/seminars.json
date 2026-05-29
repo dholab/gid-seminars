@@ -2,12 +2,12 @@
   "metadata": {
     "title": "GID Seminars Feed",
     "description": "Aggregated seminars and webinars for Global Infectious Disease research",
-    "generated_at": "2026-05-28T07:21:24.295502Z",
+    "generated_at": "2026-05-29T07:21:43.314338Z",
     "time_window": {
       "days_behind": 30,
       "days_ahead": 30
     },
-    "total_events": 34,
+    "total_events": 33,
     "sources": [
       "astmh_events",
       "avac_events",
@@ -57,23 +57,6 @@
     ]
   },
   "events": [
-    {
-      "id": "c183d9c693db01ca",
-      "title": "ReSViNET Webinar part of the CLARITY Project",
-      "description": "Hosted by Leyla Kragten and featured guest speaker Erik Abner",
-      "url": "https://www.isrv.global/events-calendar/resvinet-webinar-part-of-the-clarity-project/",
-      "start_datetime": "2026-04-28T16:00:00",
-      "end_datetime": null,
-      "timezone": "UTC",
-      "location": "Online",
-      "organizer": "ISRV",
-      "source": "isrv_events",
-      "category": "ISRV",
-      "tags": [],
-      "access_restriction": "Public",
-      "registration_url": null,
-      "recording_url": null
-    },
     {
       "id": "2e2de5b3fc9f4266",
       "title": "ESS Oral Defense - Matthew Worden - Y2E2 299 @ 2:30 PM",
@@ -432,23 +415,6 @@
       "recording_url": null
     },
     {
-      "id": "8f4dac35c1d31bec",
-      "title": "Planting Seeds in These Times: Stories of Resistance and Possibility for the HIV Movement",
-      "description": null,
-      "url": "https://avac.org/event/planting-seeds-in-these-times/",
-      "start_datetime": "2026-05-28T00:00:00",
-      "end_datetime": null,
-      "timezone": "America/New_York",
-      "location": "Online",
-      "organizer": "AVAC",
-      "source": "avac_events",
-      "category": "AVAC",
-      "tags": [],
-      "access_restriction": "Public",
-      "registration_url": null,
-      "recording_url": null
-    },
-    {
       "id": "616265eaa9d6b901",
       "title": "ESS Oral Defense - June Choi - June 1 - Shriram 262 @ 9:30 AM",
       "description": "Stanford University\n\n*** Ph.D. Thesis/ Oral Defense ***\n\n \n\nClimate Finacne in a Changing Climate: Isurance, Sovereign Debt, and\n\nthe Cost of Capital\n\n \n\nJune Choi\n\nMonday, June 1, 2026, 9:30 AM\n\nShriram 262\n\nDepartment of Earth System Science\n\nAdvisor: Dr. Noah Diffenbaugh and Dr. Marshall Burke\n\nAddressing climate change, through both mitigation and adaptation, is anticipated to require global investments of more than $6 trillion annually by 2035. However, many countries face significant barriers to accessing the finance needed for these investments, including low or absent credit ratings, large debt burdens, and high borrowing costs. This dissertation investigates the impacts of extreme weather and warming temperatures on human and economic outcomes at multiple scales, with the aim of informing policy decisions about the equitable allocation of climate finance, both within and across countries.\n\nIn Chapter 1, I investigate flood insurance adoption following extreme flood events in the United States and conclude that relying on the autonomous adaptation of households to changing flood exposure will be insufficient to close the financial protection gap. However, most countries do not have balance sheets large enough to sustain publicly funded insurance programs like those in the United States. Therefore, in Chapter 2, I investigate climate impacts at the global scale, focusing on how tropical cyclones (TCs) and warming temperatures have impacted sovereign debt burdens, and how these effects, in turn, affect countries\u2019 credit ratings and borrowing costs today. I find that, on average across TC-exposed countries, debt ratios are 25% higher due to TCs, while GDP levels are 10% lower due to the combined impacts of TCs and warming over the period 1980\u20132019. These persistent macroeconomic impacts translate into higher credit risks and borrowing costs for the hottest countries, placing greater financial constraints on countries that are least responsible for climate chang",
@@ -517,8 +483,25 @@
       "recording_url": null
     },
     {
+      "id": "41279f4901656478",
+      "title": "WEBINAR | From Hantavirus to Ebola: How Changing Environments Are Driving Disease",
+      "description": "In this webinar hosted by the Stanford Center for Human and Planetary Health and Center for Innovation in Global Health, Stanford experts will examine how climate change, land use alterations, ecological disruption, and global interconnectedness are reshaping infectious disease risks and response challenges worldwide.\n\nFrom hantavirus outbreaks to the ongoing Ebola emergency in Central and East Africa, emerging infectious diseases are underscoring the growing complexity of responding to health threats in an increasingly interconnected and rapidly changing world. Drawing on perspectives from infectious disease, ecology, environmental change, and global health, this panel discussion will explore how drought, extreme rainfall, biodiversity loss, habitat encroachment, and shifting species interactions can influence disease dynamics and increase opportunities for zoonotic spillover. Speakers will also discuss the broader public health implications of fragmented international cooperation, underinvestment in preparedness systems, and accelerating global connectivity. Through recent case studies including hantavirus and Ebola, the conversation will examine what emerging infectious diseases reveal about the interconnectedness of climate, ecosystems, and human health \u2013 and the importance of interdisciplinary, cross-border approaches to prevention, resilience, and response.\n\nSpeakers include: Michele Barry (Director of the Stanford Center for Innovation in Global Health; Senior Associate Dean for Global Health), Steve Luby (Faculty Director of the Stanford Center for Human and Planetary Health), Abraar Karan (Instructor & Physician, Stanford Department of Infectious Diseases), Tracey Goldstein (Director of the Colorado State University One Health Institute), and Rodolfo Dirzo (Stanford Bing Professor in Environmental Science, Doerr School of Sustainability). \n\nRegister here: https://shorturl.at/DwVVY",
+      "url": "https://events.stanford.edu/event/from-hantavirus-to-ebola-how-changing-environments-are-driving-disease",
+      "start_datetime": "2026-06-05T18:00:00",
+      "end_datetime": "2026-06-05T19:00:00",
+      "timezone": "America/Los_Angeles",
+      "location": "Online",
+      "organizer": null,
+      "source": "stanford_virtual",
+      "category": "Lecture/Presentation/Talk",
+      "tags": [],
+      "access_restriction": "Public",
+      "registration_url": null,
+      "recording_url": null
+    },
+    {
       "id": "5503a1419510bb55",
-      "title": "WHO Health Emergencies EPI-WIN webinar: Ebola Bundibugyo Virus Disease: what we know",
+      "title": "WHO Health Emergencies EPI-WIN webinar: Ebola Bundibugyo virus disease: what we know",
       "description": "An outbreak of Ebola virus disease caused by the Bundibugyo virus was declared on 15 May 2026 in the Democratic Republic of the Congo (DRC), with cross-border spread to Uganda. The World Health Organization has classified the event as a Public Health Emergency of International Concern due to its severity and potential for international spread. This webinar will explain why this outbreak is significant, WHO recommendations and the rationale behind them.",
       "url": "https://www.who.int/news-room/events/detail/2026/06/09/default-calendar/who-health-emergencies-epi-win-webinar-ebola-bundibugyo-virus-disease-what-we-know",
       "start_datetime": "2026-06-09T11:00:00",
