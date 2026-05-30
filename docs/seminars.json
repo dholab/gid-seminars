@@ -2,12 +2,12 @@
   "metadata": {
     "title": "GID Seminars Feed",
     "description": "Aggregated seminars and webinars for Global Infectious Disease research",
-    "generated_at": "2026-05-29T07:21:43.314338Z",
+    "generated_at": "2026-05-30T07:01:37.728104Z",
     "time_window": {
       "days_behind": 30,
       "days_ahead": 30
     },
-    "total_events": 33,
+    "total_events": 35,
     "sources": [
       "astmh_events",
       "avac_events",
@@ -415,6 +415,23 @@
       "recording_url": null
     },
     {
+      "id": "caaf5fd0e8ce29b5",
+      "title": "TWiV 1326: Clinical update with Dr. Daniel Griffin",
+      "description": "[Podcast: This Week in Virology]\n\nIn his weekly clinical update, Daniel Griffin and Vincent Racaniello comment on incidences of locally transmitted malaria in the US, mpox diagnostics, the latest developments surrounding hantavirus infections, and the Ebola outbreak in the Congo and Uganda including vaccine candidates before Dr. Griffin deep dives into the measles outbreak, recent statistics RSV, influenza and SARS-CoV-2 infections, the Wasterwater Scan dashboard, Johns Hopkins measles tracker, the measles outbreak in Texas in 2025, how to access and pay for Paxlovid, where to go for answers about long COVID-19, casual association of auto-antibodies and COVID complications and contacting your federal government representative to stop the assault on science and biomedical research. Click arrow to play Download TWiV 1326 (23 MB .mp3, 39 min) Subscribe (free): Apple Podcasts , RSS , email Become a&nbsp; patron &nbsp;of&nbsp;TWiV! Links for this episode CDC Operational Guidance for Investigating Locally Acquired Mosquito-Transmitted Malaria \u2014 United States, 2026 (CDC: MMWR) Performance of five mpox antigen-based rapid diagnostic tests tested on lesion swabs from patients with suspected mpox from the Kinshasa province of DR Congo: a diagnostic accuracy study (LANCET: Infectious Diseases) Hantavirus dashboard (Hantavirus.up) Andes Hantavirus Outbreak on a Cruise Ship , 2026 (NEJM) \u201cSuper-Spreaders\u201d and Person-to-Person Transmission of Andes Virus in Argentina (NEJM) Person-to-Person Transmission of Andes Virus in H",
+      "url": "https://www.microbe.tv/twiv/twiv-1326/",
+      "start_datetime": "2026-05-30T04:00:00",
+      "end_datetime": null,
+      "timezone": "UTC",
+      "location": "Podcast",
+      "organizer": "This Week in Virology",
+      "source": "twiv_podcast",
+      "category": "Podcast - TWiV",
+      "tags": [],
+      "access_restriction": "Public",
+      "registration_url": null,
+      "recording_url": null
+    },
+    {
       "id": "616265eaa9d6b901",
       "title": "ESS Oral Defense - June Choi - June 1 - Shriram 262 @ 9:30 AM",
       "description": "Stanford University\n\n*** Ph.D. Thesis/ Oral Defense ***\n\n \n\nClimate Finacne in a Changing Climate: Isurance, Sovereign Debt, and\n\nthe Cost of Capital\n\n \n\nJune Choi\n\nMonday, June 1, 2026, 9:30 AM\n\nShriram 262\n\nDepartment of Earth System Science\n\nAdvisor: Dr. Noah Diffenbaugh and Dr. Marshall Burke\n\nAddressing climate change, through both mitigation and adaptation, is anticipated to require global investments of more than $6 trillion annually by 2035. However, many countries face significant barriers to accessing the finance needed for these investments, including low or absent credit ratings, large debt burdens, and high borrowing costs. This dissertation investigates the impacts of extreme weather and warming temperatures on human and economic outcomes at multiple scales, with the aim of informing policy decisions about the equitable allocation of climate finance, both within and across countries.\n\nIn Chapter 1, I investigate flood insurance adoption following extreme flood events in the United States and conclude that relying on the autonomous adaptation of households to changing flood exposure will be insufficient to close the financial protection gap. However, most countries do not have balance sheets large enough to sustain publicly funded insurance programs like those in the United States. Therefore, in Chapter 2, I investigate climate impacts at the global scale, focusing on how tropical cyclones (TCs) and warming temperatures have impacted sovereign debt burdens, and how these effects, in turn, affect countries\u2019 credit ratings and borrowing costs today. I find that, on average across TC-exposed countries, debt ratios are 25% higher due to TCs, while GDP levels are 10% lower due to the combined impacts of TCs and warming over the period 1980\u20132019. These persistent macroeconomic impacts translate into higher credit risks and borrowing costs for the hottest countries, placing greater financial constraints on countries that are least responsible for climate chang",
@@ -426,6 +443,23 @@
       "organizer": null,
       "source": "stanford_virtual",
       "category": "PhD Defense",
+      "tags": [],
+      "access_restriction": "Public",
+      "registration_url": null,
+      "recording_url": null
+    },
+    {
+      "id": "9e927224cbd5642b",
+      "title": "An integrated chemical-biological wastewater treatment process using green oxidation and simultaneous nitrification-denitrification (SND) bacteria",
+      "description": "Special seminar by Dr. Yang Kun-Lin, National University of Singapore.\n\n \n\nAdvanced oxidation processes (AOPs) have been utilized for industrial wastewater treatment, but their high cost limits their application to high-strength wastewater. In addition, no biological treatment processes are currently available for high-strength wastewater due to its high toxicity. Recently, we demonstrated an integrated chemical-biological approach that combines oxidative oligomerization with a simultaneous nitrification-denitrification (SND) process to treat high-strength aniline wastewater, achieving nearly 100% removal efficiency. The process is also highly efficient and cost effective. In the first step, aniline is partially oxidized using hydrogen peroxide (H\u2082O\u2082) in the presence of a green catalyst, iron tetra amido macrocyclic ligand (Fe-TAML). This reaction produces insoluble aniline oligomers as well as soluble inorganic nitrogen species such as ammonium (NH\u2084\u207a) and nitrate (NO\u2083\u207b). Microscopic analysis shows that the insoluble aniline oligomer comprises of colloidal particles averaging 890 nm in size. They form a sticky precipitate layer which can be easily separated by decantation. The remaining nitrogen species are subsequently treated biologically using Thauera sp. strain SND5. Before inoculation, the solution contained 28.5 mg/L NH\u2084\u207a and 40.2 mg/L NO\u2083\u207b. After 48 hours of incubation, these concentrations decreased to 1.6 mg/L and 3.4 mg/L, respectively. After further optimization, we demonstrated this process for the treatment of real high-strength industrial wastewater with great success. This integrated chemical-biological process is environmentally friendly and presents a promising solution for the treatment of high-strength wastewater.",
+      "url": "https://events.stanford.edu/event/an-integrated-chemical-biological-wastewater-treatment-process-using-green-oxidation-and-simultaneous-nitrification-denitrification-snd-bacteria",
+      "start_datetime": "2026-06-01T18:30:00",
+      "end_datetime": "2026-06-01T19:20:00",
+      "timezone": "America/Los_Angeles",
+      "location": "Y2E2 Building, 111",
+      "organizer": null,
+      "source": "stanford_virtual",
+      "category": "Class/Seminar",
       "tags": [],
       "access_restriction": "Public",
       "registration_url": null,
