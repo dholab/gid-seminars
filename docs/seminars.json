@@ -2,12 +2,12 @@
   "metadata": {
     "title": "GID Seminars Feed",
     "description": "Aggregated seminars and webinars for Global Infectious Disease research",
-    "generated_at": "2026-05-30T07:01:37.728104Z",
+    "generated_at": "2026-05-31T07:19:40.910666Z",
     "time_window": {
       "days_behind": 30,
       "days_ahead": 30
     },
-    "total_events": 35,
+    "total_events": 36,
     "sources": [
       "astmh_events",
       "avac_events",
@@ -420,6 +420,23 @@
       "description": "[Podcast: This Week in Virology]\n\nIn his weekly clinical update, Daniel Griffin and Vincent Racaniello comment on incidences of locally transmitted malaria in the US, mpox diagnostics, the latest developments surrounding hantavirus infections, and the Ebola outbreak in the Congo and Uganda including vaccine candidates before Dr. Griffin deep dives into the measles outbreak, recent statistics RSV, influenza and SARS-CoV-2 infections, the Wasterwater Scan dashboard, Johns Hopkins measles tracker, the measles outbreak in Texas in 2025, how to access and pay for Paxlovid, where to go for answers about long COVID-19, casual association of auto-antibodies and COVID complications and contacting your federal government representative to stop the assault on science and biomedical research. Click arrow to play Download TWiV 1326 (23 MB .mp3, 39 min) Subscribe (free): Apple Podcasts , RSS , email Become a&nbsp; patron &nbsp;of&nbsp;TWiV! Links for this episode CDC Operational Guidance for Investigating Locally Acquired Mosquito-Transmitted Malaria \u2014 United States, 2026 (CDC: MMWR) Performance of five mpox antigen-based rapid diagnostic tests tested on lesion swabs from patients with suspected mpox from the Kinshasa province of DR Congo: a diagnostic accuracy study (LANCET: Infectious Diseases) Hantavirus dashboard (Hantavirus.up) Andes Hantavirus Outbreak on a Cruise Ship , 2026 (NEJM) \u201cSuper-Spreaders\u201d and Person-to-Person Transmission of Andes Virus in Argentina (NEJM) Person-to-Person Transmission of Andes Virus in H",
       "url": "https://www.microbe.tv/twiv/twiv-1326/",
       "start_datetime": "2026-05-30T04:00:00",
+      "end_datetime": null,
+      "timezone": "UTC",
+      "location": "Podcast",
+      "organizer": "This Week in Virology",
+      "source": "twiv_podcast",
+      "category": "Podcast - TWiV",
+      "tags": [],
+      "access_restriction": "Public",
+      "registration_url": null,
+      "recording_url": null
+    },
+    {
+      "id": "40ef25c0e4bb1540",
+      "title": "TWiV 1327: Influenza viruses in the MIST",
+      "description": "[Podcast: This Week in Virology]\n\nTWiV explains research on human influenza virus transmission that reveals heterogeneous expulsion of infectious virus into air, and how gut bacteriophages dictate inflammation heterogeneity through tuning the phage-bacteria-sphingosine-intestine axis in Crohn\u2019s disease. Hosts:&nbsp; Vincent Racaniello , Rich Condit , Brianne Barker , and Jolene Ra m sey Click arrow to play Download TWiV 1327 (72 MB .mp3, 120 min) Subscribe (free): Apple Podcasts , RSS , email Become a&nbsp; patron &nbsp;of&nbsp;TWiV! Links for this episode Support science education at MicrobeTV Positions in Rosenfeld Lab (email) NIH ousts infectious-disease leaders (Nature) Measles deaths in Bangladesh (npr) Russel Vought is going to destroy American science (Elizabeth Ginexi) Heterogeneous expulsion of infectious influenza virus into air (Cell) Gut phages and Crohn&#8217;s disease (Cell Host Microbe) MIST device (Emory) Letters read on TWiV 1327 Timestamps by&nbsp; Jolene Ramsey. Thanks! Picks of the Week Brianne &#8211; The Perfect Bee Language Rich &#8211; Hubble&#8217;s Messier Catalog Jolene &#8211; A different kind of power &#8211; Jacinda Ardern Vincent &#8211; Albert Sabin by Karen Torghele Listener Picks Anthony &#8211; Dr. Dakotah Tyler Marcus &#8211; Apollo Intro music is by&nbsp; Ronald Jenkees Send your virology questions and comments to twiv@microbe.tv Content in this podcast should not be construed as medical advice. The post TWiV 1327: Influenza viruses in the MIST first appeared on This Week ",
+      "url": "https://www.microbe.tv/twiv/twiv-1327/",
+      "start_datetime": "2026-05-31T04:00:00",
       "end_datetime": null,
       "timezone": "UTC",
       "location": "Podcast",
