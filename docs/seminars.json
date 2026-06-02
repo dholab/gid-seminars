@@ -2,7 +2,7 @@
   "metadata": {
     "title": "GID Seminars Feed",
     "description": "Aggregated seminars and webinars for Global Infectious Disease research",
-    "generated_at": "2026-06-01T07:47:08.146246Z",
+    "generated_at": "2026-06-02T07:39:39.347481Z",
     "time_window": {
       "days_behind": 30,
       "days_ahead": 30
@@ -57,23 +57,6 @@
     ]
   },
   "events": [
-    {
-      "id": "b114766e9e78e857",
-      "title": "TWiV 1319: An earful of SARS-CoV-2",
-      "description": "[Podcast: This Week in Virology]\n\nTWiV explains the emergence of vaccine-derived poliovirus strains from the novel oral polio vaccine in the Central African Republic, and the infection of spiral ganglion neurons in the inner ear by SARS-CoV-2, which may explain hearing loss in humans. Hosts:&nbsp; Vincent Racaniello , Alan Dove , and Kathy Spindler Click arrow to play Download TWiV 1319 (62MB .mp3, 104 min) Subscribe (free):&nbsp; Apple Podcasts ,&nbsp; RSS ,&nbsp; email Become a&nbsp; patron &nbsp;of&nbsp;TWiV! Links for this episode Support science education at MicrobeTV 4:58 Positions in Rosenfeld Lab (email) 5:13 Bernard Roizman dies (U Chicago) 7:50 Craig Venter dies (Sci Am) 8:11 Trump fires National Science Board (AAU) 9:46 It was World Vaccine Week (WHO) 10:33 nOPV2 phenotypically reverts via recombination (mBio) 11:58 SARS-CoV-2 infects inner ear (Cell Rep) 36:50 Letters read on TWiV 1319 1:06:58 Timestamps by&nbsp; Jolene Ramsey. Thanks! Weekly Picks 1:28:02 Kathy &#8211; Science of rats and other organisms in the East River Alan &#8211; Chronolog citizen science project Vincent &#8211; Why Do Train Engines Sometimes Face Backwards? Listener Picks Chris &#8211; Consensus: AI for research Intro music is by&nbsp; Ronald Jenkees Send your virology questions and comments to twiv@microbe.tv Content in this podcast should not be construed as medical advice. The post TWiV 1319: An earful of SARS-CoV-2 first appeared on This Week in Virology .",
-      "url": "https://www.microbe.tv/twiv/twiv-1319/",
-      "start_datetime": "2026-05-03T04:00:00",
-      "end_datetime": null,
-      "timezone": "UTC",
-      "location": "Podcast",
-      "organizer": "This Week in Virology",
-      "source": "twiv_podcast",
-      "category": "Podcast - TWiV",
-      "tags": [],
-      "access_restriction": "Public",
-      "registration_url": null,
-      "recording_url": null
-    },
     {
       "id": "ec36d1781e7df8ea",
       "title": "Up close and personal \u2013 respiratory virus transmission in close quarters",
@@ -366,7 +349,7 @@
     {
       "id": "caaf5fd0e8ce29b5",
       "title": "TWiV 1326: Clinical update with Dr. Daniel Griffin",
-      "description": "[Podcast: This Week in Virology]\n\nIn his weekly clinical update, Daniel Griffin and Vincent Racaniello comment on incidences of locally transmitted malaria in the US, mpox diagnostics, the latest developments surrounding hantavirus infections, and the Ebola outbreak in the Congo and Uganda including vaccine candidates before Dr. Griffin deep dives into the measles outbreak, recent statistics RSV, influenza and SARS-CoV-2 infections, the Wasterwater Scan dashboard, Johns Hopkins measles tracker, the measles outbreak in Texas in 2025, how to access and pay for Paxlovid, where to go for answers about long COVID-19, casual association of auto-antibodies and COVID complications and contacting your federal government representative to stop the assault on science and biomedical research. Click arrow to play Download TWiV 1326 (23 MB .mp3, 39 min) Subscribe (free): Apple Podcasts , RSS , email Become a&nbsp; patron &nbsp;of&nbsp;TWiV! Links for this episode CDC Operational Guidance for Investigating Locally Acquired Mosquito-Transmitted Malaria \u2014 United States, 2026 (CDC: MMWR) Performance of five mpox antigen-based rapid diagnostic tests tested on lesion swabs from patients with suspected mpox from the Kinshasa province of DR Congo: a diagnostic accuracy study (LANCET: Infectious Diseases) Hantavirus dashboard (Hantavirus.up) Andes Hantavirus Outbreak on a Cruise Ship , 2026 (NEJM) \u201cSuper-Spreaders\u201d and Person-to-Person Transmission of Andes Virus in Argentina (NEJM) Person-to-Person Transmission of Andes Virus in H",
+      "description": "[Podcast: This Week in Virology]\n\nIn his weekly clinical update, Daniel Griffin and Vincent Racaniello comment on incidences of locally transmitted malaria in the US, mpox diagnostics, the latest developments surrounding hantavirus infections, and the Ebola outbreak in the Congo and Uganda including vaccine candidates before Dr. Griffin deep dives into the measles outbreak, recent statistics RSV, influenza and SARS-CoV-2 infections, the Wasterwater Scan dashboard, Johns Hopkins measles tracker, the measles outbreak in Texas in 2025, how to access and pay for Paxlovid, where to go for answers about long COVID-19, casual association of auto-antibodies and COVID complications and contacting your federal government representative to stop the assault on science and biomedical research. Click arrow to play Download&nbsp; TWiV 1326 (23 MB .mp3, 39 min) Subscribe (free):&nbsp; Apple Podcasts , RSS ,&nbsp; email Become a&nbsp; patron &nbsp;of&nbsp;TWiV! Links for this episode CDC Operational Guidance for Investigating Locally Acquired Mosquito-Transmitted Malaria \u2014 United States, 2026 (CDC: MMWR) 2:20 Performance of five mpox antigen-based rapid diagnostic tests tested on lesion swabs from patients with suspected mpox from the Kinshasa province of DR Congo: a diagnostic accuracy study (LANCET: Infectious Diseases) 4:00 Hantavirus dashboard (Hantavirus.up) 6:41 Andes Hantavirus Outbreak on a Cruise Ship , 2026 (NEJM) \u201cSuper-Spreaders\u201d and Person-to-Person Transmission of Andes Virus in Argentina (NEJM) Person-to-Person",
       "url": "https://www.microbe.tv/twiv/twiv-1326/",
       "start_datetime": "2026-05-30T04:00:00",
       "end_datetime": null,
@@ -383,7 +366,7 @@
     {
       "id": "40ef25c0e4bb1540",
       "title": "TWiV 1327: Influenza viruses in the MIST",
-      "description": "[Podcast: This Week in Virology]\n\nTWiV explains research on human influenza virus transmission that reveals heterogeneous expulsion of infectious virus into air, and how gut bacteriophages dictate inflammation heterogeneity through tuning the phage-bacteria-sphingosine-intestine axis in Crohn\u2019s disease. Hosts:&nbsp; Vincent Racaniello , Rich Condit , Brianne Barker , and Jolene Ra m sey Click arrow to play Download TWiV 1327 (72 MB .mp3, 120 min) Subscribe (free): Apple Podcasts , RSS , email Become a&nbsp; patron &nbsp;of&nbsp;TWiV! Links for this episode Support science education at MicrobeTV Positions in Rosenfeld Lab (email) NIH ousts infectious-disease leaders (Nature) Measles deaths in Bangladesh (npr) Russel Vought is going to destroy American science (Elizabeth Ginexi) Heterogeneous expulsion of infectious influenza virus into air (Cell) Gut phages and Crohn&#8217;s disease (Cell Host Microbe) MIST device (Emory) Letters read on TWiV 1327 Timestamps by&nbsp; Jolene Ramsey. Thanks! Picks of the Week Brianne &#8211; The Perfect Bee Language Rich &#8211; Hubble&#8217;s Messier Catalog Jolene &#8211; A different kind of power &#8211; Jacinda Ardern Vincent &#8211; Albert Sabin by Karen Torghele Listener Picks Anthony &#8211; Dr. Dakotah Tyler Marcus &#8211; Apollo Intro music is by&nbsp; Ronald Jenkees Send your virology questions and comments to twiv@microbe.tv Content in this podcast should not be construed as medical advice. The post TWiV 1327: Influenza viruses in the MIST first appeared on This Week ",
+      "description": "[Podcast: This Week in Virology]\n\nTWiV explains research on human influenza virus transmission that reveals heterogeneous expulsion of infectious virus into air, and how gut bacteriophages dictate inflammation heterogeneity through tuning the phage-bacteria-sphingosine-intestine axis in Crohn\u2019s disease. Hosts:&nbsp; Vincent Racaniello , Rich Condit , Brianne Barker , and Jolene Ra m sey Click arrow to play Download TWiV 1327 (72 MB .mp3, 120 min) Subscribe (free):&nbsp; Apple Podcasts ,&nbsp; RSS ,&nbsp; email Become a&nbsp; patron &nbsp;of&nbsp;TWiV! Links for this episode Support science education at MicrobeTV 3:00 Positions in Rosenfeld Lab (email) 3:15 NIH ousts infectious-disease leaders (Nature) 7:22 Measles deaths in Bangladesh (npr) 9:50 Russel Vought is going to destroy American science (Elizabeth Ginexi) 12:17 Heterogeneous expulsion of infectious influenza virus into air (Cell) 26:02 Gut phages and Crohn&#8217;s disease (Cell Host Microbe) 1:05:56 MIST device (Emory) Letters read on TWiV 1327 1:55:53 Timestamps by&nbsp; Jolene Ramsey. Thanks! Picks of the Week 1:43:30 Brianne &#8211; The Perfect Bee Language Rich &#8211; Hubble&#8217;s Messier Catalog Jolene &#8211; A different kind of power &#8211; Jacinda Ardern Vincent &#8211; Albert Sabin by Karen Torghele Listener Picks Anthony &#8211; Dr. Dakotah Tyler Marcus &#8211; Apollo Intro music is by&nbsp; Ronald Jenkees Send your virology questions and comments to twiv@microbe.tv Content in this podcast should not be construed as medical advice. The ",
       "url": "https://www.microbe.tv/twiv/twiv-1327/",
       "start_datetime": "2026-05-31T04:00:00",
       "end_datetime": null,
@@ -433,7 +416,7 @@
     },
     {
       "id": "a0e8262e8f0d81f3",
-      "title": "Management of Cardiovascular Disease in People With HIV: Insights From the Latest Clinical Data",
+      "title": "HIV and Cardiovascular Disease: Lipids, Inflammation, and More \u2014 2026 Update",
       "description": null,
       "url": "https://www.iasusa.org/events/webinar-2026-hsue/",
       "start_datetime": "2026-06-03T11:00:00",
@@ -455,6 +438,23 @@
       "url": "https://www.who.int/news-room/events/detail/2026/06/03/default-calendar/who-health-emergencies-epi-win-webinar-detect-monitor-respond-practical-innovations-in-cholera-surveillance",
       "start_datetime": "2026-06-03T11:00:00",
       "end_datetime": "2026-06-03T12:00:00",
+      "timezone": "UTC",
+      "location": "Online/Geneva",
+      "organizer": "World Health Organization",
+      "source": "who_events",
+      "category": "WHO",
+      "tags": [],
+      "access_restriction": "Public",
+      "registration_url": null,
+      "recording_url": null
+    },
+    {
+      "id": "287098403a639372",
+      "title": "WHO Health Emergencies EPI-WIN webinar: Hantavirus in focus III: reflections from the IHR Border Health and Points of Entry perspective",
+      "description": "The complex multi-country response to the hantavirus outbreak linked to cruise ship travel is an unprecedented test of the global border health system. This EPI\u2011WIN webinar will provide an opportunity to hear from key border health stakeholders on their involvement in and initial reflections about this particular multi-country response, as well as their routine collaborative work for the management of public health events across borders, at points of entry, and onboard conveyances.",
+      "url": "https://www.who.int/news-room/events/detail/2026/06/04/default-calendar/who-health-emergencies-epi-win-webinar--hantavirus-in-focus-iiireflections-from-a-border-health-and-point-of-entry-perspective",
+      "start_datetime": "2026-06-04T11:00:00",
+      "end_datetime": "2026-06-04T12:00:00",
       "timezone": "UTC",
       "location": "Online/Geneva",
       "organizer": "World Health Organization",
