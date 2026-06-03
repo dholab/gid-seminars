@@ -2,12 +2,12 @@
   "metadata": {
     "title": "GID Seminars Feed",
     "description": "Aggregated seminars and webinars for Global Infectious Disease research",
-    "generated_at": "2026-06-02T07:39:39.347481Z",
+    "generated_at": "2026-06-03T07:42:51.145095Z",
     "time_window": {
       "days_behind": 30,
       "days_ahead": 30
     },
-    "total_events": 35,
+    "total_events": 36,
     "sources": [
       "astmh_events",
       "avac_events",
@@ -647,6 +647,23 @@
       "organizer": "ASTMH",
       "source": "astmh_events",
       "category": "ASTMH",
+      "tags": [],
+      "access_restriction": "Public",
+      "registration_url": null,
+      "recording_url": null
+    },
+    {
+      "id": "ea3a8c042298dd53",
+      "title": "Smart Snacking for a Healthy Gut, Brain, and Heart",
+      "description": "Healthy snacks are an important part of any nutrition plan. The right snack can help maintain steady energy levels, support brain function, and keep hunger in check between meals, keeping you focused and on track with your wellness goals.\n\nJoin us for a virtual demonstration where you\u2019ll learn how to create simple and delicious anti-inflammatory snacks that not only satisfy your cravings but also nourish your gut, brain, and heart health. The class will open with a short presentation on the science behind snacks that help improve the connection between your gut microbiome and your heart and brain, and those foods that can negatively impact how you think, feel and sleep.\n\nThen, the instructor will demonstrate how to put this knowledge into action! Using whole food ingredients rich in fiber, probiotics, antioxidants, and omega-3s, she will show you how to prepare easy, flavorful snacks that help reduce inflammation, promote digestion, and support mental clarity.\n\nAll of the snacks shared in this session will be easy to prepare, requiring just a few simple ingredients. You'll leave the class with new ideas for delicious, satisfying snacks that nourish both your body and mind.\n\nRecipes with detailed instructions, ingredients, and equipment lists will be provided after the class for you to recreate at home. Ingredient substitutions will be suggested to accommodate most dietary restrictions.\n\nThis class will be recorded and a one-week link to the recording will be shared with all registered participants. \n\nTo receive incentive points, attend at least 80% of the live session or listen to the entire recording within one week.  \n\nRequest disability accommodations and access info.\n\n\n\nClass details are subject to change.",
+      "url": "https://events.stanford.edu/event/smart-snacking-for-a-healthy-gut-brain-and-heart",
+      "start_datetime": "2026-07-02T19:00:00",
+      "end_datetime": "2026-07-02T20:00:00",
+      "timezone": "America/Los_Angeles",
+      "location": "Online",
+      "organizer": null,
+      "source": "stanford_virtual",
+      "category": "Class/Seminar",
       "tags": [],
       "access_restriction": "Public",
       "registration_url": null,
