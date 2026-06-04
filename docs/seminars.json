@@ -2,12 +2,12 @@
   "metadata": {
     "title": "GID Seminars Feed",
     "description": "Aggregated seminars and webinars for Global Infectious Disease research",
-    "generated_at": "2026-06-03T07:42:51.145095Z",
+    "generated_at": "2026-06-04T07:39:08.082533Z",
     "time_window": {
       "days_behind": 30,
       "days_ahead": 30
     },
-    "total_events": 36,
+    "total_events": 34,
     "sources": [
       "astmh_events",
       "avac_events",
@@ -57,23 +57,6 @@
     ]
   },
   "events": [
-    {
-      "id": "ec36d1781e7df8ea",
-      "title": "Up close and personal \u2013 respiratory virus transmission in close quarters",
-      "description": "Watch the recording of \u2018Up close and personal \u2013 respiratory virus transmission in close quarters\u2019",
-      "url": "https://www.isrv.global/events-calendar/up-close-and-personal-respiratory-virus-transmission-in-close-quarters/",
-      "start_datetime": "2026-05-05T00:00:00",
-      "end_datetime": null,
-      "timezone": "UTC",
-      "location": "Online",
-      "organizer": "ISRV",
-      "source": "isrv_events",
-      "category": "ISRV",
-      "tags": [],
-      "access_restriction": "Public",
-      "registration_url": null,
-      "recording_url": null
-    },
     {
       "id": "3af3e312b0433733",
       "title": "Models, Inference & Algorithms (MIA) Meeting",
@@ -381,6 +364,23 @@
       "recording_url": null
     },
     {
+      "id": "c296a347eaf3d54d",
+      "title": "Register for the Webinar",
+      "description": null,
+      "url": "https://www.iasusa.org/events/webinar-2026-hsue/",
+      "start_datetime": "2026-06-01T00:00:00",
+      "end_datetime": null,
+      "timezone": "America/Los_Angeles",
+      "location": "Online",
+      "organizer": null,
+      "source": "iasusa_webinars",
+      "category": "IAS-USA",
+      "tags": [],
+      "access_restriction": "Public",
+      "registration_url": null,
+      "recording_url": null
+    },
+    {
       "id": "616265eaa9d6b901",
       "title": "ESS Oral Defense - June Choi - June 1 - Shriram 262 @ 9:30 AM",
       "description": "Stanford University\n\n*** Ph.D. Thesis/ Oral Defense ***\n\n \n\nClimate Finacne in a Changing Climate: Isurance, Sovereign Debt, and\n\nthe Cost of Capital\n\n \n\nJune Choi\n\nMonday, June 1, 2026, 9:30 AM\n\nShriram 262\n\nDepartment of Earth System Science\n\nAdvisor: Dr. Noah Diffenbaugh and Dr. Marshall Burke\n\nAddressing climate change, through both mitigation and adaptation, is anticipated to require global investments of more than $6 trillion annually by 2035. However, many countries face significant barriers to accessing the finance needed for these investments, including low or absent credit ratings, large debt burdens, and high borrowing costs. This dissertation investigates the impacts of extreme weather and warming temperatures on human and economic outcomes at multiple scales, with the aim of informing policy decisions about the equitable allocation of climate finance, both within and across countries.\n\nIn Chapter 1, I investigate flood insurance adoption following extreme flood events in the United States and conclude that relying on the autonomous adaptation of households to changing flood exposure will be insufficient to close the financial protection gap. However, most countries do not have balance sheets large enough to sustain publicly funded insurance programs like those in the United States. Therefore, in Chapter 2, I investigate climate impacts at the global scale, focusing on how tropical cyclones (TCs) and warming temperatures have impacted sovereign debt burdens, and how these effects, in turn, affect countries\u2019 credit ratings and borrowing costs today. I find that, on average across TC-exposed countries, debt ratios are 25% higher due to TCs, while GDP levels are 10% lower due to the combined impacts of TCs and warming over the period 1980\u20132019. These persistent macroeconomic impacts translate into higher credit risks and borrowing costs for the hottest countries, placing greater financial constraints on countries that are least responsible for climate chang",
@@ -409,40 +409,6 @@
       "organizer": null,
       "source": "stanford_virtual",
       "category": "Class/Seminar",
-      "tags": [],
-      "access_restriction": "Public",
-      "registration_url": null,
-      "recording_url": null
-    },
-    {
-      "id": "a0e8262e8f0d81f3",
-      "title": "HIV and Cardiovascular Disease: Lipids, Inflammation, and More \u2014 2026 Update",
-      "description": null,
-      "url": "https://www.iasusa.org/events/webinar-2026-hsue/",
-      "start_datetime": "2026-06-03T11:00:00",
-      "end_datetime": null,
-      "timezone": "America/Los_Angeles",
-      "location": "Online",
-      "organizer": null,
-      "source": "iasusa_webinars",
-      "category": "IAS-USA",
-      "tags": [],
-      "access_restriction": "Public",
-      "registration_url": null,
-      "recording_url": null
-    },
-    {
-      "id": "f3169c48bfb8d4ba",
-      "title": "WHO Health Emergencies EPI-WIN webinar: Detect, monitor, respond: practical innovations in cholera surveillance",
-      "description": "This EPI-WIN webinar will highlight practical innovations in cholera surveillance and discuss how they strengthen early detection, risk assessment, and outbreak response. Bringing together global, regional, country, and academic perspectives, the webinar will explore WHO\u2019s global cholera data system, surveillance experience from the Eastern Mediterranean Region, field adaptations in Sudan, and emerging evidence on the use of serology to better understand cholera dynamics.",
-      "url": "https://www.who.int/news-room/events/detail/2026/06/03/default-calendar/who-health-emergencies-epi-win-webinar-detect-monitor-respond-practical-innovations-in-cholera-surveillance",
-      "start_datetime": "2026-06-03T11:00:00",
-      "end_datetime": "2026-06-03T12:00:00",
-      "timezone": "UTC",
-      "location": "Online/Geneva",
-      "organizer": "World Health Organization",
-      "source": "who_events",
-      "category": "WHO",
       "tags": [],
       "access_restriction": "Public",
       "registration_url": null,
