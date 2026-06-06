@@ -2,12 +2,12 @@
   "metadata": {
     "title": "GID Seminars Feed",
     "description": "Aggregated seminars and webinars for Global Infectious Disease research",
-    "generated_at": "2026-06-05T07:30:45.508719Z",
+    "generated_at": "2026-06-06T07:05:37.078147Z",
     "time_window": {
       "days_behind": 30,
       "days_ahead": 30
     },
-    "total_events": 32,
+    "total_events": 33,
     "sources": [
       "astmh_events",
       "avac_events",
@@ -57,23 +57,6 @@
     ]
   },
   "events": [
-    {
-      "id": "3af3e312b0433733",
-      "title": "Models, Inference & Algorithms (MIA) Meeting",
-      "description": "Please join us on Wednesday, May 6 for our MIA meeting featuring Ohad Lewin-Epstein and Chris Smillie, both from Harvard Medical School!\n\n \n\n\ud83d\udcc5 Wednesday, May 6\n\n \n\n\ud83c\udfa4 Primer, 9:00 am\n\n\ud83d\udcac Chris Smillie\n\n\ud83c\udfeb Harvard Medical School\n\n \n\n\ud83c\udfa4 Seminar, 10:00 am: A global microbiome axis underlying susceptibility to immune-mediated diseases\n\n\ud83d\udcac Ohad Lewin-Epstein \n\n\ud83c\udfeb Harvard Medical School\n\n \n\nHosted by the Eric and Wendy Schmidt Center, the MIA Initiative (Models, Inference & Algorithms) supports learning and collaboration across the interface of biology and medicine with mathematics, statistics, machine learning, and computer science. We bring together scientists every Wednesday in Acadia (Broad Institute \u2013 75 Ames St., M1) and virtually. A primer starts at 9:00 am, followed by a seminar and discussion at 10:00 am and 10:50 am, respectively.\n\n \n\n\ud83d\udc8c Email us to join our mailing list for Zoom links: mia-team@broadinstitute.org\n\n \n\n\ud83e\uddd1\u200d\ud83c\udfeb Read the abstracts and see the full schedule: broad.io/MIA \n\n\ud83d\udcfa Watch previous talks: broad.io/MIAPlaylist \n\n\ud83d\uddd3\ufe0f View our calendar: broad.io/mia-calendar \n\n \n\n\u2753 Ask questions: mia-team@broadinstitute.org\n\n \n\n**If you do not have a Broad badge, please arrive at the 75 Ames Street entrance 10 minutes early with an ID to check in with security. We will escort folks up at 8:55 am and 9:55 am; please email mia-team@broadinstitute.org if you arrive outside of these times.",
-      "url": "https://events.broadinstitute.org/event/models-inference-algorithms-mia-meeting-3282",
-      "start_datetime": "2026-05-06T13:00:00",
-      "end_datetime": "2026-05-06T16:00:00",
-      "timezone": "America/New_York",
-      "location": "Broad Institute, Acadia (M1)",
-      "organizer": null,
-      "source": "broad_institute",
-      "category": "Talks",
-      "tags": [],
-      "access_restriction": "Public",
-      "registration_url": null,
-      "recording_url": null
-    },
     {
       "id": "34e8811aa028b8bd",
       "title": "Genomics Seminar Series: Anna Selmecki, University of Minnesota",
@@ -426,6 +409,40 @@
       "organizer": null,
       "source": "stanford_virtual",
       "category": "Lecture/Presentation/Talk",
+      "tags": [],
+      "access_restriction": "Public",
+      "registration_url": null,
+      "recording_url": null
+    },
+    {
+      "id": "e80502e2ee4dd028",
+      "title": "When Adventure Meets Infectious Diseases",
+      "description": "[Podcast: Let's Talk ID] Duration: 1522\n\nPaul Sax, MD, FIDSA sits down with comedy-writer, Mike Reiss, and his wife, Denise Reiss, to discuss a lifetime of travel experiences spanning more than 100 countries. From submarine dives and whale sharks to a hospitalization caused by Shigella, they recount remarkable adventures and the health risks that can emerge when exploring the world.",
+      "url": "https://www.buzzsprout.com/2019912/episodes/19302826-when-adventure-meets-infectious-diseases.mp3",
+      "start_datetime": "2026-06-06T00:00:00",
+      "end_datetime": null,
+      "timezone": "UTC",
+      "location": "Podcast",
+      "organizer": "Let's Talk ID",
+      "source": "idsa_podcast",
+      "category": "Podcast - IDSA",
+      "tags": [],
+      "access_restriction": "Public",
+      "registration_url": null,
+      "recording_url": null
+    },
+    {
+      "id": "e73f52db859c6cf6",
+      "title": "TWiV 1328: Clinical update with Dr. Daniel Griffin",
+      "description": "[Podcast: This Week in Virology]\n\nIn his weekly clinical update, Daniel Griffin and Vincent Racaniello opine on the recent executive order on the routine childhood vaccination schedule, the Ebola outbreak in the Congo and Uganda including the fast track trials for 2 vaccine candidates and antivirals, recent Hantavirus infections, use of quarantined \u201cHantavirus\u201d patients for the governmental propaganda machine, use of ribavirin and other antivirals for Hantavirus associated cardiopulmonary disease, before Dr. Griffin deep dives into the measles outbreak, recent statistics RSV, influenza and SARS-CoV-2 infections, the Wasterwater Scan dashboard, Johns Hopkins measles tracker, the measles outbreak in Bangladesh, as well as in a daycare center in Texas in 2025, how to access and pay for Paxlovid, FDA approval of a second COVID-19 antiviral drug, where to go for answers about long COVID-19, use of convalescent sera for COVID-19 treatment and contacting your federal government representative to stop the assault on science and biomedical research. Click arrow to play Download TWiV 1328 (37 MB .mp3, 61 min) Subscribe (free): Apple Podcasts , RSS , email Become a&nbsp; patron &nbsp;of&nbsp;TWiV! Links for this episode CIDRAP Op-Ed: What\u2019s the likely next move after the executive order on childhood vaccines? (CIDRAP) Ebola dashboard (ebola.fyi) Epidemic of Ebola Disease caused by Bundibugyo virus in the Democratic Republic of the Congo and Uganda determined a public health emergency of international concern (WHO) WHO r",
+      "url": "https://www.microbe.tv/twiv/twiv-1328/",
+      "start_datetime": "2026-06-06T04:00:00",
+      "end_datetime": null,
+      "timezone": "UTC",
+      "location": "Podcast",
+      "organizer": "This Week in Virology",
+      "source": "twiv_podcast",
+      "category": "Podcast - TWiV",
       "tags": [],
       "access_restriction": "Public",
       "registration_url": null,
