@@ -2,12 +2,12 @@
   "metadata": {
     "title": "GID Seminars Feed",
     "description": "Aggregated seminars and webinars for Global Infectious Disease research",
-    "generated_at": "2026-06-06T07:05:37.078147Z",
+    "generated_at": "2026-06-07T07:25:11.273699Z",
     "time_window": {
       "days_behind": 30,
       "days_ahead": 30
     },
-    "total_events": 33,
+    "total_events": 32,
     "sources": [
       "astmh_events",
       "avac_events",
@@ -57,40 +57,6 @@
     ]
   },
   "events": [
-    {
-      "id": "34e8811aa028b8bd",
-      "title": "Genomics Seminar Series: Anna Selmecki, University of Minnesota",
-      "description": "Single-cell detection of genomic instability in human fungal pathogens.",
-      "url": null,
-      "start_datetime": "2026-05-07T18:30:00",
-      "end_datetime": "2026-05-07T19:30:00",
-      "timezone": "America/Chicago",
-      "location": "UW Biotechnology Center Auditorium, Genetics-Biotechnology Center Building",
-      "organizer": null,
-      "source": "uw_madison_seminars",
-      "category": "University - UW-Madison",
-      "tags": [],
-      "access_restriction": "Public",
-      "registration_url": null,
-      "recording_url": null
-    },
-    {
-      "id": "7879eb10554b5a8a",
-      "title": "Geophysics Seminar - Zhuo Wang, \"Beyond the Tropics: Linking Atmospheric Stationary Waves to Tropical Cyclone Activity\"",
-      "description": "Skillful prediction and projection of tropical cyclone (TC) activity are essential for storm preparedness and risk mitigation, particularly as TC impacts are expected to intensify in a warming climate due to rising sea levels and increased atmospheric moisture. Slowly varying tropical oceanic conditions have traditionally been regarded as a primary driver of TC variability. However, recent studies suggest that extratropical processes also exert a significant influence. We show that Northern Hemisphere summertime stationary waves integrate tropical and extratropical influences within a unified framework, which provides new insight into the variability and predictability of TC activity across the North Atlantic and North Pacific basins. We further explore the application of this framework to projections of future TC activity.\n\n \n\nSpeaker-suggested reading:     Z. Wang, G. Zhang, T.J. Dunkerton, & F. Jin, Summertime stationary waves integrate tropical and extratropical impacts on tropical cyclone activity, Proc. Natl. Acad. Sci. U.S.A. 117 (37) 22720-22726, https://doi.org/10.1073/pnas.2010547117 (2020).",
-      "url": "https://events.stanford.edu/event/geophysics-seminar-zhuo-wang-beyond-the-tropics-linking-atmospheric-stationary-waves-to-tropical-cyclone-activity",
-      "start_datetime": "2026-05-07T19:00:00",
-      "end_datetime": "2026-05-07T20:00:00",
-      "timezone": "America/Los_Angeles",
-      "location": "Mitchell Earth Sciences, 350/372",
-      "organizer": null,
-      "source": "stanford_virtual",
-      "category": "Class/Seminar",
-      "tags": [],
-      "access_restriction": "Public",
-      "registration_url": null,
-      "recording_url": null
-    },
     {
       "id": "f6a9531e7abd3e14",
       "title": "TWiV 1320: Clinical update with Dr. Daniel Griffin",
@@ -437,6 +403,23 @@
       "description": "[Podcast: This Week in Virology]\n\nIn his weekly clinical update, Daniel Griffin and Vincent Racaniello opine on the recent executive order on the routine childhood vaccination schedule, the Ebola outbreak in the Congo and Uganda including the fast track trials for 2 vaccine candidates and antivirals, recent Hantavirus infections, use of quarantined \u201cHantavirus\u201d patients for the governmental propaganda machine, use of ribavirin and other antivirals for Hantavirus associated cardiopulmonary disease, before Dr. Griffin deep dives into the measles outbreak, recent statistics RSV, influenza and SARS-CoV-2 infections, the Wasterwater Scan dashboard, Johns Hopkins measles tracker, the measles outbreak in Bangladesh, as well as in a daycare center in Texas in 2025, how to access and pay for Paxlovid, FDA approval of a second COVID-19 antiviral drug, where to go for answers about long COVID-19, use of convalescent sera for COVID-19 treatment and contacting your federal government representative to stop the assault on science and biomedical research. Click arrow to play Download TWiV 1328 (37 MB .mp3, 61 min) Subscribe (free): Apple Podcasts , RSS , email Become a&nbsp; patron &nbsp;of&nbsp;TWiV! Links for this episode CIDRAP Op-Ed: What\u2019s the likely next move after the executive order on childhood vaccines? (CIDRAP) Ebola dashboard (ebola.fyi) Epidemic of Ebola Disease caused by Bundibugyo virus in the Democratic Republic of the Congo and Uganda determined a public health emergency of international concern (WHO) WHO r",
       "url": "https://www.microbe.tv/twiv/twiv-1328/",
       "start_datetime": "2026-06-06T04:00:00",
+      "end_datetime": null,
+      "timezone": "UTC",
+      "location": "Podcast",
+      "organizer": "This Week in Virology",
+      "source": "twiv_podcast",
+      "category": "Podcast - TWiV",
+      "tags": [],
+      "access_restriction": "Public",
+      "registration_url": null,
+      "recording_url": null
+    },
+    {
+      "id": "15bc96855de128c0",
+      "title": "TWiV 1329: How HIV-1 goes nuclear",
+      "description": "[Podcast: This Week in Virology]\n\nTWiV explains research showing limited transmission of cervid prions to nonhuman primates, and the finding that cone-shaped HIV-1 capsids are transported through intact nuclear pores. Hosts:&nbsp; Vincent Racaniello , Alan Dove , and Brianne Barker Click arrow to play Download TWiV 1329 (66 MB .mp3, 111 min) Subscribe (free): Apple Podcasts , RSS , email Become a&nbsp; patron &nbsp;of&nbsp;TWiV! Links for this episode Support science education at MicrobeTV Positions in Rosenfeld Lab (email) Ebola outbreak news ( ECDC , WHO ) NSF research grants on hold (Nature) Transmission of cervid prions to nonhuman primates (Sci Adv) Cone-shaped HIV-1 capsids transported intact through nuclear pore (Cell) HIV-1 reproduction video ( Janet Iwasa ) Letters read on TWiV 1329 Timestamps by&nbsp; Jolene Ramsey. Thanks! Picks of the Week Brianne &#8211; What We Need to do NEXT Re: OMB Rule Alan &#8211; Metallic Realms , by Lincoln Michel Vincent &#8211; TWiV 1: West Nile Virus Listener Picks Mark &#8211; How the Library of Congress packed 250 years of U.S. history into a vial the size of a quarter Intro music is by&nbsp; Ronald Jenkees Send your virology questions and comments to twiv@microbe.tv Content in this podcast should not be construed as medical advice. The post TWiV 1329: How HIV-1 goes nuclear first appeared on This Week in Virology .",
+      "url": "https://www.microbe.tv/twiv/twiv-1329/",
+      "start_datetime": "2026-06-07T04:00:00",
       "end_datetime": null,
       "timezone": "UTC",
       "location": "Podcast",
