@@ -2,12 +2,12 @@
   "metadata": {
     "title": "GID Seminars Feed",
     "description": "Aggregated seminars and webinars for Global Infectious Disease research",
-    "generated_at": "2026-06-07T07:25:11.273699Z",
+    "generated_at": "2026-06-08T07:43:16.946844Z",
     "time_window": {
       "days_behind": 30,
       "days_ahead": 30
     },
-    "total_events": 32,
+    "total_events": 31,
     "sources": [
       "astmh_events",
       "avac_events",
@@ -57,23 +57,6 @@
     ]
   },
   "events": [
-    {
-      "id": "f6a9531e7abd3e14",
-      "title": "TWiV 1320: Clinical update with Dr. Daniel Griffin",
-      "description": "[Podcast: This Week in Virology]\n\nIn his weekly clinical update, Dr. Griffin and Vincent Racaniello discuss the outbreak of Hantavirus on a cruise ship and its potential for person-person transmission, how cessation of funding for global health by the Trump administration has compromised American health and well being, as well as the description of paralytic poliomyelitis outbreaks in Central Africa associated with the administration of nOPV2, before Dr. Griffin deep dives into the measles outbreak, recent statistics RSV, influenza and SARS-CoV-2 infections, the Wasterwater Scan dashboard, Johns Hopkins measles tracker, association of ear infections in children with RSV, PEMGARDA authorized use for certain immunocompromised individuals where to find PEMGARDA, how to access and pay for Paxlovid, where to go for answers about long COVID-19, multisystem inflammatory syndrome in children and contacting your federal government representative to stop the assault on science and biomedical research. Click arrow to play Download&nbsp; TWiV 1320 (27 MB .mp3, 44 min) Subscribe (free):&nbsp; Apple Podcasts , RSS ,&nbsp; email Become a&nbsp; patron &nbsp;of&nbsp;TWiV! Links for this episode Hantavirus Pulmonary Syndrome \u2014The 25th Anniversary of the Four Corners Outbreak (CDC: Emerging Infectious Diseases) 3:58 Outbreak of Hantavirus Infection in the Four Corners Region of the United States in the Wake of the 1997\u20131998 El Nino\u2014Southern Oscillation (JID) 5:16 Person-to-Person Transmission of Andes Virus in Hantavirus Pulmon",
-      "url": "https://www.microbe.tv/twiv/twiv-1320/",
-      "start_datetime": "2026-05-09T04:00:00",
-      "end_datetime": null,
-      "timezone": "UTC",
-      "location": "Podcast",
-      "organizer": "This Week in Virology",
-      "source": "twiv_podcast",
-      "category": "Podcast - TWiV",
-      "tags": [],
-      "access_restriction": "Public",
-      "registration_url": null,
-      "recording_url": null
-    },
     {
       "id": "3c674163b0dda6a5",
       "title": "TWiV 1321: Phage cross talk and cross reactions",
