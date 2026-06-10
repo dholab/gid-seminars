@@ -2,12 +2,12 @@
   "metadata": {
     "title": "GID Seminars Feed",
     "description": "Aggregated seminars and webinars for Global Infectious Disease research",
-    "generated_at": "2026-06-09T07:15:53.340922Z",
+    "generated_at": "2026-06-10T07:30:01.141971Z",
     "time_window": {
       "days_behind": 30,
       "days_ahead": 30
     },
-    "total_events": 29,
+    "total_events": 28,
     "sources": [
       "astmh_events",
       "avac_events",
@@ -315,7 +315,7 @@
     {
       "id": "41279f4901656478",
       "title": "WEBINAR | From Hantavirus to Ebola: How Changing Environments Are Driving Disease",
-      "description": "In this webinar hosted by the Stanford Center for Human and Planetary Health and Center for Innovation in Global Health, Stanford experts will examine how climate change, land use alterations, ecological disruption, and global interconnectedness are reshaping infectious disease risks and response challenges worldwide.\n\nFrom hantavirus outbreaks to the ongoing Ebola emergency in Central and East Africa, emerging infectious diseases are underscoring the growing complexity of responding to health threats in an increasingly interconnected and rapidly changing world. Drawing on perspectives from infectious disease, ecology, environmental change, and global health, this panel discussion will explore how drought, extreme rainfall, biodiversity loss, habitat encroachment, and shifting species interactions can influence disease dynamics and increase opportunities for zoonotic spillover. Speakers will also discuss the broader public health implications of fragmented international cooperation, underinvestment in preparedness systems, and accelerating global connectivity. Through recent case studies including hantavirus and Ebola, the conversation will examine what emerging infectious diseases reveal about the interconnectedness of climate, ecosystems, and human health \u2013 and the importance of interdisciplinary, cross-border approaches to prevention, resilience, and response.\n\nSpeakers include: Michele Barry (Director of the Stanford Center for Innovation in Global Health; Senior Associate Dean for Global Health), Steve Luby (Faculty Director of the Stanford Center for Human and Planetary Health), Abraar Karan (Instructor & Physician, Stanford Department of Infectious Diseases), Tracey Goldstein (Director of the Colorado State University One Health Institute), and Rodolfo Dirzo (Stanford Bing Professor in Environmental Science, Doerr School of Sustainability). \n\nRegister here: https://shorturl.at/DwVVY",
+      "description": "In this webinar hosted by the Stanford Center for Human and Planetary Health and Center for Innovation in Global Health, Stanford experts examined how climate change, land use alterations, ecological disruption, and global interconnectedness are reshaping infectious disease risks and response challenges worldwide.\n\nFrom hantavirus outbreaks to the ongoing Ebola emergency in Central and East Africa, emerging infectious diseases are underscoring the growing complexity of responding to health threats in an increasingly interconnected and rapidly changing world. Drawing on perspectives from infectious disease, ecology, environmental change, and global health, this panel discussion explored how drought, extreme rainfall, biodiversity loss, habitat encroachment, and shifting species interactions can influence disease dynamics and increase opportunities for zoonotic spillover. Speakers also discussed the broader public health implications of fragmented international cooperation, underinvestment in preparedness systems, and accelerating global connectivity. Through recent case studies including hantavirus and Ebola, the conversation examined what emerging infectious diseases reveal about the interconnectedness of climate, ecosystems, and human health \u2013 and the importance of interdisciplinary, cross-border approaches to prevention, resilience, and response.\n\nView the event recording\n\nSpeakers:\n\nMichele Barry | Director, Stanford Center for Innovation in Global Health; Senior Associate Dean for Global Health\n\nSteve Luby | Faculty Director, Stanford Center for Human and Planetary Health\n\nAbraar Karan | Instructor & Physician, Department of Infectious Diseases, Stanford School of Medicine\n\nTracey Goldstein | Director, Colorado State University One Health Institute\n\nRodolfo Dirzo | Bing Professor in Environmental Science, Stanford Doerr School of Sustainability",
       "url": "https://events.stanford.edu/event/from-hantavirus-to-ebola-how-changing-environments-are-driving-disease",
       "start_datetime": "2026-06-05T18:00:00",
       "end_datetime": "2026-06-05T19:00:00",
@@ -349,7 +349,7 @@
     {
       "id": "e73f52db859c6cf6",
       "title": "TWiV 1328: Clinical update with Dr. Daniel Griffin",
-      "description": "[Podcast: This Week in Virology]\n\nIn his weekly clinical update, Daniel Griffin and Vincent Racaniello opine on the recent executive order on the routine childhood vaccination schedule, the Ebola outbreak in the Congo and Uganda including the fast track trials for 2 vaccine candidates and antivirals, recent Hantavirus infections, use of quarantined \u201cHantavirus\u201d patients for the governmental propaganda machine, use of ribavirin and other antivirals for Hantavirus associated cardiopulmonary disease, before Dr. Griffin deep dives into the measles outbreak, recent statistics RSV, influenza and SARS-CoV-2 infections, the Wasterwater Scan dashboard, Johns Hopkins measles tracker, the measles outbreak in Bangladesh, as well as in a daycare center in Texas in 2025, how to access and pay for Paxlovid, FDA approval of a second COVID-19 antiviral drug, where to go for answers about long COVID-19, use of convalescent sera for COVID-19 treatment and contacting your federal government representative to stop the assault on science and biomedical research. Click arrow to play Download TWiV 1328 (37 MB .mp3, 61 min) Subscribe (free): Apple Podcasts , RSS , email Become a&nbsp; patron &nbsp;of&nbsp;TWiV! Links for this episode CIDRAP Op-Ed: What\u2019s the likely next move after the executive order on childhood vaccines? (CIDRAP) Ebola dashboard (ebola.fyi) Epidemic of Ebola Disease caused by Bundibugyo virus in the Democratic Republic of the Congo and Uganda determined a public health emergency of international concern (WHO) WHO r",
+      "description": "[Podcast: This Week in Virology]\n\nIn his weekly clinical update, Daniel Griffin and Vincent Racaniello opine on the recent executive order on the routine childhood vaccination schedule, the Ebola outbreak in the Congo and Uganda including the fast track trials for 2 vaccine candidates and antivirals, recent Hantavirus infections, use of quarantined \u201cHantavirus\u201d patients for the governmental propaganda machine, use of ribavirin and other antivirals for Hantavirus associated cardiopulmonary disease, before Dr. Griffin deep dives into the measles outbreak, recent statistics RSV, influenza and SARS-CoV-2 infections, the Wasterwater Scan dashboard, Johns Hopkins measles tracker, the measles outbreak in Bangladesh, as well as in a daycare center in Texas in 2025, how to access and pay for Paxlovid, FDA approval of a second COVID-19 antiviral drug, where to go for answers about long COVID-19, use of convalescent sera for COVID-19 treatment and contacting your federal government representative to stop the assault on science and biomedical research. Click arrow to play Download&nbsp; TWiV 1328 (37 MB .mp3, 61 min) Subscribe (free):&nbsp; Apple Podcasts , RSS ,&nbsp; email Become a&nbsp; patron &nbsp;of&nbsp;TWiV! Links for this episode CIDRAP Op-Ed: What\u2019s the likely next move after the executive order on childhood vaccines? (CIDRAP) 4:56 Ebola dashboard (ebola.fyi) 9:37 Epidemic of Ebola Disease caused by Bundibugyo virus in the Democratic Republic of the Congo and Uganda determined a public health emergency of inter",
       "url": "https://www.microbe.tv/twiv/twiv-1328/",
       "start_datetime": "2026-06-06T04:00:00",
       "end_datetime": null,
@@ -375,23 +375,6 @@
       "organizer": "This Week in Virology",
       "source": "twiv_podcast",
       "category": "Podcast - TWiV",
-      "tags": [],
-      "access_restriction": "Public",
-      "registration_url": null,
-      "recording_url": null
-    },
-    {
-      "id": "5503a1419510bb55",
-      "title": "WHO Health Emergencies EPI-WIN webinar: Ebola Bundibugyo virus disease: what we know",
-      "description": "An outbreak of Ebola virus disease caused by the Bundibugyo virus was declared on 15 May 2026 in the Democratic Republic of the Congo (DRC), with cross-border spread to Uganda. The World Health Organization has classified the event as a Public Health Emergency of International Concern due to its severity and potential for international spread. This webinar will explain why this outbreak is significant, WHO recommendations and the rationale behind them.",
-      "url": "https://www.who.int/news-room/events/detail/2026/06/09/default-calendar/who-health-emergencies-epi-win-webinar-ebola-bundibugyo-virus-disease-what-we-know",
-      "start_datetime": "2026-06-09T11:00:00",
-      "end_datetime": "2026-06-09T12:00:00",
-      "timezone": "UTC",
-      "location": "Online/Geneva",
-      "organizer": "World Health Organization",
-      "source": "who_events",
-      "category": "WHO",
       "tags": [],
       "access_restriction": "Public",
       "registration_url": null,
