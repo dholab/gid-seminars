@@ -2,7 +2,7 @@
   "metadata": {
     "title": "GID Seminars Feed",
     "description": "Aggregated seminars and webinars for Global Infectious Disease research",
-    "generated_at": "2026-06-10T07:30:01.141971Z",
+    "generated_at": "2026-06-11T07:41:56.370778Z",
     "time_window": {
       "days_behind": 30,
       "days_ahead": 30
@@ -398,29 +398,29 @@
       "recording_url": null
     },
     {
-      "id": "5409e28c76f1d2e0",
-      "title": "Transgender Research 2026 \u2013 Findings from CROI and Beyond",
-      "description": null,
-      "url": "https://avac.org/event/transgender-research2026/",
-      "start_datetime": "2026-06-10T00:00:00",
-      "end_datetime": null,
-      "timezone": "America/New_York",
-      "location": "Online",
-      "organizer": "AVAC",
-      "source": "avac_events",
-      "category": "AVAC",
-      "tags": [],
-      "access_restriction": "Public",
-      "registration_url": null,
-      "recording_url": null
-    },
-    {
       "id": "ce390ee2806ac01b",
       "title": "Simulation for global health: from innovation to implementation",
       "description": "The WHO Academy, the WHO Health Emergencies Programme (WHE), and SESAM (Society for Simulation in Europe) are bringing together global health leaders, educators, health professionals, researchers and partners for a collaborative event dedicated to the future of simulation-based learning in global health.",
       "url": "https://www.who.int/news-room/events/detail/2026/06/15/default-calendar/simulation-for-global-health--from-innovation-to-implementation",
       "start_datetime": "2026-06-15T00:00:00",
       "end_datetime": "2026-06-16T00:00:00",
+      "timezone": "UTC",
+      "location": "Online/Geneva",
+      "organizer": "World Health Organization",
+      "source": "who_events",
+      "category": "WHO",
+      "tags": [],
+      "access_restriction": "Public",
+      "registration_url": null,
+      "recording_url": null
+    },
+    {
+      "id": "c2366c59a74b5b60",
+      "title": "WHO Health Emergencies EPI-WIN webinar: Hantavirus in focus IV: infection prevention and control: from isolation to safe discharge and quarantine",
+      "description": "This webinar will explore current experience related to the de-escalation of transmission-based precautions for Andes hantavirus, including practical challenges in implementing IPC measures in isolation and quarantine settings. Drawing on expertise from international and country-level practitioners, the session aims to support risk-based, feasible, and proportionate IPC decision-making in the face of uncertainty.",
+      "url": "https://www.who.int/news-room/events/detail/2026/06/16/default-calendar/who-health-emergencies-epi-win-webinar-hantavirus-in-focus-iv-infection-prevention-and-control-from-isolation-to-safe-discharge-and-quarantine",
+      "start_datetime": "2026-06-16T12:00:00",
+      "end_datetime": "2026-06-16T13:00:00",
       "timezone": "UTC",
       "location": "Online/Geneva",
       "organizer": "World Health Organization",
