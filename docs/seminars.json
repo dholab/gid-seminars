@@ -2,12 +2,12 @@
   "metadata": {
     "title": "GID Seminars Feed",
     "description": "Aggregated seminars and webinars for Global Infectious Disease research",
-    "generated_at": "2026-06-11T07:41:56.370778Z",
+    "generated_at": "2026-06-12T07:38:59.501937Z",
     "time_window": {
       "days_behind": 30,
       "days_ahead": 30
     },
-    "total_events": 28,
+    "total_events": 29,
     "sources": [
       "astmh_events",
       "avac_events",
@@ -415,8 +415,25 @@
       "recording_url": null
     },
     {
+      "id": "e59b78e9098f860b",
+      "title": "World Dengue Day 2026",
+      "description": "World Dengue Day \ufeffis observed each year on 15 June to raise awareness of dengue, a neglected tropical disease and one of the fastest-spreading infectious conditions worldwide.",
+      "url": "https://www.who.int/news-room/events/detail/2026/06/15/default-calendar/world-dengue-day-2026",
+      "start_datetime": "2026-06-15T00:00:00",
+      "end_datetime": "2026-06-16T00:00:00",
+      "timezone": "UTC",
+      "location": "Online/Geneva",
+      "organizer": "World Health Organization",
+      "source": "who_events",
+      "category": "WHO",
+      "tags": [],
+      "access_restriction": "Public",
+      "registration_url": null,
+      "recording_url": null
+    },
+    {
       "id": "c2366c59a74b5b60",
-      "title": "WHO Health Emergencies EPI-WIN webinar: Hantavirus in focus IV: infection prevention and control: from isolation to safe discharge and quarantine",
+      "title": "WHO Health Emergencies EPI-WIN webinar: Hantavirus in focus IV: Infection prevention and control: from isolation to safe discharge and quarantine",
       "description": "This webinar will explore current experience related to the de-escalation of transmission-based precautions for Andes hantavirus, including practical challenges in implementing IPC measures in isolation and quarantine settings. Drawing on expertise from international and country-level practitioners, the session aims to support risk-based, feasible, and proportionate IPC decision-making in the face of uncertainty.",
       "url": "https://www.who.int/news-room/events/detail/2026/06/16/default-calendar/who-health-emergencies-epi-win-webinar-hantavirus-in-focus-iv-infection-prevention-and-control-from-isolation-to-safe-discharge-and-quarantine",
       "start_datetime": "2026-06-16T12:00:00",
