@@ -2,12 +2,12 @@
   "metadata": {
     "title": "GID Seminars Feed",
     "description": "Aggregated seminars and webinars for Global Infectious Disease research",
-    "generated_at": "2026-06-12T07:38:59.501937Z",
+    "generated_at": "2026-06-13T07:19:54.438227Z",
     "time_window": {
       "days_behind": 30,
       "days_ahead": 30
     },
-    "total_events": 29,
+    "total_events": 31,
     "sources": [
       "astmh_events",
       "avac_events",
@@ -398,6 +398,23 @@
       "recording_url": null
     },
     {
+      "id": "e96763b564e635cf",
+      "title": "TWiV 1330: Clinical update with Dr. Daniel Griffin",
+      "description": "[Podcast: This Week in Virology]\n\nIn his weekly clinical update, Daniel Griffin and Vincent Racaniello opine on the recent executive order on the routine childhood vaccination schedule, the Ebola outbreak in the Congo and Uganda including the fast track trials for 2 vaccine candidates and antivirals, recent Hantavirus infections, use of quarantined \u201cHantavirus\u201d patients for the governmental propaganda machine, use of ribavirin and other antivirals for Hantavirus associated cardiopulmonary disease, before Dr. Griffin deep dives into the measles outbreak, recent statistics RSV, influenza and SARS-CoV-2 infections, the Wasterwater Scan dashboard, Johns Hopkins measles tracker, the measles outbreak in Bangladesh, as well as in a daycare center in Texas in 2025, how to access and pay for Paxlovid, FDA approval of a second COVID-19 antiviral drug, where to go for answers about long COVID-19, use of convalescent sera for COVID-19 treatment and contacting your federal government representative to stop the assault on science and biomedical research. Click arrow to play Download TWiV 1330 (43 MB .mp3, 71 min) Subscribe (free): Apple Podcasts , RSS , email Become a&nbsp; patron &nbsp;of&nbsp;TWiV! Links for this episode Childhood Vaccine Hesitancy (NEJM) One Year In: Public Views of a Changing Public Health Landscape (Harvard School of Public Health) Rotavirus Vaccine Coverage and Potential Barriers Among US Children Born From 2007 to 2024 (Pediatrics) Texas reports New World screwworm in 3-week-old calf (CIDRAP) USDA C",
+      "url": "https://www.microbe.tv/twiv/twiv-1330/",
+      "start_datetime": "2026-06-13T04:00:00",
+      "end_datetime": null,
+      "timezone": "UTC",
+      "location": "Podcast",
+      "organizer": "This Week in Virology",
+      "source": "twiv_podcast",
+      "category": "Podcast - TWiV",
+      "tags": [],
+      "access_restriction": "Public",
+      "registration_url": null,
+      "recording_url": null
+    },
+    {
       "id": "ce390ee2806ac01b",
       "title": "Simulation for global health: from innovation to implementation",
       "description": "The WHO Academy, the WHO Health Emergencies Programme (WHE), and SESAM (Society for Simulation in Europe) are bringing together global health leaders, educators, health professionals, researchers and partners for a collaborative event dedicated to the future of simulation-based learning in global health.",
@@ -494,6 +511,23 @@
       "organizer": "ISRV",
       "source": "isrv_events",
       "category": "ISRV",
+      "tags": [],
+      "access_restriction": "Public",
+      "registration_url": null,
+      "recording_url": null
+    },
+    {
+      "id": "9035fa02beda1653",
+      "title": "WHO Health Emergencies EPI-WIN webinar: New WHO guidance on bacterial meningitis: a tool for frontline healthcare workers",
+      "description": "This webinar provides an overview of the newly released WHO guidance on bacterial meningitis for frontline healthcare workers. The global burden of acute bacterial meningitis remains high, particularly in low- and middle-income countries and resource-limited settings. This webinar will explain how this guidance translates evidence-based recommendations into practical implementation guidance for use at the point of care.",
+      "url": "https://www.who.int/news-room/events/detail/2026/06/30/default-calendar/who-health-emergencies-epi-win-webinar-new-who-guidance-on-bacterial-meningitis-a-tool-for-frontline-healthcare-workers",
+      "start_datetime": "2026-06-30T11:00:00",
+      "end_datetime": "2026-06-30T12:00:00",
+      "timezone": "UTC",
+      "location": "Online/Geneva",
+      "organizer": "World Health Organization",
+      "source": "who_events",
+      "category": "WHO",
       "tags": [],
       "access_restriction": "Public",
       "registration_url": null,
