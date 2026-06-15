@@ -2,7 +2,7 @@
   "metadata": {
     "title": "GID Seminars Feed",
     "description": "Aggregated seminars and webinars for Global Infectious Disease research",
-    "generated_at": "2026-06-14T07:36:50.638460Z",
+    "generated_at": "2026-06-15T07:59:49.934911Z",
     "time_window": {
       "days_behind": 30,
       "days_ahead": 30
@@ -57,40 +57,6 @@
     ]
   },
   "events": [
-    {
-      "id": "97848259acbf6174",
-      "title": "Building HIV Care in Rural America",
-      "description": "[Podcast: Let's Talk ID] Duration: 1858\n\nHost Mati Hlatshwayo Davis, MD, MPH, FIDSA, is joined by Darrell McBride, DO, FIDSA, former program director and founder of the Geisinger Ryan White Program, to discuss the realities of delivering HIV and infectious diseases care in rural communities. They explore barriers to care, the role of telehealth and public health partnerships, and what it takes to build sustainable, equity-focused programs in underserved areas.",
-      "url": "https://www.buzzsprout.com/2019912/episodes/19185942-building-hiv-care-in-rural-america.mp3",
-      "start_datetime": "2026-05-16T00:00:00",
-      "end_datetime": null,
-      "timezone": "UTC",
-      "location": "Podcast",
-      "organizer": "Let's Talk ID",
-      "source": "idsa_podcast",
-      "category": "Podcast - IDSA",
-      "tags": [],
-      "access_restriction": "Public",
-      "registration_url": null,
-      "recording_url": null
-    },
-    {
-      "id": "018fd2b4cdda3b92",
-      "title": "TWiV 1322: Clinical update with Dr. Daniel Griffin \u2013 Hantavirus special",
-      "description": "[Podcast: This Week in Virology]\n\nIn his weekly clinical update, Daniel Griffin and Vincent Racaniello reviewed the latest developments surrounding the hantavirus outbreak, including new interim guidance from the Centers for Disease Control and Prevention for the management of infectious cases, whether the CDC may be downplaying the significance of the outbreak because of public backlash following the COVID-19 pandemic, before Dr. Griffin deep dives into the measles outbreak, recent statistics RSV, influenza and SARS-CoV-2 infections, the Wasterwater Scan dashboard, Johns Hopkins measles tracker, benefit of maternal vaccination against RSV for infants, efficacy and safety of a mRNA influenza vaccine &nbsp;how to access and pay for Paxlovid, where to go for answers about long COVID-19, multisystem inflammatory syndrome in children and contacting your federal government representative to stop the assault on science and biomedical research. Click arrow to play Download&nbsp; TWiV 1322 (32 MB .mp3, 53 min) Subscribe (free):&nbsp; Apple Podcasts , RSS ,&nbsp; email Become a&nbsp; patron &nbsp;of&nbsp;TWiV! Links for this episode Interim Guidance for Public Health Assessment and Management of People with Potential Exposure to Andes Virus Outbreak (CDC) 3:36 Hantavirus in humans: a review of clinical aspects and management (LANCET: Infectious Diseases) 15:21 \u201cSuper-Spreaders\u201d and Person-to-Person Transmission of Andes Virus in Argentina (NEJM) 17:00 Person-to-Person Transmission of Andes Virus in Hantavirus Pulmonar",
-      "url": "https://www.microbe.tv/twiv/twiv-1322/",
-      "start_datetime": "2026-05-16T04:00:00",
-      "end_datetime": null,
-      "timezone": "UTC",
-      "location": "Podcast",
-      "organizer": "This Week in Virology",
-      "source": "twiv_podcast",
-      "category": "Podcast - TWiV",
-      "tags": [],
-      "access_restriction": "Public",
-      "registration_url": null,
-      "recording_url": null
-    },
     {
       "id": "19eb45d9f4559536",
       "title": "TWiV 1323: One influenza infection, two patients",
@@ -400,7 +366,7 @@
     {
       "id": "e96763b564e635cf",
       "title": "TWiV 1330: Clinical update with Dr. Daniel Griffin",
-      "description": "[Podcast: This Week in Virology]\n\nIn his weekly clinical update, Daniel Griffin and Vincent Racaniello opine on the recent executive order on the routine childhood vaccination schedule, the Ebola outbreak in the Congo and Uganda including the fast track trials for 2 vaccine candidates and antivirals, recent Hantavirus infections, use of quarantined \u201cHantavirus\u201d patients for the governmental propaganda machine, use of ribavirin and other antivirals for Hantavirus associated cardiopulmonary disease, before Dr. Griffin deep dives into the measles outbreak, recent statistics RSV, influenza and SARS-CoV-2 infections, the Wasterwater Scan dashboard, Johns Hopkins measles tracker, the measles outbreak in Bangladesh, as well as in a daycare center in Texas in 2025, how to access and pay for Paxlovid, FDA approval of a second COVID-19 antiviral drug, where to go for answers about long COVID-19, use of convalescent sera for COVID-19 treatment and contacting your federal government representative to stop the assault on science and biomedical research. Click arrow to play Download TWiV 1330 (43 MB .mp3, 71 min) Subscribe (free): Apple Podcasts , RSS , email Become a&nbsp; patron &nbsp;of&nbsp;TWiV! Links for this episode Childhood Vaccine Hesitancy (NEJM) One Year In: Public Views of a Changing Public Health Landscape (Harvard School of Public Health) Rotavirus Vaccine Coverage and Potential Barriers Among US Children Born From 2007 to 2024 (Pediatrics) Texas reports New World screwworm in 3-week-old calf (CIDRAP) USDA C",
+      "description": "[Podcast: This Week in Virology]\n\nIn his weekly clinical update, Daniel Griffin and Vincent Racaniello opine on the recent executive order on the routine childhood vaccination schedule, the Ebola outbreak in the Congo and Uganda including the fast track trials for 2 vaccine candidates and antivirals, recent Hantavirus infections, use of quarantined \u201cHantavirus\u201d patients for the governmental propaganda machine, use of ribavirin and other antivirals for Hantavirus associated cardiopulmonary disease, before Dr. Griffin deep dives into the measles outbreak, recent statistics RSV, influenza and SARS-CoV-2 infections, the Wasterwater Scan dashboard, Johns Hopkins measles tracker, the measles outbreak in Bangladesh, as well as in a daycare center in Texas in 2025, how to access and pay for Paxlovid, FDA approval of a second COVID-19 antiviral drug, where to go for answers about long COVID-19, use of convalescent sera for COVID-19 treatment and contacting your federal government representative to stop the assault on science and biomedical research. Click arrow to play Download&nbsp; TWiV 1330 (43 MB .mp3, 71 min) Subscribe (free):&nbsp; Apple Podcasts , RSS ,&nbsp; email Become a&nbsp; patron &nbsp;of&nbsp;TWiV! Links for this episode Childhood Vaccine Hesitancy (NEJM) 2:38 One Year In: Public Views of a Changing Public Health Landscape (Harvard School of Public Health) 15:16 Rotavirus Vaccine Coverage and Potential Barriers Among US Children Born From 2007 to 2024 (Pediatrics) 16:22 Texas reports New World screwworm",
       "url": "https://www.microbe.tv/twiv/twiv-1330/",
       "start_datetime": "2026-06-13T04:00:00",
       "end_datetime": null,
@@ -417,7 +383,7 @@
     {
       "id": "afd02a641801b064",
       "title": "TWiV 1331: A drug for cervical cancer",
-      "description": "[Podcast: This Week in Virology]\n\nTWiV explains research showing that dairy cows are infected with low doses of influenza A(H5N1) and do not transmit efficiently to other animals, and covalent inhibitors of human papillomavirus type 16 E6 protein that restore p53 function and suppress growth of HPV-driven tumors in vivo. Hosts: Vincent Racaniello , Rich Condit , Brianne Barker , and Angela Mingarelli Click arrow to play Download TWiV 1331 (71 MB .mp3, 118 min) Subscribe (free): Apple Podcasts , RSS , email Become a&nbsp; patron &nbsp;of&nbsp;TWiV! Links for this episode Support science education at MicrobeTV Positions in Rosenfeld Lab (email) Letter on Baric funding ban (Science, scroll to bottom) New political jobs at science agencies (Science) Ebola sitrep (WHO) Influenza H5N1 infection of dairy cows (Nat Comm) Drug for cervical cancer (PNAS) Timestamps by&nbsp; Jolene Ramsey. Thanks! Picks of the Week Angela &#8211; SpaceX Brianne &#8211; Honeybees and shrimp are now getting vaccinated Rich &#8211; \u201cCarrying the Fire: An Astronaut&#8217;s Journeys\u201d by Michael Collins Vincent &#8211; NTSB Reveals What Really Happened to United 169 Intro music is by&nbsp; Ronald Jenkees Send your virology questions and comments to twiv@microbe.tv Content in this podcast should not be construed as medical advice. The post TWiV 1331: A drug for cervical cancer first appeared on This Week in Virology .",
+      "description": "[Podcast: This Week in Virology]\n\nTWiV explains research showing that dairy cows are infected with low doses of influenza A(H5N1) and do not transmit efficiently to other animals, and covalent inhibitors of human papillomavirus type 16 E6 protein that restore p53 function and suppress growth of HPV-driven tumors in vivo. Hosts:&nbsp; Vincent Racaniello , Rich Condit , Brianne Barker , and Angela Mingarelli Click arrow to play Download TWiV 1331 (71 MB .mp3, 118 min) Subscribe (free):&nbsp; Apple Podcasts ,&nbsp; RSS ,&nbsp; email Become a&nbsp; patron &nbsp;of&nbsp;TWiV! Links for this episode Support science education at MicrobeTV 2:21 Positions in Rosenfeld Lab (email) 2:45 Letter on Baric funding ban (Science, scroll to bottom) 5:35 New political jobs at science agencies (Science) 6:26 Ebola sitrep (WHO) 14:17 Influenza H5N1 infection of dairy cows (Nat Comm) 23:38 Drug for cervical cancer (PNAS) 1:01:41 Timestamps by&nbsp; Jolene Ramsey. Thanks! Picks of the Week 1:35:07 Angela &#8211; SpaceX Brianne &#8211; Honeybees and shrimp are now getting vaccinated Rich &#8211; \u201cCarrying the Fire: An Astronaut&#8217;s Journeys\u201d by Michael Collins Vincent &#8211; NTSB Reveals What Really Happened to United 169 Intro music is by&nbsp; Ronald Jenkees Send your virology questions and comments to twiv@microbe.tv Content in this podcast should not be construed as medical advice. The post TWiV 1331: A drug for cervical cancer first appeared on This Week in Virology .",
       "url": "https://www.microbe.tv/twiv/twiv-1331/",
       "start_datetime": "2026-06-14T04:39:40",
       "end_datetime": null,
@@ -591,6 +557,40 @@
       "url": "https://events.stanford.edu/event/smart-snacking-for-a-healthy-gut-brain-and-heart",
       "start_datetime": "2026-07-02T19:00:00",
       "end_datetime": "2026-07-02T20:00:00",
+      "timezone": "America/Los_Angeles",
+      "location": "Online",
+      "organizer": null,
+      "source": "stanford_virtual",
+      "category": "Class/Seminar",
+      "tags": [],
+      "access_restriction": "Public",
+      "registration_url": null,
+      "recording_url": null
+    },
+    {
+      "id": "77b5582ffd9b9d45",
+      "title": "Emerging Infections and Global Outbreaks: Implications for HIV and Infectious Disease Care in the US",
+      "description": null,
+      "url": "https://www.iasusa.org/events/webinar-2026-chin-hong/",
+      "start_datetime": "2026-07-14T10:00:00",
+      "end_datetime": null,
+      "timezone": "America/Los_Angeles",
+      "location": "Online",
+      "organizer": null,
+      "source": "iasusa_webinars",
+      "category": "IAS-USA",
+      "tags": [],
+      "access_restriction": "Public",
+      "registration_url": null,
+      "recording_url": null
+    },
+    {
+      "id": "b026342a868f5f93",
+      "title": "Journaling to Enhance Your Well-Being (July 14 - August 4)",
+      "description": "Writing down your thoughts and feelings has been found to reduce stress, improve mood, and even improve immune function. Journaling regularly can help us to understand and manage our emotions and then to choose actions that align with what we really want.\n\nIf you\u2019ve always wanted to start a journaling practice, are struggling to stay consistent with your practice, or are simply curious about what journaling is all about, then this class is for you. Over four online sessions, we will explore how journaling can be a useful tool for emotional processing and outline practical tips you can use to bring this practice into your daily life.\n\nYou will get specific journaling prompts to do in class and out of class, as well as some step-by-step processes to specifically address stressful triggers, habits you want to change, and self-criticism through writing. There will also be optional sharing in class so we can support each other and feel witnessed.\n\nThis class will not be recorded. \n\nAttendance requirement for incentive points - at least 80% of 3 of the 4 sessions.  \n\nRequest disability accommodations and access info.\n\n\n\nClass details are subject to change.",
+      "url": "https://events.stanford.edu/event/journaling-to-enhance-your-well-being-july-14-august-4",
+      "start_datetime": "2026-07-14T23:00:00",
+      "end_datetime": "2026-07-15T00:15:00",
       "timezone": "America/Los_Angeles",
       "location": "Online",
       "organizer": null,
