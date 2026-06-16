@@ -7,48 +7,10 @@ X-WR-CALDESC:Aggregated seminars and webinars for Global Infectious Diseas
  e research
 X-WR-CALNAME:GID Seminars
 BEGIN:VEVENT
-SUMMARY:TWiV 1323: One influenza infection\, two patients
-DTSTART:20260517T040418Z
-DTEND:20260517T050418Z
-DTSTAMP:20260615T075949Z
-UID:19eb45d9f4559536@gid-seminars.wnprc.wisc.edu
-CATEGORIES:Podcast - TWiV
-DESCRIPTION:[Podcast: This Week in Virology]\n\nTWiV explains mRNA deliver
- y of mosaic-8 pan-sarbecovirus RBD vaccines\, and how toll-like receptor 7
-  alters the maternal immune landscape during influenza A infection to incr
- ease maternal and fetal morbidity. Hosts:&nbsp\; Vincent Racaniello \, Ric
- h Condit \, and Kathy Spindler Click arrow to play Download TWiV 1323 (65 
- MB .mp3\, 109 min) Subscribe (free):&nbsp\; Apple Podcasts \,&nbsp\; RSS \
- ,&nbsp\; email Become a&nbsp\; patron &nbsp\;of&nbsp\;TWiV! Links for this
-  episode Support science education at MicrobeTV 1:58 Positions in Rosenfel
- d Lab (email) 3:40 RFK Jr. driving vast inquiry into vaccines (NY Times) 1
- 4:46 Indiana plant biologist locked out of lab by school (Science) 16:26 T
- rump cuts CDC role in PEPFAR (Science) 17:34 Ralph Baric retires (The Asse
- mbly) 19:15 Baric to fight NIH funding ban (Science) 20:04 Ebola outbreak 
- in DRC (npr) 26:16 Persistence of Andes virus RNA in human semen (Viruses)
-  7:42 mRNA delivery of mosaic-8 pan-sarbecovirus RBD vaccines (Cell Rep) 2
- 7:26 Science will break your heart ( TWiV 920 ) 28:05 TLR7 and maternal an
- d fetal morbidity during influenza (Sci Adv) 1:00:51 Letters read on TWiV 
- 1323 1:29:06 Timestamps by&nbsp\; Jolene Ramsey. Thanks! Weekly Picks 1:31
- :48 Kathy &#8211\; Bloomberg Connects app and What’s in Bloom&nbsp\; Peo
- ny Season 2026 Bloom Tracker Rich &#8211\; Medpage Today: What you need to
-  know about hantavirus Vincent &#8211\; Apollo 11 Almost Never Left the Mo
- on Intro music is by&nbsp\; Ronald Jenkees Send your virology questions an
- d comments to t\n\nEvent URL: https://www.microbe.tv/twiv/twiv-1323/\n\nSo
- urce: twiv_podcast
-LOCATION:Podcast
-URL:https://www.microbe.tv/twiv/twiv-1323/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: TWiV 1323: One influenza infection\, two patients
-TRIGGER:-PT1H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:BIA 28th Annual Clinical and Scientific Meeting
 DTSTART;TZID=America/New_York:20260519T000000
 DTEND;TZID=America/New_York:20260520T000000
-DTSTAMP:20260615T075949Z
+DTSTAMP:20260616T075833Z
 UID:28b246e007879429@gid-seminars.wnprc.wisc.edu
 CATEGORIES:ASTMH
 DESCRIPTION:\nEvent URL: https://www.astmh.org/news-events/events-calendar
@@ -67,7 +29,7 @@ BEGIN:VEVENT
 SUMMARY:BIA 28th Annual Scientific Meeting
 DTSTART;TZID=America/New_York:20260519T000000
 DTEND;TZID=America/New_York:20260520T000000
-DTSTAMP:20260615T075949Z
+DTSTAMP:20260616T075833Z
 UID:4003cb0cc68b9f62@gid-seminars.wnprc.wisc.edu
 CATEGORIES:ASTMH
 DESCRIPTION:\nEvent URL: https://www.astmh.org/news-events/events-calendar
@@ -85,7 +47,7 @@ BEGIN:VEVENT
 SUMMARY:The microscopic world of kelp forest ecosystems
 DTSTART;TZID=America/Los_Angeles:20260520T010000
 DTEND;TZID=America/Los_Angeles:20260520T020000
-DTSTAMP:20260615T075949Z
+DTSTAMP:20260616T075833Z
 UID:81fc6b38cebfaa97@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Lecture/Presentation/Talk
 DESCRIPTION:Towering giant kelp forests can reach heights of 100 feet tall
@@ -116,7 +78,7 @@ BEGIN:VEVENT
 SUMMARY:ESS Oral Defense - Ian Harryman - May 21 - Green 365 @ 9:30 AM
 DTSTART;TZID=America/Los_Angeles:20260521T163000
 DTEND;TZID=America/Los_Angeles:20260521T173000
-DTSTAMP:20260615T075949Z
+DTSTAMP:20260616T075833Z
 UID:30f0ec0eeac6db8e@gid-seminars.wnprc.wisc.edu
 CATEGORIES:PhD Defense
 DESCRIPTION:Stanford University\n\n*** Ph.D. Thesis/ Oral Defense ***\n\n 
@@ -163,7 +125,7 @@ BEGIN:VEVENT
 SUMMARY:TWiV 1324: Clinical update with Dr. Daniel Griffin
 DTSTART:20260523T045504Z
 DTEND:20260523T055504Z
-DTSTAMP:20260615T075949Z
+DTSTAMP:20260616T075833Z
 UID:42d6767096799585@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Podcast - TWiV
 DESCRIPTION:[Podcast: This Week in Virology]\n\nIn his weekly clinical upd
@@ -201,7 +163,7 @@ BEGIN:VEVENT
 SUMMARY:TWiV 1325: Sticky flu with Hannah Rowe
 DTSTART:20260524T040000Z
 DTEND:20260524T050000Z
-DTSTAMP:20260615T075949Z
+DTSTAMP:20260616T075833Z
 UID:8d83538ab8cc1f18@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Podcast - TWiV
 DESCRIPTION:[Podcast: This Week in Virology]\n\nVincent travels to Oregon 
@@ -233,7 +195,7 @@ BEGIN:VEVENT
 SUMMARY:Sleep Your Way to Health and Happiness
 DTSTART;TZID=America/Los_Angeles:20260526T190000
 DTEND;TZID=America/Los_Angeles:20260526T200000
-DTSTAMP:20260615T075949Z
+DTSTAMP:20260616T075833Z
 UID:36c9ca01836e73b7@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Class/Seminar
 DESCRIPTION:Good sleep is critical to a healthy lifestyle. Studies have sh
@@ -269,7 +231,7 @@ SUMMARY:TEPHI Grand Rounds | How the Texas Department of State Health Serv
  ices is Preparing for the World Cup
 DTSTART;TZID=America/Chicago:20260527T150000
 DTEND;TZID=America/Chicago:20260527T160000
-DTSTAMP:20260615T075949Z
+DTSTAMP:20260616T075833Z
 UID:38480a1b48ae1bec@gid-seminars.wnprc.wisc.edu
 CATEGORIES:TEPHI
 DESCRIPTION:\nEvent URL: https://tephi.texas.gov/events/event?id=92be3f1a-
@@ -288,7 +250,7 @@ BEGIN:VEVENT
 SUMMARY:TWiV 1326: Clinical update with Dr. Daniel Griffin
 DTSTART:20260530T040000Z
 DTEND:20260530T050000Z
-DTSTAMP:20260615T075949Z
+DTSTAMP:20260616T075833Z
 UID:caaf5fd0e8ce29b5@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Podcast - TWiV
 DESCRIPTION:[Podcast: This Week in Virology]\n\nIn his weekly clinical upd
@@ -326,7 +288,7 @@ BEGIN:VEVENT
 SUMMARY:TWiV 1327: Influenza viruses in the MIST
 DTSTART:20260531T040000Z
 DTEND:20260531T050000Z
-DTSTAMP:20260615T075949Z
+DTSTAMP:20260616T075833Z
 UID:40ef25c0e4bb1540@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Podcast - TWiV
 DESCRIPTION:[Podcast: This Week in Virology]\n\nTWiV explains research on 
@@ -364,7 +326,7 @@ BEGIN:VEVENT
 SUMMARY:ESS Oral Defense - June Choi - June 1 - Shriram 262 @ 9:30 AM
 DTSTART;TZID=America/Los_Angeles:20260601T163000
 DTEND;TZID=America/Los_Angeles:20260601T173000
-DTSTAMP:20260615T075949Z
+DTSTAMP:20260616T075833Z
 UID:616265eaa9d6b901@gid-seminars.wnprc.wisc.edu
 CATEGORIES:PhD Defense
 DESCRIPTION:Stanford University\n\n*** Ph.D. Thesis/ Oral Defense ***\n\n 
@@ -413,7 +375,7 @@ SUMMARY:An integrated chemical-biological wastewater treatment process usi
  cteria
 DTSTART;TZID=America/Los_Angeles:20260601T183000
 DTEND;TZID=America/Los_Angeles:20260601T192000
-DTSTAMP:20260615T075949Z
+DTSTAMP:20260616T075833Z
 UID:9e927224cbd5642b@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Class/Seminar
 DESCRIPTION:Special seminar by Dr. Yang Kun-Lin\, National University of S
@@ -461,7 +423,7 @@ SUMMARY:WEBINAR | From Hantavirus to Ebola: How Changing Environments Are
  Driving Disease
 DTSTART;TZID=America/Los_Angeles:20260605T180000
 DTEND;TZID=America/Los_Angeles:20260605T190000
-DTSTAMP:20260615T075949Z
+DTSTAMP:20260616T075833Z
 UID:41279f4901656478@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Lecture/Presentation/Talk
 DESCRIPTION:In this webinar hosted by the Stanford Center for Human and Pl
@@ -507,7 +469,7 @@ BEGIN:VEVENT
 SUMMARY:When Adventure Meets Infectious Diseases
 DTSTART:20260606T000000Z
 DTEND:20260606T010000Z
-DTSTAMP:20260615T075949Z
+DTSTAMP:20260616T075833Z
 UID:e80502e2ee4dd028@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Podcast - IDSA
 DESCRIPTION:[Podcast: Let's Talk ID] Duration: 1522\n\nPaul Sax\, MD\, FID
@@ -531,7 +493,7 @@ BEGIN:VEVENT
 SUMMARY:TWiV 1328: Clinical update with Dr. Daniel Griffin
 DTSTART:20260606T040000Z
 DTEND:20260606T050000Z
-DTSTAMP:20260615T075949Z
+DTSTAMP:20260616T075833Z
 UID:e73f52db859c6cf6@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Podcast - TWiV
 DESCRIPTION:[Podcast: This Week in Virology]\n\nIn his weekly clinical upd
@@ -569,7 +531,7 @@ BEGIN:VEVENT
 SUMMARY:TWiV 1329: How HIV-1 goes nuclear
 DTSTART:20260607T040000Z
 DTEND:20260607T050000Z
-DTSTAMP:20260615T075949Z
+DTSTAMP:20260616T075833Z
 UID:15bc96855de128c0@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Podcast - TWiV
 DESCRIPTION:[Podcast: This Week in Virology]\n\nTWiV explains research sho
@@ -607,7 +569,7 @@ SUMMARY:Stanford Cancer Institute Breakthroughs in Cancer: Cold Yet Vaccin
  able? RNA Vaccines for Pancreatic Cancer
 DTSTART;TZID=America/Los_Angeles:20260609T230000
 DTEND;TZID=America/Los_Angeles:20260610T000000
-DTSTAMP:20260615T075949Z
+DTSTAMP:20260616T075833Z
 UID:9ab7985c82d7e05d@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Class/Seminar
 DESCRIPTION:The Stanford Cancer Institute Breakthroughs in Cancer seminar 
@@ -645,7 +607,7 @@ BEGIN:VEVENT
 SUMMARY:TWiV 1330: Clinical update with Dr. Daniel Griffin
 DTSTART:20260613T040000Z
 DTEND:20260613T050000Z
-DTSTAMP:20260615T075949Z
+DTSTAMP:20260616T075833Z
 UID:e96763b564e635cf@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Podcast - TWiV
 DESCRIPTION:[Podcast: This Week in Virology]\n\nIn his weekly clinical upd
@@ -683,7 +645,7 @@ BEGIN:VEVENT
 SUMMARY:TWiV 1331: A drug for cervical cancer
 DTSTART:20260614T043940Z
 DTEND:20260614T053940Z
-DTSTAMP:20260615T075949Z
+DTSTAMP:20260616T075833Z
 UID:afd02a641801b064@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Podcast - TWiV
 DESCRIPTION:[Podcast: This Week in Virology]\n\nTWiV explains research sho
@@ -717,57 +679,12 @@ TRIGGER:-PT1H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Simulation for global health: from innovation to implementation
-DTSTART:20260615T000000Z
-DTEND:20260616T000000Z
-DTSTAMP:20260615T075949Z
-UID:ce390ee2806ac01b@gid-seminars.wnprc.wisc.edu
-CATEGORIES:WHO
-DESCRIPTION:The WHO Academy\, the WHO Health Emergencies Programme (WHE)\,
-  and SESAM (Society for Simulation in Europe) are bringing together global
-  health leaders\, educators\, health professionals\, researchers and partn
- ers for a collaborative event dedicated to the future of simulation-based 
- learning in global health.\n\nEvent URL: https://www.who.int/news-room/eve
- nts/detail/2026/06/15/default-calendar/simulation-for-global-health--from-
- innovation-to-implementation\n\nSource: who_events
-LOCATION:Online/Geneva
-URL:https://www.who.int/news-room/events/detail/2026/06/15/default-calenda
- r/simulation-for-global-health--from-innovation-to-implementation
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Simulation for global health: from innovation to imp
- lementation
-TRIGGER:-PT1H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:World Dengue Day 2026
-DTSTART:20260615T000000Z
-DTEND:20260616T000000Z
-DTSTAMP:20260615T075949Z
-UID:e59b78e9098f860b@gid-seminars.wnprc.wisc.edu
-CATEGORIES:WHO
-DESCRIPTION:World Dengue Day ﻿is observed each year on 15 June to raise 
- awareness of dengue\, a neglected tropical disease and one of the fastest-
- spreading infectious conditions worldwide.\n\nEvent URL: https://www.who.i
- nt/news-room/events/detail/2026/06/15/default-calendar/world-dengue-day-20
- 26\n\nSource: who_events
-LOCATION:Online/Geneva
-URL:https://www.who.int/news-room/events/detail/2026/06/15/default-calenda
- r/world-dengue-day-2026
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: World Dengue Day 2026
-TRIGGER:-PT1H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:WHO Health Emergencies EPI-WIN webinar: Hantavirus in focus IV: In
  fection prevention and control: from isolation to safe discharge and quara
  ntine
 DTSTART:20260616T120000Z
 DTEND:20260616T130000Z
-DTSTAMP:20260615T075949Z
+DTSTAMP:20260616T075833Z
 UID:c2366c59a74b5b60@gid-seminars.wnprc.wisc.edu
 CATEGORIES:WHO
 DESCRIPTION:This webinar will explore current experience related to the de
@@ -793,11 +710,45 @@ TRIGGER:-PT1H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Delivering the HIV Prevention Ambition
+DTSTART;TZID=America/New_York:20260622T000000
+DTEND;TZID=America/New_York:20260622T010000
+DTSTAMP:20260616T075833Z
+UID:2a67644c2e9c4f54@gid-seminars.wnprc.wisc.edu
+CATEGORIES:AVAC
+DESCRIPTION:\nEvent URL: https://avac.org/event/delivering-the-hiv-prevent
+ ion-ambition/\n\nSource: avac_events
+URL:https://avac.org/event/delivering-the-hiv-prevention-ambition/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Delivering the HIV Prevention Ambition
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Accelerating Progress Towards Ending HIV\, TB\, Hepatitis and STIs
+DTSTART;TZID=America/New_York:20260622T000000
+DTEND;TZID=America/New_York:20260622T010000
+DTSTAMP:20260616T075833Z
+UID:439347d794ab8119@gid-seminars.wnprc.wisc.edu
+CATEGORIES:AVAC
+DESCRIPTION:\nEvent URL: https://avac.org/event/accelerating-progress-towa
+ rds-ending-hiv-tb-hepatitis-and-stis/\n\nSource: avac_events
+URL:https://avac.org/event/accelerating-progress-towards-ending-hiv-tb-hep
+ atitis-and-stis/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Accelerating Progress Towards Ending HIV\, TB\, Hepa
+ titis and STIs
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Imperial College London returns to the WHO Academy in Lyon for its
   second annual study visit
 DTSTART:20260624T000000Z
 DTEND:20260627T000000Z
-DTSTAMP:20260615T075949Z
+DTSTAMP:20260616T075833Z
 UID:b3b7c1f8a5787ced@gid-seminars.wnprc.wisc.edu
 CATEGORIES:WHO
 DESCRIPTION:Following the success of the inaugural visit in 2025\, Imperia
@@ -826,7 +777,7 @@ BEGIN:VEVENT
 SUMMARY:APACI Respiratory Diseases Conference 2026
 DTSTART:20260625T000000Z
 DTEND:20260625T010000Z
-DTSTAMP:20260615T075949Z
+DTSTAMP:20260616T075833Z
 UID:d8b675af9b080b83@gid-seminars.wnprc.wisc.edu
 CATEGORIES:ISRV
 DESCRIPTION:25 June 2026 - 8:30 AM Hong Kong Time (UTC+8) - InterContinent
@@ -843,10 +794,46 @@ TRIGGER:-PT1H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Brain Biology Program Meeting and Broad Trauma Initiative Special 
+ Seminar
+DTSTART;TZID=America/New_York:20260625T180000
+DTEND;TZID=America/New_York:20260625T193000
+DTSTAMP:20260616T075833Z
+UID:5acfd16d7978131e@gid-seminars.wnprc.wisc.edu
+CATEGORIES:University - Broad
+DESCRIPTION:Biological Mechanisms of PTSD: Integrating Genomic\, Epigenomi
+ c\, and Immune Perspectives\n\nThe Broad Trauma Initiative (BTI) invites y
+ ou to join us for the June 25th Brain Biology Program Meeting and Broad Tr
+ auma Initiative Special Seminar from 2:00-3:30PM at the Broad Institute of
+  MIT and Harvard\, hosted by Dr. Karestan Koenen and featuring PTSD geneti
+ cs researchers from across the country.\n\nSpeakers: \n\nCaroline Nieverge
+ lt\, PhD\, professor of psychiatry at UC San Diego: “Fulfilling the Prom
+ ise of GWAS: Large-Scale Genomic Discovery in PTSD”\n\nAlicia Smith\, Ph
+ D\, professor and vice chair of research in the Department of Gynecology a
+ nd Obstetrics at Emory University School of Medicine: “Trauma\, Immunity
+ \, and the Epigenome: Biological Mechanisms Underlying PTSD”\n\nMonica U
+ ddin\, PhD\, professor of Global\, Environmental\, and Genomic Health Scie
+ nces at the University of South Florida: "Biologic mechanisms linking geno
+ cide exposure to PTSD in Rwanda”\n\nHosted by Karestan Koenen\, PhD\n\nP
+ lease complete this brief RSVP form if you plan to attend the meeting.\n\n
+ Event URL: https://events.broadinstitute.org/event/brain-biology-program-m
+ eeting-and-broad-trauma-initiative-special-seminar\n\nSource: broad_instit
+ ute
+LOCATION:Stanley Building (75A)\, Yellowstone
+URL:https://events.broadinstitute.org/event/brain-biology-program-meeting-
+ and-broad-trauma-initiative-special-seminar
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Brain Biology Program Meeting and Broad Trauma Initi
+ ative Special Seminar
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:World Influenza Conference 2026
 DTSTART:20260626T000000Z
 DTEND:20260626T010000Z
-DTSTAMP:20260615T075949Z
+DTSTAMP:20260616T075833Z
 UID:e8fd597672c067c8@gid-seminars.wnprc.wisc.edu
 CATEGORIES:ISRV
 DESCRIPTION:The 2026 World Influenza Conference (WIC) is co-organized by t
@@ -868,7 +855,7 @@ SUMMARY:WHO Health Emergencies EPI-WIN webinar: New WHO guidance on bacter
  ial meningitis: a tool for frontline healthcare workers
 DTSTART:20260630T110000Z
 DTEND:20260630T120000Z
-DTSTAMP:20260615T075949Z
+DTSTAMP:20260616T075833Z
 UID:9035fa02beda1653@gid-seminars.wnprc.wisc.edu
 CATEGORIES:WHO
 DESCRIPTION:This webinar provides an overview of the newly released WHO gu
@@ -896,7 +883,7 @@ SUMMARY:Progress Toward Solving Human Rhinovirus Infections: Jack Gwaltney
  ’s Legacy
 DTSTART:20260630T130000Z
 DTEND:20260630T140000Z
-DTSTAMP:20260615T075949Z
+DTSTAMP:20260616T075833Z
 UID:89b168bba74102fe@gid-seminars.wnprc.wisc.edu
 CATEGORIES:ISRV
 DESCRIPTION:Office 7\, 35-37 Ludgate Hill\, London\, EC4M 7JN\, United Kin
@@ -917,7 +904,7 @@ BEGIN:VEVENT
 SUMMARY:CTMID 2026
 DTSTART;TZID=America/New_York:20260701T000000
 DTEND;TZID=America/New_York:20260702T000000
-DTSTAMP:20260615T075949Z
+DTSTAMP:20260616T075833Z
 UID:8c89c491d42fdd49@gid-seminars.wnprc.wisc.edu
 CATEGORIES:ASTMH
 DESCRIPTION:\nEvent URL: https://www.astmh.org/news-events/events-calendar
@@ -934,7 +921,7 @@ BEGIN:VEVENT
 SUMMARY:Smart Snacking for a Healthy Gut\, Brain\, and Heart
 DTSTART;TZID=America/Los_Angeles:20260702T190000
 DTEND;TZID=America/Los_Angeles:20260702T200000
-DTSTAMP:20260615T075949Z
+DTSTAMP:20260616T075833Z
 UID:ea3a8c042298dd53@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Class/Seminar
 DESCRIPTION:Healthy snacks are an important part of any nutrition plan. Th
@@ -977,7 +964,7 @@ SUMMARY:Emerging Infections and Global Outbreaks: Implications for HIV and
   Infectious Disease Care in the US
 DTSTART;TZID=America/Los_Angeles:20260714T100000
 DTEND;TZID=America/Los_Angeles:20260714T110000
-DTSTAMP:20260615T075949Z
+DTSTAMP:20260616T075833Z
 UID:77b5582ffd9b9d45@gid-seminars.wnprc.wisc.edu
 CATEGORIES:IAS-USA
 DESCRIPTION:\nEvent URL: https://www.iasusa.org/events/webinar-2026-chin-h
@@ -995,7 +982,7 @@ BEGIN:VEVENT
 SUMMARY:Journaling to Enhance Your Well-Being (July 14 - August 4)
 DTSTART;TZID=America/Los_Angeles:20260714T230000
 DTEND;TZID=America/Los_Angeles:20260715T001500
-DTSTAMP:20260615T075949Z
+DTSTAMP:20260616T075833Z
 UID:b026342a868f5f93@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Class/Seminar
 DESCRIPTION:Writing down your thoughts and feelings has been found to redu
@@ -1024,6 +1011,30 @@ BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Journaling to Enhance Your Well-Being (July 14 - Aug
  ust 4)
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WHO and UNICEF Estimates of National Immunization Coverage (WUENIC
+ ) 2025 Results Webinar
+DTSTART:20260715T130000Z
+DTEND:20260715T163000Z
+DTSTAMP:20260616T075833Z
+UID:6ae9d9d6a2395721@gid-seminars.wnprc.wisc.edu
+CATEGORIES:WHO
+DESCRIPTION:The 2025 WHO and UNICEF Estimates of National Immunization Cov
+ erage (WUENIC) will be officially released on 15 July 2026.\n\nEvent URL: 
+ https://www.who.int/news-room/events/detail/2026/07/15/default-calendar/wh
+ o-and-unicef-estimates-of-national-immunization-coverage-(wuenic)-2025-res
+ ults-webinar\n\nSource: who_events
+LOCATION:Online/Geneva
+URL:https://www.who.int/news-room/events/detail/2026/07/15/default-calenda
+ r/who-and-unicef-estimates-of-national-immunization-coverage-(wuenic)-2025
+ -results-webinar
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: WHO and UNICEF Estimates of National Immunization Co
+ verage (WUENIC) 2025 Results Webinar
 TRIGGER:-PT1H
 END:VALARM
 END:VEVENT
