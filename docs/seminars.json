@@ -2,7 +2,7 @@
   "metadata": {
     "title": "GID Seminars Feed",
     "description": "Aggregated seminars and webinars for Global Infectious Disease research",
-    "generated_at": "2026-06-16T07:58:33.093026Z",
+    "generated_at": "2026-06-17T07:51:28.141774Z",
     "time_window": {
       "days_behind": 30,
       "days_ahead": 30
@@ -381,23 +381,6 @@
       "recording_url": null
     },
     {
-      "id": "c2366c59a74b5b60",
-      "title": "WHO Health Emergencies EPI-WIN webinar: Hantavirus in focus IV: Infection prevention and control: from isolation to safe discharge and quarantine",
-      "description": "This webinar will explore current experience related to the de-escalation of transmission-based precautions for Andes hantavirus, including practical challenges in implementing IPC measures in isolation and quarantine settings. Drawing on expertise from international and country-level practitioners, the session aims to support risk-based, feasible, and proportionate IPC decision-making in the face of uncertainty.",
-      "url": "https://www.who.int/news-room/events/detail/2026/06/16/default-calendar/who-health-emergencies-epi-win-webinar-hantavirus-in-focus-iv-infection-prevention-and-control-from-isolation-to-safe-discharge-and-quarantine",
-      "start_datetime": "2026-06-16T12:00:00",
-      "end_datetime": "2026-06-16T13:00:00",
-      "timezone": "UTC",
-      "location": "Online/Geneva",
-      "organizer": "World Health Organization",
-      "source": "who_events",
-      "category": "WHO",
-      "tags": [],
-      "access_restriction": "Public",
-      "registration_url": null,
-      "recording_url": null
-    },
-    {
       "id": "2a67644c2e9c4f54",
       "title": "Delivering the HIV Prevention Ambition",
       "description": null,
@@ -562,6 +545,23 @@
       "organizer": null,
       "source": "stanford_virtual",
       "category": "Class/Seminar",
+      "tags": [],
+      "access_restriction": "Public",
+      "registration_url": null,
+      "recording_url": null
+    },
+    {
+      "id": "0d56c61e92a87a2d",
+      "title": "The Future Won\u2019t Build Itself",
+      "description": null,
+      "url": "https://avac.org/event/future-wont-build-itself/",
+      "start_datetime": "2026-07-14T00:00:00",
+      "end_datetime": null,
+      "timezone": "America/New_York",
+      "location": "Online",
+      "organizer": "AVAC",
+      "source": "avac_events",
+      "category": "AVAC",
       "tags": [],
       "access_restriction": "Public",
       "registration_url": null,
