@@ -2,12 +2,12 @@
   "metadata": {
     "title": "GID Seminars Feed",
     "description": "Aggregated seminars and webinars for Global Infectious Disease research",
-    "generated_at": "2026-06-17T07:51:28.141774Z",
+    "generated_at": "2026-06-18T07:42:09.878606Z",
     "time_window": {
       "days_behind": 30,
       "days_ahead": 30
     },
-    "total_events": 33,
+    "total_events": 31,
     "sources": [
       "astmh_events",
       "avac_events",
@@ -57,40 +57,6 @@
     ]
   },
   "events": [
-    {
-      "id": "28b246e007879429",
-      "title": "BIA 28th Annual Clinical and Scientific Meeting",
-      "description": null,
-      "url": "https://www.astmh.org/news-events/events-calendar/british-infection-association-(bia)-annual-meeting",
-      "start_datetime": "2026-05-19T00:00:00",
-      "end_datetime": "2026-05-20T00:00:00",
-      "timezone": "America/New_York",
-      "location": "BCEC, Birmingham UK",
-      "organizer": "ASTMH",
-      "source": "astmh_events",
-      "category": "ASTMH",
-      "tags": [],
-      "access_restriction": "Public",
-      "registration_url": null,
-      "recording_url": null
-    },
-    {
-      "id": "4003cb0cc68b9f62",
-      "title": "BIA 28th Annual Scientific Meeting",
-      "description": null,
-      "url": "https://www.astmh.org/news-events/events-calendar/bia-28th-annual-scientific-meeting",
-      "start_datetime": "2026-05-19T00:00:00",
-      "end_datetime": "2026-05-20T00:00:00",
-      "timezone": "America/New_York",
-      "location": "Birmingham, UK",
-      "organizer": "ASTMH",
-      "source": "astmh_events",
-      "category": "ASTMH",
-      "tags": [],
-      "access_restriction": "Public",
-      "registration_url": null,
-      "recording_url": null
-    },
     {
       "id": "81fc6b38cebfaa97",
       "title": "The microscopic world of kelp forest ecosystems",
@@ -552,7 +518,7 @@
     },
     {
       "id": "0d56c61e92a87a2d",
-      "title": "The Future Won\u2019t Build Itself",
+      "title": "The Future Won\u2019t Build Itself: Sustaining the Movement CASPR Started",
       "description": null,
       "url": "https://avac.org/event/future-wont-build-itself/",
       "start_datetime": "2026-07-14T00:00:00",
