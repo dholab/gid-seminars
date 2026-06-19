@@ -2,12 +2,12 @@
   "metadata": {
     "title": "GID Seminars Feed",
     "description": "Aggregated seminars and webinars for Global Infectious Disease research",
-    "generated_at": "2026-06-18T07:42:09.878606Z",
+    "generated_at": "2026-06-19T07:53:23.617458Z",
     "time_window": {
       "days_behind": 30,
       "days_ahead": 30
     },
-    "total_events": 31,
+    "total_events": 29,
     "sources": [
       "astmh_events",
       "avac_events",
@@ -57,23 +57,6 @@
     ]
   },
   "events": [
-    {
-      "id": "81fc6b38cebfaa97",
-      "title": "The microscopic world of kelp forest ecosystems",
-      "description": "Towering giant kelp forests can reach heights of 100 feet tall in our coastal ocean, but did you know that half of the kelp life cycle is microscopic \u2013 hidden beneath the waves on the ocean floor? In this talk, Dr. Brooke Weigel will take you on a tour of the microscopic world contained within kelp forest ecosystems. In addition to growing and studying microscopic kelp in her lab at Hopkins, Brooke's research zooms in even further - using genomic tools to discover the diverse microbial communities that live on the surfaces of kelp. Every square centimeter of kelp hosts 25 million bacteria - but what do they do for the kelp? Are they friends or foes? Join us as we dive into the microscopic world of our local kelp forest ecosystems!\n\nDr. Brooke Weigel is an Assistant Professor of Oceans at Hopkins Marine Station of Stanford University.\n\nRegistration required whether attending in person or via Zoom.\n\nZoom Registration Link\n\nIn-Person Registration Link",
-      "url": "https://events.stanford.edu/event/microscopic-world-of-kelp-forest-ecosystems",
-      "start_datetime": "2026-05-20T01:00:00",
-      "end_datetime": "2026-05-20T02:00:00",
-      "timezone": "America/Los_Angeles",
-      "location": "Hopkins Marine Station, Izzie Abbott Boatworks Auditorium",
-      "organizer": null,
-      "source": "stanford_virtual",
-      "category": "Lecture/Presentation/Talk",
-      "tags": [],
-      "access_restriction": "Public",
-      "registration_url": null,
-      "recording_url": null
-    },
     {
       "id": "30f0ec0eeac6db8e",
       "title": "ESS Oral Defense - Ian Harryman - May 21 - Green 365 @ 9:30 AM",
@@ -511,23 +494,6 @@
       "organizer": null,
       "source": "stanford_virtual",
       "category": "Class/Seminar",
-      "tags": [],
-      "access_restriction": "Public",
-      "registration_url": null,
-      "recording_url": null
-    },
-    {
-      "id": "0d56c61e92a87a2d",
-      "title": "The Future Won\u2019t Build Itself: Sustaining the Movement CASPR Started",
-      "description": null,
-      "url": "https://avac.org/event/future-wont-build-itself/",
-      "start_datetime": "2026-07-14T00:00:00",
-      "end_datetime": null,
-      "timezone": "America/New_York",
-      "location": "Online",
-      "organizer": "AVAC",
-      "source": "avac_events",
-      "category": "AVAC",
       "tags": [],
       "access_restriction": "Public",
       "registration_url": null,
