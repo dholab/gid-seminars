@@ -2,12 +2,12 @@
   "metadata": {
     "title": "GID Seminars Feed",
     "description": "Aggregated seminars and webinars for Global Infectious Disease research",
-    "generated_at": "2026-06-19T07:53:23.617458Z",
+    "generated_at": "2026-06-20T07:21:17.068260Z",
     "time_window": {
       "days_behind": 30,
       "days_ahead": 30
     },
-    "total_events": 29,
+    "total_events": 32,
     "sources": [
       "astmh_events",
       "avac_events",
@@ -330,6 +330,23 @@
       "recording_url": null
     },
     {
+      "id": "2bda9fc39f72a409",
+      "title": "TWiV 1332: Clinical update with Dr. Daniel Griffin",
+      "description": "[Podcast: This Week in Virology]\n\nIn his weekly clinical update, Daniel Griffin and Vincent Racaniello express concern &nbsp;about vaccine policy and ACIP, scaling back of the CDC\u2019s role in global public health, shingles vaccine and dementia, new screwworm cases, the Ebola outbreak in the Congo and Uganda and where the hantavirus outbreak began, before Dr. Griffin deep dives into the measles outbreak, recent statistics on RSV, influenza and SARS-CoV-2 infections, the Wasterwater Scan dashboard, Johns Hopkins measles tracker, Virgina outbreak of measles, how to access and pay for Paxlovid, how more people were negatively impacted by influenza than COVID, discontinuing contact precautions for COVID, where to go for answers about long COVID-19, and contacting your federal government representative to stop the assault on science and biomedical research. Click arrow to play Download TWiV 1332 (33 MB .mp3, 54 min) Subscribe (free): Apple Podcasts , RSS , email Become a&nbsp; patron &nbsp;of&nbsp;TWiV! Links for this episode Today we filed a motion asking the First Circuit to expedite our appeal of the district court&#8217;s order in the AAP lawsuit that left ACIP\u2014the nation&#8217;s vaccine advisory committee\u2014without a quorum (X) CDC advisers drop decades-old universal hepatitis B birth dose recommendation, suggest blood testing after 1 dose (CIDRAP) HHS asks for expedited appeal of court ruling on US vaccine policy (CIDRAP) New Plan Scales Back C.D.C.\u2019s Work on Diseases Abroad (NY Times) Zoster Vaccination and Deme",
+      "url": "https://www.microbe.tv/twiv/twiv-1332/",
+      "start_datetime": "2026-06-20T04:00:00",
+      "end_datetime": null,
+      "timezone": "UTC",
+      "location": "Podcast",
+      "organizer": "This Week in Virology",
+      "source": "twiv_podcast",
+      "category": "Podcast - TWiV",
+      "tags": [],
+      "access_restriction": "Public",
+      "registration_url": null,
+      "recording_url": null
+    },
+    {
       "id": "2a67644c2e9c4f54",
       "title": "Delivering the HIV Prevention Ambition",
       "description": null,
@@ -364,12 +381,46 @@
       "recording_url": null
     },
     {
+      "id": "151ab011d67c8987",
+      "title": "Future-Proofing the AIDS Response",
+      "description": null,
+      "url": "https://avac.org/event/future-proofing-the-aids-response/",
+      "start_datetime": "2026-06-23T00:00:00",
+      "end_datetime": null,
+      "timezone": "America/New_York",
+      "location": null,
+      "organizer": "AVAC",
+      "source": "avac_events",
+      "category": "AVAC",
+      "tags": [],
+      "access_restriction": "Public",
+      "registration_url": null,
+      "recording_url": null
+    },
+    {
       "id": "b3b7c1f8a5787ced",
       "title": "Imperial College London returns to the WHO Academy in Lyon for its second annual study visit",
       "description": "Following the success of the inaugural visit in 2025, Imperial College London is pleased to return to the WHO Academy in Lyon for its second immersive study visit. This year's cohort of 24 Master of Public Health and Masters in Global Health students will once again have the unique opportunity to engage directly with the WHO Academy's pioneering learning environment, deepening their understanding of global health systems, innovative education methodologies, and the critical role of lifelong learning in building a resilient global health workforce.",
       "url": "https://www.who.int/news-room/events/detail/2026/06/24/default-calendar/imperial-college-london-returns-to-the-who-academy-in-lyon-for-its-second-annual-study-visit",
       "start_datetime": "2026-06-24T00:00:00",
       "end_datetime": "2026-06-27T00:00:00",
+      "timezone": "UTC",
+      "location": "Online/Geneva",
+      "organizer": "World Health Organization",
+      "source": "who_events",
+      "category": "WHO",
+      "tags": [],
+      "access_restriction": "Public",
+      "registration_url": null,
+      "recording_url": null
+    },
+    {
+      "id": "3d8a96bd3c0edd77",
+      "title": "WHO Health Emergencies EPI-WIN webinar: Safe, scalable Ebola (Bundibugyo) care in DR Congo: operations, clinical guidelines and treatment-centre design",
+      "description": "The Democratic Republic of the Congo is responding to its 17th Ebola outbreak, caused by the Bundibugyo virus, in the eastern provinces of Ituri, North Kivu and South Kivu. Bundibugyo virus disease has no licensed vaccine or specific treatment, which makes early detection, high-quality supportive care and safe, well-designed treatment facilities the most powerful tools for saving lives. This webinar brings together WHO and national experts to focus on safe and scalable care.",
+      "url": "https://www.who.int/news-room/events/detail/2026/06/24/default-calendar/who-health-emergencies-epi-win-webinar-safe-scalable-ebola-(bundibugyo)-care-in-dr-congo--operations-clinical-guidelines-and-treatment-centre-design",
+      "start_datetime": "2026-06-24T11:00:00",
+      "end_datetime": "2026-06-24T12:00:00",
       "timezone": "UTC",
       "location": "Online/Geneva",
       "organizer": "World Health Organization",
