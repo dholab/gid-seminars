@@ -7,95 +7,10 @@ X-WR-CALDESC:Aggregated seminars and webinars for Global Infectious Diseas
  e research
 X-WR-CALNAME:GID Seminars
 BEGIN:VEVENT
-SUMMARY:ESS Oral Defense - Ian Harryman - May 21 - Green 365 @ 9:30 AM
-DTSTART;TZID=America/Los_Angeles:20260521T163000
-DTEND;TZID=America/Los_Angeles:20260521T173000
-DTSTAMP:20260620T072117Z
-UID:30f0ec0eeac6db8e@gid-seminars.wnprc.wisc.edu
-CATEGORIES:PhD Defense
-DESCRIPTION:Stanford University\n\n*** Ph.D. Thesis/ Oral Defense ***\n\n 
- \n\nRisk-Management in Rural Bangladesh: Characterizing Livelihood and Hea
- lth Trade-Offs in a Highly Season Environment\n\n \n\nIan Harryman\n\nThur
- sday\, May 21\, 2026\, 9:30 AM\n\nGreen 365\n\nDepartment of Earth System 
- Science\n\nAdvisor: Dr. Jamie Jones\n\nSocial relationships can have multi
- directional impacts on health outcomes. Social support systems can buffer 
- against certain adverse health outcomes such as food insecurity\, while al
- so creating potential pathways for infectious disease transmission. These 
- effects have immense consequences for rural populations whose livelihoods 
- are anchored to local environmental conditions. In this dissertation\, I i
- dentify the functions\, benefits\, and costs of social networks for managi
- ng livelihood risks and health in a highly seasonal environment. From Janu
- ary to September 2024\, I collected panel social network data in rural Ban
- gladesh during rainy and dry seasons in four communities with distinct liv
- elihood strategies. In July 2024\, a political revolution briefly disrupte
- d daily life in Bangladesh but also offered an unforeseen opportunity to o
- bserve socio-economic responses to an extrinsic shock. In Chapter 1\, I ex
- plore the seasonal characteristics of informal support practices and their
-  role in mitigating food insecurity. I find that informal support networks
-  are both dynamic and effective at reducing food insecurity. In Chapter 2\
- , I examine how economic support networks responded to the shock of a poli
- tical revolution. I show that informal economic networks consolidated inwa
- rd during a period of acute uncertainty\, producing redundant and expedien
- t pathways for monetary and resource flows. Finally\, in Chapter 3\, I gen
- erate simulated respiratory disease models to investigate how seasonal inf
- ection risk is mediated by social-contact structures and find that infecti
- on risk is shaped by livelihood responses to seasonal variability. These r
- esults show that densely connected contact netwo\n\nEvent URL: https://eve
- nts.stanford.edu/event/copy-of-ess-oral-defense-anna-gomes-may-20-turing-a
- uditorium-930-am\n\nSource: stanford_virtual
-LOCATION:Green Earth Sciences Building\, 365
-URL:https://events.stanford.edu/event/copy-of-ess-oral-defense-anna-gomes-
- may-20-turing-auditorium-930-am
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: ESS Oral Defense - Ian Harryman - May 21 - Green 365
-  @ 9:30 AM
-TRIGGER:-PT1H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:TWiV 1324: Clinical update with Dr. Daniel Griffin
-DTSTART:20260523T045504Z
-DTEND:20260523T055504Z
-DTSTAMP:20260620T072117Z
-UID:42d6767096799585@gid-seminars.wnprc.wisc.edu
-CATEGORIES:Podcast - TWiV
-DESCRIPTION:[Podcast: This Week in Virology]\n\nIn his weekly clinical upd
- ate\, Daniel Griffin and Vincent Racaniello discuss withdrawal of the ACIP
-  charter published in April 2026\, the first council meeting on antibiotic
-  resistant bacteria\, the latest developments surrounding hantavirus infec
- tions\, and the Ebola outbreak in the Congo and Uganda before Dr. Griffin 
- deep dives into the measles outbreak\, recent statistics RSV\, influenza a
- nd SARS-CoV-2 infections\, the Wasterwater Scan dashboard\, Johns Hopkins 
- measles tracker\, transmission of SARS-CoV-2 through the air including ven
- tilation systems\, how to access and pay for Paxlovid\, where to go for an
- swers about long COVID-19\, early use of antiviral drugs for COVID-19 pati
- ents and contacting your federal government representative to stop the ass
- ault on science and biomedical research. Click arrow to play Download&nbsp
- \; TWiV 1324 (28 MB .mp3\, 46 min) Subscribe (free):&nbsp\; Apple Podcasts
-  \, RSS \,&nbsp\; email Become a&nbsp\; patron &nbsp\;of&nbsp\;TWiV! Links
-  for this episode US health department withdraws vaccine advisory panel ch
- arter (Reuters) 2:36 Meeting of the Presidential Advisory Council on Comba
- ting Antibiotic-Resistant Bacteria (Federal Register) 3:28 Andes Hantaviru
- s Outbreak on a Cruise Ship \, 2026 (NEJM) “Super-Spreaders” and Perso
- n-to-Person Transmission of Andes Virus in Argentina (NEJM) 11:16 Person-t
- o-Person Transmission of Andes Virus in Hantavirus Pulmonary Syndrome\, Ar
- gentina\, 2014 (CDC: Emerging Infectious Diseases) Hantavirus on board wit
- h Prof. Vincent Racani\n\nEvent URL: https://www.microbe.tv/twiv/twiv-1324
- /\n\nSource: twiv_podcast
-LOCATION:Podcast
-URL:https://www.microbe.tv/twiv/twiv-1324/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: TWiV 1324: Clinical update with Dr. Daniel Griffin
-TRIGGER:-PT1H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:TWiV 1325: Sticky flu with Hannah Rowe
 DTSTART:20260524T040000Z
 DTEND:20260524T050000Z
-DTSTAMP:20260620T072117Z
+DTSTAMP:20260621T073927Z
 UID:8d83538ab8cc1f18@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Podcast - TWiV
 DESCRIPTION:[Podcast: This Week in Virology]\n\nVincent travels to Oregon 
@@ -127,7 +42,7 @@ BEGIN:VEVENT
 SUMMARY:Sleep Your Way to Health and Happiness
 DTSTART;TZID=America/Los_Angeles:20260526T190000
 DTEND;TZID=America/Los_Angeles:20260526T200000
-DTSTAMP:20260620T072117Z
+DTSTAMP:20260621T073927Z
 UID:36c9ca01836e73b7@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Class/Seminar
 DESCRIPTION:Good sleep is critical to a healthy lifestyle. Studies have sh
@@ -163,7 +78,7 @@ SUMMARY:TEPHI Grand Rounds | How the Texas Department of State Health Serv
  ices is Preparing for the World Cup
 DTSTART;TZID=America/Chicago:20260527T150000
 DTEND;TZID=America/Chicago:20260527T160000
-DTSTAMP:20260620T072117Z
+DTSTAMP:20260621T073927Z
 UID:38480a1b48ae1bec@gid-seminars.wnprc.wisc.edu
 CATEGORIES:TEPHI
 DESCRIPTION:\nEvent URL: https://tephi.texas.gov/events/event?id=92be3f1a-
@@ -182,7 +97,7 @@ BEGIN:VEVENT
 SUMMARY:TWiV 1326: Clinical update with Dr. Daniel Griffin
 DTSTART:20260530T040000Z
 DTEND:20260530T050000Z
-DTSTAMP:20260620T072117Z
+DTSTAMP:20260621T073927Z
 UID:caaf5fd0e8ce29b5@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Podcast - TWiV
 DESCRIPTION:[Podcast: This Week in Virology]\n\nIn his weekly clinical upd
@@ -220,7 +135,7 @@ BEGIN:VEVENT
 SUMMARY:TWiV 1327: Influenza viruses in the MIST
 DTSTART:20260531T040000Z
 DTEND:20260531T050000Z
-DTSTAMP:20260620T072117Z
+DTSTAMP:20260621T073927Z
 UID:40ef25c0e4bb1540@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Podcast - TWiV
 DESCRIPTION:[Podcast: This Week in Virology]\n\nTWiV explains research on 
@@ -258,7 +173,7 @@ BEGIN:VEVENT
 SUMMARY:ESS Oral Defense - June Choi - June 1 - Shriram 262 @ 9:30 AM
 DTSTART;TZID=America/Los_Angeles:20260601T163000
 DTEND;TZID=America/Los_Angeles:20260601T173000
-DTSTAMP:20260620T072117Z
+DTSTAMP:20260621T073927Z
 UID:616265eaa9d6b901@gid-seminars.wnprc.wisc.edu
 CATEGORIES:PhD Defense
 DESCRIPTION:Stanford University\n\n*** Ph.D. Thesis/ Oral Defense ***\n\n 
@@ -307,7 +222,7 @@ SUMMARY:An integrated chemical-biological wastewater treatment process usi
  cteria
 DTSTART;TZID=America/Los_Angeles:20260601T183000
 DTEND;TZID=America/Los_Angeles:20260601T192000
-DTSTAMP:20260620T072117Z
+DTSTAMP:20260621T073927Z
 UID:9e927224cbd5642b@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Class/Seminar
 DESCRIPTION:Special seminar by Dr. Yang Kun-Lin\, National University of S
@@ -355,7 +270,7 @@ SUMMARY:WEBINAR | From Hantavirus to Ebola: How Changing Environments Are
  Driving Disease
 DTSTART;TZID=America/Los_Angeles:20260605T180000
 DTEND;TZID=America/Los_Angeles:20260605T190000
-DTSTAMP:20260620T072117Z
+DTSTAMP:20260621T073927Z
 UID:41279f4901656478@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Lecture/Presentation/Talk
 DESCRIPTION:In this webinar hosted by the Stanford Center for Human and Pl
@@ -401,7 +316,7 @@ BEGIN:VEVENT
 SUMMARY:When Adventure Meets Infectious Diseases
 DTSTART:20260606T000000Z
 DTEND:20260606T010000Z
-DTSTAMP:20260620T072117Z
+DTSTAMP:20260621T073927Z
 UID:e80502e2ee4dd028@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Podcast - IDSA
 DESCRIPTION:[Podcast: Let's Talk ID] Duration: 1522\n\nPaul Sax\, MD\, FID
@@ -425,7 +340,7 @@ BEGIN:VEVENT
 SUMMARY:TWiV 1328: Clinical update with Dr. Daniel Griffin
 DTSTART:20260606T040000Z
 DTEND:20260606T050000Z
-DTSTAMP:20260620T072117Z
+DTSTAMP:20260621T073927Z
 UID:e73f52db859c6cf6@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Podcast - TWiV
 DESCRIPTION:[Podcast: This Week in Virology]\n\nIn his weekly clinical upd
@@ -463,7 +378,7 @@ BEGIN:VEVENT
 SUMMARY:TWiV 1329: How HIV-1 goes nuclear
 DTSTART:20260607T040000Z
 DTEND:20260607T050000Z
-DTSTAMP:20260620T072117Z
+DTSTAMP:20260621T073927Z
 UID:15bc96855de128c0@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Podcast - TWiV
 DESCRIPTION:[Podcast: This Week in Virology]\n\nTWiV explains research sho
@@ -501,7 +416,7 @@ SUMMARY:Stanford Cancer Institute Breakthroughs in Cancer: Cold Yet Vaccin
  able? RNA Vaccines for Pancreatic Cancer
 DTSTART;TZID=America/Los_Angeles:20260609T230000
 DTEND;TZID=America/Los_Angeles:20260610T000000
-DTSTAMP:20260620T072117Z
+DTSTAMP:20260621T073927Z
 UID:9ab7985c82d7e05d@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Class/Seminar
 DESCRIPTION:The Stanford Cancer Institute Breakthroughs in Cancer seminar 
@@ -539,7 +454,7 @@ BEGIN:VEVENT
 SUMMARY:TWiV 1330: Clinical update with Dr. Daniel Griffin
 DTSTART:20260613T040000Z
 DTEND:20260613T050000Z
-DTSTAMP:20260620T072117Z
+DTSTAMP:20260621T073927Z
 UID:e96763b564e635cf@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Podcast - TWiV
 DESCRIPTION:[Podcast: This Week in Virology]\n\nIn his weekly clinical upd
@@ -577,7 +492,7 @@ BEGIN:VEVENT
 SUMMARY:TWiV 1331: A drug for cervical cancer
 DTSTART:20260614T043940Z
 DTEND:20260614T053940Z
-DTSTAMP:20260620T072117Z
+DTSTAMP:20260621T073927Z
 UID:afd02a641801b064@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Podcast - TWiV
 DESCRIPTION:[Podcast: This Week in Virology]\n\nTWiV explains research sho
@@ -614,7 +529,7 @@ BEGIN:VEVENT
 SUMMARY:TWiV 1332: Clinical update with Dr. Daniel Griffin
 DTSTART:20260620T040000Z
 DTEND:20260620T050000Z
-DTSTAMP:20260620T072117Z
+DTSTAMP:20260621T073927Z
 UID:2bda9fc39f72a409@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Podcast - TWiV
 DESCRIPTION:[Podcast: This Week in Virology]\n\nIn his weekly clinical upd
@@ -649,10 +564,77 @@ TRIGGER:-PT1H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:TWiV Special: Ebola virus and Andes virus with John Dye
+DTSTART:20260620T174901Z
+DTEND:20260620T184901Z
+DTSTAMP:20260621T073927Z
+UID:57bff9e4c9dbe332@gid-seminars.wnprc.wisc.edu
+CATEGORIES:Podcast - TWiV
+DESCRIPTION:[Podcast: This Week in Virology]\n\nVincent travels to ASM Mic
+ robe in Washington DC to speak with John Dye of the United States Army Med
+ ical Research Institute of Infectious Diseases about the recent outbreaks 
+ of Bundibugyo ebolavirus in Africa and Andes virus on a cruise ship. Host:
+ &nbsp\; Vincent Racaniello Guest: John Dye Click arrow to play Download TW
+ iV Special (41 MB .mp3\, 57 min) Subscribe (free): Apple Podcasts \, RSS \
+ , email Become a patron of TWiV! Intro music is by&nbsp\; Ronald Jenkees S
+ end your virology questions and comments to twiv@microbe.tv Content in thi
+ s podcast should not be construed as medical advice. The post TWiV Special
+ : Ebola virus and Andes virus with John Dye first appeared on This Week in
+  Virology .\n\nEvent URL: https://www.microbe.tv/twiv/twiv-special-ebola-d
+ ye/\n\nSource: twiv_podcast
+LOCATION:Podcast
+URL:https://www.microbe.tv/twiv/twiv-special-ebola-dye/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: TWiV Special: Ebola virus and Andes virus with John 
+ Dye
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TWiV 1333: STING like a nanoparticle\, float like HIV
+DTSTART:20260621T040000Z
+DTEND:20260621T050000Z
+DTSTAMP:20260621T073927Z
+UID:9f936b57af6cde09@gid-seminars.wnprc.wisc.edu
+CATEGORIES:Podcast - TWiV
+DESCRIPTION:[Podcast: This Week in Virology]\n\nTWiV explains research sho
+ wing how HIV-1 signalling remodels nuclear pores to licence infection\, an
+ d development of STING agonist nanoparticles to enable coordinated mucosal
+ -systemic immunity for durable pan-β-coronavirus protection. Hosts: Vince
+ nt Racaniello \, Alan Dove \, Rich Condit \, and Brianne Barker Click arro
+ w to play Download TWiV 1333 (69 MB .mp3\, 115 min) Subscribe (free): Appl
+ e Podcasts \, RSS \, email Become a&nbsp\; patron &nbsp\;of&nbsp\;TWiV! Li
+ nks for this episode Support science education at MicrobeTV Positions in R
+ osenfeld Lab (email) Bundibugyo ebolavirus sitrep (WHO) Ebolavirus and And
+ es virus with John Dye ( TWiV Special ) Major research nonhuman primate su
+ pplier going out of business (Science) HIV-1 signalling remodels nuclear p
+ ores to licence infection (Nature) STING agonist nanoparticles enable muco
+ sal-systemic immunity (Nature Nanoparticles) Timestamps by&nbsp\; Jolene R
+ amsey. Thanks! Picks of the Week Brianne &#8211\; Otherworldly music album
+ s feature space weather data Rich &#8211\; Evidence Mapping: Consolidating
+  and summarising available evidence to support the demonstration of effect
+ iveness of developmental vaccines \, Australian Living Evidence Collaborat
+ ion (ALEC) Alan &#8211\; Holyoke dam fish elevator Vincent &#8211\; 68 Qua
+ drillion Underground Miles of Fungi Intro music is by Ronald Jenkees Send 
+ your virology questions and comments to twiv@microbe.tv Content in this po
+ dcast should not be construed as medical advice. The post TWiV 1333: STING
+  like a nan\n\nEvent URL: https://www.microbe.tv/twiv/twiv-1333/\n\nSource
+ : twiv_podcast
+LOCATION:Podcast
+URL:https://www.microbe.tv/twiv/twiv-1333/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: TWiV 1333: STING like a nanoparticle\, float like HI
+ V
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Delivering the HIV Prevention Ambition
 DTSTART;TZID=America/New_York:20260622T000000
 DTEND;TZID=America/New_York:20260622T010000
-DTSTAMP:20260620T072117Z
+DTSTAMP:20260621T073927Z
 UID:2a67644c2e9c4f54@gid-seminars.wnprc.wisc.edu
 CATEGORIES:AVAC
 DESCRIPTION:\nEvent URL: https://avac.org/event/delivering-the-hiv-prevent
@@ -668,7 +650,7 @@ BEGIN:VEVENT
 SUMMARY:Accelerating Progress Towards Ending HIV\, TB\, Hepatitis and STIs
 DTSTART;TZID=America/New_York:20260622T000000
 DTEND;TZID=America/New_York:20260622T010000
-DTSTAMP:20260620T072117Z
+DTSTAMP:20260621T073927Z
 UID:439347d794ab8119@gid-seminars.wnprc.wisc.edu
 CATEGORIES:AVAC
 DESCRIPTION:\nEvent URL: https://avac.org/event/accelerating-progress-towa
@@ -686,7 +668,7 @@ BEGIN:VEVENT
 SUMMARY:Future-Proofing the AIDS Response
 DTSTART;TZID=America/New_York:20260623T000000
 DTEND;TZID=America/New_York:20260623T010000
-DTSTAMP:20260620T072117Z
+DTSTAMP:20260621T073927Z
 UID:151ab011d67c8987@gid-seminars.wnprc.wisc.edu
 CATEGORIES:AVAC
 DESCRIPTION:\nEvent URL: https://avac.org/event/future-proofing-the-aids-r
@@ -703,7 +685,7 @@ SUMMARY:Imperial College London returns to the WHO Academy in Lyon for its
   second annual study visit
 DTSTART:20260624T000000Z
 DTEND:20260627T000000Z
-DTSTAMP:20260620T072117Z
+DTSTAMP:20260621T073927Z
 UID:b3b7c1f8a5787ced@gid-seminars.wnprc.wisc.edu
 CATEGORIES:WHO
 DESCRIPTION:Following the success of the inaugural visit in 2025\, Imperia
@@ -734,7 +716,7 @@ SUMMARY:WHO Health Emergencies EPI-WIN webinar: Safe\, scalable Ebola (Bun
  centre design
 DTSTART:20260624T110000Z
 DTEND:20260624T120000Z
-DTSTAMP:20260620T072117Z
+DTSTAMP:20260621T073927Z
 UID:3d8a96bd3c0edd77@gid-seminars.wnprc.wisc.edu
 CATEGORIES:WHO
 DESCRIPTION:The Democratic Republic of the Congo is responding to its 17th
@@ -765,7 +747,7 @@ BEGIN:VEVENT
 SUMMARY:APACI Respiratory Diseases Conference 2026
 DTSTART:20260625T000000Z
 DTEND:20260625T010000Z
-DTSTAMP:20260620T072117Z
+DTSTAMP:20260621T073927Z
 UID:d8b675af9b080b83@gid-seminars.wnprc.wisc.edu
 CATEGORIES:ISRV
 DESCRIPTION:25 June 2026 - 8:30 AM Hong Kong Time (UTC+8) - InterContinent
@@ -786,7 +768,7 @@ SUMMARY:Brain Biology Program Meeting and Broad Trauma Initiative Special
  Seminar
 DTSTART;TZID=America/New_York:20260625T180000
 DTEND;TZID=America/New_York:20260625T193000
-DTSTAMP:20260620T072117Z
+DTSTAMP:20260621T073927Z
 UID:5acfd16d7978131e@gid-seminars.wnprc.wisc.edu
 CATEGORIES:University - Broad
 DESCRIPTION:Biological Mechanisms of PTSD: Integrating Genomic\, Epigenomi
@@ -821,7 +803,7 @@ BEGIN:VEVENT
 SUMMARY:World Influenza Conference 2026
 DTSTART:20260626T000000Z
 DTEND:20260626T010000Z
-DTSTAMP:20260620T072117Z
+DTSTAMP:20260621T073927Z
 UID:e8fd597672c067c8@gid-seminars.wnprc.wisc.edu
 CATEGORIES:ISRV
 DESCRIPTION:The 2026 World Influenza Conference (WIC) is co-organized by t
@@ -843,7 +825,7 @@ SUMMARY:WHO Health Emergencies EPI-WIN webinar: New WHO guidance on bacter
  ial meningitis: a tool for frontline healthcare workers
 DTSTART:20260630T110000Z
 DTEND:20260630T120000Z
-DTSTAMP:20260620T072117Z
+DTSTAMP:20260621T073927Z
 UID:9035fa02beda1653@gid-seminars.wnprc.wisc.edu
 CATEGORIES:WHO
 DESCRIPTION:This webinar provides an overview of the newly released WHO gu
@@ -871,7 +853,7 @@ SUMMARY:Progress Toward Solving Human Rhinovirus Infections: Jack Gwaltney
  ’s Legacy
 DTSTART:20260630T130000Z
 DTEND:20260630T140000Z
-DTSTAMP:20260620T072117Z
+DTSTAMP:20260621T073927Z
 UID:89b168bba74102fe@gid-seminars.wnprc.wisc.edu
 CATEGORIES:ISRV
 DESCRIPTION:Office 7\, 35-37 Ludgate Hill\, London\, EC4M 7JN\, United Kin
@@ -892,7 +874,7 @@ BEGIN:VEVENT
 SUMMARY:CTMID 2026
 DTSTART;TZID=America/New_York:20260701T000000
 DTEND;TZID=America/New_York:20260702T000000
-DTSTAMP:20260620T072117Z
+DTSTAMP:20260621T073927Z
 UID:8c89c491d42fdd49@gid-seminars.wnprc.wisc.edu
 CATEGORIES:ASTMH
 DESCRIPTION:\nEvent URL: https://www.astmh.org/news-events/events-calendar
@@ -909,7 +891,7 @@ BEGIN:VEVENT
 SUMMARY:Smart Snacking for a Healthy Gut\, Brain\, and Heart
 DTSTART;TZID=America/Los_Angeles:20260702T190000
 DTEND;TZID=America/Los_Angeles:20260702T200000
-DTSTAMP:20260620T072117Z
+DTSTAMP:20260621T073927Z
 UID:ea3a8c042298dd53@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Class/Seminar
 DESCRIPTION:Healthy snacks are an important part of any nutrition plan. Th
@@ -952,7 +934,7 @@ SUMMARY:Emerging Infections and Global Outbreaks: Implications for HIV and
   Infectious Disease Care in the US
 DTSTART;TZID=America/Los_Angeles:20260714T100000
 DTEND;TZID=America/Los_Angeles:20260714T110000
-DTSTAMP:20260620T072117Z
+DTSTAMP:20260621T073927Z
 UID:77b5582ffd9b9d45@gid-seminars.wnprc.wisc.edu
 CATEGORIES:IAS-USA
 DESCRIPTION:\nEvent URL: https://www.iasusa.org/events/webinar-2026-chin-h
@@ -970,7 +952,7 @@ BEGIN:VEVENT
 SUMMARY:Journaling to Enhance Your Well-Being (July 14 - August 4)
 DTSTART;TZID=America/Los_Angeles:20260714T230000
 DTEND;TZID=America/Los_Angeles:20260715T001500
-DTSTAMP:20260620T072117Z
+DTSTAMP:20260621T073927Z
 UID:b026342a868f5f93@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Class/Seminar
 DESCRIPTION:Writing down your thoughts and feelings has been found to redu
@@ -1007,7 +989,7 @@ SUMMARY:WHO and UNICEF Estimates of National Immunization Coverage (WUENIC
  ) 2025 Results Webinar
 DTSTART:20260715T130000Z
 DTEND:20260715T163000Z
-DTSTAMP:20260620T072117Z
+DTSTAMP:20260621T073927Z
 UID:6ae9d9d6a2395721@gid-seminars.wnprc.wisc.edu
 CATEGORIES:WHO
 DESCRIPTION:The 2025 WHO and UNICEF Estimates of National Immunization Cov
@@ -1023,6 +1005,45 @@ BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: WHO and UNICEF Estimates of National Immunization Co
  verage (WUENIC) 2025 Results Webinar
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Beyond the Brush
+DTSTART;TZID=America/Los_Angeles:20260720T190000
+DTEND;TZID=America/Los_Angeles:20260720T200000
+DTSTAMP:20260621T073927Z
+UID:ccb803051dfd4538@gid-seminars.wnprc.wisc.edu
+CATEGORIES:Class/Seminar
+DESCRIPTION:While most of us were taught that brushing twice a day and flo
+ ssing (when we remember) was how we take care of our teeth\, modern scienc
+ e reveals that maintaining oral health is about far more than just a quick
+  scrub and snap.\n\nOral health is the gateway to your overall systemic we
+ llness\, and effective oral hygiene is a big part of that puzzle. If you a
+ re looking to elevate your daily routine from a chore to an intentional se
+ lf-care ritual for overall wellness\, then this webinar is for you!\n\nWe 
+ will start with the essentials\, demystifying the foundational habits of e
+ ffective at-home care. You will learn the "why" behind traditional techniq
+ ues before we pivot into the cutting-edge world of dental innovation.\n\nW
+ e will navigate the ever-growing “dental care” aisle of the pharmacy t
+ ogether\, breaking down smart ingredients\, modern technologies and innova
+ tions\, and our deeper understanding of the oral microbiome - how to balan
+ ce the "good" bacteria in your mouth for fresher breath and stronger ename
+ l.\n\nWhether you are looking to reverse years of sensitivity\, prevent fu
+ ture dental work\, or simply understand the labels on your products\, this
+  course provides the clarity you need. By the end\, you’ll have a person
+ alized\, tech-forward toolkit to maintain a radiant smile for a lifetime.\
+ n\nThis class will be recorded and a one-week link to the recording will b
+ e shared with all registered participants. \n\nTo receive incentive points
+ \, attend at least 80% of the live session or listen to the entire recordi
+ ng within one week.\n\nRequest disability accommodations and access info.\
+ n\n\n\nClass details are subject to change.\n\nEvent URL: https://events.s
+ tanford.edu/event/beyond-the-brush\n\nSource: stanford_virtual
+LOCATION:Online
+URL:https://events.stanford.edu/event/beyond-the-brush
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Beyond the Brush
 TRIGGER:-PT1H
 END:VALARM
 END:VEVENT
