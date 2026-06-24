@@ -2,12 +2,12 @@
   "metadata": {
     "title": "GID Seminars Feed",
     "description": "Aggregated seminars and webinars for Global Infectious Disease research",
-    "generated_at": "2026-06-23T07:15:55.359679Z",
+    "generated_at": "2026-06-24T07:12:33.679558Z",
     "time_window": {
       "days_behind": 30,
       "days_ahead": 30
     },
-    "total_events": 34,
+    "total_events": 33,
     "sources": [
       "astmh_events",
       "avac_events",
@@ -49,7 +49,6 @@
       "Podcast - IDSA",
       "Podcast - TWiV",
       "TEPHI",
-      "Talks",
       "University - Broad",
       "University - UCSF",
       "University - USask",
@@ -348,23 +347,6 @@
       "recording_url": null
     },
     {
-      "id": "151ab011d67c8987",
-      "title": "Future-Proofing the AIDS Response",
-      "description": null,
-      "url": "https://avac.org/event/future-proofing-the-aids-response/",
-      "start_datetime": "2026-06-23T00:00:00",
-      "end_datetime": null,
-      "timezone": "America/New_York",
-      "location": null,
-      "organizer": "AVAC",
-      "source": "avac_events",
-      "category": "AVAC",
-      "tags": [],
-      "access_restriction": "Public",
-      "registration_url": null,
-      "recording_url": null
-    },
-    {
       "id": "b3b7c1f8a5787ced",
       "title": "Imperial College London returns to the WHO Academy in Lyon for its second annual study visit",
       "description": "Following the success of the inaugural visit in 2025, Imperial College London is pleased to return to the WHO Academy in Lyon for its second immersive study visit. This year's cohort of 24 Master of Public Health and Masters in Global Health students will once again have the unique opportunity to engage directly with the WHO Academy's pioneering learning environment, deepening their understanding of global health systems, innovative education methodologies, and the critical role of lifelong learning in building a resilient global health workforce.",
@@ -484,23 +466,6 @@
       "recording_url": null
     },
     {
-      "id": "9a704cf7607f05e9",
-      "title": "Cancer Program Meeting",
-      "description": "June 30\n\nTitle: Basal Stem\u2013Like Drug-Tolerant Persister Cells in Lung Cancer\n\nPresenter: Toshio Fujino (Hata Lab)\n\nTitle: Inhibition of NHEJ-dependent DNA repair paradoxically rescues T cell exhaustion\n\nPresenter: Cansu Yerinde (Sen Lab)\n\n \n\nJuly 14\n\nTitle: TBD\n\nPresenter: Giulia Escobar (Maus Lab)\n\nTitle: TBD\n\nPresenter: Coco Wu (Sanchez Rivera Lab)\n\n \n\nJuly 28\n\nTitle: TBD\n\nPresenter: Rishi Puram (Golub Lab)\n\nTitle: TBD\n\nPresenter: Shahab Sarmashghi (Beroukhim Lab)\n\n \n\nPlease note: Cancer Program meetings are fully in person with a networking breakfast provided before the meeting beginning at 8:45 AM. Our meeting will start at 9 AM",
-      "url": "https://events.broadinstitute.org/event/cancer-program-meeting-1343",
-      "start_datetime": "2026-06-30T13:00:00",
-      "end_datetime": "2026-06-30T14:00:00",
-      "timezone": "America/New_York",
-      "location": "300 Binney (300B), Charles conference rrom - 2nd floor",
-      "organizer": null,
-      "source": "broad_institute",
-      "category": "Talks",
-      "tags": [],
-      "access_restriction": "Public",
-      "registration_url": null,
-      "recording_url": null
-    },
-    {
       "id": "8c89c491d42fdd49",
       "title": "CTMID 2026",
       "description": null,
@@ -529,6 +494,23 @@
       "organizer": null,
       "source": "stanford_virtual",
       "category": "Class/Seminar",
+      "tags": [],
+      "access_restriction": "Public",
+      "registration_url": null,
+      "recording_url": null
+    },
+    {
+      "id": "0d56c61e92a87a2d",
+      "title": "The Future Won\u2019t Build Itself: Sustaining the Movement CASPR Started",
+      "description": null,
+      "url": "https://avac.org/event/future-wont-build-itself/",
+      "start_datetime": "2026-07-14T00:00:00",
+      "end_datetime": null,
+      "timezone": "America/New_York",
+      "location": "Online",
+      "organizer": "AVAC",
+      "source": "avac_events",
+      "category": "AVAC",
       "tags": [],
       "access_restriction": "Public",
       "registration_url": null,
