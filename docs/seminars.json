@@ -2,7 +2,7 @@
   "metadata": {
     "title": "GID Seminars Feed",
     "description": "Aggregated seminars and webinars for Global Infectious Disease research",
-    "generated_at": "2026-06-26T07:19:38.420728Z",
+    "generated_at": "2026-06-27T07:06:04.149109Z",
     "time_window": {
       "days_behind": 30,
       "days_ahead": 30
@@ -57,23 +57,6 @@
     ]
   },
   "events": [
-    {
-      "id": "38480a1b48ae1bec",
-      "title": "TEPHI Grand Rounds | How the Texas Department of State Health Services is Preparing for the World Cup",
-      "description": null,
-      "url": "https://tephi.texas.gov/events/event?id=92be3f1a-6096-44aa-ad11-7a7c9249d770",
-      "start_datetime": "2026-05-27T15:00:00",
-      "end_datetime": null,
-      "timezone": "America/Chicago",
-      "location": "Virtual",
-      "organizer": "Texas EPHI",
-      "source": "tephi_events",
-      "category": "TEPHI",
-      "tags": [],
-      "access_restriction": "Public",
-      "registration_url": null,
-      "recording_url": null
-    },
     {
       "id": "caaf5fd0e8ce29b5",
       "title": "TWiV 1326: Clinical update with Dr. Daniel Griffin",
@@ -375,6 +358,23 @@
       "organizer": "ISRV",
       "source": "isrv_events",
       "category": "ISRV",
+      "tags": [],
+      "access_restriction": "Public",
+      "registration_url": null,
+      "recording_url": null
+    },
+    {
+      "id": "c87fc9d7c7eeed9c",
+      "title": "TWiV 1334: Clinical update with Dr. Daniel Griffin",
+      "description": "[Podcast: This Week in Virology]\n\nIn his weekly clinical update, Daniel Griffin and Vincent Racaniello discuss the global economic burden of infectious disease, restoring trust in vaccinology, the Legionnaires outbreak in Harlem, new screwworm cases, the Ebola outbreak in the Congo and Uganda and an import case into France, end of the hantavirus outbreak before Dr. Griffin deep dives into the measles outbreak, recent statistics RSV, influenza and SARS-CoV-2 infections, the Wasterwater Scan dashboard, Johns Hopkins measles tracker, outbreak of measles in Cook County Illionis in 2025, loss of measles elimination in the US, how to access and pay for Paxlovid, publication of the blocked COVID-19 vaccine findings, where to go for answers about long COVID-19, and contacting your federal government representative to stop the assault on science and biomedical research. Click arrow to play Download TWiV 1334 (19 MB .mp3, 31 min) Subscribe (free): Apple Podcasts , RSS , email Become a&nbsp; patron &nbsp;of&nbsp;TWiV! Links for this episode Health and economic burdens of emerging infectious diseases in the USA, US territories and globally (BMJ Journal of Global Health) Meeting People Where They Are: Scientist-Creators Delivering Trusted Health Information on Social Media and Beyond (The Evidence Collective) Vaccine Integrity Project , The Evidence Collective announce projects to improve vaccine policy, restore trust (CIDRAP) Outbreak of Legionnaires\u2019 Disease Associated with Cooling Tower Systems in Central Harlem (NEJM ",
+      "url": "https://www.microbe.tv/twiv/twiv-1334/",
+      "start_datetime": "2026-06-27T04:00:00",
+      "end_datetime": null,
+      "timezone": "UTC",
+      "location": "Podcast",
+      "organizer": "This Week in Virology",
+      "source": "twiv_podcast",
+      "category": "Podcast - TWiV",
       "tags": [],
       "access_restriction": "Public",
       "registration_url": null,
