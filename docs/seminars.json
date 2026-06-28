@@ -2,12 +2,12 @@
   "metadata": {
     "title": "GID Seminars Feed",
     "description": "Aggregated seminars and webinars for Global Infectious Disease research",
-    "generated_at": "2026-06-27T07:06:04.149109Z",
+    "generated_at": "2026-06-28T07:22:25.783962Z",
     "time_window": {
       "days_behind": 30,
       "days_ahead": 30
     },
-    "total_events": 33,
+    "total_events": 34,
     "sources": [
       "astmh_events",
       "avac_events",
@@ -613,6 +613,23 @@
       "organizer": "AVAC",
       "source": "avac_events",
       "category": "AVAC",
+      "tags": [],
+      "access_restriction": "Public",
+      "registration_url": null,
+      "recording_url": null
+    },
+    {
+      "id": "fb8b3473e8225cf1",
+      "title": "Timely Topics in Global Health Webinar",
+      "description": "Communicating about public and global health has never been more challenging \u2014 or more important. Our panel of global health communications experts will discuss the current challenges, including disinformation, the rise of AI, and declining public trust, and highlight solutions and best practices, based on a new commentary in Nature Health and insights from the Stanford Global Health Media Fellowship.\n\nModerator\n\nEli Cahan, MD\n\nAward-winning investigative health journalist, Stanford neonatal intensive care fellow, CIGH postdoctoral affiliate, director of the Stanford Health Media Fellowship\n\nPanelists\n\nNeha Mukherjee\n\n2024-25 Global Health Media Fellow, Medical student, Icahn School of Medicine at Mt. Sinai\n\nNeha Mukherjee was the 2024-2025 Stanford Global Health Media Fellow and is a third-year medical student at the Icahn School of Medicine at Mount Sinai. In 2022, Neha graduated from Brown University with degrees in Public Health and Journalism. Her work has been featured in CNN, where she helped lead coverage of the 2025 measles outbreak in Texas, NBC News, WIRED, the San Francisco Chronicle, and the Philadelphia Inquirer. \n\nGabriella Stern\n\nRecently retired Director of Communications, World Health Organization\n\nGabriella Stern is a research fellow at the Harvard Center for International Development at Harvard Kennedy School, and a senior communications adviser at Harvard T.H. Chan School of Public Health, where she is also a journalist in residence at the Center for Health Communication. In addition, Gabby serves as an external adviser at the Stanford Center for Innovation in Global Health. She retired as Director of Communications at the World Health Organization on Sept. 30, 2025 after 6 1/2 years in the role. She led the organization\u2019s global communications strategy, managed a team of communications professionals, and served as spokesperson for the Director-General. She joined WHO in March 2019 after more than three years as  Director of Media & External Rel",
+      "url": "https://events.stanford.edu/event/timely-topics-in-global-health-webinar",
+      "start_datetime": "2026-07-27T19:00:00",
+      "end_datetime": "2026-07-27T20:00:00",
+      "timezone": "America/Los_Angeles",
+      "location": "Online",
+      "organizer": null,
+      "source": "stanford_virtual",
+      "category": "Lecture/Presentation/Talk",
       "tags": [],
       "access_restriction": "Public",
       "registration_url": null,

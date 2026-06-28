@@ -10,7 +10,7 @@ BEGIN:VEVENT
 SUMMARY:TWiV 1326: Clinical update with Dr. Daniel Griffin
 DTSTART:20260530T040000Z
 DTEND:20260530T050000Z
-DTSTAMP:20260627T070604Z
+DTSTAMP:20260628T072225Z
 UID:caaf5fd0e8ce29b5@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Podcast - TWiV
 DESCRIPTION:[Podcast: This Week in Virology]\n\nIn his weekly clinical upd
@@ -48,7 +48,7 @@ BEGIN:VEVENT
 SUMMARY:TWiV 1327: Influenza viruses in the MIST
 DTSTART:20260531T040000Z
 DTEND:20260531T050000Z
-DTSTAMP:20260627T070604Z
+DTSTAMP:20260628T072225Z
 UID:40ef25c0e4bb1540@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Podcast - TWiV
 DESCRIPTION:[Podcast: This Week in Virology]\n\nTWiV explains research on 
@@ -86,7 +86,7 @@ BEGIN:VEVENT
 SUMMARY:ESS Oral Defense - June Choi - June 1 - Shriram 262 @ 9:30 AM
 DTSTART;TZID=America/Los_Angeles:20260601T163000
 DTEND;TZID=America/Los_Angeles:20260601T173000
-DTSTAMP:20260627T070604Z
+DTSTAMP:20260628T072225Z
 UID:616265eaa9d6b901@gid-seminars.wnprc.wisc.edu
 CATEGORIES:PhD Defense
 DESCRIPTION:Stanford University\n\n*** Ph.D. Thesis/ Oral Defense ***\n\n 
@@ -135,7 +135,7 @@ SUMMARY:An integrated chemical-biological wastewater treatment process usi
  cteria
 DTSTART;TZID=America/Los_Angeles:20260601T183000
 DTEND;TZID=America/Los_Angeles:20260601T192000
-DTSTAMP:20260627T070604Z
+DTSTAMP:20260628T072225Z
 UID:9e927224cbd5642b@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Class/Seminar
 DESCRIPTION:Special seminar by Dr. Yang Kun-Lin\, National University of S
@@ -183,7 +183,7 @@ SUMMARY:WEBINAR | From Hantavirus to Ebola: How Changing Environments Are
  Driving Disease
 DTSTART;TZID=America/Los_Angeles:20260605T180000
 DTEND;TZID=America/Los_Angeles:20260605T190000
-DTSTAMP:20260627T070604Z
+DTSTAMP:20260628T072225Z
 UID:41279f4901656478@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Lecture/Presentation/Talk
 DESCRIPTION:In this webinar hosted by the Stanford Center for Human and Pl
@@ -229,7 +229,7 @@ BEGIN:VEVENT
 SUMMARY:When Adventure Meets Infectious Diseases
 DTSTART:20260606T000000Z
 DTEND:20260606T010000Z
-DTSTAMP:20260627T070604Z
+DTSTAMP:20260628T072225Z
 UID:e80502e2ee4dd028@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Podcast - IDSA
 DESCRIPTION:[Podcast: Let's Talk ID] Duration: 1522\n\nPaul Sax\, MD\, FID
@@ -253,7 +253,7 @@ BEGIN:VEVENT
 SUMMARY:TWiV 1328: Clinical update with Dr. Daniel Griffin
 DTSTART:20260606T040000Z
 DTEND:20260606T050000Z
-DTSTAMP:20260627T070604Z
+DTSTAMP:20260628T072225Z
 UID:e73f52db859c6cf6@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Podcast - TWiV
 DESCRIPTION:[Podcast: This Week in Virology]\n\nIn his weekly clinical upd
@@ -291,7 +291,7 @@ BEGIN:VEVENT
 SUMMARY:TWiV 1329: How HIV-1 goes nuclear
 DTSTART:20260607T040000Z
 DTEND:20260607T050000Z
-DTSTAMP:20260627T070604Z
+DTSTAMP:20260628T072225Z
 UID:15bc96855de128c0@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Podcast - TWiV
 DESCRIPTION:[Podcast: This Week in Virology]\n\nTWiV explains research sho
@@ -329,7 +329,7 @@ SUMMARY:Stanford Cancer Institute Breakthroughs in Cancer: Cold Yet Vaccin
  able? RNA Vaccines for Pancreatic Cancer
 DTSTART;TZID=America/Los_Angeles:20260609T230000
 DTEND;TZID=America/Los_Angeles:20260610T000000
-DTSTAMP:20260627T070604Z
+DTSTAMP:20260628T072225Z
 UID:9ab7985c82d7e05d@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Class/Seminar
 DESCRIPTION:The Stanford Cancer Institute Breakthroughs in Cancer seminar 
@@ -367,7 +367,7 @@ BEGIN:VEVENT
 SUMMARY:TWiV 1330: Clinical update with Dr. Daniel Griffin
 DTSTART:20260613T040000Z
 DTEND:20260613T050000Z
-DTSTAMP:20260627T070604Z
+DTSTAMP:20260628T072225Z
 UID:e96763b564e635cf@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Podcast - TWiV
 DESCRIPTION:[Podcast: This Week in Virology]\n\nIn his weekly clinical upd
@@ -405,7 +405,7 @@ BEGIN:VEVENT
 SUMMARY:TWiV 1331: A drug for cervical cancer
 DTSTART:20260614T043940Z
 DTEND:20260614T053940Z
-DTSTAMP:20260627T070604Z
+DTSTAMP:20260628T072225Z
 UID:afd02a641801b064@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Podcast - TWiV
 DESCRIPTION:[Podcast: This Week in Virology]\n\nTWiV explains research sho
@@ -442,7 +442,7 @@ BEGIN:VEVENT
 SUMMARY:TWiV 1332: Clinical update with Dr. Daniel Griffin
 DTSTART:20260620T040000Z
 DTEND:20260620T050000Z
-DTSTAMP:20260627T070604Z
+DTSTAMP:20260628T072225Z
 UID:2bda9fc39f72a409@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Podcast - TWiV
 DESCRIPTION:[Podcast: This Week in Virology]\n\nIn his weekly clinical upd
@@ -480,7 +480,7 @@ BEGIN:VEVENT
 SUMMARY:ID Advocacy in Action: Shaping Policy Ahead of the Midterms
 DTSTART:20260620T090000Z
 DTEND:20260620T100000Z
-DTSTAMP:20260627T070604Z
+DTSTAMP:20260628T072225Z
 UID:2430901f44582345@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Podcast - IDSA
 DESCRIPTION:[Podcast: Let's Talk ID] Duration: 1631\n\nHost Mati Hlatshway
@@ -506,7 +506,7 @@ BEGIN:VEVENT
 SUMMARY:TWiV Special: Ebola virus and Andes virus with John Dye
 DTSTART:20260620T174901Z
 DTEND:20260620T184901Z
-DTSTAMP:20260627T070604Z
+DTSTAMP:20260628T072225Z
 UID:57bff9e4c9dbe332@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Podcast - TWiV
 DESCRIPTION:[Podcast: This Week in Virology]\n\nVincent travels to ASM Mic
@@ -534,7 +534,7 @@ BEGIN:VEVENT
 SUMMARY:TWiV 1333: STING like a nanoparticle\, float like HIV
 DTSTART:20260621T040000Z
 DTEND:20260621T050000Z
-DTSTAMP:20260627T070604Z
+DTSTAMP:20260628T072225Z
 UID:9f936b57af6cde09@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Podcast - TWiV
 DESCRIPTION:[Podcast: This Week in Virology]\n\nTWiV explains research sho
@@ -573,7 +573,7 @@ BEGIN:VEVENT
 SUMMARY:APACI Respiratory Diseases Conference 2026
 DTSTART:20260625T000000Z
 DTEND:20260625T010000Z
-DTSTAMP:20260627T070604Z
+DTSTAMP:20260628T072225Z
 UID:d8b675af9b080b83@gid-seminars.wnprc.wisc.edu
 CATEGORIES:ISRV
 DESCRIPTION:25 June 2026 - 8:30 AM Hong Kong Time (UTC+8) - InterContinent
@@ -594,7 +594,7 @@ SUMMARY:Brain Biology Program Meeting and Broad Trauma Initiative Special
  Seminar
 DTSTART;TZID=America/New_York:20260625T180000
 DTEND;TZID=America/New_York:20260625T193000
-DTSTAMP:20260627T070604Z
+DTSTAMP:20260628T072225Z
 UID:5acfd16d7978131e@gid-seminars.wnprc.wisc.edu
 CATEGORIES:University - Broad
 DESCRIPTION:Biological Mechanisms of PTSD: Integrating Genomic\, Epigenomi
@@ -629,7 +629,7 @@ BEGIN:VEVENT
 SUMMARY:World Influenza Conference 2026
 DTSTART:20260626T000000Z
 DTEND:20260626T010000Z
-DTSTAMP:20260627T070604Z
+DTSTAMP:20260628T072225Z
 UID:e8fd597672c067c8@gid-seminars.wnprc.wisc.edu
 CATEGORIES:ISRV
 DESCRIPTION:The 2026 World Influenza Conference (WIC) is co-organized by t
@@ -650,7 +650,7 @@ BEGIN:VEVENT
 SUMMARY:TWiV 1334: Clinical update with Dr. Daniel Griffin
 DTSTART:20260627T040000Z
 DTEND:20260627T050000Z
-DTSTAMP:20260627T070604Z
+DTSTAMP:20260628T072225Z
 UID:c87fc9d7c7eeed9c@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Podcast - TWiV
 DESCRIPTION:[Podcast: This Week in Virology]\n\nIn his weekly clinical upd
@@ -689,7 +689,7 @@ SUMMARY:WHO Health Emergencies EPI-WIN webinar: New WHO guidance on bacter
  ial meningitis: a tool for frontline healthcare workers
 DTSTART:20260630T110000Z
 DTEND:20260630T120000Z
-DTSTAMP:20260627T070604Z
+DTSTAMP:20260628T072225Z
 UID:9035fa02beda1653@gid-seminars.wnprc.wisc.edu
 CATEGORIES:WHO
 DESCRIPTION:This webinar provides an overview of the newly released WHO gu
@@ -717,7 +717,7 @@ SUMMARY:Progress Toward Solving Human Rhinovirus Infections: Jack Gwaltney
  ’s Legacy
 DTSTART:20260630T130000Z
 DTEND:20260630T140000Z
-DTSTAMP:20260627T070604Z
+DTSTAMP:20260628T072225Z
 UID:89b168bba74102fe@gid-seminars.wnprc.wisc.edu
 CATEGORIES:ISRV
 DESCRIPTION:Office 7\, 35-37 Ludgate Hill\, London\, EC4M 7JN\, United Kin
@@ -738,7 +738,7 @@ BEGIN:VEVENT
 SUMMARY:CTMID 2026
 DTSTART;TZID=America/New_York:20260701T000000
 DTEND;TZID=America/New_York:20260702T000000
-DTSTAMP:20260627T070604Z
+DTSTAMP:20260628T072225Z
 UID:8c89c491d42fdd49@gid-seminars.wnprc.wisc.edu
 CATEGORIES:ASTMH
 DESCRIPTION:\nEvent URL: https://www.astmh.org/news-events/events-calendar
@@ -756,7 +756,7 @@ SUMMARY:Launch of the Blueprint for strengthening responses to fungal dise
  ase and antifungal resistance
 DTSTART:20260701T120000Z
 DTEND:20260701T133000Z
-DTSTAMP:20260627T070604Z
+DTSTAMP:20260628T072225Z
 UID:6e3dcd59c28144b7@gid-seminars.wnprc.wisc.edu
 CATEGORIES:WHO
 DESCRIPTION:\nEvent URL: https://www.who.int/news-room/events/detail/2026/
@@ -777,7 +777,7 @@ BEGIN:VEVENT
 SUMMARY:Smart Snacking for a Healthy Gut\, Brain\, and Heart
 DTSTART;TZID=America/Los_Angeles:20260702T190000
 DTEND;TZID=America/Los_Angeles:20260702T200000
-DTSTAMP:20260627T070604Z
+DTSTAMP:20260628T072225Z
 UID:ea3a8c042298dd53@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Class/Seminar
 DESCRIPTION:Healthy snacks are an important part of any nutrition plan. Th
@@ -820,7 +820,7 @@ SUMMARY:The Future Won’t Build Itself: Sustaining the Movement CASPR Sta
  rted
 DTSTART;TZID=America/New_York:20260714T000000
 DTEND;TZID=America/New_York:20260714T010000
-DTSTAMP:20260627T070604Z
+DTSTAMP:20260628T072225Z
 UID:0d56c61e92a87a2d@gid-seminars.wnprc.wisc.edu
 CATEGORIES:AVAC
 DESCRIPTION:\nEvent URL: https://avac.org/event/future-wont-build-itself/\
@@ -839,7 +839,7 @@ SUMMARY:Emerging Infections and Global Outbreaks: Implications for HIV and
   Infectious Disease Care in the US
 DTSTART;TZID=America/Los_Angeles:20260714T100000
 DTEND;TZID=America/Los_Angeles:20260714T110000
-DTSTAMP:20260627T070604Z
+DTSTAMP:20260628T072225Z
 UID:77b5582ffd9b9d45@gid-seminars.wnprc.wisc.edu
 CATEGORIES:IAS-USA
 DESCRIPTION:\nEvent URL: https://www.iasusa.org/events/webinar-2026-chin-h
@@ -857,7 +857,7 @@ BEGIN:VEVENT
 SUMMARY:Journaling to Enhance Your Well-Being (July 14 - August 4)
 DTSTART;TZID=America/Los_Angeles:20260714T230000
 DTEND;TZID=America/Los_Angeles:20260715T001500
-DTSTAMP:20260627T070604Z
+DTSTAMP:20260628T072225Z
 UID:b026342a868f5f93@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Class/Seminar
 DESCRIPTION:Writing down your thoughts and feelings has been found to redu
@@ -894,7 +894,7 @@ SUMMARY:Community First: Practical Strategies for Inclusive Implementation
   Science
 DTSTART;TZID=America/New_York:20260715T000000
 DTEND;TZID=America/New_York:20260715T010000
-DTSTAMP:20260627T070604Z
+DTSTAMP:20260628T072225Z
 UID:7496ef4000159336@gid-seminars.wnprc.wisc.edu
 CATEGORIES:AVAC
 DESCRIPTION:\nEvent URL: https://avac.org/event/community-first-practical-
@@ -914,7 +914,7 @@ SUMMARY:WHO and UNICEF Estimates of National Immunization Coverage (WUENIC
  ) 2025 Results Webinar
 DTSTART:20260715T130000Z
 DTEND:20260715T163000Z
-DTSTAMP:20260627T070604Z
+DTSTAMP:20260628T072225Z
 UID:6ae9d9d6a2395721@gid-seminars.wnprc.wisc.edu
 CATEGORIES:WHO
 DESCRIPTION:The 2025 WHO and UNICEF Estimates of National Immunization Cov
@@ -937,7 +937,7 @@ BEGIN:VEVENT
 SUMMARY:Beyond the Brush
 DTSTART;TZID=America/Los_Angeles:20260720T190000
 DTEND;TZID=America/Los_Angeles:20260720T200000
-DTSTAMP:20260627T070604Z
+DTSTAMP:20260628T072225Z
 UID:ccb803051dfd4538@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Class/Seminar
 DESCRIPTION:While most of us were taught that brushing twice a day and flo
@@ -976,7 +976,7 @@ BEGIN:VEVENT
 SUMMARY:Current Vaccination Recommendations for Children and Adolescents
 DTSTART;TZID=America/Los_Angeles:20260721T100000
 DTEND;TZID=America/Los_Angeles:20260721T110000
-DTSTAMP:20260627T070604Z
+DTSTAMP:20260628T072225Z
 UID:f21841202b6c3ef0@gid-seminars.wnprc.wisc.edu
 CATEGORIES:IAS-USA
 DESCRIPTION:\nEvent URL: https://www.iasusa.org/events/webinar-2026-maldon
@@ -994,7 +994,7 @@ BEGIN:VEVENT
 SUMMARY:CFAR & PHSKC Lunchbox Talk with Jeremy Beckford
 DTSTART;TZID=America/Los_Angeles:20260721T190000
 DTEND;TZID=America/Los_Angeles:20260721T200000
-DTSTAMP:20260627T070604Z
+DTSTAMP:20260628T072225Z
 UID:3ec7e090292135ec@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Fred Hutch Center for AIDS Research (CFAR)
 DESCRIPTION:Event interval: Single day event\nOnline Meeting Link: https:/
@@ -1015,7 +1015,7 @@ BEGIN:VEVENT
 SUMMARY:AIDS 2026\, the 26th International AIDS Conference
 DTSTART;TZID=America/New_York:20260726T000000
 DTEND;TZID=America/New_York:20260726T010000
-DTSTAMP:20260627T070604Z
+DTSTAMP:20260628T072225Z
 UID:70aaae013c572e7f@gid-seminars.wnprc.wisc.edu
 CATEGORIES:AVAC
 DESCRIPTION:\nEvent URL: https://avac.org/event/aids-2026/\n\nSource: avac
@@ -1024,6 +1024,52 @@ URL:https://avac.org/event/aids-2026/
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: AIDS 2026\, the 26th International AIDS Conference
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Timely Topics in Global Health Webinar
+DTSTART;TZID=America/Los_Angeles:20260727T190000
+DTEND;TZID=America/Los_Angeles:20260727T200000
+DTSTAMP:20260628T072225Z
+UID:fb8b3473e8225cf1@gid-seminars.wnprc.wisc.edu
+CATEGORIES:Lecture/Presentation/Talk
+DESCRIPTION:Communicating about public and global health has never been mo
+ re challenging — or more important. Our panel of global health communica
+ tions experts will discuss the current challenges\, including disinformati
+ on\, the rise of AI\, and declining public trust\, and highlight solutions
+  and best practices\, based on a new commentary in Nature Health and insig
+ hts from the Stanford Global Health Media Fellowship.\n\nModerator\n\nEli 
+ Cahan\, MD\n\nAward-winning investigative health journalist\, Stanford neo
+ natal intensive care fellow\, CIGH postdoctoral affiliate\, director of th
+ e Stanford Health Media Fellowship\n\nPanelists\n\nNeha Mukherjee\n\n2024-
+ 25 Global Health Media Fellow\, Medical student\, Icahn School of Medicine
+  at Mt. Sinai\n\nNeha Mukherjee was the 2024-2025 Stanford Global Health M
+ edia Fellow and is a third-year medical student at the Icahn School of Med
+ icine at Mount Sinai. In 2022\, Neha graduated from Brown University with 
+ degrees in Public Health and Journalism. Her work has been featured in CNN
+ \, where she helped lead coverage of the 2025 measles outbreak in Texas\, 
+ NBC News\, WIRED\, the San Francisco Chronicle\, and the Philadelphia Inqu
+ irer. \n\nGabriella Stern\n\nRecently retired Director of Communications\,
+  World Health Organization\n\nGabriella Stern is a research fellow at the 
+ Harvard Center for International Development at Harvard Kennedy School\, a
+ nd a senior communications adviser at Harvard T.H. Chan School of Public H
+ ealth\, where she is also a journalist in residence at the Center for Heal
+ th Communication. In addition\, Gabby serves as an external adviser at the
+  Stanford Center for Innovation in Global Health. She retired as Director 
+ of Communications at the World Health Organization on Sept. 30\, 2025 afte
+ r 6 1/2 years in the role. She led the organization’s global communicati
+ ons strategy\, managed a team of communications professionals\, and served
+  as spokesperson for the Director-General. She joined WHO in March 2019 af
+ ter more than three years as  Director of Media & External Rel\n\nEvent UR
+ L: https://events.stanford.edu/event/timely-topics-in-global-health-webina
+ r\n\nSource: stanford_virtual
+LOCATION:Online
+URL:https://events.stanford.edu/event/timely-topics-in-global-health-webin
+ ar
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Timely Topics in Global Health Webinar
 TRIGGER:-PT1H
 END:VALARM
 END:VEVENT
