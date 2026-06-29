@@ -2,12 +2,12 @@
   "metadata": {
     "title": "GID Seminars Feed",
     "description": "Aggregated seminars and webinars for Global Infectious Disease research",
-    "generated_at": "2026-06-28T07:22:25.783962Z",
+    "generated_at": "2026-06-29T07:43:44.167362Z",
     "time_window": {
       "days_behind": 30,
       "days_ahead": 30
     },
-    "total_events": 34,
+    "total_events": 35,
     "sources": [
       "astmh_events",
       "avac_events",
@@ -57,23 +57,6 @@
     ]
   },
   "events": [
-    {
-      "id": "caaf5fd0e8ce29b5",
-      "title": "TWiV 1326: Clinical update with Dr. Daniel Griffin",
-      "description": "[Podcast: This Week in Virology]\n\nIn his weekly clinical update, Daniel Griffin and Vincent Racaniello comment on incidences of locally transmitted malaria in the US, mpox diagnostics, the latest developments surrounding hantavirus infections, and the Ebola outbreak in the Congo and Uganda including vaccine candidates before Dr. Griffin deep dives into the measles outbreak, recent statistics RSV, influenza and SARS-CoV-2 infections, the Wasterwater Scan dashboard, Johns Hopkins measles tracker, the measles outbreak in Texas in 2025, how to access and pay for Paxlovid, where to go for answers about long COVID-19, casual association of auto-antibodies and COVID complications and contacting your federal government representative to stop the assault on science and biomedical research. Click arrow to play Download&nbsp; TWiV 1326 (23 MB .mp3, 39 min) Subscribe (free):&nbsp; Apple Podcasts , RSS ,&nbsp; email Become a&nbsp; patron &nbsp;of&nbsp;TWiV! Links for this episode CDC Operational Guidance for Investigating Locally Acquired Mosquito-Transmitted Malaria \u2014 United States, 2026 (CDC: MMWR) 2:20 Performance of five mpox antigen-based rapid diagnostic tests tested on lesion swabs from patients with suspected mpox from the Kinshasa province of DR Congo: a diagnostic accuracy study (LANCET: Infectious Diseases) 4:00 Hantavirus dashboard (Hantavirus.up) 6:41 Andes Hantavirus Outbreak on a Cruise Ship , 2026 (NEJM) \u201cSuper-Spreaders\u201d and Person-to-Person Transmission of Andes Virus in Argentina (NEJM) Person-to-Person",
-      "url": "https://www.microbe.tv/twiv/twiv-1326/",
-      "start_datetime": "2026-05-30T04:00:00",
-      "end_datetime": null,
-      "timezone": "UTC",
-      "location": "Podcast",
-      "organizer": "This Week in Virology",
-      "source": "twiv_podcast",
-      "category": "Podcast - TWiV",
-      "tags": [],
-      "access_restriction": "Public",
-      "registration_url": null,
-      "recording_url": null
-    },
     {
       "id": "40ef25c0e4bb1540",
       "title": "TWiV 1327: Influenza viruses in the MIST",
@@ -366,9 +349,26 @@
     {
       "id": "c87fc9d7c7eeed9c",
       "title": "TWiV 1334: Clinical update with Dr. Daniel Griffin",
-      "description": "[Podcast: This Week in Virology]\n\nIn his weekly clinical update, Daniel Griffin and Vincent Racaniello discuss the global economic burden of infectious disease, restoring trust in vaccinology, the Legionnaires outbreak in Harlem, new screwworm cases, the Ebola outbreak in the Congo and Uganda and an import case into France, end of the hantavirus outbreak before Dr. Griffin deep dives into the measles outbreak, recent statistics RSV, influenza and SARS-CoV-2 infections, the Wasterwater Scan dashboard, Johns Hopkins measles tracker, outbreak of measles in Cook County Illionis in 2025, loss of measles elimination in the US, how to access and pay for Paxlovid, publication of the blocked COVID-19 vaccine findings, where to go for answers about long COVID-19, and contacting your federal government representative to stop the assault on science and biomedical research. Click arrow to play Download TWiV 1334 (19 MB .mp3, 31 min) Subscribe (free): Apple Podcasts , RSS , email Become a&nbsp; patron &nbsp;of&nbsp;TWiV! Links for this episode Health and economic burdens of emerging infectious diseases in the USA, US territories and globally (BMJ Journal of Global Health) Meeting People Where They Are: Scientist-Creators Delivering Trusted Health Information on Social Media and Beyond (The Evidence Collective) Vaccine Integrity Project , The Evidence Collective announce projects to improve vaccine policy, restore trust (CIDRAP) Outbreak of Legionnaires\u2019 Disease Associated with Cooling Tower Systems in Central Harlem (NEJM ",
+      "description": "[Podcast: This Week in Virology]\n\nIn his weekly clinical update, Daniel Griffin and Vincent Racaniello discuss the global economic burden of infectious disease, restoring trust in vaccinology, the Legionnaires outbreak in Harlem, new screwworm cases, the Ebola outbreak in the Congo and Uganda and an import case into France, end of the hantavirus outbreak before Dr. Griffin deep dives into the measles outbreak, recent statistics RSV, influenza and SARS-CoV-2 infections, the Wasterwater Scan dashboard, Johns Hopkins measles tracker, outbreak of measles in Cook County Illionis in 2025, loss of measles elimination in the US, how to access and pay for Paxlovid, publication of the blocked COVID-19 vaccine findings, where to go for answers about long COVID-19, and contacting your federal government representative to stop the assault on science and biomedical research. Click arrow to play Download&nbsp; TWiV 1334 (19 MB .mp3, 31 min) Subscribe (free):&nbsp; Apple Podcasts , RSS ,&nbsp; email Become a&nbsp; patron &nbsp;of&nbsp;TWiV! Links for this episode Health and economic burdens of emerging infectious diseases in the USA, US territories and globally (BMJ Journal of Global Health) 3:15 Meeting People Where They Are: Scientist-Creators Delivering Trusted Health Information on Social Media and Beyond (The Evidence Collective) 6:04 Vaccine Integrity Project , The Evidence Collective announce projects to improve vaccine policy, restore trust (CIDRAP) 6:04 Outbreak of Legionnaires\u2019 Disease Associated with Cooling Tower",
       "url": "https://www.microbe.tv/twiv/twiv-1334/",
       "start_datetime": "2026-06-27T04:00:00",
+      "end_datetime": null,
+      "timezone": "UTC",
+      "location": "Podcast",
+      "organizer": "This Week in Virology",
+      "source": "twiv_podcast",
+      "category": "Podcast - TWiV",
+      "tags": [],
+      "access_restriction": "Public",
+      "registration_url": null,
+      "recording_url": null
+    },
+    {
+      "id": "8b548dd075800f2c",
+      "title": "TWiV 1335: TldR, bacterial hot rods and nullifying norovirus",
+      "description": "[Podcast: This Week in Virology]\n\nTWiV explains research showing how temperate phages enhance bacterial host fitness via RNA-guided flagellar remodelling, and that IgA antibody is necessary and sufficient to prevent norovirus infection in mice. Hosts:&nbsp; Vincent Racaniello , Rich Condit , Brianne Barker , and Jolene Ramsey Click arrow to play Download TWiV 1335 (70 MB .mp3, 116 min) Subscribe (free):&nbsp; Apple Podcasts ,&nbsp; RSS ,&nbsp; email Become a&nbsp; patron &nbsp;of&nbsp;TWiV! Links for this episode Support science education at MicrobeTV 2:50 Positions in Rosenfeld Lab (email) 4:11 Fred Murphy passes away (X) 14:48 US has lost its hold on measles elimination (CIDRAP) 9:48 What&#8217;s in the genetic code of America\u2019s measles outbreaks (ProPublica) 11:07 Did Pete Hegseth single-handedly raise the R\u2080 of flu? (Inside Medicine) 18:38 Fred Murphy&#8217;s Virus Images and Foundations of Virology (UTMB) 16:43 Temperate phages and RNA-guided flagellar remodelling (Nat Micro) 25:19 Eukaryotic RNA guided system (Nature) 30:23 IgA prevents norovirus infection in mice (Sci Transl Med) 1:04:01 Craig Wilen&#8217;s letter to TWiV ( TWiV 492 ) 1:04:33 Timestamps by&nbsp; Jolene Ramsey. Thanks! Picks of the Week 1:43:42 Brianne &#8211; APod June 26: Milky Way Urban Style Rich &#8211; Your birth order affects your future, but not for the reason you think ; Dr. McCoy Jolene &#8211; Bakteriopolis paper and site Vincent &#8211; The Claude Shutdown Is a Total Sh*tshow Listener Pick Martin &#8211; Ancient text charred",
+      "url": "https://www.microbe.tv/twiv/twiv-1335/",
+      "start_datetime": "2026-06-28T12:28:54",
       "end_datetime": null,
       "timezone": "UTC",
       "location": "Podcast",
@@ -630,6 +630,23 @@
       "organizer": null,
       "source": "stanford_virtual",
       "category": "Lecture/Presentation/Talk",
+      "tags": [],
+      "access_restriction": "Public",
+      "registration_url": null,
+      "recording_url": null
+    },
+    {
+      "id": "16e63d1bc5546d7d",
+      "title": "Diagnosis and Management of Non\u2013Kaposi Sarcoma Dermatologic Conditions in People With HIV",
+      "description": null,
+      "url": "https://www.iasusa.org/events/webinar-2026-maurer/",
+      "start_datetime": "2026-07-28T10:00:00",
+      "end_datetime": null,
+      "timezone": "America/Los_Angeles",
+      "location": "Online",
+      "organizer": null,
+      "source": "iasusa_webinars",
+      "category": "IAS-USA",
       "tags": [],
       "access_restriction": "Public",
       "registration_url": null,
