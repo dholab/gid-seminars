@@ -2,7 +2,7 @@
   "metadata": {
     "title": "GID Seminars Feed",
     "description": "Aggregated seminars and webinars for Global Infectious Disease research",
-    "generated_at": "2026-06-29T07:43:44.167362Z",
+    "generated_at": "2026-06-30T07:19:08.767575Z",
     "time_window": {
       "days_behind": 30,
       "days_ahead": 30
@@ -57,23 +57,6 @@
     ]
   },
   "events": [
-    {
-      "id": "40ef25c0e4bb1540",
-      "title": "TWiV 1327: Influenza viruses in the MIST",
-      "description": "[Podcast: This Week in Virology]\n\nTWiV explains research on human influenza virus transmission that reveals heterogeneous expulsion of infectious virus into air, and how gut bacteriophages dictate inflammation heterogeneity through tuning the phage-bacteria-sphingosine-intestine axis in Crohn\u2019s disease. Hosts:&nbsp; Vincent Racaniello , Rich Condit , Brianne Barker , and Jolene Ra m sey Click arrow to play Download TWiV 1327 (72 MB .mp3, 120 min) Subscribe (free):&nbsp; Apple Podcasts ,&nbsp; RSS ,&nbsp; email Become a&nbsp; patron &nbsp;of&nbsp;TWiV! Links for this episode Support science education at MicrobeTV 3:00 Positions in Rosenfeld Lab (email) 3:15 NIH ousts infectious-disease leaders (Nature) 7:22 Measles deaths in Bangladesh (npr) 9:50 Russel Vought is going to destroy American science (Elizabeth Ginexi) 12:17 Heterogeneous expulsion of infectious influenza virus into air (Cell) 26:02 Gut phages and Crohn&#8217;s disease (Cell Host Microbe) 1:05:56 MIST device (Emory) Letters read on TWiV 1327 1:55:53 Timestamps by&nbsp; Jolene Ramsey. Thanks! Picks of the Week 1:43:30 Brianne &#8211; The Perfect Bee Language Rich &#8211; Hubble&#8217;s Messier Catalog Jolene &#8211; A different kind of power &#8211; Jacinda Ardern Vincent &#8211; Albert Sabin by Karen Torghele Listener Picks Anthony &#8211; Dr. Dakotah Tyler Marcus &#8211; Apollo Intro music is by&nbsp; Ronald Jenkees Send your virology questions and comments to twiv@microbe.tv Content in this podcast should not be construed as medical advice. The ",
-      "url": "https://www.microbe.tv/twiv/twiv-1327/",
-      "start_datetime": "2026-05-31T04:00:00",
-      "end_datetime": null,
-      "timezone": "UTC",
-      "location": "Podcast",
-      "organizer": "This Week in Virology",
-      "source": "twiv_podcast",
-      "category": "Podcast - TWiV",
-      "tags": [],
-      "access_restriction": "Public",
-      "registration_url": null,
-      "recording_url": null
-    },
     {
       "id": "616265eaa9d6b901",
       "title": "ESS Oral Defense - June Choi - June 1 - Shriram 262 @ 9:30 AM",
@@ -369,6 +352,23 @@
       "description": "[Podcast: This Week in Virology]\n\nTWiV explains research showing how temperate phages enhance bacterial host fitness via RNA-guided flagellar remodelling, and that IgA antibody is necessary and sufficient to prevent norovirus infection in mice. Hosts:&nbsp; Vincent Racaniello , Rich Condit , Brianne Barker , and Jolene Ramsey Click arrow to play Download TWiV 1335 (70 MB .mp3, 116 min) Subscribe (free):&nbsp; Apple Podcasts ,&nbsp; RSS ,&nbsp; email Become a&nbsp; patron &nbsp;of&nbsp;TWiV! Links for this episode Support science education at MicrobeTV 2:50 Positions in Rosenfeld Lab (email) 4:11 Fred Murphy passes away (X) 14:48 US has lost its hold on measles elimination (CIDRAP) 9:48 What&#8217;s in the genetic code of America\u2019s measles outbreaks (ProPublica) 11:07 Did Pete Hegseth single-handedly raise the R\u2080 of flu? (Inside Medicine) 18:38 Fred Murphy&#8217;s Virus Images and Foundations of Virology (UTMB) 16:43 Temperate phages and RNA-guided flagellar remodelling (Nat Micro) 25:19 Eukaryotic RNA guided system (Nature) 30:23 IgA prevents norovirus infection in mice (Sci Transl Med) 1:04:01 Craig Wilen&#8217;s letter to TWiV ( TWiV 492 ) 1:04:33 Timestamps by&nbsp; Jolene Ramsey. Thanks! Picks of the Week 1:43:42 Brianne &#8211; APod June 26: Milky Way Urban Style Rich &#8211; Your birth order affects your future, but not for the reason you think ; Dr. McCoy Jolene &#8211; Bakteriopolis paper and site Vincent &#8211; The Claude Shutdown Is a Total Sh*tshow Listener Pick Martin &#8211; Ancient text charred",
       "url": "https://www.microbe.tv/twiv/twiv-1335/",
       "start_datetime": "2026-06-28T12:28:54",
+      "end_datetime": null,
+      "timezone": "UTC",
+      "location": "Podcast",
+      "organizer": "This Week in Virology",
+      "source": "twiv_podcast",
+      "category": "Podcast - TWiV",
+      "tags": [],
+      "access_restriction": "Public",
+      "registration_url": null,
+      "recording_url": null
+    },
+    {
+      "id": "3c546f0c411b1dae",
+      "title": "TWiV Special: Albert Sabin with Karen Torghele",
+      "description": "[Podcast: This Week in Virology]\n\nVincent speaks with Karen Torghele about her recently published biography of polio vaccine pioneer Albert Sabin, the first ever written. Host:&nbsp; Vincent Racaniello Guest: Karen Torghele Click arrow to play Download TWiV Special (42 MB .mp3, 70 min) Subscribe (free): Apple Podcasts , RSS , email Links for this episode Karen Torghele&#8217;s website Purchase Albert Sabin by Karen Torghele ( Bookshop or Amazon ) My letters from Albert Sabin ( virology blog ) Become a&nbsp; patron &nbsp;of&nbsp;TWiV! Intro music is by&nbsp; Ronald Jenkees Send your virology questions and comments to twiv@microbe.tv Content in this podcast should not be construed as medical advice. The post TWiV Special: Albert Sabin with Karen Torghele first appeared on This Week in Virology .",
+      "url": "https://www.microbe.tv/twiv/twiv-special-torghele/",
+      "start_datetime": "2026-06-29T15:50:14",
       "end_datetime": null,
       "timezone": "UTC",
       "location": "Podcast",
