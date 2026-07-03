@@ -2,12 +2,12 @@
   "metadata": {
     "title": "GID Seminars Feed",
     "description": "Aggregated seminars and webinars for Global Infectious Disease research",
-    "generated_at": "2026-07-02T07:08:56.437550Z",
+    "generated_at": "2026-07-03T07:06:10.238117Z",
     "time_window": {
       "days_behind": 30,
       "days_ahead": 30
     },
-    "total_events": 36,
+    "total_events": 38,
     "sources": [
       "astmh_events",
       "avac_events",
@@ -465,6 +465,23 @@
       "recording_url": null
     },
     {
+      "id": "ece9738b4326b97b",
+      "title": "Stanford Cancer Institute Breakthroughs in Cancer: Immunotherapy for Melanoma: Past, Present, Future",
+      "description": "The Stanford Cancer Institute Breakthroughs in Cancer seminar series provides a platform for eminent leaders in oncology to share their insights with the Stanford community. Seminars highlight innovations across basic, translational, clinical, and population cancer science. \n\nJoin us Tuesday, July 14, 4-5 p.m., at Munzer Auditorium, Beckman Center, or Zoom for a presentation by Jedd Wolchok, MD, PhD, director of the Sandra and Edward Meyer Cancer Center at Weill Cornell Medicine.\n\nDr. Wolchok has been a principal investigator in numerous pivotal clinical trials. He helped establish immunotherapy as a standard approach to cancer treatment and was instrumental in the clinical development that led to the FDA approval of ipilimumab and the combination of nivolumab and ipilimumab for advanced melanoma. His research focuses on investigating novel immunotherapies, identifying innovative ways to modulate the immune response to cancer, and uncovering the biological mechanisms that drive treatment response and resistance. His presentation will examine how T cell therapies are advancing in the treatment of solid tumors through target discovery, metabolic modulation, and exhaustion resistance.\n\nThe event is open to Stanford faculty, trainees, students, and staff.\n\nRegistration is encouraged.",
+      "url": "https://events.stanford.edu/event/stanford-cancer-institute-breakthroughs-in-cancer-cancer-immunology-in-evolution",
+      "start_datetime": "2026-07-14T23:00:00",
+      "end_datetime": "2026-07-15T00:00:00",
+      "timezone": "America/Los_Angeles",
+      "location": "Beckman Center, Munzer Auditorium",
+      "organizer": null,
+      "source": "stanford_virtual",
+      "category": "Class/Seminar",
+      "tags": [],
+      "access_restriction": "Public",
+      "registration_url": null,
+      "recording_url": null
+    },
+    {
       "id": "7496ef4000159336",
       "title": "Community First: Practical Strategies for Inclusive Implementation Science",
       "description": null,
@@ -578,6 +595,23 @@
       "organizer": "AVAC",
       "source": "avac_events",
       "category": "AVAC",
+      "tags": [],
+      "access_restriction": "Public",
+      "registration_url": null,
+      "recording_url": null
+    },
+    {
+      "id": "4a6e7841a414afe2",
+      "title": "WHO @ AIDS 2026",
+      "description": "WHO will participate in AIDS 2026, the 26th International AIDS Conference, taking place in Rio de Janeiro, Brazil, and virtually from 26\u201331 July 2026. WHO will present its latest recommendations on HIV and STI prevention, diagnosis, treatment and monitoring, including new guidance on long-acting HIV treatment, HIV pre-exposure prophylaxis (PrEP), doxycycline post-exposure prophylaxis (DoxyPEP), and strengthened national HIV surveillance systems to support sustainable monitoring.",
+      "url": "https://www.who.int/news-room/events/detail/2026/07/26/default-calendar/who-at-aids-2026",
+      "start_datetime": "2026-07-26T00:00:00",
+      "end_datetime": "2026-08-01T00:00:00",
+      "timezone": "UTC",
+      "location": "Online/Geneva",
+      "organizer": "World Health Organization",
+      "source": "who_events",
+      "category": "WHO",
       "tags": [],
       "access_restriction": "Public",
       "registration_url": null,
