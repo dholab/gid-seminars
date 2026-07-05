@@ -11,7 +11,7 @@ SUMMARY:WEBINAR | From Hantavirus to Ebola: How Changing Environments Are
  Driving Disease
 DTSTART;TZID=America/Los_Angeles:20260605T180000
 DTEND;TZID=America/Los_Angeles:20260605T190000
-DTSTAMP:20260704T070122Z
+DTSTAMP:20260705T070655Z
 UID:41279f4901656478@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Lecture/Presentation/Talk
 DESCRIPTION:In this webinar hosted by the Stanford Center for Human and Pl
@@ -57,7 +57,7 @@ BEGIN:VEVENT
 SUMMARY:When Adventure Meets Infectious Diseases
 DTSTART:20260606T000000Z
 DTEND:20260606T010000Z
-DTSTAMP:20260704T070122Z
+DTSTAMP:20260705T070655Z
 UID:e80502e2ee4dd028@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Podcast - IDSA
 DESCRIPTION:[Podcast: Let's Talk ID] Duration: 1522\n\nPaul Sax\, MD\, FID
@@ -78,48 +78,11 @@ TRIGGER:-PT1H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:TWiV 1329: How HIV-1 goes nuclear
-DTSTART:20260607T040000Z
-DTEND:20260607T050000Z
-DTSTAMP:20260704T070122Z
-UID:15bc96855de128c0@gid-seminars.wnprc.wisc.edu
-CATEGORIES:Podcast - TWiV
-DESCRIPTION:[Podcast: This Week in Virology]\n\nTWiV explains research sho
- wing limited transmission of cervid prions to nonhuman primates\, and the 
- finding that cone-shaped HIV-1 capsids are transported through intact nucl
- ear pores. Hosts:&nbsp\; Vincent Racaniello \, Alan Dove \, and Brianne Ba
- rker Click arrow to play Download TWiV 1329 (66 MB .mp3\, 111 min) Subscri
- be (free):&nbsp\; Apple Podcasts \,&nbsp\; RSS \,&nbsp\; email Become a&nb
- sp\; patron &nbsp\;of&nbsp\;TWiV! Links for this episode Support science e
- ducation at MicrobeTV 2:16 Positions in Rosenfeld Lab (email) 2:38 Ebola o
- utbreak news ( ECDC \, WHO ) 8:08 NSF research grants on hold (Nature) 12:
- 21 Transmission of cervid prions to nonhuman primates (Sci Adv) 16:55 Cone
- -shaped HIV-1 capsids transported intact through nuclear pore (Cell) 48:25
-  HIV-1 reproduction video ( Janet Iwasa ) 1:09:00 Letters read on TWiV 132
- 9 1:12:08 Timestamps by&nbsp\; Jolene Ramsey. Thanks! Picks of the Week 1:
- 38:50 Brianne &#8211\; What We Need to do NEXT Re: OMB Rule Alan &#8211\; 
- Metallic Realms \, by Lincoln Michel Vincent &#8211\; TWiV 1: West Nile Vi
- rus Listener Picks Mark &#8211\; How the Library of Congress packed 250 ye
- ars of U.S. history into a vial the size of a quarter Intro music is by&nb
- sp\; Ronald Jenkees Send your virology questions and comments to twiv@micr
- obe.tv Content in this podcast should not be construed as medical advice. 
- The post TWiV 1329: How HIV-1 goes nuclear first appeared on This Week in 
- Virology .\n\nEvent URL: https://www.microbe.tv/twiv/twiv-1329/\n\nSource:
-  twiv_podcast
-LOCATION:Podcast
-URL:https://www.microbe.tv/twiv/twiv-1329/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: TWiV 1329: How HIV-1 goes nuclear
-TRIGGER:-PT1H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Stanford Cancer Institute Breakthroughs in Cancer: Cold Yet Vaccin
  able? RNA Vaccines for Pancreatic Cancer
 DTSTART;TZID=America/Los_Angeles:20260609T230000
 DTEND;TZID=America/Los_Angeles:20260610T000000
-DTSTAMP:20260704T070122Z
+DTSTAMP:20260705T070655Z
 UID:9ab7985c82d7e05d@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Class/Seminar
 DESCRIPTION:The Stanford Cancer Institute Breakthroughs in Cancer seminar 
@@ -157,7 +120,7 @@ BEGIN:VEVENT
 SUMMARY:TWiV 1330: Clinical update with Dr. Daniel Griffin
 DTSTART:20260613T040000Z
 DTEND:20260613T050000Z
-DTSTAMP:20260704T070122Z
+DTSTAMP:20260705T070655Z
 UID:e96763b564e635cf@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Podcast - TWiV
 DESCRIPTION:[Podcast: This Week in Virology]\n\nIn his weekly clinical upd
@@ -195,7 +158,7 @@ BEGIN:VEVENT
 SUMMARY:TWiV 1331: A drug for cervical cancer
 DTSTART:20260614T043940Z
 DTEND:20260614T053940Z
-DTSTAMP:20260704T070122Z
+DTSTAMP:20260705T070655Z
 UID:afd02a641801b064@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Podcast - TWiV
 DESCRIPTION:[Podcast: This Week in Virology]\n\nTWiV explains research sho
@@ -232,7 +195,7 @@ BEGIN:VEVENT
 SUMMARY:TWiV 1332: Clinical update with Dr. Daniel Griffin
 DTSTART:20260620T040000Z
 DTEND:20260620T050000Z
-DTSTAMP:20260704T070122Z
+DTSTAMP:20260705T070655Z
 UID:2bda9fc39f72a409@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Podcast - TWiV
 DESCRIPTION:[Podcast: This Week in Virology]\n\nIn his weekly clinical upd
@@ -270,7 +233,7 @@ BEGIN:VEVENT
 SUMMARY:ID Advocacy in Action: Shaping Policy Ahead of the Midterms
 DTSTART:20260620T090000Z
 DTEND:20260620T100000Z
-DTSTAMP:20260704T070122Z
+DTSTAMP:20260705T070655Z
 UID:2430901f44582345@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Podcast - IDSA
 DESCRIPTION:[Podcast: Let's Talk ID] Duration: 1631\n\nHost Mati Hlatshway
@@ -296,7 +259,7 @@ BEGIN:VEVENT
 SUMMARY:TWiV Special: Ebola virus and Andes virus with John Dye
 DTSTART:20260620T174901Z
 DTEND:20260620T184901Z
-DTSTAMP:20260704T070122Z
+DTSTAMP:20260705T070655Z
 UID:57bff9e4c9dbe332@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Podcast - TWiV
 DESCRIPTION:[Podcast: This Week in Virology]\n\nVincent travels to ASM Mic
@@ -324,7 +287,7 @@ BEGIN:VEVENT
 SUMMARY:TWiV 1333: STING like a nanoparticle\, float like HIV
 DTSTART:20260621T040000Z
 DTEND:20260621T050000Z
-DTSTAMP:20260704T070122Z
+DTSTAMP:20260705T070655Z
 UID:9f936b57af6cde09@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Podcast - TWiV
 DESCRIPTION:[Podcast: This Week in Virology]\n\nTWiV explains research sho
@@ -363,7 +326,7 @@ BEGIN:VEVENT
 SUMMARY:APACI Respiratory Diseases Conference 2026
 DTSTART:20260625T000000Z
 DTEND:20260625T010000Z
-DTSTAMP:20260704T070122Z
+DTSTAMP:20260705T070655Z
 UID:d8b675af9b080b83@gid-seminars.wnprc.wisc.edu
 CATEGORIES:ISRV
 DESCRIPTION:25 June 2026 - 8:30 AM Hong Kong Time (UTC+8) - InterContinent
@@ -384,7 +347,7 @@ SUMMARY:Brain Biology Program Meeting and Broad Trauma Initiative Special
  Seminar
 DTSTART;TZID=America/New_York:20260625T180000
 DTEND;TZID=America/New_York:20260625T193000
-DTSTAMP:20260704T070122Z
+DTSTAMP:20260705T070655Z
 UID:5acfd16d7978131e@gid-seminars.wnprc.wisc.edu
 CATEGORIES:University - Broad
 DESCRIPTION:Biological Mechanisms of PTSD: Integrating Genomic\, Epigenomi
@@ -419,7 +382,7 @@ BEGIN:VEVENT
 SUMMARY:World Influenza Conference 2026
 DTSTART:20260626T000000Z
 DTEND:20260626T010000Z
-DTSTAMP:20260704T070122Z
+DTSTAMP:20260705T070655Z
 UID:e8fd597672c067c8@gid-seminars.wnprc.wisc.edu
 CATEGORIES:ISRV
 DESCRIPTION:The 2026 World Influenza Conference (WIC) is co-organized by t
@@ -440,7 +403,7 @@ BEGIN:VEVENT
 SUMMARY:TWiV 1334: Clinical update with Dr. Daniel Griffin
 DTSTART:20260627T040000Z
 DTEND:20260627T050000Z
-DTSTAMP:20260704T070122Z
+DTSTAMP:20260705T070655Z
 UID:c87fc9d7c7eeed9c@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Podcast - TWiV
 DESCRIPTION:[Podcast: This Week in Virology]\n\nIn his weekly clinical upd
@@ -478,7 +441,7 @@ BEGIN:VEVENT
 SUMMARY:TWiV 1335: TldR\, bacterial hot rods and nullifying norovirus
 DTSTART:20260628T122854Z
 DTEND:20260628T132854Z
-DTSTAMP:20260704T070122Z
+DTSTAMP:20260705T070655Z
 UID:8b548dd075800f2c@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Podcast - TWiV
 DESCRIPTION:[Podcast: This Week in Virology]\n\nTWiV explains research sho
@@ -517,7 +480,7 @@ BEGIN:VEVENT
 SUMMARY:TWiV Special: Albert Sabin with Karen Torghele
 DTSTART:20260629T155014Z
 DTEND:20260629T165014Z
-DTSTAMP:20260704T070122Z
+DTSTAMP:20260705T070655Z
 UID:3c546f0c411b1dae@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Podcast - TWiV
 DESCRIPTION:[Podcast: This Week in Virology]\n\nVincent speaks with Karen 
@@ -546,7 +509,7 @@ SUMMARY:Progress Toward Solving Human Rhinovirus Infections: Jack Gwaltney
  ’s Legacy
 DTSTART:20260630T130000Z
 DTEND:20260630T140000Z
-DTSTAMP:20260704T070122Z
+DTSTAMP:20260705T070655Z
 UID:89b168bba74102fe@gid-seminars.wnprc.wisc.edu
 CATEGORIES:ISRV
 DESCRIPTION:Office 7\, 35-37 Ludgate Hill\, London\, EC4M 7JN\, United Kin
@@ -567,7 +530,7 @@ BEGIN:VEVENT
 SUMMARY:CTMID 2026
 DTSTART;TZID=America/New_York:20260701T000000
 DTEND;TZID=America/New_York:20260702T000000
-DTSTAMP:20260704T070122Z
+DTSTAMP:20260705T070655Z
 UID:8c89c491d42fdd49@gid-seminars.wnprc.wisc.edu
 CATEGORIES:ASTMH
 DESCRIPTION:\nEvent URL: https://www.astmh.org/news-events/events-calendar
@@ -584,7 +547,7 @@ BEGIN:VEVENT
 SUMMARY:Smart Snacking for a Healthy Gut\, Brain\, and Heart
 DTSTART;TZID=America/Los_Angeles:20260702T190000
 DTEND;TZID=America/Los_Angeles:20260702T200000
-DTSTAMP:20260704T070122Z
+DTSTAMP:20260705T070655Z
 UID:ea3a8c042298dd53@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Class/Seminar
 DESCRIPTION:Healthy snacks are an important part of any nutrition plan. Th
@@ -626,7 +589,7 @@ BEGIN:VEVENT
 SUMMARY:TWiV 1336: Clinical update with Dr. Daniel Griffin
 DTSTART:20260704T040000Z
 DTEND:20260704T050000Z
-DTSTAMP:20260704T070122Z
+DTSTAMP:20260705T070655Z
 UID:fd9259dece552758@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Podcast - TWiV
 DESCRIPTION:[Podcast: This Week in Virology]\n\nIn his weekly clinical upd
@@ -661,11 +624,48 @@ TRIGGER:-PT1H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:TWiV 1337: The whitefly and the Red Queen
+DTSTART:20260705T040000Z
+DTEND:20260705T050000Z
+DTSTAMP:20260705T070655Z
+UID:fde8375e0f42ac1d@gid-seminars.wnprc.wisc.edu
+CATEGORIES:Podcast - TWiV
+DESCRIPTION:[Podcast: This Week in Virology]\n\nTWiV explains research tha
+ t reveals an an alternative evolutionary path of antiviral signalling in a
+  sea anemone\, and how a bacterial symbiont and a plant virus enhance inse
+ ct fitness by inducing physical defenses against fungal parasites. Hosts: 
+ Vincent Racaniello \, Alan Dove \, and Rich Condit Click arrow to play Dow
+ nload TWiV 1337 (68 MB .mp3\, 113 min) Subscribe (free): Apple Podcasts \,
+  RSS \, email Become a&nbsp\; patron &nbsp\;of&nbsp\;TWiV! Links for this 
+ episode Support science education at MicrobeTV Positions in Rosenfeld Lab 
+ (email) Springer-Nature retracted two papers by Max Planck \, probably wit
+ h a bot (Science) Alternative evolutionary path of antiviral signalling in
+  sea anemone (Nat Ecol Evol) Bacterial symbiont and plant virus protect wh
+ itefly against fungal parasites (PNAS) Letters read on TWiV 1337 Timestamp
+ s by&nbsp\; Jolene Ramsey. Thanks! Picks of the Week Rich &#8211\; The Mer
+ cy of Gods by James S. A. Corey \; Livesuit by James S. A. Corey Alan &#82
+ 11\; Climate.us \, run by former NOAA scientists after Trump gutted their 
+ agency&#8217\;s climate site Vincent &#8211\; A Chemically Defined Synthet
+ ic Cell Capable of Growth and Replication Listener Pick Lana &#8211\; The 
+ Episodic Table of Elements Intro music is by&nbsp\; Ronald Jenkees Send yo
+ ur virology questions and comments to twiv@microbe.tv Content in this podc
+ ast should not be construed as medical advice. The post TWiV 1337: The whi
+ tefly and the Red Queen first appeared on This Week in Virology .\n\nEvent
+  URL: https://www.microbe.tv/twiv/twiv-1337/\n\nSource: twiv_podcast
+LOCATION:Podcast
+URL:https://www.microbe.tv/twiv/twiv-1337/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: TWiV 1337: The whitefly and the Red Queen
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Seventh meeting of the Intergovernmental Working Group (IGWG) on t
  he WHO Pandemic Agreement
 DTSTART:20260706T000000Z
 DTEND:20260718T000000Z
-DTSTAMP:20260704T070122Z
+DTSTAMP:20260705T070655Z
 UID:d3ca3f74a0f254a7@gid-seminars.wnprc.wisc.edu
 CATEGORIES:WHO
 DESCRIPTION:The seventh meeting of the Intergovernmental Working Group (IG
@@ -689,7 +689,7 @@ SUMMARY:The Future Won’t Build Itself: Sustaining the Movement CASPR Sta
  rted
 DTSTART;TZID=America/New_York:20260714T000000
 DTEND;TZID=America/New_York:20260714T010000
-DTSTAMP:20260704T070122Z
+DTSTAMP:20260705T070655Z
 UID:0d56c61e92a87a2d@gid-seminars.wnprc.wisc.edu
 CATEGORIES:AVAC
 DESCRIPTION:\nEvent URL: https://avac.org/event/future-wont-build-itself/\
@@ -708,7 +708,7 @@ SUMMARY:Emerging Infections and Global Outbreaks: Implications for HIV and
   Infectious Disease Care in the US
 DTSTART;TZID=America/Los_Angeles:20260714T100000
 DTEND;TZID=America/Los_Angeles:20260714T110000
-DTSTAMP:20260704T070122Z
+DTSTAMP:20260705T070655Z
 UID:77b5582ffd9b9d45@gid-seminars.wnprc.wisc.edu
 CATEGORIES:IAS-USA
 DESCRIPTION:\nEvent URL: https://www.iasusa.org/events/webinar-2026-chin-h
@@ -726,7 +726,7 @@ BEGIN:VEVENT
 SUMMARY:Journaling to Enhance Your Well-Being (July 14 - August 4)
 DTSTART;TZID=America/Los_Angeles:20260714T230000
 DTEND;TZID=America/Los_Angeles:20260715T001500
-DTSTAMP:20260704T070122Z
+DTSTAMP:20260705T070655Z
 UID:b026342a868f5f93@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Class/Seminar
 DESCRIPTION:Writing down your thoughts and feelings has been found to redu
@@ -763,7 +763,7 @@ SUMMARY:Stanford Cancer Institute Breakthroughs in Cancer: Immunotherapy f
  or Melanoma: Past\, Present\, Future
 DTSTART;TZID=America/Los_Angeles:20260714T230000
 DTEND;TZID=America/Los_Angeles:20260715T000000
-DTSTAMP:20260704T070122Z
+DTSTAMP:20260705T070655Z
 UID:ece9738b4326b97b@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Class/Seminar
 DESCRIPTION:The Stanford Cancer Institute Breakthroughs in Cancer seminar 
@@ -802,7 +802,7 @@ SUMMARY:Community First: Practical Strategies for Inclusive Implementation
   Science
 DTSTART;TZID=America/New_York:20260715T000000
 DTEND;TZID=America/New_York:20260715T010000
-DTSTAMP:20260704T070122Z
+DTSTAMP:20260705T070655Z
 UID:7496ef4000159336@gid-seminars.wnprc.wisc.edu
 CATEGORIES:AVAC
 DESCRIPTION:\nEvent URL: https://avac.org/event/community-first-practical-
@@ -822,7 +822,7 @@ SUMMARY:WHO and UNICEF Estimates of National Immunization Coverage (WUENIC
  ) 2025 Results Webinar
 DTSTART:20260715T130000Z
 DTEND:20260715T163000Z
-DTSTAMP:20260704T070122Z
+DTSTAMP:20260705T070655Z
 UID:6ae9d9d6a2395721@gid-seminars.wnprc.wisc.edu
 CATEGORIES:WHO
 DESCRIPTION:The 2025 WHO and UNICEF Estimates of National Immunization Cov
@@ -845,7 +845,7 @@ BEGIN:VEVENT
 SUMMARY:Beyond the Brush
 DTSTART;TZID=America/Los_Angeles:20260720T190000
 DTEND;TZID=America/Los_Angeles:20260720T200000
-DTSTAMP:20260704T070122Z
+DTSTAMP:20260705T070655Z
 UID:ccb803051dfd4538@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Class/Seminar
 DESCRIPTION:While most of us were taught that brushing twice a day and flo
@@ -884,7 +884,7 @@ BEGIN:VEVENT
 SUMMARY:Current Vaccination Recommendations for Children and Adolescents
 DTSTART;TZID=America/Los_Angeles:20260721T100000
 DTEND;TZID=America/Los_Angeles:20260721T110000
-DTSTAMP:20260704T070122Z
+DTSTAMP:20260705T070655Z
 UID:f21841202b6c3ef0@gid-seminars.wnprc.wisc.edu
 CATEGORIES:IAS-USA
 DESCRIPTION:\nEvent URL: https://www.iasusa.org/events/webinar-2026-maldon
@@ -902,7 +902,7 @@ BEGIN:VEVENT
 SUMMARY:CFAR & PHSKC Lunchbox Talk with Jeremy Beckford
 DTSTART;TZID=America/Los_Angeles:20260721T190000
 DTEND;TZID=America/Los_Angeles:20260721T200000
-DTSTAMP:20260704T070122Z
+DTSTAMP:20260705T070655Z
 UID:3ec7e090292135ec@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Fred Hutch Center for AIDS Research (CFAR)
 DESCRIPTION:Event interval: Single day event\nOnline Meeting Link: https:/
@@ -923,7 +923,7 @@ BEGIN:VEVENT
 SUMMARY:World Hepatitis Day 2026 – Online talk show
 DTSTART:20260723T113000Z
 DTEND:20260723T130000Z
-DTSTAMP:20260704T070122Z
+DTSTAMP:20260705T070655Z
 UID:aa9d05ddcdb6140d@gid-seminars.wnprc.wisc.edu
 CATEGORIES:WHO
 DESCRIPTION:The 2026 World Hepatitis Day online talk show will deliver a s
@@ -945,7 +945,7 @@ BEGIN:VEVENT
 SUMMARY:AIDS 2026\, the 26th International AIDS Conference
 DTSTART;TZID=America/New_York:20260726T000000
 DTEND;TZID=America/New_York:20260726T010000
-DTSTAMP:20260704T070122Z
+DTSTAMP:20260705T070655Z
 UID:70aaae013c572e7f@gid-seminars.wnprc.wisc.edu
 CATEGORIES:AVAC
 DESCRIPTION:\nEvent URL: https://avac.org/event/aids-2026/\n\nSource: avac
@@ -961,7 +961,7 @@ BEGIN:VEVENT
 SUMMARY:WHO @ AIDS 2026
 DTSTART:20260726T000000Z
 DTEND:20260801T000000Z
-DTSTAMP:20260704T070122Z
+DTSTAMP:20260705T070655Z
 UID:4a6e7841a414afe2@gid-seminars.wnprc.wisc.edu
 CATEGORIES:WHO
 DESCRIPTION:WHO will participate in AIDS 2026\, the 26th International AID
@@ -986,7 +986,7 @@ BEGIN:VEVENT
 SUMMARY:Timely Topics in Global Health Webinar
 DTSTART;TZID=America/Los_Angeles:20260727T190000
 DTEND;TZID=America/Los_Angeles:20260727T200000
-DTSTAMP:20260704T070122Z
+DTSTAMP:20260705T070655Z
 UID:fb8b3473e8225cf1@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Lecture/Presentation/Talk
 DESCRIPTION:Communicating about public and global health has never been mo
@@ -1032,7 +1032,7 @@ BEGIN:VEVENT
 SUMMARY:World Hepatitis Day 2026
 DTSTART:20260728T000000Z
 DTEND:20260729T000000Z
-DTSTAMP:20260704T070122Z
+DTSTAMP:20260705T070655Z
 UID:2e01262c6c3f150f@gid-seminars.wnprc.wisc.edu
 CATEGORIES:WHO
 DESCRIPTION:The World Hepatitis Day 2026 theme\, “Hepatitis: Let’s bre
@@ -1055,7 +1055,7 @@ SUMMARY:Diagnosis and Management of Non–Kaposi Sarcoma Dermatologic Cond
  itions in People With HIV
 DTSTART;TZID=America/Los_Angeles:20260728T100000
 DTEND;TZID=America/Los_Angeles:20260728T110000
-DTSTAMP:20260704T070122Z
+DTSTAMP:20260705T070655Z
 UID:16e63d1bc5546d7d@gid-seminars.wnprc.wisc.edu
 CATEGORIES:IAS-USA
 DESCRIPTION:\nEvent URL: https://www.iasusa.org/events/webinar-2026-maurer
@@ -1073,7 +1073,7 @@ BEGIN:VEVENT
 SUMMARY:World Hepatitis Day 2026 – High-level commemoration
 DTSTART:20260728T130000Z
 DTEND:20260728T160000Z
-DTSTAMP:20260704T070122Z
+DTSTAMP:20260705T070655Z
 UID:590b7d4e91c5a677@gid-seminars.wnprc.wisc.edu
 CATEGORIES:WHO
 DESCRIPTION:The high-level event “World Hepatitis Day 2026: Breaking dow
@@ -1101,7 +1101,7 @@ SUMMARY:TEPHI Grand Rounds | The Cost of Beauty: Infections Associated wit
  h Cosmetic Procedures
 DTSTART;TZID=America/Chicago:20260729T150000
 DTEND;TZID=America/Chicago:20260729T160000
-DTSTAMP:20260704T070122Z
+DTSTAMP:20260705T070655Z
 UID:22c95015224d8c08@gid-seminars.wnprc.wisc.edu
 CATEGORIES:TEPHI
 DESCRIPTION:\nEvent URL: https://tephi.texas.gov/events/event?id=43e665b2-
@@ -1121,7 +1121,7 @@ SUMMARY:Global youth competition on influenza and COVID-19 prevention and
  control
 DTSTART:20260803T000000Z
 DTEND:20260914T000000Z
-DTSTAMP:20260704T070122Z
+DTSTAMP:20260705T070655Z
 UID:923a40d1193ea6f6@gid-seminars.wnprc.wisc.edu
 CATEGORIES:WHO
 DESCRIPTION:\nEvent URL: https://www.who.int/news-room/events/detail/2026/
