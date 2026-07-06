@@ -2,12 +2,12 @@
   "metadata": {
     "title": "GID Seminars Feed",
     "description": "Aggregated seminars and webinars for Global Infectious Disease research",
-    "generated_at": "2026-07-05T07:06:55.390619Z",
+    "generated_at": "2026-07-06T07:33:53.920072Z",
     "time_window": {
       "days_behind": 30,
       "days_ahead": 30
     },
-    "total_events": 39,
+    "total_events": 37,
     "sources": [
       "astmh_events",
       "avac_events",
@@ -56,40 +56,6 @@
     ]
   },
   "events": [
-    {
-      "id": "41279f4901656478",
-      "title": "WEBINAR | From Hantavirus to Ebola: How Changing Environments Are Driving Disease",
-      "description": "In this webinar hosted by the Stanford Center for Human and Planetary Health and Center for Innovation in Global Health, Stanford experts examined how climate change, land use alterations, ecological disruption, and global interconnectedness are reshaping infectious disease risks and response challenges worldwide.\n\nFrom hantavirus outbreaks to the ongoing Ebola emergency in Central and East Africa, emerging infectious diseases are underscoring the growing complexity of responding to health threats in an increasingly interconnected and rapidly changing world. Drawing on perspectives from infectious disease, ecology, environmental change, and global health, this panel discussion explored how drought, extreme rainfall, biodiversity loss, habitat encroachment, and shifting species interactions can influence disease dynamics and increase opportunities for zoonotic spillover. Speakers also discussed the broader public health implications of fragmented international cooperation, underinvestment in preparedness systems, and accelerating global connectivity. Through recent case studies including hantavirus and Ebola, the conversation examined what emerging infectious diseases reveal about the interconnectedness of climate, ecosystems, and human health \u2013 and the importance of interdisciplinary, cross-border approaches to prevention, resilience, and response.\n\nView the event recording\n\nSpeakers:\n\nMichele Barry | Director, Stanford Center for Innovation in Global Health; Senior Associate Dean for Global Health\n\nSteve Luby | Faculty Director, Stanford Center for Human and Planetary Health\n\nAbraar Karan | Instructor & Physician, Department of Infectious Diseases, Stanford School of Medicine\n\nTracey Goldstein | Director, Colorado State University One Health Institute\n\nRodolfo Dirzo | Bing Professor in Environmental Science, Stanford Doerr School of Sustainability",
-      "url": "https://events.stanford.edu/event/from-hantavirus-to-ebola-how-changing-environments-are-driving-disease",
-      "start_datetime": "2026-06-05T18:00:00",
-      "end_datetime": "2026-06-05T19:00:00",
-      "timezone": "America/Los_Angeles",
-      "location": "Online",
-      "organizer": null,
-      "source": "stanford_virtual",
-      "category": "Lecture/Presentation/Talk",
-      "tags": [],
-      "access_restriction": "Public",
-      "registration_url": null,
-      "recording_url": null
-    },
-    {
-      "id": "e80502e2ee4dd028",
-      "title": "When Adventure Meets Infectious Diseases",
-      "description": "[Podcast: Let's Talk ID] Duration: 1522\n\nPaul Sax, MD, FIDSA sits down with comedy-writer, Mike Reiss, and his wife, Denise Reiss, to discuss a lifetime of travel experiences spanning more than 100 countries. From submarine dives and whale sharks to a hospitalization caused by Shigella, they recount remarkable adventures and the health risks that can emerge when exploring the world.",
-      "url": "https://www.buzzsprout.com/2019912/episodes/19302826-when-adventure-meets-infectious-diseases.mp3",
-      "start_datetime": "2026-06-06T00:00:00",
-      "end_datetime": null,
-      "timezone": "UTC",
-      "location": "Podcast",
-      "organizer": "Let's Talk ID",
-      "source": "idsa_podcast",
-      "category": "Podcast - IDSA",
-      "tags": [],
-      "access_restriction": "Public",
-      "registration_url": null,
-      "recording_url": null
-    },
     {
       "id": "9ab7985c82d7e05d",
       "title": "Stanford Cancer Institute Breakthroughs in Cancer: Cold Yet Vaccinable? RNA Vaccines for Pancreatic Cancer",
