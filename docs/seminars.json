@@ -2,7 +2,7 @@
   "metadata": {
     "title": "GID Seminars Feed",
     "description": "Aggregated seminars and webinars for Global Infectious Disease research",
-    "generated_at": "2026-07-09T07:13:50.764385Z",
+    "generated_at": "2026-07-10T07:11:20.955127Z",
     "time_window": {
       "days_behind": 30,
       "days_ahead": 30
@@ -56,23 +56,6 @@
     ]
   },
   "events": [
-    {
-      "id": "9ab7985c82d7e05d",
-      "title": "Stanford Cancer Institute Breakthroughs in Cancer: Cold Yet Vaccinable? RNA Vaccines for Pancreatic Cancer",
-      "description": "The Stanford Cancer Institute Breakthroughs in Cancer seminar series provides a platform for eminent leaders in oncology to share their insights with the Stanford community. Seminars highlight innovations across basic, translational, clinical, and population cancer science. \n\nJoin us Tuesday, June 9, 4-5 p.m., at Munzer Auditorium, Beckman Center, or Zoom for a presentation by Vinod Balachandran, MD, director of the Olayan Center for Cancer Vaccines at Memorial Sloan Kettering Cancer Center.\n\nDr. Balachandran is a surgeon-scientist who discovered that rare long-term pancreatic cancer survivors have immune-active tumors densely infiltrated with T cells that recognize mutation-derived proteins found on cancer cells. He led the first clinical trial evaluating personalized mRNA vaccines for pancreatic cancer, which demonstrated that the approach can induce robust, durable T-cell responses and improve survival. He has received numerous honors for his pioneering work, including the 2023 Trailblazer Prize for Clinician-Scientists from the Foundation for the NIH, and was named one of the most influential people in health in 2025 by Time Magazine and The Washington Post.\n\nThe event is open to Stanford faculty, trainees, students, and staff.\n\nRegistration is encouraged.",
-      "url": "https://events.stanford.edu/event/stanford-cancer-institute-breakthroughs-in-cancer-pancreatic-cancer-survivors-to-solutions",
-      "start_datetime": "2026-06-09T23:00:00",
-      "end_datetime": "2026-06-10T00:00:00",
-      "timezone": "America/Los_Angeles",
-      "location": "Beckman Center, Munzer Auditorium",
-      "organizer": null,
-      "source": "stanford_virtual",
-      "category": "Class/Seminar",
-      "tags": [],
-      "access_restriction": "Public",
-      "registration_url": null,
-      "recording_url": null
-    },
     {
       "id": "e96763b564e635cf",
       "title": "TWiV 1330: Clinical update with Dr. Daniel Griffin",
@@ -357,6 +340,23 @@
       "organizer": "This Week in Virology",
       "source": "twiv_podcast",
       "category": "Podcast - TWiV",
+      "tags": [],
+      "access_restriction": "Public",
+      "registration_url": null,
+      "recording_url": null
+    },
+    {
+      "id": "75a9a5367a7fc4b6",
+      "title": "Finding Your Place at IDSA: Why Getting Involved Matters",
+      "description": "[Podcast: Let's Talk ID] Duration: 1482\n\nIDSA CEO Jeanne Marrazzo, MD, MPH, FIDSA, sits down with Past President, Daniel McQuillen, MD, FIDSA, and private practice infectious diseases physician, Sneha Thatipelli, MD, to discuss the value of volunteering with IDSA, finding the right opportunity and how getting involved can shape your career. The 2026 IDSA Call for Volunteers is open now through Friday, July 31. Apply (member login required): https://bit.ly/4gWz6qK",
+      "url": "https://www.buzzsprout.com/2019912/episodes/19471997-finding-your-place-at-idsa-why-getting-involved-matters.mp3",
+      "start_datetime": "2026-07-09T17:00:00",
+      "end_datetime": null,
+      "timezone": "UTC",
+      "location": "Podcast",
+      "organizer": "Let's Talk ID",
+      "source": "idsa_podcast",
+      "category": "Podcast - IDSA",
       "tags": [],
       "access_restriction": "Public",
       "registration_url": null,
