@@ -2,12 +2,12 @@
   "metadata": {
     "title": "GID Seminars Feed",
     "description": "Aggregated seminars and webinars for Global Infectious Disease research",
-    "generated_at": "2026-07-10T07:11:20.955127Z",
+    "generated_at": "2026-07-11T06:46:24.170408Z",
     "time_window": {
       "days_behind": 30,
       "days_ahead": 30
     },
-    "total_events": 36,
+    "total_events": 37,
     "sources": [
       "astmh_events",
       "avac_events",
@@ -56,23 +56,6 @@
     ]
   },
   "events": [
-    {
-      "id": "e96763b564e635cf",
-      "title": "TWiV 1330: Clinical update with Dr. Daniel Griffin",
-      "description": "[Podcast: This Week in Virology]\n\nIn his weekly clinical update, Daniel Griffin and Vincent Racaniello opine on the recent executive order on the routine childhood vaccination schedule, the Ebola outbreak in the Congo and Uganda including the fast track trials for 2 vaccine candidates and antivirals, recent Hantavirus infections, use of quarantined \u201cHantavirus\u201d patients for the governmental propaganda machine, use of ribavirin and other antivirals for Hantavirus associated cardiopulmonary disease, before Dr. Griffin deep dives into the measles outbreak, recent statistics RSV, influenza and SARS-CoV-2 infections, the Wasterwater Scan dashboard, Johns Hopkins measles tracker, the measles outbreak in Bangladesh, as well as in a daycare center in Texas in 2025, how to access and pay for Paxlovid, FDA approval of a second COVID-19 antiviral drug, where to go for answers about long COVID-19, use of convalescent sera for COVID-19 treatment and contacting your federal government representative to stop the assault on science and biomedical research. Click arrow to play Download&nbsp; TWiV 1330 (43 MB .mp3, 71 min) Subscribe (free):&nbsp; Apple Podcasts , RSS ,&nbsp; email Become a&nbsp; patron &nbsp;of&nbsp;TWiV! Links for this episode Childhood Vaccine Hesitancy (NEJM) 2:38 One Year In: Public Views of a Changing Public Health Landscape (Harvard School of Public Health) 15:16 Rotavirus Vaccine Coverage and Potential Barriers Among US Children Born From 2007 to 2024 (Pediatrics) 16:22 Texas reports New World screwworm",
-      "url": "https://www.microbe.tv/twiv/twiv-1330/",
-      "start_datetime": "2026-06-13T04:00:00",
-      "end_datetime": null,
-      "timezone": "UTC",
-      "location": "Podcast",
-      "organizer": "This Week in Virology",
-      "source": "twiv_podcast",
-      "category": "Podcast - TWiV",
-      "tags": [],
-      "access_restriction": "Public",
-      "registration_url": null,
-      "recording_url": null
-    },
     {
       "id": "afd02a641801b064",
       "title": "TWiV 1331: A drug for cervical cancer",
@@ -363,6 +346,23 @@
       "recording_url": null
     },
     {
+      "id": "6553f855f1f9e26f",
+      "title": "TWiV 1338: Clinical update with Dr. Daniel Griffin",
+      "description": "[Podcast: This Week in Virology]\n\nIn his weekly clinical update, Daniel Griffin and Vincent Racaniello are dismayed over the military deaths due to the voluntary influenza vaccination policy, FDA\u2019s first vaccine recommendations since 2023, the efficacy of influenza vaccines, new screwworm, Legionnaires and cyclosporiasis cases, the Ebola outbreak in the DRC and Uganda and before Dr. Griffin deep dives into the measles outbreak, recent statistics on RSV, influenza and SARS-CoV-2 infections, the Wasterwater Scan dashboard, Johns Hopkins measles tracker, how to access and pay for Paxlovid, publication of the blocked COVID-19 vaccine findings, where to go for answers about long COVID-19, use of antivirals in children with COVID-19, severe West Nile disease and contacting your federal government representative to stop the assault on science and biomedical research. Click arrow to play Download TWiV 1338 (26 MB .mp3, 43 min) Subscribe (free): Apple Podcasts , RSS , email Become a&nbsp; patron &nbsp;of&nbsp;TWiV! Links for this episode A1C Keon Talik McDaniel (Bexar Memorial) Hegseth: Flu Vaccine Optional (US Department of War) Air Force trainee in San Antonio, Texas, died from flu(CIDRAP) Key FDA committee unanimously recommends its first vaccine since 2023(NPR) Efficacy and Safety of an mRNA Seasonal Influenza Vaccine in Adults (NEJM) Influenza Vaccine Effectiveness Against Pediatric Death in the United States: 2016\u20132025 (Pediatrics) Dashboard SCREWWORM.Gov (USDA: Animal and Plant Health Inspection Service) CDC Ac",
+      "url": "https://www.microbe.tv/twiv/twiv-1338/",
+      "start_datetime": "2026-07-11T04:00:00",
+      "end_datetime": null,
+      "timezone": "UTC",
+      "location": "Podcast",
+      "organizer": "This Week in Virology",
+      "source": "twiv_podcast",
+      "category": "Podcast - TWiV",
+      "tags": [],
+      "access_restriction": "Public",
+      "registration_url": null,
+      "recording_url": null
+    },
+    {
       "id": "0d56c61e92a87a2d",
       "title": "The Future Won\u2019t Build Itself: Sustaining the Movement CASPR Started",
       "description": null,
@@ -465,6 +465,23 @@
       "recording_url": null
     },
     {
+      "id": "8244b368edaa7340",
+      "title": "Scientific update on Bundibugyo MCM research and development",
+      "description": "Consultation on Bundibugyo virus disease outbreak",
+      "url": "https://www.who.int/news-room/events/detail/2026/07/17/default-calendar/scientific-update-on-bundibugyo-mcm-research-and-development",
+      "start_datetime": "2026-07-17T11:00:00",
+      "end_datetime": "2026-07-17T13:00:00",
+      "timezone": "UTC",
+      "location": "Online/Geneva",
+      "organizer": "World Health Organization",
+      "source": "who_events",
+      "category": "WHO",
+      "tags": [],
+      "access_restriction": "Public",
+      "registration_url": null,
+      "recording_url": null
+    },
+    {
       "id": "ccb803051dfd4538",
       "title": "Beyond the Brush",
       "description": "While most of us were taught that brushing twice a day and flossing (when we remember) was how we take care of our teeth, modern science reveals that maintaining oral health is about far more than just a quick scrub and snap.\n\nOral health is the gateway to your overall systemic wellness, and effective oral hygiene is a big part of that puzzle. If you are looking to elevate your daily routine from a chore to an intentional self-care ritual for overall wellness, then this webinar is for you!\n\nWe will start with the essentials, demystifying the foundational habits of effective at-home care. You will learn the \"why\" behind traditional techniques before we pivot into the cutting-edge world of dental innovation.\n\nWe will navigate the ever-growing \u201cdental care\u201d aisle of the pharmacy together, breaking down smart ingredients, modern technologies and innovations, and our deeper understanding of the oral microbiome - how to balance the \"good\" bacteria in your mouth for fresher breath and stronger enamel.\n\nWhether you are looking to reverse years of sensitivity, prevent future dental work, or simply understand the labels on your products, this course provides the clarity you need. By the end, you\u2019ll have a personalized, tech-forward toolkit to maintain a radiant smile for a lifetime.\n\nThis class will be recorded and a one-week link to the recording will be shared with all registered participants. \n\nTo receive incentive points, attend at least 80% of the live session or listen to the entire recording within one week.\n\nRequest disability accommodations and access info.\n\n\n\nClass details are subject to change.",
@@ -501,7 +518,7 @@
     {
       "id": "3ec7e090292135ec",
       "title": "CFAR & PHSKC Lunchbox Talk with Jeremy Beckford",
-      "description": "Event interval: Single day event\nOnline Meeting Link: https://washington.zoom.us/meeting/register/DqrUqY5rTyWQFa3CS4usJQ\nAccessibility Contact: g0201@uw.edu\nEvent Types: Lectures/Seminars\nEvent sponsors: CFAR and Public Health - Seattle King County\n\nSpeaker: Jeremy Beckford, PhD, MPH\nTalk Title: TBA",
+      "description": "Event interval: Single day event\nOnline Meeting Link: https://washington.zoom.us/meeting/register/DqrUqY5rTyWQFa3CS4usJQ\nAccessibility Contact: g0201@uw.edu\nEvent Types: Lectures/Seminars\nEvent sponsors: CFAR and Public Health - Seattle King County\n\nSpeaker: Jeremy Beckford, PhD, MPH\nTalk Title: Reaching People Who Use Drugs: Who Receives Safer Smoking Supplies at Syringe Service Programs\nBio: Jeremy Beckford is a PhD candidate in Epidemiology at the University of Washington with over a decade of experience in substance use and infectious disease research. His dissertation examines the provision of safer smoking supplies to people who use drugs, including survey-based analyses characterizing syringe service program participants and people with a history of injection drug use.",
       "url": "https://washington.zoom.us/meeting/register/DqrUqY5rTyWQFa3CS4usJQ",
       "start_datetime": "2026-07-21T19:00:00",
       "end_datetime": "2026-07-21T20:00:00",
