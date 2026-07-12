@@ -2,7 +2,7 @@
   "metadata": {
     "title": "GID Seminars Feed",
     "description": "Aggregated seminars and webinars for Global Infectious Disease research",
-    "generated_at": "2026-07-11T06:46:24.170408Z",
+    "generated_at": "2026-07-12T06:54:00.033267Z",
     "time_window": {
       "days_behind": 30,
       "days_ahead": 30
@@ -56,23 +56,6 @@
     ]
   },
   "events": [
-    {
-      "id": "afd02a641801b064",
-      "title": "TWiV 1331: A drug for cervical cancer",
-      "description": "[Podcast: This Week in Virology]\n\nTWiV explains research showing that dairy cows are infected with low doses of influenza A(H5N1) and do not transmit efficiently to other animals, and covalent inhibitors of human papillomavirus type 16 E6 protein that restore p53 function and suppress growth of HPV-driven tumors in vivo. Hosts:&nbsp; Vincent Racaniello , Rich Condit , Brianne Barker , and Angela Mingarelli Click arrow to play Download TWiV 1331 (71 MB .mp3, 118 min) Subscribe (free):&nbsp; Apple Podcasts ,&nbsp; RSS ,&nbsp; email Become a&nbsp; patron &nbsp;of&nbsp;TWiV! Links for this episode Support science education at MicrobeTV 2:21 Positions in Rosenfeld Lab (email) 2:45 Letter on Baric funding ban (Science, scroll to bottom) 5:35 New political jobs at science agencies (Science) 6:26 Ebola sitrep (WHO) 14:17 Influenza H5N1 infection of dairy cows (Nat Comm) 23:38 Drug for cervical cancer (PNAS) 1:01:41 Timestamps by&nbsp; Jolene Ramsey. Thanks! Picks of the Week 1:35:07 Angela &#8211; SpaceX Brianne &#8211; Honeybees and shrimp are now getting vaccinated Rich &#8211; \u201cCarrying the Fire: An Astronaut&#8217;s Journeys\u201d by Michael Collins Vincent &#8211; NTSB Reveals What Really Happened to United 169 Intro music is by&nbsp; Ronald Jenkees Send your virology questions and comments to twiv@microbe.tv Content in this podcast should not be construed as medical advice. The post TWiV 1331: A drug for cervical cancer first appeared on This Week in Virology .",
-      "url": "https://www.microbe.tv/twiv/twiv-1331/",
-      "start_datetime": "2026-06-14T04:39:40",
-      "end_datetime": null,
-      "timezone": "UTC",
-      "location": "Podcast",
-      "organizer": "This Week in Virology",
-      "source": "twiv_podcast",
-      "category": "Podcast - TWiV",
-      "tags": [],
-      "access_restriction": "Public",
-      "registration_url": null,
-      "recording_url": null
-    },
     {
       "id": "2bda9fc39f72a409",
       "title": "TWiV 1332: Clinical update with Dr. Daniel Griffin",
@@ -351,6 +334,23 @@
       "description": "[Podcast: This Week in Virology]\n\nIn his weekly clinical update, Daniel Griffin and Vincent Racaniello are dismayed over the military deaths due to the voluntary influenza vaccination policy, FDA\u2019s first vaccine recommendations since 2023, the efficacy of influenza vaccines, new screwworm, Legionnaires and cyclosporiasis cases, the Ebola outbreak in the DRC and Uganda and before Dr. Griffin deep dives into the measles outbreak, recent statistics on RSV, influenza and SARS-CoV-2 infections, the Wasterwater Scan dashboard, Johns Hopkins measles tracker, how to access and pay for Paxlovid, publication of the blocked COVID-19 vaccine findings, where to go for answers about long COVID-19, use of antivirals in children with COVID-19, severe West Nile disease and contacting your federal government representative to stop the assault on science and biomedical research. Click arrow to play Download TWiV 1338 (26 MB .mp3, 43 min) Subscribe (free): Apple Podcasts , RSS , email Become a&nbsp; patron &nbsp;of&nbsp;TWiV! Links for this episode A1C Keon Talik McDaniel (Bexar Memorial) Hegseth: Flu Vaccine Optional (US Department of War) Air Force trainee in San Antonio, Texas, died from flu(CIDRAP) Key FDA committee unanimously recommends its first vaccine since 2023(NPR) Efficacy and Safety of an mRNA Seasonal Influenza Vaccine in Adults (NEJM) Influenza Vaccine Effectiveness Against Pediatric Death in the United States: 2016\u20132025 (Pediatrics) Dashboard SCREWWORM.Gov (USDA: Animal and Plant Health Inspection Service) CDC Ac",
       "url": "https://www.microbe.tv/twiv/twiv-1338/",
       "start_datetime": "2026-07-11T04:00:00",
+      "end_datetime": null,
+      "timezone": "UTC",
+      "location": "Podcast",
+      "organizer": "This Week in Virology",
+      "source": "twiv_podcast",
+      "category": "Podcast - TWiV",
+      "tags": [],
+      "access_restriction": "Public",
+      "registration_url": null,
+      "recording_url": null
+    },
+    {
+      "id": "ce83bfe593c5b828",
+      "title": "TWiV 1339: Ebola up close with Tom Ksiazek",
+      "description": "[Podcast: This Week in Virology]\n\nTom Ksiazek, a world-renowned virus expert with 40 years of experience on the front lines of some of the worst outbreaks the world has ever seen, joins TWiV to discuss his career, ebolaviruses in general, and the current outbreak of Bundibugyo ebolavirus in Africa. Hosts: Vincent Racaniello , Rich Condit , and Brianne Barker Guest: Tom Ksiazek Click arrow to play Download TWiV 1339 (67 MB .mp3, 110 min) Subscribe (free): Apple Podcasts , RSS , email Become a&nbsp; patron &nbsp;of&nbsp;TWiV! Links for this episode Support science education at MicrobeTV Positions in Rosenfeld Lab (email) Fred Murphy passes ( pdf ) CJ Peters passes ( pdf ) Tom Ksiazek on TWiV 583 Letters read on TWiV 1339 Timestamps by&nbsp; Jolene Ramsey. Thanks! Picks of the Week Brianne &#8211; APoD July 7: Dragons of Ara Rich &#8211; The Iconic Bass Riff That NOBODY Can Play ; Riff (Wiki) see \u201cRiff-Driven\u201d Vincent &#8211; The song that made Carlos Santana a rock legend Intro music is by&nbsp; Ronald Jenkees Send your virology questions and comments to twiv@microbe.tv Content in this podcast should not be construed as medical advice. The post TWiV 1339: Ebola up close with Tom Ksiazek first appeared on This Week in Virology .",
+      "url": "https://www.microbe.tv/twiv/twiv-1339/",
+      "start_datetime": "2026-07-12T04:00:00",
       "end_datetime": null,
       "timezone": "UTC",
       "location": "Podcast",
