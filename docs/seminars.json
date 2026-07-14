@@ -2,7 +2,7 @@
   "metadata": {
     "title": "GID Seminars Feed",
     "description": "Aggregated seminars and webinars for Global Infectious Disease research",
-    "generated_at": "2026-07-13T07:07:18.592653Z",
+    "generated_at": "2026-07-14T06:45:06.776011Z",
     "time_window": {
       "days_behind": 30,
       "days_ahead": 30
@@ -516,6 +516,23 @@
       "recording_url": null
     },
     {
+      "id": "1e6ba9fc939119b3",
+      "title": "VIPR Webinar Series",
+      "description": null,
+      "url": "https://tephi.texas.gov/events/event?id=6fe92f3a-bba7-4786-8f28-f2695462bd3e",
+      "start_datetime": "2026-07-21T12:00:00",
+      "end_datetime": null,
+      "timezone": "America/Chicago",
+      "location": "Virtual",
+      "organizer": "Texas EPHI",
+      "source": "tephi_events",
+      "category": "TEPHI",
+      "tags": [],
+      "access_restriction": "Public",
+      "registration_url": null,
+      "recording_url": null
+    },
+    {
       "id": "3ec7e090292135ec",
       "title": "CFAR & PHSKC Lunchbox Talk with Jeremy Beckford",
       "description": "Event interval: Single day event\nOnline Meeting Link: https://washington.zoom.us/meeting/register/DqrUqY5rTyWQFa3CS4usJQ\nAccessibility Contact: g0201@uw.edu\nEvent Types: Lectures/Seminars\nEvent sponsors: CFAR and Public Health - Seattle King County\n\nSpeaker: Jeremy Beckford, PhD, MPH\nTalk Title: Reaching People Who Use Drugs: Who Receives Safer Smoking Supplies at Syringe Service Programs\nBio: Jeremy Beckford is a PhD candidate in Epidemiology at the University of Washington with over a decade of experience in substance use and infectious disease research. His dissertation examines the provision of safer smoking supplies to people who use drugs, including survey-based analyses characterizing syringe service program participants and people with a history of injection drug use.",
@@ -646,23 +663,6 @@
       "organizer": "World Health Organization",
       "source": "who_events",
       "category": "WHO",
-      "tags": [],
-      "access_restriction": "Public",
-      "registration_url": null,
-      "recording_url": null
-    },
-    {
-      "id": "22c95015224d8c08",
-      "title": "TEPHI Grand Rounds | The Cost of Beauty: Infections Associated with Cosmetic Procedures",
-      "description": null,
-      "url": "https://tephi.texas.gov/events/event?id=43e665b2-416d-49bb-a7b5-7ff9952072bc",
-      "start_datetime": "2026-07-29T15:00:00",
-      "end_datetime": null,
-      "timezone": "America/Chicago",
-      "location": "Virtual",
-      "organizer": "Texas EPHI",
-      "source": "tephi_events",
-      "category": "TEPHI",
       "tags": [],
       "access_restriction": "Public",
       "registration_url": null,
