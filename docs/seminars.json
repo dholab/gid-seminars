@@ -2,7 +2,7 @@
   "metadata": {
     "title": "GID Seminars Feed",
     "description": "Aggregated seminars and webinars for Global Infectious Disease research",
-    "generated_at": "2026-07-17T06:48:18.432777Z",
+    "generated_at": "2026-07-18T06:39:46.918655Z",
     "time_window": {
       "days_behind": 30,
       "days_ahead": 30
@@ -56,23 +56,6 @@
     ]
   },
   "events": [
-    {
-      "id": "2bda9fc39f72a409",
-      "title": "TWiV 1332: Clinical update with Dr. Daniel Griffin",
-      "description": "[Podcast: This Week in Virology]\n\nIn his weekly clinical update, Daniel Griffin and Vincent Racaniello express concern &nbsp;about vaccine policy and ACIP, scaling back of the CDC\u2019s role in global public health, shingles vaccine and dementia, new screwworm cases, the Ebola outbreak in the Congo and Uganda and where the hantavirus outbreak began, before Dr. Griffin deep dives into the measles outbreak, recent statistics on RSV, influenza and SARS-CoV-2 infections, the Wasterwater Scan dashboard, Johns Hopkins measles tracker, Virgina outbreak of measles, how to access and pay for Paxlovid, how more people were negatively impacted by influenza than COVID, discontinuing contact precautions for COVID, where to go for answers about long COVID-19, and contacting your federal government representative to stop the assault on science and biomedical research. Click arrow to play Download&nbsp; TWiV 1332 (33 MB .mp3, 54 min) Subscribe (free):&nbsp; Apple Podcasts , RSS ,&nbsp; email Become a&nbsp; patron &nbsp;of&nbsp;TWiV! Links for this episode Today we filed a motion asking the First Circuit to expedite our appeal of the district court&#8217;s order in the AAP lawsuit that left ACIP\u2014the nation&#8217;s vaccine advisory committee\u2014without a quorum (X) 4:01 CDC advisers drop decades-old universal hepatitis B birth dose recommendation, suggest blood testing after 1 dose (CIDRAP) HHS asks for expedited appeal of court ruling on US vaccine policy (CIDRAP) 4:01 New Plan Scales Back C.D.C.\u2019s Work on Diseases Abroad (NY Times)",
-      "url": "https://www.microbe.tv/twiv/twiv-1332/",
-      "start_datetime": "2026-06-20T04:00:00",
-      "end_datetime": null,
-      "timezone": "UTC",
-      "location": "Podcast",
-      "organizer": "This Week in Virology",
-      "source": "twiv_podcast",
-      "category": "Podcast - TWiV",
-      "tags": [],
-      "access_restriction": "Public",
-      "registration_url": null,
-      "recording_url": null
-    },
     {
       "id": "2430901f44582345",
       "title": "ID Advocacy in Action: Shaping Policy Ahead of the Midterms",
@@ -414,17 +397,17 @@
       "recording_url": null
     },
     {
-      "id": "8244b368edaa7340",
-      "title": "Scientific update on Bundibugyo MCM research and development",
-      "description": "Consultation on Bundibugyo virus disease outbreak",
-      "url": "https://www.who.int/news-room/events/detail/2026/07/17/default-calendar/scientific-update-on-bundibugyo-mcm-research-and-development",
-      "start_datetime": "2026-07-17T11:00:00",
-      "end_datetime": "2026-07-17T13:00:00",
+      "id": "79b42e5f29c65c74",
+      "title": "TWiV 1340: Clinical update with Dr. Daniel Griffin",
+      "description": "[Podcast: This Week in Virology]\n\nIn his weekly clinical update, Daniel Griffin and Vincent Racaniello debate if Senator Mitch McConnell\u2019s recent hospitalization is due to post-polio syndrome or just old age, how air quality from Maine to Chicago has been affected by the Ontario wild fires, new screwworm, Legionnaires and cyclosporasis cases, the Ebola outbreak in the Congo and development of a novel vaccine and antiviral, before Dr. Griffin deep dives into the measles outbreak, recent statistics on RSV, influenza and SARS-CoV-2 infections, the Wasterwater Scan dashboard, Johns Hopkins measles tracker, how to access and pay for Paxlovid, where to go for answers about long COVID-19, long term effects of COVID-19 immune dysfunction including ocular and gut and contacting your federal government representative to stop the assault on science and biomedical research. Click arrow to play Download TWiV 1340 (27 MB .mp3, 44 min) Subscribe (free): Apple Podcasts , RSS , email Become a&nbsp; patron &nbsp;of&nbsp;TWiV! Links for this episode Statement From Senator Mitch McConnell (Mitch McConnell US Senator for Kentucky) Polio (NY Department of Health: Polio) Global polio vaccination (CDC) For Some Survivors, Polio Casts a Long Shadow (GAVI) Former Republican Senate Majority Leader Mitch McConnell hospitalized (NPR) Hundreds of thousands of Americans live with the long-term effects of polio (CIDRAP) Child Care, Schools, Camps: Outdoor Air Quality Health Recommendations Based on Air Quality Index (NY City of Health: air ",
+      "url": "https://www.microbe.tv/twiv/twiv-1340/",
+      "start_datetime": "2026-07-18T04:00:00",
+      "end_datetime": null,
       "timezone": "UTC",
-      "location": "Online/Geneva",
-      "organizer": "World Health Organization",
-      "source": "who_events",
-      "category": "WHO",
+      "location": "Podcast",
+      "organizer": "This Week in Virology",
+      "source": "twiv_podcast",
+      "category": "Podcast - TWiV",
       "tags": [],
       "access_restriction": "Public",
       "registration_url": null,
@@ -483,7 +466,7 @@
     },
     {
       "id": "2c3effc034774f7e",
-      "title": "WHO Health Emergencies EPI-WIN webinar: Ebola Bundibugyo Virus Disease outbreak readiness: tools, Experiences and Lessons from the Field",
+      "title": "WHO Health Emergencies EPI-WIN webinar: Ebola Bundibugyo virus disease outbreak readiness: tools, experiences and lessons from the field",
       "description": "This EPI-WIN webinar will provide an overview of the current BVD readiness approach, showcase practical country and regional experiences, for planning, tracking and strengthening readiness activities. Participants will hear firsthand lessons from simulation exercises and country implementation efforts, including experiences from South Sudan.",
       "url": "https://www.who.int/news-room/events/detail/2026/07/22/default-calendar/who-health-emergencies-epi-win-webinar-ebola-bundibugyo-virus-disease-outbreak-readiness-tools-experiences-and-lessons-from-the-field",
       "start_datetime": "2026-07-22T11:00:00",
@@ -680,6 +663,23 @@
       "organizer": null,
       "source": "stanford_virtual",
       "category": "Class/Seminar",
+      "tags": [],
+      "access_restriction": "Public",
+      "registration_url": null,
+      "recording_url": null
+    },
+    {
+      "id": "0bfaec84c5e7cefe",
+      "title": "19th International Course on Dengue, Oropouche and Other Emerging Arboviruses",
+      "description": null,
+      "url": "https://www.astmh.org/news-events/events-calendar/19th-international-course-on-dengue,-oropouche-and",
+      "start_datetime": "2026-08-17T00:00:00",
+      "end_datetime": "2026-08-28T00:00:00",
+      "timezone": "America/New_York",
+      "location": "La Habana, Cuba",
+      "organizer": "ASTMH",
+      "source": "astmh_events",
+      "category": "ASTMH",
       "tags": [],
       "access_restriction": "Public",
       "registration_url": null,
