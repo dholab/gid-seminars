@@ -2,12 +2,12 @@
   "metadata": {
     "title": "GID Seminars Feed",
     "description": "Aggregated seminars and webinars for Global Infectious Disease research",
-    "generated_at": "2026-07-20T07:05:28.828531Z",
+    "generated_at": "2026-07-21T06:52:18.840642Z",
     "time_window": {
       "days_behind": 30,
       "days_ahead": 30
     },
-    "total_events": 37,
+    "total_events": 34,
     "sources": [
       "astmh_events",
       "avac_events",
@@ -56,40 +56,6 @@
     ]
   },
   "events": [
-    {
-      "id": "2430901f44582345",
-      "title": "ID Advocacy in Action: Shaping Policy Ahead of the Midterms",
-      "description": "[Podcast: Let's Talk ID] Duration: 1631\n\nHost Mati Hlatshwayo Davis, MD, MPH, FIDSA is joined by IDSA Senior Vice President of Public Policy and Government Relations Amanda Jezek to discuss the policy challenges shaping infectious diseases, public health and research ahead of the midterm elections. They explore IDSA&apos;s advocacy strategy, recent policy wins and how ID professionals can build relationships with policymakers to drive meaningful change.",
-      "url": "https://www.buzzsprout.com/2019912/episodes/19383718-id-advocacy-in-action-shaping-policy-ahead-of-the-midterms.mp3",
-      "start_datetime": "2026-06-20T09:00:00",
-      "end_datetime": null,
-      "timezone": "UTC",
-      "location": "Podcast",
-      "organizer": "Let's Talk ID",
-      "source": "idsa_podcast",
-      "category": "Podcast - IDSA",
-      "tags": [],
-      "access_restriction": "Public",
-      "registration_url": null,
-      "recording_url": null
-    },
-    {
-      "id": "9f936b57af6cde09",
-      "title": "TWiV 1333: STING like a nanoparticle, float like HIV",
-      "description": "[Podcast: This Week in Virology]\n\nTWiV explains research showing how HIV-1 signalling remodels nuclear pores to licence infection, and development of STING agonist nanoparticles to enable coordinated mucosal-systemic immunity for durable pan-\u03b2-coronavirus protection. Hosts:&nbsp; Vincent Racaniello , Alan Dove , Rich Condit , and Brianne Barker Click arrow to play Download TWiV 1333 (69 MB .mp3, 115 min) Subscribe (free):&nbsp; Apple Podcasts ,&nbsp; RSS ,&nbsp; email Become a&nbsp; patron &nbsp;of&nbsp;TWiV! Links for this episode Support science education at MicrobeTV 2:11 Positions in Rosenfeld Lab (email) 2:38 Bundibugyo ebolavirus sitrep (WHO) 5:10 Ebolavirus and Andes virus with John Dye ( TWiV Special ) 4:39 Major research nonhuman primate supplier going out of business (Science) 6:53 HIV-1 signalling remodels nuclear pores to licence infection (Nature) 10:34 STING agonist nanoparticles enable mucosal-systemic immunity (Nature Nanoparticles) 56:35 Timestamps by&nbsp; Jolene Ramsey. Thanks! Picks of the Week 1:41:40 Brianne &#8211; Otherworldly music albums feature space weather data Rich &#8211; Evidence Mapping: Consolidating and summarising available evidence to support the demonstration of effectiveness of developmental vaccines , Australian Living Evidence Collaboration (ALEC) Alan &#8211; Holyoke dam fish elevator Vincent &#8211; 68 Quadrillion Underground Miles of Fungi Intro music is by&nbsp; Ronald Jenkees Send your virology questions and comments to twiv@microbe.tv Content in this podcast shou",
-      "url": "https://www.microbe.tv/twiv/twiv-1333/",
-      "start_datetime": "2026-06-21T04:00:00",
-      "end_datetime": null,
-      "timezone": "UTC",
-      "location": "Podcast",
-      "organizer": "This Week in Virology",
-      "source": "twiv_podcast",
-      "category": "Podcast - TWiV",
-      "tags": [],
-      "access_restriction": "Public",
-      "registration_url": null,
-      "recording_url": null
-    },
     {
       "id": "d8b675af9b080b83",
       "title": "APACI Respiratory Diseases Conference 2026",
@@ -323,23 +289,6 @@
       "organizer": "This Week in Virology",
       "source": "twiv_podcast",
       "category": "Podcast - TWiV",
-      "tags": [],
-      "access_restriction": "Public",
-      "registration_url": null,
-      "recording_url": null
-    },
-    {
-      "id": "a39131ee84a94d19",
-      "title": "Register for the Webinar",
-      "description": null,
-      "url": "https://www.iasusa.org/events/webinar-2026-chin-hong/",
-      "start_datetime": "2026-07-14T00:00:00",
-      "end_datetime": null,
-      "timezone": "America/Los_Angeles",
-      "location": "Online",
-      "organizer": null,
-      "source": "iasusa_webinars",
-      "category": "IAS-USA",
       "tags": [],
       "access_restriction": "Public",
       "registration_url": null,
