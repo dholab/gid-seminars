@@ -2,12 +2,12 @@
   "metadata": {
     "title": "GID Seminars Feed",
     "description": "Aggregated seminars and webinars for Global Infectious Disease research",
-    "generated_at": "2026-07-22T06:52:56.625882Z",
+    "generated_at": "2026-07-23T06:51:06.944953Z",
     "time_window": {
       "days_behind": 30,
       "days_ahead": 30
     },
-    "total_events": 34,
+    "total_events": 33,
     "sources": [
       "astmh_events",
       "avac_events",
@@ -391,23 +391,6 @@
       "organizer": null,
       "source": "iasusa_webinars",
       "category": "IAS-USA",
-      "tags": [],
-      "access_restriction": "Public",
-      "registration_url": null,
-      "recording_url": null
-    },
-    {
-      "id": "2c3effc034774f7e",
-      "title": "WHO Health Emergencies EPI-WIN webinar: Ebola Bundibugyo virus disease outbreak readiness: tools, experiences and lessons from the field",
-      "description": "This EPI-WIN webinar will provide an overview of the current BVD readiness approach, showcase practical country and regional experiences, for planning, tracking and strengthening readiness activities. Participants will hear firsthand lessons from simulation exercises and country implementation efforts, including experiences from South Sudan.",
-      "url": "https://www.who.int/news-room/events/detail/2026/07/22/default-calendar/who-health-emergencies-epi-win-webinar-ebola-bundibugyo-virus-disease-outbreak-readiness-tools-experiences-and-lessons-from-the-field",
-      "start_datetime": "2026-07-22T11:00:00",
-      "end_datetime": "2026-07-22T12:00:00",
-      "timezone": "UTC",
-      "location": "Online/Geneva",
-      "organizer": "World Health Organization",
-      "source": "who_events",
-      "category": "WHO",
       "tags": [],
       "access_restriction": "Public",
       "registration_url": null,
