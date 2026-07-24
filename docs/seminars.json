@@ -2,12 +2,12 @@
   "metadata": {
     "title": "GID Seminars Feed",
     "description": "Aggregated seminars and webinars for Global Infectious Disease research",
-    "generated_at": "2026-07-23T06:51:06.944953Z",
+    "generated_at": "2026-07-24T06:51:44.958120Z",
     "time_window": {
       "days_behind": 30,
       "days_ahead": 30
     },
-    "total_events": 33,
+    "total_events": 32,
     "sources": [
       "astmh_events",
       "avac_events",
@@ -391,23 +391,6 @@
       "organizer": null,
       "source": "iasusa_webinars",
       "category": "IAS-USA",
-      "tags": [],
-      "access_restriction": "Public",
-      "registration_url": null,
-      "recording_url": null
-    },
-    {
-      "id": "aa9d05ddcdb6140d",
-      "title": "World Hepatitis Day 2026 \u2013 Online talk show",
-      "description": "The 2026 World Hepatitis Day online talk show will deliver a strong message of hope and urgency, that hepatitis elimination is achievable, even in today\u2019s challenging global environment \u2013 if backed by leadership, investment, solidarity and decisive action.",
-      "url": "https://www.who.int/news-room/events/detail/2026/07/23/default-calendar/world-hepatitis-day-2026-online-talk-show",
-      "start_datetime": "2026-07-23T11:30:00",
-      "end_datetime": "2026-07-23T13:00:00",
-      "timezone": "UTC",
-      "location": "Online/Geneva",
-      "organizer": "World Health Organization",
-      "source": "who_events",
-      "category": "WHO",
       "tags": [],
       "access_restriction": "Public",
       "registration_url": null,
