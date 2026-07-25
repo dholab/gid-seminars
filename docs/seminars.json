@@ -2,7 +2,7 @@
   "metadata": {
     "title": "GID Seminars Feed",
     "description": "Aggregated seminars and webinars for Global Infectious Disease research",
-    "generated_at": "2026-07-24T06:51:44.958120Z",
+    "generated_at": "2026-07-25T06:47:29.594026Z",
     "time_window": {
       "days_behind": 30,
       "days_ahead": 30
@@ -56,23 +56,6 @@
     ]
   },
   "events": [
-    {
-      "id": "d8b675af9b080b83",
-      "title": "APACI Respiratory Diseases Conference 2026",
-      "description": "25 June 2026 - 8:30 AM Hong Kong Time (UTC+8) - InterContinental Grand Stanford Hong Kong Hotel (In-person & Online)",
-      "url": "https://www.isrv.global/events-calendar/apaci-respiratory-diseases-conference/",
-      "start_datetime": "2026-06-25T00:00:00",
-      "end_datetime": null,
-      "timezone": "UTC",
-      "location": "Online",
-      "organizer": "ISRV",
-      "source": "isrv_events",
-      "category": "ISRV",
-      "tags": [],
-      "access_restriction": "Public",
-      "registration_url": null,
-      "recording_url": null
-    },
     {
       "id": "5acfd16d7978131e",
       "title": "Brain Biology Program Meeting and Broad Trauma Initiative Special Seminar",
@@ -391,6 +374,23 @@
       "organizer": null,
       "source": "iasusa_webinars",
       "category": "IAS-USA",
+      "tags": [],
+      "access_restriction": "Public",
+      "registration_url": null,
+      "recording_url": null
+    },
+    {
+      "id": "046d89e09fc66bd4",
+      "title": "TWiV 1342: Clinical update with Dr. Daniel Griffin",
+      "description": "[Podcast: This Week in Virology]\n\nIn his weekly clinical update, Daniel Griffin and Vincent Racaniello explore the source/not source of the national cyclospora outbreak, trust in the FDA to correctly identify the source, new screwworm, Legionnaires and cyclosporasis cases, the Ebola outbreak in the Congo and development of a novel vaccine and antiviral before Dr. Griffin deep dives into the measles outbreak including the new Pennsylvania dashboard, recent statistics RSV, influenza and SARS-CoV-2 infections, the Wasterwater Scan dashboard, Johns Hopkins measles tracker, difference between high and standard dose influenza vaccines, how to access and pay for Paxlovid, where to go for answers about long COVID-19, and contacting your federal government representative to stop the assault on science and biomedical research. Click arrow to play Download TWiV 1342 (24 MB .mp3, 40 min) Subscribe (free): Apple Podcasts , RSS , email Become a&nbsp; patron &nbsp;of&nbsp;TWiV! Links for this episode How helpful is not up to date ? CDC: cyclosporiasis Taylor Farms pulls Mexican Lettuce on Cyclospora Cases (Bloomberg) FDA retracts positive cyclospora test on Taylor Farms lettuce (NPR: WHYY) False-positive lab sample DOES NOT change the basis for FDA\u2019s ongoing outbreak investigation (X) FDA retracts test result but still links Taylor Farms lettuce to cyclosporiasis (Washington Post) Infectious Disease Outbreaks (Michigan: Health &amp; Human Services) Cyclospora Infection (Cyclosporiasis) (NYC Health) Legionnaires&#8217; Disea",
+      "url": "https://www.microbe.tv/twiv/twiv-1342/",
+      "start_datetime": "2026-07-25T04:00:00",
+      "end_datetime": null,
+      "timezone": "UTC",
+      "location": "Podcast",
+      "organizer": "This Week in Virology",
+      "source": "twiv_podcast",
+      "category": "Podcast - TWiV",
       "tags": [],
       "access_restriction": "Public",
       "registration_url": null,
