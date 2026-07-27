@@ -2,12 +2,12 @@
   "metadata": {
     "title": "GID Seminars Feed",
     "description": "Aggregated seminars and webinars for Global Infectious Disease research",
-    "generated_at": "2026-07-26T06:55:26.896576Z",
+    "generated_at": "2026-07-27T07:09:01.319311Z",
     "time_window": {
       "days_behind": 30,
       "days_ahead": 30
     },
-    "total_events": 31,
+    "total_events": 30,
     "sources": [
       "astmh_events",
       "avac_events",
@@ -374,23 +374,6 @@
       "organizer": "AVAC",
       "source": "avac_events",
       "category": "AVAC",
-      "tags": [],
-      "access_restriction": "Public",
-      "registration_url": null,
-      "recording_url": null
-    },
-    {
-      "id": "4a6e7841a414afe2",
-      "title": "WHO @ AIDS 2026",
-      "description": "WHO will participate in AIDS 2026, the 26th International AIDS Conference, taking place in Rio de Janeiro, Brazil, and virtually from 26\u201331 July 2026. WHO will present its latest recommendations on HIV and STI prevention, diagnosis, treatment and monitoring, including new guidance on long-acting HIV treatment, HIV pre-exposure prophylaxis (PrEP), doxycycline post-exposure prophylaxis (DoxyPEP), and strengthened national HIV surveillance systems to support sustainable monitoring.",
-      "url": "https://www.who.int/news-room/events/detail/2026/07/26/default-calendar/who-at-aids-2026",
-      "start_datetime": "2026-07-26T00:00:00",
-      "end_datetime": "2026-08-01T00:00:00",
-      "timezone": "UTC",
-      "location": "Online/Geneva",
-      "organizer": "World Health Organization",
-      "source": "who_events",
-      "category": "WHO",
       "tags": [],
       "access_restriction": "Public",
       "registration_url": null,
