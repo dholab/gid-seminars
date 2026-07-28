@@ -2,12 +2,12 @@
   "metadata": {
     "title": "GID Seminars Feed",
     "description": "Aggregated seminars and webinars for Global Infectious Disease research",
-    "generated_at": "2026-07-27T07:09:01.319311Z",
+    "generated_at": "2026-07-28T06:53:22.493632Z",
     "time_window": {
       "days_behind": 30,
       "days_ahead": 30
     },
-    "total_events": 30,
+    "total_events": 31,
     "sources": [
       "astmh_events",
       "avac_events",
@@ -527,6 +527,23 @@
       "organizer": null,
       "source": "stanford_virtual",
       "category": "Class/Seminar",
+      "tags": [],
+      "access_restriction": "Public",
+      "registration_url": null,
+      "recording_url": null
+    },
+    {
+      "id": "18cc864d860cfbca",
+      "title": "The Persistence Paradigm: Ensuring the Longevity of Health Equity Research",
+      "description": null,
+      "url": "https://avac.org/event/persistence-paradigm-longevity-health-equity-research/",
+      "start_datetime": "2026-08-13T00:00:00",
+      "end_datetime": null,
+      "timezone": "America/New_York",
+      "location": "Online",
+      "organizer": "AVAC",
+      "source": "avac_events",
+      "category": "AVAC",
       "tags": [],
       "access_restriction": "Public",
       "registration_url": null,
