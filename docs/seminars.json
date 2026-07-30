@@ -2,12 +2,12 @@
   "metadata": {
     "title": "GID Seminars Feed",
     "description": "Aggregated seminars and webinars for Global Infectious Disease research",
-    "generated_at": "2026-07-29T06:55:08.731505Z",
+    "generated_at": "2026-07-30T06:53:57.325944Z",
     "time_window": {
       "days_behind": 30,
       "days_ahead": 30
     },
-    "total_events": 27,
+    "total_events": 26,
     "sources": [
       "astmh_events",
       "avac_events",
@@ -56,23 +56,6 @@
     ]
   },
   "events": [
-    {
-      "id": "3c546f0c411b1dae",
-      "title": "TWiV Special: Albert Sabin with Karen Torghele",
-      "description": "[Podcast: This Week in Virology]\n\nVincent speaks with Karen Torghele about her recently published biography of polio vaccine pioneer Albert Sabin, the first ever written. Host:&nbsp; Vincent Racaniello Guest: Karen Torghele Click arrow to play Download TWiV Special (42 MB .mp3, 70 min) Subscribe (free): Apple Podcasts , RSS , email Links for this episode Karen Torghele&#8217;s website Purchase Albert Sabin by Karen Torghele ( Bookshop or Amazon ) My letters from Albert Sabin ( virology blog ) Become a&nbsp; patron &nbsp;of&nbsp;TWiV! Intro music is by&nbsp; Ronald Jenkees Send your virology questions and comments to twiv@microbe.tv Content in this podcast should not be construed as medical advice. The post TWiV Special: Albert Sabin with Karen Torghele first appeared on This Week in Virology .",
-      "url": "https://www.microbe.tv/twiv/twiv-special-torghele/",
-      "start_datetime": "2026-06-29T15:50:14",
-      "end_datetime": null,
-      "timezone": "UTC",
-      "location": "Podcast",
-      "organizer": "This Week in Virology",
-      "source": "twiv_podcast",
-      "category": "Podcast - TWiV",
-      "tags": [],
-      "access_restriction": "Public",
-      "registration_url": null,
-      "recording_url": null
-    },
     {
       "id": "89b168bba74102fe",
       "title": "Progress Toward Solving Human Rhinovirus Infections: Jack Gwaltney\u2019s Legacy",
