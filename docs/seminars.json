@@ -2,12 +2,12 @@
   "metadata": {
     "title": "GID Seminars Feed",
     "description": "Aggregated seminars and webinars for Global Infectious Disease research",
-    "generated_at": "2026-07-30T06:53:57.325944Z",
+    "generated_at": "2026-07-31T06:59:30.855808Z",
     "time_window": {
       "days_behind": 30,
       "days_ahead": 30
     },
-    "total_events": 26,
+    "total_events": 25,
     "sources": [
       "astmh_events",
       "avac_events",
@@ -56,40 +56,6 @@
     ]
   },
   "events": [
-    {
-      "id": "89b168bba74102fe",
-      "title": "Progress Toward Solving Human Rhinovirus Infections: Jack Gwaltney\u2019s Legacy",
-      "description": "Office 7, 35-37 Ludgate Hill, London, EC4M 7JN, United Kingdom",
-      "url": "https://www.isrv.global/events-calendar/progress-toward-solving-human-rhinovirus-infections-jack-gwaltneys-legacy/",
-      "start_datetime": "2026-06-30T13:00:00",
-      "end_datetime": null,
-      "timezone": "UTC",
-      "location": "Online",
-      "organizer": "ISRV",
-      "source": "isrv_events",
-      "category": "ISRV",
-      "tags": [],
-      "access_restriction": "Public",
-      "registration_url": null,
-      "recording_url": null
-    },
-    {
-      "id": "8c89c491d42fdd49",
-      "title": "CTMID 2026",
-      "description": null,
-      "url": "https://www.astmh.org/news-events/events-calendar/ctmid-2026",
-      "start_datetime": "2026-07-01T00:00:00",
-      "end_datetime": "2026-07-02T00:00:00",
-      "timezone": "America/New_York",
-      "location": "Singapore",
-      "organizer": "ASTMH",
-      "source": "astmh_events",
-      "category": "ASTMH",
-      "tags": [],
-      "access_restriction": "Public",
-      "registration_url": null,
-      "recording_url": null
-    },
     {
       "id": "ea3a8c042298dd53",
       "title": "Smart Snacking for a Healthy Gut, Brain, and Heart",
@@ -493,6 +459,23 @@
       "organizer": null,
       "source": "stanford_virtual",
       "category": "Class/Seminar",
+      "tags": [],
+      "access_restriction": "Public",
+      "registration_url": null,
+      "recording_url": null
+    },
+    {
+      "id": "f83406251c335315",
+      "title": "ECR Social Event \u2013 Options XIII",
+      "description": "Early-Career Researchers (ECRs) attending Options XIII this year are invited to unwind, connect, and have some fun at ourexclusive social evening on Sunday 30 August 2026.",
+      "url": "https://www.isrv.global/events-calendar/ecr-social-event-options-xiii/",
+      "start_datetime": "2026-08-30T00:00:00",
+      "end_datetime": null,
+      "timezone": "UTC",
+      "location": null,
+      "organizer": "ISRV",
+      "source": "isrv_events",
+      "category": "ISRV",
       "tags": [],
       "access_restriction": "Public",
       "registration_url": null,
