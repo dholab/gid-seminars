@@ -2,7 +2,7 @@
   "metadata": {
     "title": "GID Seminars Feed",
     "description": "Aggregated seminars and webinars for Global Infectious Disease research",
-    "generated_at": "2026-08-01T06:50:49.000774Z",
+    "generated_at": "2026-08-02T06:53:42.402314Z",
     "time_window": {
       "days_behind": 30,
       "days_ahead": 30
@@ -56,23 +56,6 @@
     ]
   },
   "events": [
-    {
-      "id": "ea3a8c042298dd53",
-      "title": "Smart Snacking for a Healthy Gut, Brain, and Heart",
-      "description": "Healthy snacks are an important part of any nutrition plan. The right snack can help maintain steady energy levels, support brain function, and keep hunger in check between meals, keeping you focused and on track with your wellness goals.\n\nJoin us for a virtual demonstration where you\u2019ll learn how to create simple and delicious anti-inflammatory snacks that not only satisfy your cravings but also nourish your gut, brain, and heart health. The class will open with a short presentation on the science behind snacks that help improve the connection between your gut microbiome and your heart and brain, and those foods that can negatively impact how you think, feel and sleep.\n\nThen, the instructor will demonstrate how to put this knowledge into action! Using whole food ingredients rich in fiber, probiotics, antioxidants, and omega-3s, she will show you how to prepare easy, flavorful snacks that help reduce inflammation, promote digestion, and support mental clarity.\n\nAll of the snacks shared in this session will be easy to prepare, requiring just a few simple ingredients. You'll leave the class with new ideas for delicious, satisfying snacks that nourish both your body and mind.\n\nRecipes with detailed instructions, ingredients, and equipment lists will be provided after the class for you to recreate at home. Ingredient substitutions will be suggested to accommodate most dietary restrictions.\n\nThis class will be recorded and a one-week link to the recording will be shared with all registered participants. \n\nTo receive incentive points, attend at least 80% of the live session or listen to the entire recording within one week.  \n\nRequest disability accommodations and access info.\n\n\n\nClass details are subject to change.",
-      "url": "https://events.stanford.edu/event/smart-snacking-for-a-healthy-gut-brain-and-heart",
-      "start_datetime": "2026-07-02T19:00:00",
-      "end_datetime": "2026-07-02T20:00:00",
-      "timezone": "America/Los_Angeles",
-      "location": "Online",
-      "organizer": null,
-      "source": "stanford_virtual",
-      "category": "Class/Seminar",
-      "tags": [],
-      "access_restriction": "Public",
-      "registration_url": null,
-      "recording_url": null
-    },
     {
       "id": "fd9259dece552758",
       "title": "TWiV 1336: Clinical update with Dr. Daniel Griffin",
@@ -334,6 +317,23 @@
       "description": "[Podcast: This Week in Virology]\n\nIn his weekly clinical update, Daniel Griffin and Vincent Racaniello discuss the numerous attempts by states to roll back vaccine laws, the recent surge of Dengue virus cases in Sri Lanka, the national cyclospora outbreak, new screwworm and Legionnaires cases, launching of the CHaT-Ox Ebola vaccine trail, scale of the Ebola outbreak in the Congo and if cross-reactive Ebola antibodies are effective, before Dr. Griffin deep dives into the measles outbreak including the new Pennsylvania dashboard, recent statistics RSV, influenza and SARS-CoV-2 infections, the Wasterwater Scan dashboard, Johns Hopkins measles tracker, how to access and pay for Paxlovid, where to go for answers about long COVID-19, how long COVID and ME/CFS differ and contacting your federal government representative to stop the assault on science and biomedical research. Click arrow to play Download TWiV 1344 (30 MB .mp3, 49 min) Subscribe (free): Apple Podcasts , RSS , email Become a&nbsp; patron &nbsp;of&nbsp;TWiV! Links for this episode Dozens of States Tried to Roll Back Vaccine Laws. Here\u2019s How They Fared. (NY Times) Dengue cases in Sri Lanka surge past 80,000 (Newswire) After withdrawing false-positive test, FDA says Taylor Farms lettuce still a focus of Cyclospora investigation (CIDRAP) A difficult-to-trace parasite, messaging missteps contribute to summer of overwhelming Cyclospora outbreaks (CIDRAP) Surveillance of Cyclosporiasis (CDC: Cyclosporiasis) Infectious Disease Outbreaks (Michigan: Health &amp;",
       "url": "https://www.microbe.tv/twiv/twiv-1344/",
       "start_datetime": "2026-08-01T04:00:00",
+      "end_datetime": null,
+      "timezone": "UTC",
+      "location": "Podcast",
+      "organizer": "This Week in Virology",
+      "source": "twiv_podcast",
+      "category": "Podcast - TWiV",
+      "tags": [],
+      "access_restriction": "Public",
+      "registration_url": null,
+      "recording_url": null
+    },
+    {
+      "id": "1feefd8daeb2cc4e",
+      "title": "TWiV 1345: Rocky Mountain Virology High",
+      "description": "[Podcast: This Week in Virology]\n\nTWiV travels to Colorado State University in Ft. Collins, where he speaks with Angela Bosco-Lauth, Rebekah Kading, and Mark Stenglein about their careers and their virology research. Host: Vincent Racaniello Guests: Angela Bosco-Lauth , Rebekah Kading , and Mark Stenglein Click arrow to play Download TWiV 1345 (47 MB .mp3, 78 min) Subscribe (free): Apple Podcasts , RSS , email Become a&nbsp; patron &nbsp;of&nbsp;TWiV! Links for this episode Support science education at MicrobeTV Susceptibility of wild and domestic songbirds to Usutu virus (PLoS NTD) Rabbit Hemorrhagic Disease Virus 2 Infection in Snowshoe Hares (J Wildl Dis) SARS-CoV-2 Delta variant transmission among red fox and striped skunk (Virology) Susceptibilities and viral shedding of peridomestic wildlife infected with clade 2.3.4.4b H5N1 (Virology) Socioeconomic benefits associated with bats (J Ethnobiol Ethnomed) Intrinsic factors driving mosquito vector competence (Front Cell Inf Micro) Modernizing the Toolkit for Arthropod Bloodmeal Identification (Insects) Can Bats Serve as Reservoirs for Arboviruses? (Viruses) The Case for Studying New Viruses of New Hosts (Ann Rev Virol) Rapid evolution of SARS-CoV-2 in domestic cats (Virus Evol) Safety study of Rift Valley Fever human vaccine candidate in mosquitoes (Transbound Emerg Dis) Timestamps by Jolene Ramsey. Thanks! Intro music is by&nbsp; Ronald Jenkees Send your virology questions and comments to twiv@microbe.tv Content in this podcast should not be construed as me",
+      "url": "https://www.microbe.tv/twiv/twiv-1345/",
+      "start_datetime": "2026-08-02T04:00:00",
       "end_datetime": null,
       "timezone": "UTC",
       "location": "Podcast",
