@@ -2,7 +2,7 @@
   "metadata": {
     "title": "GID Seminars Feed",
     "description": "Aggregated seminars and webinars for Global Infectious Disease research",
-    "generated_at": "2026-08-02T06:53:42.402314Z",
+    "generated_at": "2026-08-03T07:08:25.469545Z",
     "time_window": {
       "days_behind": 30,
       "days_ahead": 30
@@ -56,23 +56,6 @@
     ]
   },
   "events": [
-    {
-      "id": "fd9259dece552758",
-      "title": "TWiV 1336: Clinical update with Dr. Daniel Griffin",
-      "description": "[Podcast: This Week in Virology]\n\nIn his weekly clinical update, Daniel Griffin and Vincent Racaniello lament about the new ACIP charter, how administration of the HPV vaccine has eliminated cervical cancer deaths in young women, the global economic burden of infectious disease, restoring trust in vaccinology, new screwworm cases, the Ebola outbreak in the Congo and Uganda and need for preparedness, before Dr. Griffin deep dives into the measles outbreak, recent statistics RSV, influenza and SARS-CoV-2 infections, the Wasterwater Scan dashboard, Johns Hopkins measles tracker, how to access and pay for Paxlovid, publication of the blocked COVID-19 vaccine findings, where to go for answers about long COVID-19, and contacting your federal government representative to stop the assault on science and biomedical research. Click arrow to play Download&nbsp; TWiV 1336 (14 MB .mp3, 23 min) Subscribe (free):&nbsp; Apple Podcasts , RSS ,&nbsp; email Become a&nbsp; patron &nbsp;of&nbsp;TWiV! Links for this episode New ACIP charter broadens criteria for members, calls for review of alternatives to vaccines (STAT News) 2:14 ACIP Charter (CDC: Advisory Committee on Immunization Practices) 2:14 HPV vaccination eliminated cervical cancer deaths in young UK women in recent years, study suggests (CIDRAP) 4:20 Cervical cancer mortality trends following HPV vaccination in England, 2001\u201324: an analysis of population-based mortality data (LANCET) 4:30 Dashboard SCREWWORM.Gov (USDA: Animal and Plant Health Inspection Service) 6:30 C",
-      "url": "https://www.microbe.tv/twiv/twiv-1336/",
-      "start_datetime": "2026-07-04T04:00:00",
-      "end_datetime": null,
-      "timezone": "UTC",
-      "location": "Podcast",
-      "organizer": "This Week in Virology",
-      "source": "twiv_podcast",
-      "category": "Podcast - TWiV",
-      "tags": [],
-      "access_restriction": "Public",
-      "registration_url": null,
-      "recording_url": null
-    },
     {
       "id": "fde8375e0f42ac1d",
       "title": "TWiV 1337: The whitefly and the Red Queen",
@@ -229,7 +212,7 @@
     {
       "id": "046d89e09fc66bd4",
       "title": "TWiV 1342: Clinical update with Dr. Daniel Griffin",
-      "description": "[Podcast: This Week in Virology]\n\nIn his weekly clinical update, Daniel Griffin and Vincent Racaniello explore the source/not source of the national cyclospora outbreak, trust in the FDA to correctly identify the source, new screwworm, Legionnaires and cyclosporasis cases, the Ebola outbreak in the Congo and development of a novel vaccine and antiviral before Dr. Griffin deep dives into the measles outbreak including the new Pennsylvania dashboard, recent statistics RSV, influenza and SARS-CoV-2 infections, the Wasterwater Scan dashboard, Johns Hopkins measles tracker, difference between high and standard dose influenza vaccines, how to access and pay for Paxlovid, where to go for answers about long COVID-19, and contacting your federal government representative to stop the assault on science and biomedical research. Click arrow to play Download TWiV 1342 (24 MB .mp3, 40 min) Subscribe (free): Apple Podcasts , RSS , email Become a&nbsp; patron &nbsp;of&nbsp;TWiV! Links for this episode How helpful is not up to date ? CDC: cyclosporiasis Taylor Farms pulls Mexican Lettuce on Cyclospora Cases (Bloomberg) FDA retracts positive cyclospora test on Taylor Farms lettuce (NPR: WHYY) False-positive lab sample DOES NOT change the basis for FDA\u2019s ongoing outbreak investigation (X) FDA retracts test result but still links Taylor Farms lettuce to cyclosporiasis (Washington Post) Infectious Disease Outbreaks (Michigan: Health &amp; Human Services) Cyclospora Infection (Cyclosporiasis) (NYC Health) Legionnaires&#8217; Disea",
+      "description": "[Podcast: This Week in Virology]\n\nIn his weekly clinical update, Daniel Griffin and Vincent Racaniello explore the source/not source of the national cyclospora outbreak, trust in the FDA to correctly identify the source, new screwworm, Legionnaires and cyclosporasis cases, the Ebola outbreak in the Congo and development of a novel vaccine and antiviral before Dr. Griffin deep dives into the measles outbreak including the new Pennsylvania dashboard, recent statistics RSV, influenza and SARS-CoV-2 infections, the Wasterwater Scan dashboard, Johns Hopkins measles tracker, difference between high and standard dose influenza vaccines, how to access and pay for Paxlovid, where to go for answers about long COVID-19, and contacting your federal government representative to stop the assault on science and biomedical research. Click arrow to play Download&nbsp; TWiV 1342 (24 MB .mp3, 40 min) Subscribe (free):&nbsp; Apple Podcasts , RSS ,&nbsp; email Become a&nbsp; patron &nbsp;of&nbsp;TWiV! Links for this episode How helpful is not up to date ? CDC: cyclosporiasis Taylor Farms pulls Mexican Lettuce on Cyclospora Cases (Bloomberg) 3:01 FDA retracts positive cyclospora test on Taylor Farms lettuce (NPR: WHYY) 3:18 False-positive lab sample DOES NOT change the basis for FDA\u2019s ongoing outbreak investigation (X) 3:21 FDA retracts test result but still links Taylor Farms lettuce to cyclosporiasis (Washington Post) 3:35 Infectious Disease Outbreaks (Michigan: Health &amp; Human Services) 5:32 Cyclospora Infection (Cyclosporia",
       "url": "https://www.microbe.tv/twiv/twiv-1342/",
       "start_datetime": "2026-07-25T04:00:00",
       "end_datetime": null,
@@ -263,7 +246,7 @@
     {
       "id": "81105c1147741279",
       "title": "TWiV 1343: Batting averages and stolen bases",
-      "description": "[Podcast: This Week in Virology]\n\nTWiV explains research which shows that Per os infectivity factors are essential for bracovirus infection and wasp parasitism, and that periodic shifts in viral load increase risk of Hendra virus spillover from Pteropus bats. Hosts: Vincent Racaniello , Rich Condit , and Kathy Spindler Click arrow to play Download TWiV 1343 (62 MB .mp3, 102 min) Subscribe (free): Apple Podcasts , RSS , email Become a&nbsp; patron &nbsp;of&nbsp;TWiV! Links for this episode Support science education at MicrobeTV Positions in Rosenfeld Lab (email) Susumu Tonegawa Dies ( Wikipedia ) Measles Cases Hit New Record in U.S., as Vaccination Rates Wane (NYTimes) Polydnaviruses on on TWiVs 372 and 443 Per os infectivity factors essential for bracovirus infection and wasp parasitism (PNAS) Periodic shifts in viral load increase risk of Hendra virus spillover from Pteropus bats (Sci Adv) Timestamps by&nbsp; Jolene Ramsey. Thanks! Picks of the Week Kathy &#8211; A) Sign up for ScienceAdviser daily newsletter, free B) Goats DO get brain damage from head butting ( Original bioRxiv preprint ) Rich &#8211; This Star Just Ate a Planet, and It\u2019s Not Done Yet Alan &#8211; Schisto and Ladders educational board game story, and the original publication on it . Vincent &#8211; How female dolphins know which males to avoid ( Original article ) Listener Pick David &#8211; What&#8217;s Under Your Feet in New York City? Ken &#8211; The usefulness of useless knowledge Intro music is by&nbsp; Ronald Jenkees Send your virolo",
+      "description": "[Podcast: This Week in Virology]\n\nTWiV explains research which shows that Per os infectivity factors are essential for bracovirus infection and wasp parasitism, and that periodic shifts in viral load increase risk of Hendra virus spillover from Pteropus bats. Hosts:&nbsp; Vincent Racaniello , Rich Condit , and Kathy Spindler Click arrow to play Download TWiV 1343 (62 MB .mp3, 102 min) Subscribe (free):&nbsp; Apple Podcasts ,&nbsp; RSS ,&nbsp; email Become a&nbsp; patron &nbsp;of&nbsp;TWiV! Links for this episode Support science education at MicrobeTV 3:04 Positions in Rosenfeld Lab (email) 3:11 Susumu Tonegawa Dies ( Wikipedia ) 4:47 Measles Cases Hit New Record in U.S., as Vaccination Rates Wane (NYTimes) 7:52 Polydnaviruses on on TWiVs 372 and 443 13:13 Per os infectivity factors essential for bracovirus infection and wasp parasitism (PNAS) 12:08 Periodic shifts in viral load increase risk of Hendra virus spillover from Pteropus bats (Sci Adv) 42:14 Letters read on TWiV 1343 Timestamps by&nbsp; Jolene Ramsey. Thanks! Picks of the Week 1:29:23 Kathy &#8211; A) Sign up for ScienceAdviser daily newsletter, free B) Goats DO get brain damage from head butting ( Original bioRxiv preprint ) Rich &#8211; This Star Just Ate a Planet, and It\u2019s Not Done Yet Alan &#8211; Schisto and Ladders educational board game story, and the original publication on it . Vincent &#8211; How female dolphins know which males to avoid ( Original article ) Listener Pick David &#8211; What&#8217;s Under Your Feet in New York City? Ken &#8",
       "url": "https://www.microbe.tv/twiv/twiv-1343/",
       "start_datetime": "2026-07-26T04:00:00",
       "end_datetime": null,
@@ -314,7 +297,7 @@
     {
       "id": "dc2949f0445663d7",
       "title": "TWiV 1344: Clinical update with Dr. Daniel Griffin",
-      "description": "[Podcast: This Week in Virology]\n\nIn his weekly clinical update, Daniel Griffin and Vincent Racaniello discuss the numerous attempts by states to roll back vaccine laws, the recent surge of Dengue virus cases in Sri Lanka, the national cyclospora outbreak, new screwworm and Legionnaires cases, launching of the CHaT-Ox Ebola vaccine trail, scale of the Ebola outbreak in the Congo and if cross-reactive Ebola antibodies are effective, before Dr. Griffin deep dives into the measles outbreak including the new Pennsylvania dashboard, recent statistics RSV, influenza and SARS-CoV-2 infections, the Wasterwater Scan dashboard, Johns Hopkins measles tracker, how to access and pay for Paxlovid, where to go for answers about long COVID-19, how long COVID and ME/CFS differ and contacting your federal government representative to stop the assault on science and biomedical research. Click arrow to play Download TWiV 1344 (30 MB .mp3, 49 min) Subscribe (free): Apple Podcasts , RSS , email Become a&nbsp; patron &nbsp;of&nbsp;TWiV! Links for this episode Dozens of States Tried to Roll Back Vaccine Laws. Here\u2019s How They Fared. (NY Times) Dengue cases in Sri Lanka surge past 80,000 (Newswire) After withdrawing false-positive test, FDA says Taylor Farms lettuce still a focus of Cyclospora investigation (CIDRAP) A difficult-to-trace parasite, messaging missteps contribute to summer of overwhelming Cyclospora outbreaks (CIDRAP) Surveillance of Cyclosporiasis (CDC: Cyclosporiasis) Infectious Disease Outbreaks (Michigan: Health &amp;",
+      "description": "[Podcast: This Week in Virology]\n\nIn his weekly clinical update, Daniel Griffin and Vincent Racaniello discuss the numerous attempts by states to roll back vaccine laws, the recent surge of Dengue virus cases in Sri Lanka, the national cyclospora outbreak, new screwworm and Legionnaires cases, launching of the CHaT-Ox Ebola vaccine trail, scale of the Ebola outbreak in the Congo and if cross-reactive Ebola antibodies are effective, before Dr. Griffin deep dives into the measles outbreak including the new Pennsylvania dashboard, recent statistics RSV, influenza and SARS-CoV-2 infections, the Wasterwater Scan dashboard, Johns Hopkins measles tracker, how to access and pay for Paxlovid, where to go for answers about long COVID-19, how long COVID and ME/CFS differ and contacting your federal government representative to stop the assault on science and biomedical research. Click arrow to play Download&nbsp; TWiV 1344 (30 MB .mp3, 49 min) Subscribe (free):&nbsp; Apple Podcasts , RSS ,&nbsp; email Become a&nbsp; patron &nbsp;of&nbsp;TWiV! Links for this episode Dozens of States Tried to Roll Back Vaccine Laws. Here\u2019s How They Fared. (NY Times) 2:05 Dengue cases in Sri Lanka surge past 80,000 (Newswire) 5:46 After withdrawing false-positive test, FDA says Taylor Farms lettuce still a focus of Cyclospora investigation (CIDRAP) A difficult-to-trace parasite, messaging missteps contribute to summer of overwhelming Cyclospora outbreaks (CIDRAP) 7:23 Surveillance of Cyclosporiasis (CDC: Cyclosporiasis) 9:45 Infectious Dis",
       "url": "https://www.microbe.tv/twiv/twiv-1344/",
       "start_datetime": "2026-08-01T04:00:00",
       "end_datetime": null,
@@ -331,7 +314,7 @@
     {
       "id": "1feefd8daeb2cc4e",
       "title": "TWiV 1345: Rocky Mountain Virology High",
-      "description": "[Podcast: This Week in Virology]\n\nTWiV travels to Colorado State University in Ft. Collins, where he speaks with Angela Bosco-Lauth, Rebekah Kading, and Mark Stenglein about their careers and their virology research. Host: Vincent Racaniello Guests: Angela Bosco-Lauth , Rebekah Kading , and Mark Stenglein Click arrow to play Download TWiV 1345 (47 MB .mp3, 78 min) Subscribe (free): Apple Podcasts , RSS , email Become a&nbsp; patron &nbsp;of&nbsp;TWiV! Links for this episode Support science education at MicrobeTV Susceptibility of wild and domestic songbirds to Usutu virus (PLoS NTD) Rabbit Hemorrhagic Disease Virus 2 Infection in Snowshoe Hares (J Wildl Dis) SARS-CoV-2 Delta variant transmission among red fox and striped skunk (Virology) Susceptibilities and viral shedding of peridomestic wildlife infected with clade 2.3.4.4b H5N1 (Virology) Socioeconomic benefits associated with bats (J Ethnobiol Ethnomed) Intrinsic factors driving mosquito vector competence (Front Cell Inf Micro) Modernizing the Toolkit for Arthropod Bloodmeal Identification (Insects) Can Bats Serve as Reservoirs for Arboviruses? (Viruses) The Case for Studying New Viruses of New Hosts (Ann Rev Virol) Rapid evolution of SARS-CoV-2 in domestic cats (Virus Evol) Safety study of Rift Valley Fever human vaccine candidate in mosquitoes (Transbound Emerg Dis) Timestamps by Jolene Ramsey. Thanks! Intro music is by&nbsp; Ronald Jenkees Send your virology questions and comments to twiv@microbe.tv Content in this podcast should not be construed as me",
+      "description": "[Podcast: This Week in Virology]\n\nTWiV travels to Colorado State University in Ft. Collins, where he speaks with Angela Bosco-Lauth, Rebekah Kading, and Mark Stenglein about their careers and their virology research. Host:&nbsp; Vincent Racaniello Guests: Angela Bosco-Lauth , Rebekah Kading , and Mark Stenglein Click arrow to play Download TWiV 1345 (47 MB .mp3, 78 min) Subscribe (free):&nbsp; Apple Podcasts ,&nbsp; RSS ,&nbsp; email Become a&nbsp; patron &nbsp;of&nbsp;TWiV! Links for this episode Support science education at MicrobeTV 1:16:38 Susceptibility of wild and domestic songbirds to Usutu virus (PLoS NTD) 9:56 Rabbit Hemorrhagic Disease Virus 2 Infection in Snowshoe Hares (J Wildl Dis) 14:12 SARS-CoV-2 Delta variant transmission among red fox and striped skunk (Virology) 20:08 Susceptibilities and viral shedding of peridomestic wildlife infected with clade 2.3.4.4b H5N1 (Virology) 25:34 Socioeconomic benefits associated with bats (J Ethnobiol Ethnomed) 32:31 Intrinsic factors driving mosquito vector competence (Front Cell Inf Micro) 36:01 Modernizing the Toolkit for Arthropod Bloodmeal Identification (Insects) 41:47 Can Bats Serve as Reservoirs for Arboviruses? (Viruses) 46:28 The Case for Studying New Viruses of New Hosts (Ann Rev Virol) 54:32 Rapid evolution of SARS-CoV-2 in domestic cats (Virus Evol) 1:02:03 Safety study of Rift Valley Fever human vaccine candidate in mosquitoes (Transbound Emerg Dis) 1:04:20 Timestamps by&nbsp; Jolene Ramsey. Thanks! Intro music is by&nbsp; Ronald Jenkees Send yo",
       "url": "https://www.microbe.tv/twiv/twiv-1345/",
       "start_datetime": "2026-08-02T04:00:00",
       "end_datetime": null,
@@ -487,6 +470,23 @@
       "description": "Early-Career Researchers (ECRs) attending Options XIII this year are invited to unwind, connect, and have some fun at ourexclusive social evening on Sunday 30 August 2026.",
       "url": "https://www.isrv.global/events-calendar/ecr-social-event-options-xiii/",
       "start_datetime": "2026-08-30T00:00:00",
+      "end_datetime": null,
+      "timezone": "UTC",
+      "location": null,
+      "organizer": "ISRV",
+      "source": "isrv_events",
+      "category": "ISRV",
+      "tags": [],
+      "access_restriction": "Public",
+      "registration_url": null,
+      "recording_url": null
+    },
+    {
+      "id": "8e4347ea97ed78b3",
+      "title": "ECR Lunchtime Workshop \u2013 Options XIII",
+      "description": "This interactive workshop, being held exclusively for Options XIII attendees, is designed to demystify the academic publishing process for students and Early Career Researchers (ECRs) and will run as an interactive format. Through a panel discussion with experts in publishing, participants will gain practical, experience-based insights into how manuscripts are prepared, reviewed, the role of the editor, and ultimately accepted or rejected.",
+      "url": "https://www.isrv.global/events-calendar/ecr-lunchtime-workshop-options-xiii/",
+      "start_datetime": "2026-09-02T00:00:00",
       "end_datetime": null,
       "timezone": "UTC",
       "location": null,
