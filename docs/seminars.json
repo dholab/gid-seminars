@@ -2,12 +2,12 @@
   "metadata": {
     "title": "GID Seminars Feed",
     "description": "Aggregated seminars and webinars for Global Infectious Disease research",
-    "generated_at": "2026-08-03T07:08:25.469545Z",
+    "generated_at": "2026-08-04T06:53:07.591159Z",
     "time_window": {
       "days_behind": 30,
       "days_ahead": 30
     },
-    "total_events": 26,
+    "total_events": 24,
     "sources": [
       "astmh_events",
       "avac_events",
@@ -56,23 +56,6 @@
     ]
   },
   "events": [
-    {
-      "id": "fde8375e0f42ac1d",
-      "title": "TWiV 1337: The whitefly and the Red Queen",
-      "description": "[Podcast: This Week in Virology]\n\nTWiV explains research that reveals an an alternative evolutionary path of antiviral signalling in a sea anemone, and how a bacterial symbiont and a plant virus enhance insect fitness by inducing physical defenses against fungal parasites. Hosts:&nbsp; Vincent Racaniello , Alan Dove , and Rich Condit Click arrow to play Download TWiV 1337 (68 MB .mp3, 113 min) Subscribe (free):&nbsp; Apple Podcasts ,&nbsp; RSS ,&nbsp; email Become a&nbsp; patron &nbsp;of&nbsp;TWiV! Links for this episode Support science education at MicrobeTV 2:54 Positions in Rosenfeld Lab (email) 3:07 Springer-Nature retracted two papers by Max Planck , probably with a bot (Science) 6:08 Alternative evolutionary path of antiviral signalling in sea anemone (Nat Ecol Evol) 11:23 Bacterial symbiont and plant virus protect whitefly against fungal parasites (PNAS) 49:25 Letters read on TWiV 1337 1:23:08 Timestamps by&nbsp; Jolene Ramsey. Thanks! Picks of the Week 1:41:23 Rich &#8211; The Mercy of Gods by James S. A. Corey ; Livesuit by James S. A. Corey Alan &#8211; Climate.us , run by former NOAA scientists after Trump gutted their agency&#8217;s climate site Vincent &#8211; A Chemically Defined Synthetic Cell Capable of Growth and Replication Listener Pick Lana &#8211; The Episodic Table of Elements Intro music is by&nbsp; Ronald Jenkees Send your virology questions and comments to twiv@microbe.tv Content in this podcast should not be construed as medical advice. The post TWiV 1337: The whitefly and the Red Qu",
-      "url": "https://www.microbe.tv/twiv/twiv-1337/",
-      "start_datetime": "2026-07-05T04:00:00",
-      "end_datetime": null,
-      "timezone": "UTC",
-      "location": "Podcast",
-      "organizer": "This Week in Virology",
-      "source": "twiv_podcast",
-      "category": "Podcast - TWiV",
-      "tags": [],
-      "access_restriction": "Public",
-      "registration_url": null,
-      "recording_url": null
-    },
     {
       "id": "75a9a5367a7fc4b6",
       "title": "Finding Your Place at IDSA: Why Getting Involved Matters",
@@ -323,23 +306,6 @@
       "organizer": "This Week in Virology",
       "source": "twiv_podcast",
       "category": "Podcast - TWiV",
-      "tags": [],
-      "access_restriction": "Public",
-      "registration_url": null,
-      "recording_url": null
-    },
-    {
-      "id": "923a40d1193ea6f6",
-      "title": "Global youth competition on influenza and COVID-19 prevention and control",
-      "description": null,
-      "url": "https://www.who.int/news-room/events/detail/2026/08/03/default-calendar/global-youth-competition-advocating-for-influenza-and-covid-19-prevention-and-control",
-      "start_datetime": "2026-08-03T00:00:00",
-      "end_datetime": "2026-09-14T00:00:00",
-      "timezone": "UTC",
-      "location": "Online/Geneva",
-      "organizer": "World Health Organization",
-      "source": "who_events",
-      "category": "WHO",
       "tags": [],
       "access_restriction": "Public",
       "registration_url": null,

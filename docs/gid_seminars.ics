@@ -7,48 +7,10 @@ X-WR-CALDESC:Aggregated seminars and webinars for Global Infectious Diseas
  e research
 X-WR-CALNAME:GID Seminars
 BEGIN:VEVENT
-SUMMARY:TWiV 1337: The whitefly and the Red Queen
-DTSTART:20260705T040000Z
-DTEND:20260705T050000Z
-DTSTAMP:20260803T070825Z
-UID:fde8375e0f42ac1d@gid-seminars.wnprc.wisc.edu
-CATEGORIES:Podcast - TWiV
-DESCRIPTION:[Podcast: This Week in Virology]\n\nTWiV explains research tha
- t reveals an an alternative evolutionary path of antiviral signalling in a
-  sea anemone\, and how a bacterial symbiont and a plant virus enhance inse
- ct fitness by inducing physical defenses against fungal parasites. Hosts:&
- nbsp\; Vincent Racaniello \, Alan Dove \, and Rich Condit Click arrow to p
- lay Download TWiV 1337 (68 MB .mp3\, 113 min) Subscribe (free):&nbsp\; App
- le Podcasts \,&nbsp\; RSS \,&nbsp\; email Become a&nbsp\; patron &nbsp\;of
- &nbsp\;TWiV! Links for this episode Support science education at MicrobeTV
-  2:54 Positions in Rosenfeld Lab (email) 3:07 Springer-Nature retracted tw
- o papers by Max Planck \, probably with a bot (Science) 6:08 Alternative e
- volutionary path of antiviral signalling in sea anemone (Nat Ecol Evol) 11
- :23 Bacterial symbiont and plant virus protect whitefly against fungal par
- asites (PNAS) 49:25 Letters read on TWiV 1337 1:23:08 Timestamps by&nbsp\;
-  Jolene Ramsey. Thanks! Picks of the Week 1:41:23 Rich &#8211\; The Mercy 
- of Gods by James S. A. Corey \; Livesuit by James S. A. Corey Alan &#8211\
- ; Climate.us \, run by former NOAA scientists after Trump gutted their age
- ncy&#8217\;s climate site Vincent &#8211\; A Chemically Defined Synthetic 
- Cell Capable of Growth and Replication Listener Pick Lana &#8211\; The Epi
- sodic Table of Elements Intro music is by&nbsp\; Ronald Jenkees Send your 
- virology questions and comments to twiv@microbe.tv Content in this podcast
-  should not be construed as medical advice. The post TWiV 1337: The whitef
- ly and the Red Qu\n\nEvent URL: https://www.microbe.tv/twiv/twiv-1337/\n\n
- Source: twiv_podcast
-LOCATION:Podcast
-URL:https://www.microbe.tv/twiv/twiv-1337/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: TWiV 1337: The whitefly and the Red Queen
-TRIGGER:-PT1H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Finding Your Place at IDSA: Why Getting Involved Matters
 DTSTART:20260709T170000Z
 DTEND:20260709T180000Z
-DTSTAMP:20260803T070825Z
+DTSTAMP:20260804T065307Z
 UID:75a9a5367a7fc4b6@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Podcast - IDSA
 DESCRIPTION:[Podcast: Let's Talk ID] Duration: 1482\n\nIDSA CEO Jeanne Mar
@@ -74,7 +36,7 @@ BEGIN:VEVENT
 SUMMARY:TWiV 1338: Clinical update with Dr. Daniel Griffin
 DTSTART:20260711T040000Z
 DTEND:20260711T050000Z
-DTSTAMP:20260803T070825Z
+DTSTAMP:20260804T065307Z
 UID:6553f855f1f9e26f@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Podcast - TWiV
 DESCRIPTION:[Podcast: This Week in Virology]\n\nIn his weekly clinical upd
@@ -112,7 +74,7 @@ BEGIN:VEVENT
 SUMMARY:TWiV 1339: Ebola up close with Tom Ksiazek
 DTSTART:20260712T040000Z
 DTEND:20260712T050000Z
-DTSTAMP:20260803T070825Z
+DTSTAMP:20260804T065307Z
 UID:ce83bfe593c5b828@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Podcast - TWiV
 DESCRIPTION:[Podcast: This Week in Virology]\n\nTom Ksiazek\, a world-reno
@@ -147,7 +109,7 @@ BEGIN:VEVENT
 SUMMARY:Journaling to Enhance Your Well-Being (July 14 - August 4)
 DTSTART;TZID=America/Los_Angeles:20260714T230000
 DTEND;TZID=America/Los_Angeles:20260715T001500
-DTSTAMP:20260803T070825Z
+DTSTAMP:20260804T065307Z
 UID:b026342a868f5f93@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Class/Seminar
 DESCRIPTION:Writing down your thoughts and feelings has been found to redu
@@ -184,7 +146,7 @@ SUMMARY:Stanford Cancer Institute Breakthroughs in Cancer: Immunotherapy f
  or Melanoma: Past\, Present\, Future
 DTSTART;TZID=America/Los_Angeles:20260714T230000
 DTEND;TZID=America/Los_Angeles:20260715T000000
-DTSTAMP:20260803T070825Z
+DTSTAMP:20260804T065307Z
 UID:ece9738b4326b97b@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Class/Seminar
 DESCRIPTION:The Stanford Cancer Institute Breakthroughs in Cancer seminar 
@@ -222,7 +184,7 @@ BEGIN:VEVENT
 SUMMARY:TWiV 1340: Clinical update with Dr. Daniel Griffin
 DTSTART:20260718T040000Z
 DTEND:20260718T050000Z
-DTSTAMP:20260803T070825Z
+DTSTAMP:20260804T065307Z
 UID:79b42e5f29c65c74@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Podcast - TWiV
 DESCRIPTION:[Podcast: This Week in Virology]\n\nIn his weekly clinical upd
@@ -260,7 +222,7 @@ BEGIN:VEVENT
 SUMMARY:TWiV 1341: Phage breaks and COVID origins
 DTSTART:20260719T040000Z
 DTEND:20260719T050000Z
-DTSTAMP:20260803T070825Z
+DTSTAMP:20260804T065307Z
 UID:5092d610bcf692ac@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Podcast - TWiV
 DESCRIPTION:[Podcast: This Week in Virology]\n\nTWiV explains research tha
@@ -297,7 +259,7 @@ BEGIN:VEVENT
 SUMMARY:Beyond the Brush
 DTSTART;TZID=America/Los_Angeles:20260720T190000
 DTEND;TZID=America/Los_Angeles:20260720T200000
-DTSTAMP:20260803T070825Z
+DTSTAMP:20260804T065307Z
 UID:ccb803051dfd4538@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Class/Seminar
 DESCRIPTION:While most of us were taught that brushing twice a day and flo
@@ -336,7 +298,7 @@ BEGIN:VEVENT
 SUMMARY:TWiV 1342: Clinical update with Dr. Daniel Griffin
 DTSTART:20260725T040000Z
 DTEND:20260725T050000Z
-DTSTAMP:20260803T070825Z
+DTSTAMP:20260804T065307Z
 UID:046d89e09fc66bd4@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Podcast - TWiV
 DESCRIPTION:[Podcast: This Week in Virology]\n\nIn his weekly clinical upd
@@ -374,7 +336,7 @@ BEGIN:VEVENT
 SUMMARY:Your Patients Trust You\, but Do They Believe You?
 DTSTART:20260725T120000Z
 DTEND:20260725T130000Z
-DTSTAMP:20260803T070825Z
+DTSTAMP:20260804T065307Z
 UID:b12ebe754660c67d@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Podcast - IDSA
 DESCRIPTION:[Podcast: Let's Talk ID] Duration: 1748\n\nTrust alone doesn&a
@@ -398,7 +360,7 @@ BEGIN:VEVENT
 SUMMARY:TWiV 1343: Batting averages and stolen bases
 DTSTART:20260726T040000Z
 DTEND:20260726T050000Z
-DTSTAMP:20260803T070825Z
+DTSTAMP:20260804T065307Z
 UID:81105c1147741279@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Podcast - TWiV
 DESCRIPTION:[Podcast: This Week in Virology]\n\nTWiV explains research whi
@@ -436,7 +398,7 @@ BEGIN:VEVENT
 SUMMARY:Timely Topics in Global Health Webinar
 DTSTART;TZID=America/Los_Angeles:20260727T190000
 DTEND;TZID=America/Los_Angeles:20260727T200000
-DTSTAMP:20260803T070825Z
+DTSTAMP:20260804T065307Z
 UID:fb8b3473e8225cf1@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Lecture/Presentation/Talk
 DESCRIPTION:Communicating about public and global health has never been mo
@@ -483,7 +445,7 @@ SUMMARY:TEPHI Grand Rounds | The Cost of Beauty: Infections Associated wit
  h Cosmetic Procedures
 DTSTART;TZID=America/Chicago:20260729T150000
 DTEND;TZID=America/Chicago:20260729T160000
-DTSTAMP:20260803T070825Z
+DTSTAMP:20260804T065307Z
 UID:22c95015224d8c08@gid-seminars.wnprc.wisc.edu
 CATEGORIES:TEPHI
 DESCRIPTION:\nEvent URL: https://tephi.texas.gov/events/event?id=43e665b2-
@@ -502,7 +464,7 @@ BEGIN:VEVENT
 SUMMARY:TWiV 1344: Clinical update with Dr. Daniel Griffin
 DTSTART:20260801T040000Z
 DTEND:20260801T050000Z
-DTSTAMP:20260803T070825Z
+DTSTAMP:20260804T065307Z
 UID:dc2949f0445663d7@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Podcast - TWiV
 DESCRIPTION:[Podcast: This Week in Virology]\n\nIn his weekly clinical upd
@@ -540,7 +502,7 @@ BEGIN:VEVENT
 SUMMARY:TWiV 1345: Rocky Mountain Virology High
 DTSTART:20260802T040000Z
 DTEND:20260802T050000Z
-DTSTAMP:20260803T070825Z
+DTSTAMP:20260804T065307Z
 UID:1feefd8daeb2cc4e@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Podcast - TWiV
 DESCRIPTION:[Podcast: This Week in Virology]\n\nTWiV travels to Colorado S
@@ -575,32 +537,10 @@ TRIGGER:-PT1H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Global youth competition on influenza and COVID-19 prevention and 
- control
-DTSTART:20260803T000000Z
-DTEND:20260914T000000Z
-DTSTAMP:20260803T070825Z
-UID:923a40d1193ea6f6@gid-seminars.wnprc.wisc.edu
-CATEGORIES:WHO
-DESCRIPTION:\nEvent URL: https://www.who.int/news-room/events/detail/2026/
- 08/03/default-calendar/global-youth-competition-advocating-for-influenza-a
- nd-covid-19-prevention-and-control\n\nSource: who_events
-LOCATION:Online/Geneva
-URL:https://www.who.int/news-room/events/detail/2026/08/03/default-calenda
- r/global-youth-competition-advocating-for-influenza-and-covid-19-preventio
- n-and-control
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Global youth competition on influenza and COVID-19 p
- revention and control
-TRIGGER:-PT1H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Review of Data Presented at the 2026 International AIDS Conference
 DTSTART;TZID=America/Los_Angeles:20260811T100000
 DTEND;TZID=America/Los_Angeles:20260811T110000
-DTSTAMP:20260803T070825Z
+DTSTAMP:20260804T065307Z
 UID:164ed667be1e03d9@gid-seminars.wnprc.wisc.edu
 CATEGORIES:IAS-USA
 DESCRIPTION:\nEvent URL: https://www.iasusa.org/events/webinar-2026-crabtr
@@ -619,7 +559,7 @@ SUMMARY:ENT Expert Up Close: Latest Advances in Rhinoplasty and Sinus Surg
  ery
 DTSTART;TZID=America/Los_Angeles:20260811T190000
 DTEND;TZID=America/Los_Angeles:20260811T200000
-DTSTAMP:20260803T070825Z
+DTSTAMP:20260804T065307Z
 UID:29f8eccbe53b35b6@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Class/Seminar
 DESCRIPTION:OverviewThis session will explore advanced surgical techniques
@@ -667,7 +607,7 @@ SUMMARY:The Persistence Paradigm: Ensuring the Longevity of Health Equity
  Research
 DTSTART;TZID=America/New_York:20260813T000000
 DTEND;TZID=America/New_York:20260813T010000
-DTSTAMP:20260803T070825Z
+DTSTAMP:20260804T065307Z
 UID:18cc864d860cfbca@gid-seminars.wnprc.wisc.edu
 CATEGORIES:AVAC
 DESCRIPTION:\nEvent URL: https://avac.org/event/persistence-paradigm-longe
@@ -687,7 +627,7 @@ SUMMARY:19th International Course on Dengue\, Oropouche and Other Emerging
   Arboviruses
 DTSTART;TZID=America/New_York:20260817T000000
 DTEND;TZID=America/New_York:20260828T000000
-DTSTAMP:20260803T070825Z
+DTSTAMP:20260804T065307Z
 UID:0bfaec84c5e7cefe@gid-seminars.wnprc.wisc.edu
 CATEGORIES:ASTMH
 DESCRIPTION:\nEvent URL: https://www.astmh.org/news-events/events-calendar
@@ -707,7 +647,7 @@ BEGIN:VEVENT
 SUMMARY:The Link Between Lifestyle and Cellular Aging
 DTSTART;TZID=America/Los_Angeles:20260820T190000
 DTEND;TZID=America/Los_Angeles:20260820T200000
-DTSTAMP:20260803T070825Z
+DTSTAMP:20260804T065307Z
 UID:272db2aceab4119d@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Class/Seminar
 DESCRIPTION:Everyone wants to feel healthy and vibrant. This is true no ma
@@ -742,7 +682,7 @@ BEGIN:VEVENT
 SUMMARY:Humanitarian Health Seminar Series
 DTSTART;TZID=America/Los_Angeles:20260824T190000
 DTEND;TZID=America/Los_Angeles:20260824T200000
-DTSTAMP:20260803T070825Z
+DTSTAMP:20260804T065307Z
 UID:bb6d102edce11ac3@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Class/Seminar
 DESCRIPTION:The Center for Innovation in Global Health (CIGH) Humanitarian
@@ -767,7 +707,7 @@ SUMMARY:How to Reduce Your Environmental Toxic Exposures and Protect Your
  Family's Health
 DTSTART;TZID=America/Los_Angeles:20260827T190000
 DTEND;TZID=America/Los_Angeles:20260827T200000
-DTSTAMP:20260803T070825Z
+DTSTAMP:20260804T065307Z
 UID:6d3b55c44630097a@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Class/Seminar
 DESCRIPTION:Plastics and environmental toxins are everywhere — in our fo
@@ -805,7 +745,7 @@ BEGIN:VEVENT
 SUMMARY:ECR Social Event – Options XIII
 DTSTART:20260830T000000Z
 DTEND:20260830T010000Z
-DTSTAMP:20260803T070825Z
+DTSTAMP:20260804T065307Z
 UID:f83406251c335315@gid-seminars.wnprc.wisc.edu
 CATEGORIES:ISRV
 DESCRIPTION:Early-Career Researchers (ECRs) attending Options XIII this ye
@@ -823,7 +763,7 @@ BEGIN:VEVENT
 SUMMARY:ECR Lunchtime Workshop – Options XIII
 DTSTART:20260902T000000Z
 DTEND:20260902T010000Z
-DTSTAMP:20260803T070825Z
+DTSTAMP:20260804T065307Z
 UID:8e4347ea97ed78b3@gid-seminars.wnprc.wisc.edu
 CATEGORIES:ISRV
 DESCRIPTION:This interactive workshop\, being held exclusively for Options
