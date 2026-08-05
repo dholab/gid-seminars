@@ -10,7 +10,7 @@ BEGIN:VEVENT
 SUMMARY:Finding Your Place at IDSA: Why Getting Involved Matters
 DTSTART:20260709T170000Z
 DTEND:20260709T180000Z
-DTSTAMP:20260804T065307Z
+DTSTAMP:20260805T065434Z
 UID:75a9a5367a7fc4b6@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Podcast - IDSA
 DESCRIPTION:[Podcast: Let's Talk ID] Duration: 1482\n\nIDSA CEO Jeanne Mar
@@ -36,7 +36,7 @@ BEGIN:VEVENT
 SUMMARY:TWiV 1338: Clinical update with Dr. Daniel Griffin
 DTSTART:20260711T040000Z
 DTEND:20260711T050000Z
-DTSTAMP:20260804T065307Z
+DTSTAMP:20260805T065434Z
 UID:6553f855f1f9e26f@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Podcast - TWiV
 DESCRIPTION:[Podcast: This Week in Virology]\n\nIn his weekly clinical upd
@@ -74,7 +74,7 @@ BEGIN:VEVENT
 SUMMARY:TWiV 1339: Ebola up close with Tom Ksiazek
 DTSTART:20260712T040000Z
 DTEND:20260712T050000Z
-DTSTAMP:20260804T065307Z
+DTSTAMP:20260805T065434Z
 UID:ce83bfe593c5b828@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Podcast - TWiV
 DESCRIPTION:[Podcast: This Week in Virology]\n\nTom Ksiazek\, a world-reno
@@ -109,7 +109,7 @@ BEGIN:VEVENT
 SUMMARY:Journaling to Enhance Your Well-Being (July 14 - August 4)
 DTSTART;TZID=America/Los_Angeles:20260714T230000
 DTEND;TZID=America/Los_Angeles:20260715T001500
-DTSTAMP:20260804T065307Z
+DTSTAMP:20260805T065434Z
 UID:b026342a868f5f93@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Class/Seminar
 DESCRIPTION:Writing down your thoughts and feelings has been found to redu
@@ -146,7 +146,7 @@ SUMMARY:Stanford Cancer Institute Breakthroughs in Cancer: Immunotherapy f
  or Melanoma: Past\, Present\, Future
 DTSTART;TZID=America/Los_Angeles:20260714T230000
 DTEND;TZID=America/Los_Angeles:20260715T000000
-DTSTAMP:20260804T065307Z
+DTSTAMP:20260805T065434Z
 UID:ece9738b4326b97b@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Class/Seminar
 DESCRIPTION:The Stanford Cancer Institute Breakthroughs in Cancer seminar 
@@ -184,7 +184,7 @@ BEGIN:VEVENT
 SUMMARY:TWiV 1340: Clinical update with Dr. Daniel Griffin
 DTSTART:20260718T040000Z
 DTEND:20260718T050000Z
-DTSTAMP:20260804T065307Z
+DTSTAMP:20260805T065434Z
 UID:79b42e5f29c65c74@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Podcast - TWiV
 DESCRIPTION:[Podcast: This Week in Virology]\n\nIn his weekly clinical upd
@@ -222,7 +222,7 @@ BEGIN:VEVENT
 SUMMARY:TWiV 1341: Phage breaks and COVID origins
 DTSTART:20260719T040000Z
 DTEND:20260719T050000Z
-DTSTAMP:20260804T065307Z
+DTSTAMP:20260805T065434Z
 UID:5092d610bcf692ac@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Podcast - TWiV
 DESCRIPTION:[Podcast: This Week in Virology]\n\nTWiV explains research tha
@@ -259,7 +259,7 @@ BEGIN:VEVENT
 SUMMARY:Beyond the Brush
 DTSTART;TZID=America/Los_Angeles:20260720T190000
 DTEND;TZID=America/Los_Angeles:20260720T200000
-DTSTAMP:20260804T065307Z
+DTSTAMP:20260805T065434Z
 UID:ccb803051dfd4538@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Class/Seminar
 DESCRIPTION:While most of us were taught that brushing twice a day and flo
@@ -298,7 +298,7 @@ BEGIN:VEVENT
 SUMMARY:TWiV 1342: Clinical update with Dr. Daniel Griffin
 DTSTART:20260725T040000Z
 DTEND:20260725T050000Z
-DTSTAMP:20260804T065307Z
+DTSTAMP:20260805T065434Z
 UID:046d89e09fc66bd4@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Podcast - TWiV
 DESCRIPTION:[Podcast: This Week in Virology]\n\nIn his weekly clinical upd
@@ -336,7 +336,7 @@ BEGIN:VEVENT
 SUMMARY:Your Patients Trust You\, but Do They Believe You?
 DTSTART:20260725T120000Z
 DTEND:20260725T130000Z
-DTSTAMP:20260804T065307Z
+DTSTAMP:20260805T065434Z
 UID:b12ebe754660c67d@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Podcast - IDSA
 DESCRIPTION:[Podcast: Let's Talk ID] Duration: 1748\n\nTrust alone doesn&a
@@ -360,7 +360,7 @@ BEGIN:VEVENT
 SUMMARY:TWiV 1343: Batting averages and stolen bases
 DTSTART:20260726T040000Z
 DTEND:20260726T050000Z
-DTSTAMP:20260804T065307Z
+DTSTAMP:20260805T065434Z
 UID:81105c1147741279@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Podcast - TWiV
 DESCRIPTION:[Podcast: This Week in Virology]\n\nTWiV explains research whi
@@ -398,7 +398,7 @@ BEGIN:VEVENT
 SUMMARY:Timely Topics in Global Health Webinar
 DTSTART;TZID=America/Los_Angeles:20260727T190000
 DTEND;TZID=America/Los_Angeles:20260727T200000
-DTSTAMP:20260804T065307Z
+DTSTAMP:20260805T065434Z
 UID:fb8b3473e8225cf1@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Lecture/Presentation/Talk
 DESCRIPTION:Communicating about public and global health has never been mo
@@ -445,7 +445,7 @@ SUMMARY:TEPHI Grand Rounds | The Cost of Beauty: Infections Associated wit
  h Cosmetic Procedures
 DTSTART;TZID=America/Chicago:20260729T150000
 DTEND;TZID=America/Chicago:20260729T160000
-DTSTAMP:20260804T065307Z
+DTSTAMP:20260805T065434Z
 UID:22c95015224d8c08@gid-seminars.wnprc.wisc.edu
 CATEGORIES:TEPHI
 DESCRIPTION:\nEvent URL: https://tephi.texas.gov/events/event?id=43e665b2-
@@ -464,7 +464,7 @@ BEGIN:VEVENT
 SUMMARY:TWiV 1344: Clinical update with Dr. Daniel Griffin
 DTSTART:20260801T040000Z
 DTEND:20260801T050000Z
-DTSTAMP:20260804T065307Z
+DTSTAMP:20260805T065434Z
 UID:dc2949f0445663d7@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Podcast - TWiV
 DESCRIPTION:[Podcast: This Week in Virology]\n\nIn his weekly clinical upd
@@ -502,7 +502,7 @@ BEGIN:VEVENT
 SUMMARY:TWiV 1345: Rocky Mountain Virology High
 DTSTART:20260802T040000Z
 DTEND:20260802T050000Z
-DTSTAMP:20260804T065307Z
+DTSTAMP:20260805T065434Z
 UID:1feefd8daeb2cc4e@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Podcast - TWiV
 DESCRIPTION:[Podcast: This Week in Virology]\n\nTWiV travels to Colorado S
@@ -540,7 +540,7 @@ BEGIN:VEVENT
 SUMMARY:Review of Data Presented at the 2026 International AIDS Conference
 DTSTART;TZID=America/Los_Angeles:20260811T100000
 DTEND;TZID=America/Los_Angeles:20260811T110000
-DTSTAMP:20260804T065307Z
+DTSTAMP:20260805T065434Z
 UID:164ed667be1e03d9@gid-seminars.wnprc.wisc.edu
 CATEGORIES:IAS-USA
 DESCRIPTION:\nEvent URL: https://www.iasusa.org/events/webinar-2026-crabtr
@@ -559,7 +559,7 @@ SUMMARY:ENT Expert Up Close: Latest Advances in Rhinoplasty and Sinus Surg
  ery
 DTSTART;TZID=America/Los_Angeles:20260811T190000
 DTEND;TZID=America/Los_Angeles:20260811T200000
-DTSTAMP:20260804T065307Z
+DTSTAMP:20260805T065434Z
 UID:29f8eccbe53b35b6@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Class/Seminar
 DESCRIPTION:OverviewThis session will explore advanced surgical techniques
@@ -603,11 +603,44 @@ TRIGGER:-PT1H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Diana Parra Pérez\, PT\, MPH\, PhD | Associate or Full Professor 
+ with Tenure (50%) - Global Mental Health Job Talk
+DTSTART;TZID=America/Los_Angeles:20260812T190000
+DTEND;TZID=America/Los_Angeles:20260812T200000
+DTSTAMP:20260805T065434Z
+UID:47f963cb119b3993@gid-seminars.wnprc.wisc.edu
+CATEGORIES:Fred Hutch Center for AIDS Research (CFAR)
+DESCRIPTION:Event interval: Single day event\nOnline Meeting Link: https:/
+ /washington.zoom.us/j/98510746854\nAccessibility Contact: DGH Academic Hum
+ an Resources: dghahr@uw.edu\nEvent Types: Lectures/Seminars\nEvent sponsor
+ s: Department of Global Health\nLink: https://bit.ly/GMHJobTalks\n\nTalk T
+ itle: Bridging Worlds: Community-Grounded Implementation Science for the F
+ uture of Global Mental Health\n\nJoin the Department of Global Health's up
+ coming candidate faculty job talks.\n\nFrom Wednesday\, August 12 to Tuesd
+ ay\, August 18\, 2026\, the department is interviewing five candidates to 
+ join our faculty as an Associate or Full Professor with Tenure (50%) - Glo
+ bal Mental Health. Each candidate will be presenting on a global health to
+ pic of their choice. Everyone is invited to attend the virtual job talks t
+ o learn about the candidates.\n\nAll presentations will be held virtually 
+ on Zoom. Candidate talks will be recorded and links will be shared on the 
+ job talk blog post. All faculty\, staff\, and students are encouraged to p
+ rovide feedback via the form linked on the blog post.\n\nEvent URL: https:
+ //bit.ly/GMHJobTalks\n\nSource: uw_cfar
+LOCATION:Zoom
+URL:https://bit.ly/GMHJobTalks
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Diana Parra Pérez\, PT\, MPH\, PhD | Associate or F
+ ull Professor with Tenure (50%) - Global Mental Health Job Talk
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The Persistence Paradigm: Ensuring the Longevity of Health Equity 
  Research
 DTSTART;TZID=America/New_York:20260813T000000
 DTEND;TZID=America/New_York:20260813T010000
-DTSTAMP:20260804T065307Z
+DTSTAMP:20260805T065434Z
 UID:18cc864d860cfbca@gid-seminars.wnprc.wisc.edu
 CATEGORIES:AVAC
 DESCRIPTION:\nEvent URL: https://avac.org/event/persistence-paradigm-longe
@@ -623,11 +656,78 @@ TRIGGER:-PT1H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Samantha C. Winter\, PhD | Associate or Full Professor with Tenure
+  (50%) - Global Mental Health Job Talk
+DTSTART;TZID=America/Los_Angeles:20260813T190000
+DTEND;TZID=America/Los_Angeles:20260813T200000
+DTSTAMP:20260805T065434Z
+UID:088ab2d9af0b6485@gid-seminars.wnprc.wisc.edu
+CATEGORIES:Fred Hutch Center for AIDS Research (CFAR)
+DESCRIPTION:Event interval: Single day event\nOnline Meeting Link: https:/
+ /washington.zoom.us/j/92042998457\nAccessibility Contact: DGH Academic Hum
+ an Resources: dghahr@uw.edu\nEvent Types: Lectures/Seminars\nEvent sponsor
+ s: Department of Global Health\nLink: https://bit.ly/GMHJobTalks\n\nTalk T
+ itle: Building the Future of Global Mental Health: Community Partnerships\
+ , Implementation Science\, Technology\, and Determinants of Mental Healt
+ h Equity \n\nJoin the Department of Global Health's upcoming candidate f
+ aculty job talks. \n\nFrom Wednesday\, August 12 to Tuesday\, August 18\, 
+ 2026\, the department is interviewing five candidates to join our faculty 
+ as an Associate or Full Professor with Tenure (50%) - Global Mental Health
+ . Each candidate will be presenting on a global health topic of their choi
+ ce. Everyone is invited to attend the virtual job talks to learn about the
+  candidates. \n\nAll presentations will be held virtually on Zoom. Candida
+ te talks will be recorded and links will be shared on the job talk blog po
+ st. All faculty\, staff\, and students are encouraged to provide feedback 
+ via the form linked on the blog post.\n\nEvent URL: https://bit.ly/GMHJobT
+ alks\n\nSource: uw_cfar
+LOCATION:Zoom
+URL:https://bit.ly/GMHJobTalks
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Samantha C. Winter\, PhD | Associate or Full Profess
+ or with Tenure (50%) - Global Mental Health Job Talk
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ashley Hagaman\, PhD\, MPH | Associate or Full Professor with Tenu
+ re (50%) - Global Mental Health Job Talk
+DTSTART;TZID=America/Los_Angeles:20260814T190000
+DTEND;TZID=America/Los_Angeles:20260814T200000
+DTSTAMP:20260805T065434Z
+UID:e56e74737ce1909c@gid-seminars.wnprc.wisc.edu
+CATEGORIES:Fred Hutch Center for AIDS Research (CFAR)
+DESCRIPTION:Event interval: Single day event\nOnline Meeting Link: https:/
+ /washington.zoom.us/j/91906942074\nAccessibility Contact: DGH Academic Hum
+ an Resources: dghahr@uw.edu\nEvent Types: Lectures/Seminars\nEvent sponsor
+ s: Department of Global Health\nLink: https://bit.ly/GMHJobTalks\n\nTalk T
+ itle: How Do We Build Mental Health Systems that Communities Trust\, Adopt
+ \, and Sustain? \n\nJoin the Department of Global Health's upcoming candid
+ ate faculty job talks. \n\nFrom Wednesday\, August 12 to Tuesday\, August 
+ 18\, 2026\, the department is interviewing five candidates to join our fac
+ ulty as an Associate or Full Professor with Tenure (50%) - Global Mental H
+ ealth. Each candidate will be presenting on a global health topic of their
+  choice. Everyone is invited to attend the virtual job talks to learn abou
+ t the candidates. \n\nAll presentations will be held virtually on Zoom. Ca
+ ndidate talks will be recorded and links will be shared on the job talk bl
+ og post. All faculty\, staff\, and students are encouraged to provide feed
+ back via the form linked on the blog post.\n\nEvent URL: https://bit.ly/GM
+ HJobTalks\n\nSource: uw_cfar
+LOCATION:Zoom
+URL:https://bit.ly/GMHJobTalks
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Ashley Hagaman\, PhD\, MPH | Associate or Full Profe
+ ssor with Tenure (50%) - Global Mental Health Job Talk
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:19th International Course on Dengue\, Oropouche and Other Emerging
   Arboviruses
 DTSTART;TZID=America/New_York:20260817T000000
 DTEND;TZID=America/New_York:20260828T000000
-DTSTAMP:20260804T065307Z
+DTSTAMP:20260805T065434Z
 UID:0bfaec84c5e7cefe@gid-seminars.wnprc.wisc.edu
 CATEGORIES:ASTMH
 DESCRIPTION:\nEvent URL: https://www.astmh.org/news-events/events-calendar
@@ -644,10 +744,215 @@ TRIGGER:-PT1H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Pallab Maulik\, MD\, PhD\, MSc | Associate or Full Professor with 
+ Tenure (50%) - Global Mental Health Job Talk
+DTSTART;TZID=America/Los_Angeles:20260817T170000
+DTEND;TZID=America/Los_Angeles:20260817T180000
+DTSTAMP:20260805T065434Z
+UID:5d87835be8e8181c@gid-seminars.wnprc.wisc.edu
+CATEGORIES:Fred Hutch Center for AIDS Research (CFAR)
+DESCRIPTION:Event interval: Single day event\nOnline Meeting Link: https:/
+ /washington.zoom.us/j/91446272249\nAccessibility Contact: DGH Academic Hum
+ an Resources: dghahr@uw.edu\nEvent Types: Lectures/Seminars\nEvent sponsor
+ s: Department of Global Health\nLink: https://bit.ly/GMHJobTalks\n\nTalk T
+ itle: From Evidence to Equitable Scale-Up: Building the Next Generation of
+  Global Mental Health Implementation Science\n\nJoin the Department of Glo
+ bal Health's upcoming candidate faculty job talks. \n\nFrom Wednesday\, Au
+ gust 12 to Tuesday\, August 18\, 2026\, the department is interviewing fiv
+ e candidates to join our faculty as an Associate or Full Professor with Te
+ nure (50%) - Global Mental Health. Each candidate will be presenting on a 
+ global health topic of their choice. Everyone is invited to attend the vir
+ tual job talks to learn about the candidates. \n\nAll presentations will b
+ e held virtually on Zoom. Candidate talks will be recorded and links will 
+ be shared on the job talk blog post. All faculty\, staff\, and students ar
+ e encouraged to provide feedback via the form linked on the blog post.\n\n
+ Event URL: https://bit.ly/GMHJobTalks\n\nSource: uw_cfar
+LOCATION:Zoom
+URL:https://bit.ly/GMHJobTalks
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Pallab Maulik\, MD\, PhD\, MSc | Associate or Full P
+ rofessor with Tenure (50%) - Global Mental Health Job Talk
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:John A. Naslund\, PhD | Associate or Full Professor with Tenure (5
+ 0%) - Global Mental Health Job Talk
+DTSTART;TZID=America/Los_Angeles:20260818T180000
+DTEND;TZID=America/Los_Angeles:20260818T190000
+DTSTAMP:20260805T065434Z
+UID:b44d0716a38a2d15@gid-seminars.wnprc.wisc.edu
+CATEGORIES:Fred Hutch Center for AIDS Research (CFAR)
+DESCRIPTION:Event interval: Single day event\nOnline Meeting Link: https:/
+ /washington.zoom.us/j/95230561101\nAccessibility Contact: DGH Academic Hum
+ an Resources: dghahr@uw.edu\nEvent Types: Lectures/Seminars\nEvent sponsor
+ s: Department of Global Health\nLink: https://bit.ly/GMHJobTalks\n\nTalk T
+ itle: Reimagining Global Mental Health Care Delivery: Scaling Solutions Th
+ rough Task Sharing\, Community Partnerships\, and Digital Innovation \n\nJ
+ oin the Department of Global Health's upcoming candidate faculty job talks
+ . \n\nFrom Wednesday\, August 12 to Tuesday\, August 18\, 2026\, the depar
+ tment is interviewing five candidates to join our faculty as an Associate 
+ or Full Professor with Tenure (50%) - Global Mental Health. Each candidate
+  will be presenting on a global health topic of their choice. Everyone is 
+ invited to attend the virtual job talks to learn about the candidates. \n\
+ nAll presentations will be held virtually on Zoom. Candidate talks will be
+  recorded and links will be shared on the job talk blog post. All faculty\
+ , staff\, and students are encouraged to provide feedback via the form lin
+ ked on the blog post.\n\nEvent URL: https://bit.ly/GMHJobTalks\n\nSource: 
+ uw_cfar
+LOCATION:Zoom
+URL:https://bit.ly/GMHJobTalks
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: John A. Naslund\, PhD | Associate or Full Professor 
+ with Tenure (50%) - Global Mental Health Job Talk
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chemical Biology Supergroup: Debasis Das
+DTSTART;TZID=America/New_York:20260818T193000
+DTEND;TZID=America/New_York:20260818T203000
+DTSTAMP:20260805T065434Z
+UID:2ff97dd17e9617f5@gid-seminars.wnprc.wisc.edu
+CATEGORIES:Talks
+DESCRIPTION:Speaker: Debasis Das (Indian Institute of Science)\nTalk Title
+ : Harnessing Enzymatic Power for Bioenergy and Therapeutics\n\nDescription
+ : Enzymes are nature's most efficient catalysts\, capable of driving compl
+ ex chemical transformations with remarkable speed and selectivity. Underst
+ anding how these biological catalysts function not only deepens our knowle
+ dge of fundamental biochemistry but also enables innovative solutions for 
+ challenges in sustainable manufacturing and human health. In this seminar\
+ , I will present our efforts to discover and engineer microbial enzymes fo
+ r two distinct yet impactful applications: renewable hydrocarbon productio
+ n and the treatment of biofilm-associated infections.\n\nThe first part fo
+ cuses on UndB\, a membrane-bound enzyme that catalyzes the conversion of f
+ atty acids into terminal 1-alkenes─valuable platform chemicals widely us
+ ed in the production of polymers\, lubricants\, and detergents. Although U
+ ndB was discovered nearly a decade ago\, its catalytic mechanism has remai
+ ned largely elusive. Our studies establish that UndB is a diiron enzyme wi
+ th a conserved histidine-coordinated active site and demonstrate that cata
+ lysis requires molecular oxygen together with electron-transfer partners. 
+ These mechanistic insights have guided the engineering of an efficient who
+ le-cell biocatalyst capable of converting naturally abundant free fatty ac
+ ids into medium-chain 1-alkenes with conversion efficiencies of up to 95%.
+ \n\nThe second part highlights the discovery of microbial enzymes that tar
+ get the extracellular matrix of bacterial biofilms\, offering a promising 
+ strategy to combat antimicrobial-resistant infections. We identified an or
+ phan enzyme from the cow rumen microbiome that rapidly disperses mature bi
+ ofilms formed by clinical isolates of Klebsiella pneumoniae at low micromo
+ lar concentrations\, thereby enhancing antibiotic susceptibility and promo
+ ting immune-mediated clearance in a murine wound infection model. We furth
+ er discovered CRhAB\, a biofilm-\n\nEvent URL: https://events.broadinstitu
+ te.org/event/chemical-biology-supergroup-debasis-das-8621\n\nSource: broad
+ _institute
+LOCATION:Online
+URL:https://events.broadinstitute.org/event/chemical-biology-supergroup-de
+ basis-das-8621
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Chemical Biology Supergroup: Debasis Das
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chemical Biology Supergroup: Debasis Das
+DTSTART;TZID=America/New_York:20260818T193000
+DTEND;TZID=America/New_York:20260818T203000
+DTSTAMP:20260805T065434Z
+UID:22ac5c4cf41dd513@gid-seminars.wnprc.wisc.edu
+CATEGORIES:University - Broad
+DESCRIPTION:Speaker: Debasis Das (Indian Institute of Science)\nTalk Title
+ : Harnessing Enzymatic Power for Bioenergy and Therapeutics\n\nDescription
+ : Enzymes are nature's most efficient catalysts\, capable of driving compl
+ ex chemical transformations with remarkable speed and selectivity. Underst
+ anding how these biological catalysts function not only deepens our knowle
+ dge of fundamental biochemistry but also enables innovative solutions for 
+ challenges in sustainable manufacturing and human health. In this seminar\
+ , I will present our efforts to discover and engineer microbial enzymes fo
+ r two distinct yet impactful applications: renewable hydrocarbon productio
+ n and the treatment of biofilm-associated infections.\n\nThe first part fo
+ cuses on UndB\, a membrane-bound enzyme that catalyzes the conversion of f
+ atty acids into terminal 1-alkenes─valuable platform chemicals widely us
+ ed in the production of polymers\, lubricants\, and detergents. Although U
+ ndB was discovered nearly a decade ago\, its catalytic mechanism has remai
+ ned largely elusive. Our studies establish that UndB is a diiron enzyme wi
+ th a conserved histidine-coordinated active site and demonstrate that cata
+ lysis requires molecular oxygen together with electron-transfer partners. 
+ These mechanistic insights have guided the engineering of an efficient who
+ le-cell biocatalyst capable of converting naturally abundant free fatty ac
+ ids into medium-chain 1-alkenes with conversion efficiencies of up to 95%.
+ \n\nThe second part highlights the discovery of microbial enzymes that tar
+ get the extracellular matrix of bacterial biofilms\, offering a promising 
+ strategy to combat antimicrobial-resistant infections. We identified an or
+ phan enzyme from the cow rumen microbiome that rapidly disperses mature bi
+ ofilms formed by clinical isolates of Klebsiella pneumoniae at low micromo
+ lar concentrations\, thereby enhancing antibiotic susceptibility and promo
+ ting immune-mediated clearance in a murine wound infection model. We furth
+ er discovered CRhAB\, a biofilm-\n\nEvent URL: https://events.broadinstitu
+ te.org/event/chemical-biology-supergroup-debasis-das-5992\n\nSource: broad
+ _institute
+LOCATION:Zoom Webinar
+URL:https://events.broadinstitute.org/event/chemical-biology-supergroup-de
+ basis-das-5992
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Chemical Biology Supergroup: Debasis Das
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chemical Biology Supergroup: Debasis Das
+DTSTART;TZID=America/New_York:20260818T193000
+DTEND;TZID=America/New_York:20260818T203000
+DTSTAMP:20260805T065434Z
+UID:9647aec9992eba4b@gid-seminars.wnprc.wisc.edu
+CATEGORIES:Talks
+DESCRIPTION:Speaker: Debasis Das (Indian Institute of Science)\nTalk Title
+ : Harnessing Enzymatic Power for Bioenergy and Therapeutics\n\nDescription
+ : Enzymes are nature's most efficient catalysts\, capable of driving compl
+ ex chemical transformations with remarkable speed and selectivity. Underst
+ anding how these biological catalysts function not only deepens our knowle
+ dge of fundamental biochemistry but also enables innovative solutions for 
+ challenges in sustainable manufacturing and human health. In this seminar\
+ , I will present our efforts to discover and engineer microbial enzymes fo
+ r two distinct yet impactful applications: renewable hydrocarbon productio
+ n and the treatment of biofilm-associated infections.\n\nThe first part fo
+ cuses on UndB\, a membrane-bound enzyme that catalyzes the conversion of f
+ atty acids into terminal 1-alkenes─valuable platform chemicals widely us
+ ed in the production of polymers\, lubricants\, and detergents. Although U
+ ndB was discovered nearly a decade ago\, its catalytic mechanism has remai
+ ned largely elusive. Our studies establish that UndB is a diiron enzyme wi
+ th a conserved histidine-coordinated active site and demonstrate that cata
+ lysis requires molecular oxygen together with electron-transfer partners. 
+ These mechanistic insights have guided the engineering of an efficient who
+ le-cell biocatalyst capable of converting naturally abundant free fatty ac
+ ids into medium-chain 1-alkenes with conversion efficiencies of up to 95%.
+ \n\nThe second part highlights the discovery of microbial enzymes that tar
+ get the extracellular matrix of bacterial biofilms\, offering a promising 
+ strategy to combat antimicrobial-resistant infections. We identified an or
+ phan enzyme from the cow rumen microbiome that rapidly disperses mature bi
+ ofilms formed by clinical isolates of Klebsiella pneumoniae at low micromo
+ lar concentrations\, thereby enhancing antibiotic susceptibility and promo
+ ting immune-mediated clearance in a murine wound infection model. We furth
+ er discovered CRhAB\, a biofilm-\n\nEvent URL: https://events.broadinstitu
+ te.org/event/chemical-biology-supergroup-debasis-das\n\nSource: broad_inst
+ itute
+LOCATION:Online
+URL:https://events.broadinstitute.org/event/chemical-biology-supergroup-de
+ basis-das
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Chemical Biology Supergroup: Debasis Das
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The Link Between Lifestyle and Cellular Aging
 DTSTART;TZID=America/Los_Angeles:20260820T190000
 DTEND;TZID=America/Los_Angeles:20260820T200000
-DTSTAMP:20260804T065307Z
+DTSTAMP:20260805T065434Z
 UID:272db2aceab4119d@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Class/Seminar
 DESCRIPTION:Everyone wants to feel healthy and vibrant. This is true no ma
@@ -663,12 +968,12 @@ DESCRIPTION:Everyone wants to feel healthy and vibrant. This is true no ma
  cess. Walk away with 1-2 actions you can start right away to improve the w
  ay you age moving forward\, no matter how old you are today.\n\nThis class
   will be recorded and a one-week link to the recording will be shared with
-  all registered participants. \n\nTo receive incentive points\, attend at 
- least 80% of the live session or listen to the entire recording within one
-  week.  \n\nRequest disability accommodations and access info.\n\n\n\nClas
- s details are subject to change.\n\nEvent URL: https://events.stanford.edu
- /event/the-link-between-lifestyle-and-cellular-aging-7478\n\nSource: stanf
- ord_virtual
+  all registered participants. \n\nThis class qualifies for double points a
+ s part of our August promotion. To receive 4\,000 points\, attend at least
+  80% of the live session or watch the entire recording within one week.\n\
+ nRequest disability accommodations and access info.\n\n\n\nClass details a
+ re subject to change.\n\nEvent URL: https://events.stanford.edu/event/the-
+ link-between-lifestyle-and-cellular-aging-7478\n\nSource: stanford_virtual
 LOCATION:Online
 URL:https://events.stanford.edu/event/the-link-between-lifestyle-and-cellu
  lar-aging-7478
@@ -682,7 +987,7 @@ BEGIN:VEVENT
 SUMMARY:Humanitarian Health Seminar Series
 DTSTART;TZID=America/Los_Angeles:20260824T190000
 DTEND;TZID=America/Los_Angeles:20260824T200000
-DTSTAMP:20260804T065307Z
+DTSTAMP:20260805T065434Z
 UID:bb6d102edce11ac3@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Class/Seminar
 DESCRIPTION:The Center for Innovation in Global Health (CIGH) Humanitarian
@@ -707,7 +1012,7 @@ SUMMARY:How to Reduce Your Environmental Toxic Exposures and Protect Your
  Family's Health
 DTSTART;TZID=America/Los_Angeles:20260827T190000
 DTEND;TZID=America/Los_Angeles:20260827T200000
-DTSTAMP:20260804T065307Z
+DTSTAMP:20260805T065434Z
 UID:6d3b55c44630097a@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Class/Seminar
 DESCRIPTION:Plastics and environmental toxins are everywhere — in our fo
@@ -725,12 +1030,15 @@ DESCRIPTION:Plastics and environmental toxins are everywhere — in our fo
  rioritized action plan so you know where your efforts will have the greate
  st impact. You'll leave with reference guides to use at home and in the st
  ore.\n\nThis class will be recorded and a one-week link to the recording w
- ill be shared with all registered participants.\n\nTo receive incentive po
- ints\, attend at least 80% of the live session or listen to the entire rec
- ording within one week.  \n\nRequest disability accommodations and access 
- info.\n\n\n\nClass details are subject to change.\n\nEvent URL: https://ev
- ents.stanford.edu/event/how-to-reduce-your-environmental-toxic-exposures-a
- nd-protect-your-familys-health\n\nSource: stanford_virtual
+ ill be shared with all registered participants.\n\nThis class qualifies fo
+ r double points as part of our August promotion. To receive 4\,000 points\
+ , attend at least 80% of the live session or watch the entire recording by
+  12 pm Pacific Time on August 31. You can still receive 2\,000 points if y
+ ou watch the recording after August 31 and before the expiration date.\n\n
+ Request disability accommodations and access info.\n\n\n\nClass details ar
+ e subject to change.\n\nEvent URL: https://events.stanford.edu/event/how-t
+ o-reduce-your-environmental-toxic-exposures-and-protect-your-familys-healt
+ h\n\nSource: stanford_virtual
 LOCATION:Online
 URL:https://events.stanford.edu/event/how-to-reduce-your-environmental-tox
  ic-exposures-and-protect-your-familys-health
@@ -745,7 +1053,7 @@ BEGIN:VEVENT
 SUMMARY:ECR Social Event – Options XIII
 DTSTART:20260830T000000Z
 DTEND:20260830T010000Z
-DTSTAMP:20260804T065307Z
+DTSTAMP:20260805T065434Z
 UID:f83406251c335315@gid-seminars.wnprc.wisc.edu
 CATEGORIES:ISRV
 DESCRIPTION:Early-Career Researchers (ECRs) attending Options XIII this ye
@@ -763,7 +1071,7 @@ BEGIN:VEVENT
 SUMMARY:ECR Lunchtime Workshop – Options XIII
 DTSTART:20260902T000000Z
 DTEND:20260902T010000Z
-DTSTAMP:20260804T065307Z
+DTSTAMP:20260805T065434Z
 UID:8e4347ea97ed78b3@gid-seminars.wnprc.wisc.edu
 CATEGORIES:ISRV
 DESCRIPTION:This interactive workshop\, being held exclusively for Options
