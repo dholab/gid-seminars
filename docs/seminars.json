@@ -2,12 +2,12 @@
   "metadata": {
     "title": "GID Seminars Feed",
     "description": "Aggregated seminars and webinars for Global Infectious Disease research",
-    "generated_at": "2026-08-07T06:24:48.182588Z",
+    "generated_at": "2026-08-08T06:15:20.934807Z",
     "time_window": {
       "days_behind": 30,
       "days_ahead": 30
     },
-    "total_events": 32,
+    "total_events": 33,
     "sources": [
       "astmh_events",
       "avac_events",
@@ -313,6 +313,23 @@
       "recording_url": null
     },
     {
+      "id": "bfb3e2e61812402b",
+      "title": "TWiV 1346: Clinical update with Dr. Daniel Griffin",
+      "description": "[Podcast: This Week in Virology]\n\nIn his weekly clinical update, Daniel Griffin and Vincent Racaniello are distressed by Erica Schwartz\u2019 confirmation as CDC director, the GAO proposed pandemic preparedness plans, the national cyclospora outbreak and resulting two deaths, new screwworm and the scale of the Ebola outbreak in the Congo, and clear results from some of President Trump\u2019s policies dismantling public health activites including water safety, before Dr. Griffin deep dives into the measles outbreak, recent statistics on RSV, influenza and SARS-CoV-2 infections, the Wasterwater Scan dashboard, Johns Hopkins measles tracker, FDA approval of Moderna\u2019s mRNA vaccine for seasonal flu, how to access and pay for Paxlovid, where to go for answers about long COVID-19, how SARS-CoV-2 infections may reactivate latent viral infections, particularly Aniello virus, and contacting your federal government representative to stop the assault on science and biomedical research. Click arrow to play Download TWiV 1346 (33 MB .mp3, 54 min) Subscribe (free): Apple Podcasts , RSS , email Become a&nbsp; patron &nbsp;of&nbsp;TWiV! Links for this episode Senate confirms Erica Schwartz as CDC director (CIDRAP) PUBLIC HEALTH PREPAREDNESS: Experts Identified Actions to Improve Surveillance for Emerging Disease Threats (Government Accountability Office) Association Between First MMR Vaccination Before Age 2 Years and Childhood Autism in a U.S. EHR Cohort of 2.5 Million Children (The Pediatric Infectious Disease Journal) F.D.A. Approve",
+      "url": "https://www.microbe.tv/twiv/twiv-1346/",
+      "start_datetime": "2026-08-08T04:00:00",
+      "end_datetime": null,
+      "timezone": "UTC",
+      "location": "Podcast",
+      "organizer": "This Week in Virology",
+      "source": "twiv_podcast",
+      "category": "Podcast - TWiV",
+      "tags": [],
+      "access_restriction": "Public",
+      "registration_url": null,
+      "recording_url": null
+    },
+    {
       "id": "164ed667be1e03d9",
       "title": "Review of Data Presented at the 2026 International AIDS Conference",
       "description": null,
@@ -466,23 +483,6 @@
       "recording_url": null
     },
     {
-      "id": "2ff97dd17e9617f5",
-      "title": "Chemical Biology Supergroup: Debasis Das",
-      "description": "Speaker: Debasis Das (Indian Institute of Science)\nTalk Title: Harnessing Enzymatic Power for Bioenergy and Therapeutics\n\nDescription: Enzymes are nature's most efficient catalysts, capable of driving complex chemical transformations with remarkable speed and selectivity. Understanding how these biological catalysts function not only deepens our knowledge of fundamental biochemistry but also enables innovative solutions for challenges in sustainable manufacturing and human health. In this seminar, I will present our efforts to discover and engineer microbial enzymes for two distinct yet impactful applications: renewable hydrocarbon production and the treatment of biofilm-associated infections.\n\nThe first part focuses on UndB, a membrane-bound enzyme that catalyzes the conversion of fatty acids into terminal 1-alkenes\u2500valuable platform chemicals widely used in the production of polymers, lubricants, and detergents. Although UndB was discovered nearly a decade ago, its catalytic mechanism has remained largely elusive. Our studies establish that UndB is a diiron enzyme with a conserved histidine-coordinated active site and demonstrate that catalysis requires molecular oxygen together with electron-transfer partners. These mechanistic insights have guided the engineering of an efficient whole-cell biocatalyst capable of converting naturally abundant free fatty acids into medium-chain 1-alkenes with conversion efficiencies of up to 95%.\n\nThe second part highlights the discovery of microbial enzymes that target the extracellular matrix of bacterial biofilms, offering a promising strategy to combat antimicrobial-resistant infections. We identified an orphan enzyme from the cow rumen microbiome that rapidly disperses mature biofilms formed by clinical isolates of Klebsiella pneumoniae at low micromolar concentrations, thereby enhancing antibiotic susceptibility and promoting immune-mediated clearance in a murine wound infection model. We further discovered CRhAB, a biofilm-",
-      "url": "https://events.broadinstitute.org/event/chemical-biology-supergroup-debasis-das-8621",
-      "start_datetime": "2026-08-18T19:30:00",
-      "end_datetime": "2026-08-18T20:30:00",
-      "timezone": "America/New_York",
-      "location": "Online",
-      "organizer": null,
-      "source": "broad_institute",
-      "category": "Talks",
-      "tags": [],
-      "access_restriction": "Public",
-      "registration_url": null,
-      "recording_url": null
-    },
-    {
       "id": "22ac5c4cf41dd513",
       "title": "Chemical Biology Supergroup: Debasis Das",
       "description": "Speaker: Debasis Das (Indian Institute of Science)\nTalk Title: Harnessing Enzymatic Power for Bioenergy and Therapeutics\n\nDescription: Enzymes are nature's most efficient catalysts, capable of driving complex chemical transformations with remarkable speed and selectivity. Understanding how these biological catalysts function not only deepens our knowledge of fundamental biochemistry but also enables innovative solutions for challenges in sustainable manufacturing and human health. In this seminar, I will present our efforts to discover and engineer microbial enzymes for two distinct yet impactful applications: renewable hydrocarbon production and the treatment of biofilm-associated infections.\n\nThe first part focuses on UndB, a membrane-bound enzyme that catalyzes the conversion of fatty acids into terminal 1-alkenes\u2500valuable platform chemicals widely used in the production of polymers, lubricants, and detergents. Although UndB was discovered nearly a decade ago, its catalytic mechanism has remained largely elusive. Our studies establish that UndB is a diiron enzyme with a conserved histidine-coordinated active site and demonstrate that catalysis requires molecular oxygen together with electron-transfer partners. These mechanistic insights have guided the engineering of an efficient whole-cell biocatalyst capable of converting naturally abundant free fatty acids into medium-chain 1-alkenes with conversion efficiencies of up to 95%.\n\nThe second part highlights the discovery of microbial enzymes that target the extracellular matrix of bacterial biofilms, offering a promising strategy to combat antimicrobial-resistant infections. We identified an orphan enzyme from the cow rumen microbiome that rapidly disperses mature biofilms formed by clinical isolates of Klebsiella pneumoniae at low micromolar concentrations, thereby enhancing antibiotic susceptibility and promoting immune-mediated clearance in a murine wound infection model. We further discovered CRhAB, a biofilm-",
@@ -528,6 +528,23 @@
       "organizer": null,
       "source": "stanford_virtual",
       "category": "Class/Seminar",
+      "tags": [],
+      "access_restriction": "Public",
+      "registration_url": null,
+      "recording_url": null
+    },
+    {
+      "id": "ed080d6413803d1c",
+      "title": "20th meeting of the Strategic and Technical Advisory Group for Neglected Tropical Diseases",
+      "description": "The 20th meeting of the WHO Strategic and Technical Advisory Group for Neglected Tropical Diseases (STAG-NTD) will be held on 24\u201325 August 2026. The meeting will be hosted by the Department of Malaria and Neglected Tropical Diseases at WHO headquarters, with participation taking place virtually.",
+      "url": "https://www.who.int/news-room/events/detail/2026/08/24/default-calendar/20th-meeting-of-the-strategic-and-technical-advisory-group-for-neglected-tropical-diseases",
+      "start_datetime": "2026-08-24T06:00:00",
+      "end_datetime": "2026-08-25T15:00:00",
+      "timezone": "UTC",
+      "location": "Online/Geneva",
+      "organizer": "World Health Organization",
+      "source": "who_events",
+      "category": "WHO",
       "tags": [],
       "access_restriction": "Public",
       "registration_url": null,
