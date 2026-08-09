@@ -2,7 +2,7 @@
   "metadata": {
     "title": "GID Seminars Feed",
     "description": "Aggregated seminars and webinars for Global Infectious Disease research",
-    "generated_at": "2026-08-08T06:15:20.934807Z",
+    "generated_at": "2026-08-09T06:15:46.690234Z",
     "time_window": {
       "days_behind": 30,
       "days_ahead": 30
@@ -57,23 +57,6 @@
     ]
   },
   "events": [
-    {
-      "id": "75a9a5367a7fc4b6",
-      "title": "Finding Your Place at IDSA: Why Getting Involved Matters",
-      "description": "[Podcast: Let's Talk ID] Duration: 1482\n\nIDSA CEO Jeanne Marrazzo, MD, MPH, FIDSA, sits down with Past President, Daniel McQuillen, MD, FIDSA, and private practice infectious diseases physician, Sneha Thatipelli, MD, to discuss the value of volunteering with IDSA, finding the right opportunity and how getting involved can shape your career. The 2026 IDSA Call for Volunteers is open now through Friday, July 31. Apply (member login required): https://bit.ly/4gWz6qK",
-      "url": "https://www.buzzsprout.com/2019912/episodes/19471997-finding-your-place-at-idsa-why-getting-involved-matters.mp3",
-      "start_datetime": "2026-07-09T17:00:00",
-      "end_datetime": null,
-      "timezone": "UTC",
-      "location": "Podcast",
-      "organizer": "Let's Talk ID",
-      "source": "idsa_podcast",
-      "category": "Podcast - IDSA",
-      "tags": [],
-      "access_restriction": "Public",
-      "registration_url": null,
-      "recording_url": null
-    },
     {
       "id": "6553f855f1f9e26f",
       "title": "TWiV 1338: Clinical update with Dr. Daniel Griffin",
@@ -318,6 +301,23 @@
       "description": "[Podcast: This Week in Virology]\n\nIn his weekly clinical update, Daniel Griffin and Vincent Racaniello are distressed by Erica Schwartz\u2019 confirmation as CDC director, the GAO proposed pandemic preparedness plans, the national cyclospora outbreak and resulting two deaths, new screwworm and the scale of the Ebola outbreak in the Congo, and clear results from some of President Trump\u2019s policies dismantling public health activites including water safety, before Dr. Griffin deep dives into the measles outbreak, recent statistics on RSV, influenza and SARS-CoV-2 infections, the Wasterwater Scan dashboard, Johns Hopkins measles tracker, FDA approval of Moderna\u2019s mRNA vaccine for seasonal flu, how to access and pay for Paxlovid, where to go for answers about long COVID-19, how SARS-CoV-2 infections may reactivate latent viral infections, particularly Aniello virus, and contacting your federal government representative to stop the assault on science and biomedical research. Click arrow to play Download TWiV 1346 (33 MB .mp3, 54 min) Subscribe (free): Apple Podcasts , RSS , email Become a&nbsp; patron &nbsp;of&nbsp;TWiV! Links for this episode Senate confirms Erica Schwartz as CDC director (CIDRAP) PUBLIC HEALTH PREPAREDNESS: Experts Identified Actions to Improve Surveillance for Emerging Disease Threats (Government Accountability Office) Association Between First MMR Vaccination Before Age 2 Years and Childhood Autism in a U.S. EHR Cohort of 2.5 Million Children (The Pediatric Infectious Disease Journal) F.D.A. Approve",
       "url": "https://www.microbe.tv/twiv/twiv-1346/",
       "start_datetime": "2026-08-08T04:00:00",
+      "end_datetime": null,
+      "timezone": "UTC",
+      "location": "Podcast",
+      "organizer": "This Week in Virology",
+      "source": "twiv_podcast",
+      "category": "Podcast - TWiV",
+      "tags": [],
+      "access_restriction": "Public",
+      "registration_url": null,
+      "recording_url": null
+    },
+    {
+      "id": "c514090a86949a88",
+      "title": "TWiV 1347: No Short Answers for Long COVID",
+      "description": "[Podcast: This Week in Virology]\n\nTWiV explains research showing that Long COVID is associated with reactivation of numerous chronic viruses, including herpesviruses and anelloviruses, and with the production of autoantibodies that target neurological tissues. Hosts: Vincent Racaniello , Alan Dove , and Brianne Barker Click arrow to play Download TWiV 1347 (65 MB .mp3, 107 min) Subscribe (free): Apple Podcasts , RSS , email Become a&nbsp; patron &nbsp;of&nbsp;TWiV! Links for this episode Support science education at MicrobeTV Positions in Rosenfeld Lab (email) Virus reactivation in acute and long COVID-19 (Cell) Association between autoantibodies and neurological symptoms in long COVID (Cell) Letters read on TWiV 1347 Timestamps by&nbsp; Jolene Ramsey. Thanks! Picks of the Week Brianne &#8211; Merriam-Webster Time Traveler Feature Alan &#8211; The Incandescent , by Emily Tesh Vincent &#8211; How mosquitoes are conquering the world \u2014 in four charts Listener Picks Vici &#8211; PBS Eons Charles &#8211; Entomologist Stephen Dobson on releasing modified mosquitoes to fight disease Intro music is by&nbsp; Ronald Jenkees Send your virology questions and comments to twiv@microbe.tv Content in this podcast should not be construed as medical advice. The post TWiV 1347: No Short Answers for Long COVID first appeared on This Week in Virology .",
+      "url": "https://www.microbe.tv/twiv/twiv-1347/",
+      "start_datetime": "2026-08-09T04:00:00",
       "end_datetime": null,
       "timezone": "UTC",
       "location": "Podcast",
