@@ -2,7 +2,7 @@
   "metadata": {
     "title": "GID Seminars Feed",
     "description": "Aggregated seminars and webinars for Global Infectious Disease research",
-    "generated_at": "2026-08-09T06:15:46.690234Z",
+    "generated_at": "2026-08-10T06:28:41.914463Z",
     "time_window": {
       "days_behind": 30,
       "days_ahead": 30
@@ -57,23 +57,6 @@
     ]
   },
   "events": [
-    {
-      "id": "6553f855f1f9e26f",
-      "title": "TWiV 1338: Clinical update with Dr. Daniel Griffin",
-      "description": "[Podcast: This Week in Virology]\n\nIn his weekly clinical update, Daniel Griffin and Vincent Racaniello are dismayed over the military deaths due to the voluntary influenza vaccination policy, FDA\u2019s first vaccine recommendations since 2023, the efficacy of influenza vaccines, new screwworm, Legionnaires and cyclosporiasis cases, the Ebola outbreak in the DRC and Uganda and before Dr. Griffin deep dives into the measles outbreak, recent statistics on RSV, influenza and SARS-CoV-2 infections, the Wasterwater Scan dashboard, Johns Hopkins measles tracker, how to access and pay for Paxlovid, publication of the blocked COVID-19 vaccine findings, where to go for answers about long COVID-19, use of antivirals in children with COVID-19, severe West Nile disease and contacting your federal government representative to stop the assault on science and biomedical research. Click arrow to play Download&nbsp; TWiV 1338 (26 MB .mp3, 43 min) Subscribe (free):&nbsp; Apple Podcasts , RSS ,&nbsp; email Become a&nbsp; patron &nbsp;of&nbsp;TWiV! Links for this episode A1C Keon Talik McDaniel (Bexar Memorial) 2:56 Hegseth: Flu Vaccine Optional (US Department of War) Air Force trainee in San Antonio, Texas, died from flu (CIDRAP) 2:56 Key FDA committee unanimously recommends its first vaccine since 2023 (NPR) 5:38 Efficacy and Safety of an mRNA Seasonal Influenza Vaccine in Adults (NEJM) 6:39 Influenza Vaccine Effectiveness Against Pediatric Death in the United States: 2016\u20132025 (Pediatrics) 11:22 Dashboard SCREWWORM.Gov (USDA: Anim",
-      "url": "https://www.microbe.tv/twiv/twiv-1338/",
-      "start_datetime": "2026-07-11T04:00:00",
-      "end_datetime": null,
-      "timezone": "UTC",
-      "location": "Podcast",
-      "organizer": "This Week in Virology",
-      "source": "twiv_podcast",
-      "category": "Podcast - TWiV",
-      "tags": [],
-      "access_restriction": "Public",
-      "registration_url": null,
-      "recording_url": null
-    },
     {
       "id": "ce83bfe593c5b828",
       "title": "TWiV 1339: Ebola up close with Tom Ksiazek",
@@ -298,7 +281,7 @@
     {
       "id": "bfb3e2e61812402b",
       "title": "TWiV 1346: Clinical update with Dr. Daniel Griffin",
-      "description": "[Podcast: This Week in Virology]\n\nIn his weekly clinical update, Daniel Griffin and Vincent Racaniello are distressed by Erica Schwartz\u2019 confirmation as CDC director, the GAO proposed pandemic preparedness plans, the national cyclospora outbreak and resulting two deaths, new screwworm and the scale of the Ebola outbreak in the Congo, and clear results from some of President Trump\u2019s policies dismantling public health activites including water safety, before Dr. Griffin deep dives into the measles outbreak, recent statistics on RSV, influenza and SARS-CoV-2 infections, the Wasterwater Scan dashboard, Johns Hopkins measles tracker, FDA approval of Moderna\u2019s mRNA vaccine for seasonal flu, how to access and pay for Paxlovid, where to go for answers about long COVID-19, how SARS-CoV-2 infections may reactivate latent viral infections, particularly Aniello virus, and contacting your federal government representative to stop the assault on science and biomedical research. Click arrow to play Download TWiV 1346 (33 MB .mp3, 54 min) Subscribe (free): Apple Podcasts , RSS , email Become a&nbsp; patron &nbsp;of&nbsp;TWiV! Links for this episode Senate confirms Erica Schwartz as CDC director (CIDRAP) PUBLIC HEALTH PREPAREDNESS: Experts Identified Actions to Improve Surveillance for Emerging Disease Threats (Government Accountability Office) Association Between First MMR Vaccination Before Age 2 Years and Childhood Autism in a U.S. EHR Cohort of 2.5 Million Children (The Pediatric Infectious Disease Journal) F.D.A. Approve",
+      "description": "[Podcast: This Week in Virology]\n\nIn his weekly clinical update, Daniel Griffin and Vincent Racaniello are distressed by Erica Schwartz\u2019 confirmation as CDC director, the GAO proposed pandemic preparedness plans, the national cyclospora outbreak and resulting two deaths, new screwworm and the scale of the Ebola outbreak in the Congo, and clear results from some of President Trump\u2019s policies dismantling public health activites including water safety, before Dr. Griffin deep dives into the measles outbreak, recent statistics on RSV, influenza and SARS-CoV-2 infections, the Wasterwater Scan dashboard, Johns Hopkins measles tracker, FDA approval of Moderna\u2019s mRNA vaccine for seasonal flu, how to access and pay for Paxlovid, where to go for answers about long COVID-19, how SARS-CoV-2 infections may reactivate latent viral infections, particularly Aniello virus, and contacting your federal government representative to stop the assault on science and biomedical research. Click arrow to play Download&nbsp; TWiV 1346 (33 MB .mp3, 54 min) Subscribe (free):&nbsp; Apple Podcasts , RSS ,&nbsp; email Become a&nbsp; patron &nbsp;of&nbsp;TWiV! Links for this episode Senate confirms Erica Schwartz as CDC director (CIDRAP) 2:10 PUBLIC HEALTH PREPAREDNESS: Experts Identified Actions to Improve Surveillance for Emerging Disease Threats (Government Accountability Office) 4:10 Association Between First MMR Vaccination Before Age 2 Years and Childhood Autism in a U.S. EHR Cohort of 2.5 Million Children (The Pediatric Infectious Dis",
       "url": "https://www.microbe.tv/twiv/twiv-1346/",
       "start_datetime": "2026-08-08T04:00:00",
       "end_datetime": null,
@@ -315,7 +298,7 @@
     {
       "id": "c514090a86949a88",
       "title": "TWiV 1347: No Short Answers for Long COVID",
-      "description": "[Podcast: This Week in Virology]\n\nTWiV explains research showing that Long COVID is associated with reactivation of numerous chronic viruses, including herpesviruses and anelloviruses, and with the production of autoantibodies that target neurological tissues. Hosts: Vincent Racaniello , Alan Dove , and Brianne Barker Click arrow to play Download TWiV 1347 (65 MB .mp3, 107 min) Subscribe (free): Apple Podcasts , RSS , email Become a&nbsp; patron &nbsp;of&nbsp;TWiV! Links for this episode Support science education at MicrobeTV Positions in Rosenfeld Lab (email) Virus reactivation in acute and long COVID-19 (Cell) Association between autoantibodies and neurological symptoms in long COVID (Cell) Letters read on TWiV 1347 Timestamps by&nbsp; Jolene Ramsey. Thanks! Picks of the Week Brianne &#8211; Merriam-Webster Time Traveler Feature Alan &#8211; The Incandescent , by Emily Tesh Vincent &#8211; How mosquitoes are conquering the world \u2014 in four charts Listener Picks Vici &#8211; PBS Eons Charles &#8211; Entomologist Stephen Dobson on releasing modified mosquitoes to fight disease Intro music is by&nbsp; Ronald Jenkees Send your virology questions and comments to twiv@microbe.tv Content in this podcast should not be construed as medical advice. The post TWiV 1347: No Short Answers for Long COVID first appeared on This Week in Virology .",
+      "description": "[Podcast: This Week in Virology]\n\nTWiV explains research showing that Long COVID is associated with reactivation of numerous chronic viruses, including herpesviruses and anelloviruses, and with the production of autoantibodies that target neurological tissues. Hosts:&nbsp; Vincent Racaniello , Alan Dove , and Brianne Barker Click arrow to play Download TWiV 1347 (65 MB .mp3, 107 min) Subscribe (free):&nbsp; Apple Podcasts ,&nbsp; RSS ,&nbsp; email Become a&nbsp; patron &nbsp;of&nbsp;TWiV! Links for this episode Support science education at MicrobeTV 3:08 Positions in Rosenfeld Lab (email) 3:17 Virus reactivation in acute and long COVID-19 (Nature) 4:36 Association between autoantibodies and neurological symptoms in long COVID (Cell) 34:39 Letters read on TWiV 1347 1:05:46 Timestamps by&nbsp; Jolene Ramsey. Thanks! Picks of the Week 1:34:13 Brianne &#8211; Merriam-Webster Time Traveler Feature Alan &#8211; The Incandescent , by Emily Tesh Vincent &#8211; How mosquitoes are conquering the world \u2014 in four charts Listener Picks Vici &#8211; PBS Eons Charles &#8211; Entomologist Stephen Dobson on releasing modified mosquitoes to fight disease Intro music is by&nbsp; Ronald Jenkees Send your virology questions and comments to twiv@microbe.tv Content in this podcast should not be construed as medical advice. The post TWiV 1347: No Short Answers for Long COVID first appeared on This Week in Virology .",
       "url": "https://www.microbe.tv/twiv/twiv-1347/",
       "start_datetime": "2026-08-09T04:00:00",
       "end_datetime": null,
@@ -613,6 +596,23 @@
       "organizer": "ISRV",
       "source": "isrv_events",
       "category": "ISRV",
+      "tags": [],
+      "access_restriction": "Public",
+      "registration_url": null,
+      "recording_url": null
+    },
+    {
+      "id": "6434c1ff078b5ef2",
+      "title": "CFAR & PHSKC Lunchbox Talk with Christopher Archiopoli",
+      "description": "Event interval: Single day event\nAccessibility Contact: cfar@uw.edu\nEvent Types: Lectures/Seminars",
+      "url": null,
+      "start_datetime": "2026-09-08T19:00:00",
+      "end_datetime": "2026-09-08T20:00:00",
+      "timezone": "America/Los_Angeles",
+      "location": "Online",
+      "organizer": null,
+      "source": "uw_cfar",
+      "category": "Fred Hutch Center for AIDS Research (CFAR)",
       "tags": [],
       "access_restriction": "Public",
       "registration_url": null,
