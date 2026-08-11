@@ -2,7 +2,7 @@
   "metadata": {
     "title": "GID Seminars Feed",
     "description": "Aggregated seminars and webinars for Global Infectious Disease research",
-    "generated_at": "2026-08-10T06:28:41.914463Z",
+    "generated_at": "2026-08-11T06:19:02.646121Z",
     "time_window": {
       "days_behind": 30,
       "days_ahead": 30
@@ -57,23 +57,6 @@
     ]
   },
   "events": [
-    {
-      "id": "ce83bfe593c5b828",
-      "title": "TWiV 1339: Ebola up close with Tom Ksiazek",
-      "description": "[Podcast: This Week in Virology]\n\nTom Ksiazek, a world-renowned virus expert with 40 years of experience on the front lines of some of the worst outbreaks the world has ever seen, joins TWiV to discuss his career, ebolaviruses in general, and the current outbreak of Bundibugyo ebolavirus in Africa. Hosts:&nbsp; Vincent Racaniello , Rich Condit , and Brianne Barker Guest: Tom Ksiazek Click arrow to play Download TWiV 1339 (67 MB .mp3, 110 min) Subscribe (free):&nbsp; Apple Podcasts ,&nbsp; RSS ,&nbsp; email Become a&nbsp; patron &nbsp;of&nbsp;TWiV! Links for this episode Support science education at MicrobeTV 3:11 Positions in Rosenfeld Lab (email) 3:18 Fred Murphy passes ( pdf ) 2:27 CJ Peters passes ( pdf ) 2:07 Tom Ksiazek on TWiV 583 1:55 Letters read on TWiV 1339 1:10:17 Timestamps by&nbsp; Jolene Ramsey. Thanks! Picks of the Week 1:30:15 Brianne &#8211; APoD July 7: Dragons of Ara Rich &#8211; The Iconic Bass Riff That NOBODY Can Play ; Riff (Wiki) see \u201cRiff-Driven\u201d Vincent &#8211; The song that made Carlos Santana a rock legend Intro music is by&nbsp; Ronald Jenkees Send your virology questions and comments to twiv@microbe.tv Content in this podcast should not be construed as medical advice. The post TWiV 1339: Ebola up close with Tom Ksiazek first appeared on This Week in Virology .",
-      "url": "https://www.microbe.tv/twiv/twiv-1339/",
-      "start_datetime": "2026-07-12T04:00:00",
-      "end_datetime": null,
-      "timezone": "UTC",
-      "location": "Podcast",
-      "organizer": "This Week in Virology",
-      "source": "twiv_podcast",
-      "category": "Podcast - TWiV",
-      "tags": [],
-      "access_restriction": "Public",
-      "registration_url": null,
-      "recording_url": null
-    },
     {
       "id": "b026342a868f5f93",
       "title": "Journaling to Enhance Your Well-Being (July 14 - August 4)",
@@ -613,6 +596,23 @@
       "organizer": null,
       "source": "uw_cfar",
       "category": "Fred Hutch Center for AIDS Research (CFAR)",
+      "tags": [],
+      "access_restriction": "Public",
+      "registration_url": null,
+      "recording_url": null
+    },
+    {
+      "id": "4725a2b369ac7d88",
+      "title": "2026 Host Pathogen Map Initiative Scientific Advisory Board Meeting",
+      "description": null,
+      "url": null,
+      "start_datetime": "2026-09-10T00:00:00",
+      "end_datetime": "2026-09-10T00:00:00",
+      "timezone": "America/Los_Angeles",
+      "location": "Online",
+      "organizer": null,
+      "source": "ucsf_qbi_pasteur",
+      "category": "University - UCSF",
       "tags": [],
       "access_restriction": "Public",
       "registration_url": null,
