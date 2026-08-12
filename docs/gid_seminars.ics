@@ -10,7 +10,7 @@ BEGIN:VEVENT
 SUMMARY:Journaling to Enhance Your Well-Being (July 14 - August 4)
 DTSTART;TZID=America/Los_Angeles:20260714T230000
 DTEND;TZID=America/Los_Angeles:20260715T001500
-DTSTAMP:20260811T061902Z
+DTSTAMP:20260812T062918Z
 UID:b026342a868f5f93@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Class/Seminar
 DESCRIPTION:Writing down your thoughts and feelings has been found to redu
@@ -47,7 +47,7 @@ SUMMARY:Stanford Cancer Institute Breakthroughs in Cancer: Immunotherapy f
  or Melanoma: Past\, Present\, Future
 DTSTART;TZID=America/Los_Angeles:20260714T230000
 DTEND;TZID=America/Los_Angeles:20260715T000000
-DTSTAMP:20260811T061902Z
+DTSTAMP:20260812T062918Z
 UID:ece9738b4326b97b@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Class/Seminar
 DESCRIPTION:The Stanford Cancer Institute Breakthroughs in Cancer seminar 
@@ -85,7 +85,7 @@ BEGIN:VEVENT
 SUMMARY:TWiV 1340: Clinical update with Dr. Daniel Griffin
 DTSTART:20260718T040000Z
 DTEND:20260718T050000Z
-DTSTAMP:20260811T061902Z
+DTSTAMP:20260812T062918Z
 UID:79b42e5f29c65c74@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Podcast - TWiV
 DESCRIPTION:[Podcast: This Week in Virology]\n\nIn his weekly clinical upd
@@ -123,7 +123,7 @@ BEGIN:VEVENT
 SUMMARY:TWiV 1341: Phage breaks and COVID origins
 DTSTART:20260719T040000Z
 DTEND:20260719T050000Z
-DTSTAMP:20260811T061902Z
+DTSTAMP:20260812T062918Z
 UID:5092d610bcf692ac@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Podcast - TWiV
 DESCRIPTION:[Podcast: This Week in Virology]\n\nTWiV explains research tha
@@ -160,7 +160,7 @@ BEGIN:VEVENT
 SUMMARY:Beyond the Brush
 DTSTART;TZID=America/Los_Angeles:20260720T190000
 DTEND;TZID=America/Los_Angeles:20260720T200000
-DTSTAMP:20260811T061902Z
+DTSTAMP:20260812T062918Z
 UID:ccb803051dfd4538@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Class/Seminar
 DESCRIPTION:While most of us were taught that brushing twice a day and flo
@@ -199,7 +199,7 @@ BEGIN:VEVENT
 SUMMARY:TWiV 1342: Clinical update with Dr. Daniel Griffin
 DTSTART:20260725T040000Z
 DTEND:20260725T050000Z
-DTSTAMP:20260811T061902Z
+DTSTAMP:20260812T062918Z
 UID:046d89e09fc66bd4@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Podcast - TWiV
 DESCRIPTION:[Podcast: This Week in Virology]\n\nIn his weekly clinical upd
@@ -237,7 +237,7 @@ BEGIN:VEVENT
 SUMMARY:Your Patients Trust You\, but Do They Believe You?
 DTSTART:20260725T120000Z
 DTEND:20260725T130000Z
-DTSTAMP:20260811T061902Z
+DTSTAMP:20260812T062918Z
 UID:b12ebe754660c67d@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Podcast - IDSA
 DESCRIPTION:[Podcast: Let's Talk ID] Duration: 1748\n\nTrust alone doesn&a
@@ -261,7 +261,7 @@ BEGIN:VEVENT
 SUMMARY:TWiV 1343: Batting averages and stolen bases
 DTSTART:20260726T040000Z
 DTEND:20260726T050000Z
-DTSTAMP:20260811T061902Z
+DTSTAMP:20260812T062918Z
 UID:81105c1147741279@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Podcast - TWiV
 DESCRIPTION:[Podcast: This Week in Virology]\n\nTWiV explains research whi
@@ -299,7 +299,7 @@ BEGIN:VEVENT
 SUMMARY:Timely Topics in Global Health Webinar
 DTSTART;TZID=America/Los_Angeles:20260727T190000
 DTEND;TZID=America/Los_Angeles:20260727T200000
-DTSTAMP:20260811T061902Z
+DTSTAMP:20260812T062918Z
 UID:fb8b3473e8225cf1@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Lecture/Presentation/Talk
 DESCRIPTION:Communicating about public and global health has never been mo
@@ -346,7 +346,7 @@ SUMMARY:TEPHI Grand Rounds | The Cost of Beauty: Infections Associated wit
  h Cosmetic Procedures
 DTSTART;TZID=America/Chicago:20260729T150000
 DTEND;TZID=America/Chicago:20260729T160000
-DTSTAMP:20260811T061902Z
+DTSTAMP:20260812T062918Z
 UID:22c95015224d8c08@gid-seminars.wnprc.wisc.edu
 CATEGORIES:TEPHI
 DESCRIPTION:\nEvent URL: https://tephi.texas.gov/events/event?id=43e665b2-
@@ -365,7 +365,7 @@ BEGIN:VEVENT
 SUMMARY:TWiV 1344: Clinical update with Dr. Daniel Griffin
 DTSTART:20260801T040000Z
 DTEND:20260801T050000Z
-DTSTAMP:20260811T061902Z
+DTSTAMP:20260812T062918Z
 UID:dc2949f0445663d7@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Podcast - TWiV
 DESCRIPTION:[Podcast: This Week in Virology]\n\nIn his weekly clinical upd
@@ -403,7 +403,7 @@ BEGIN:VEVENT
 SUMMARY:TWiV 1345: Rocky Mountain Virology High
 DTSTART:20260802T040000Z
 DTEND:20260802T050000Z
-DTSTAMP:20260811T061902Z
+DTSTAMP:20260812T062918Z
 UID:1feefd8daeb2cc4e@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Podcast - TWiV
 DESCRIPTION:[Podcast: This Week in Virology]\n\nTWiV travels to Colorado S
@@ -441,7 +441,7 @@ BEGIN:VEVENT
 SUMMARY:TWiV 1346: Clinical update with Dr. Daniel Griffin
 DTSTART:20260808T040000Z
 DTEND:20260808T050000Z
-DTSTAMP:20260811T061902Z
+DTSTAMP:20260812T062918Z
 UID:bfb3e2e61812402b@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Podcast - TWiV
 DESCRIPTION:[Podcast: This Week in Virology]\n\nIn his weekly clinical upd
@@ -479,7 +479,7 @@ BEGIN:VEVENT
 SUMMARY:TWiV 1347: No Short Answers for Long COVID
 DTSTART:20260809T040000Z
 DTEND:20260809T050000Z
-DTSTAMP:20260811T061902Z
+DTSTAMP:20260812T062918Z
 UID:c514090a86949a88@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Podcast - TWiV
 DESCRIPTION:[Podcast: This Week in Virology]\n\nTWiV explains research sho
@@ -512,11 +512,11 @@ TRIGGER:-PT1H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Review of Data Presented at the 2026 International AIDS Conference
-DTSTART;TZID=America/Los_Angeles:20260811T100000
-DTEND;TZID=America/Los_Angeles:20260811T110000
-DTSTAMP:20260811T061902Z
-UID:164ed667be1e03d9@gid-seminars.wnprc.wisc.edu
+SUMMARY:Register for the Webinar
+DTSTART;TZID=America/Los_Angeles:20260810T000000
+DTEND;TZID=America/Los_Angeles:20260810T010000
+DTSTAMP:20260812T062918Z
+UID:98203804eef43ec7@gid-seminars.wnprc.wisc.edu
 CATEGORIES:IAS-USA
 DESCRIPTION:\nEvent URL: https://www.iasusa.org/events/webinar-2026-crabtr
  ee-ramirez/\n\nSource: iasusa_webinars
@@ -524,8 +524,7 @@ LOCATION:Online
 URL:https://www.iasusa.org/events/webinar-2026-crabtree-ramirez/
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Reminder: Review of Data Presented at the 2026 International A
- IDS Conference
+DESCRIPTION:Reminder: Register for the Webinar
 TRIGGER:-PT1H
 END:VALARM
 END:VEVENT
@@ -534,7 +533,7 @@ SUMMARY:ENT Expert Up Close: Latest Advances in Rhinoplasty and Sinus Surg
  ery
 DTSTART;TZID=America/Los_Angeles:20260811T190000
 DTEND;TZID=America/Los_Angeles:20260811T200000
-DTSTAMP:20260811T061902Z
+DTSTAMP:20260812T062918Z
 UID:29f8eccbe53b35b6@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Class/Seminar
 DESCRIPTION:OverviewThis session will explore advanced surgical techniques
@@ -582,7 +581,7 @@ SUMMARY:Diana Parra Pérez\, PT\, MPH\, PhD | Associate or Full Professor
  with Tenure (50%) - Global Mental Health Job Talk
 DTSTART;TZID=America/Los_Angeles:20260812T190000
 DTEND;TZID=America/Los_Angeles:20260812T200000
-DTSTAMP:20260811T061902Z
+DTSTAMP:20260812T062918Z
 UID:47f963cb119b3993@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Fred Hutch Center for AIDS Research (CFAR)
 DESCRIPTION:Event interval: Single day event\nOnline Meeting Link: https:/
@@ -615,7 +614,7 @@ SUMMARY:The Persistence Paradigm: Ensuring the Longevity of Health Equity
  Research
 DTSTART;TZID=America/New_York:20260813T000000
 DTEND;TZID=America/New_York:20260813T010000
-DTSTAMP:20260811T061902Z
+DTSTAMP:20260812T062918Z
 UID:18cc864d860cfbca@gid-seminars.wnprc.wisc.edu
 CATEGORIES:AVAC
 DESCRIPTION:\nEvent URL: https://avac.org/event/persistence-paradigm-longe
@@ -635,7 +634,7 @@ SUMMARY:Samantha C. Winter\, PhD | Associate or Full Professor with Tenure
   (50%) - Global Mental Health Job Talk
 DTSTART;TZID=America/Los_Angeles:20260813T190000
 DTEND;TZID=America/Los_Angeles:20260813T200000
-DTSTAMP:20260811T061902Z
+DTSTAMP:20260812T062918Z
 UID:088ab2d9af0b6485@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Fred Hutch Center for AIDS Research (CFAR)
 DESCRIPTION:Event interval: Single day event\nOnline Meeting Link: https:/
@@ -669,7 +668,7 @@ SUMMARY:Ashley Hagaman\, PhD\, MPH | Associate or Full Professor with Tenu
  re (50%) - Global Mental Health Job Talk
 DTSTART;TZID=America/Los_Angeles:20260814T190000
 DTEND;TZID=America/Los_Angeles:20260814T200000
-DTSTAMP:20260811T061902Z
+DTSTAMP:20260812T062918Z
 UID:e56e74737ce1909c@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Fred Hutch Center for AIDS Research (CFAR)
 DESCRIPTION:Event interval: Single day event\nOnline Meeting Link: https:/
@@ -702,7 +701,7 @@ SUMMARY:19th International Course on Dengue\, Oropouche and Other Emerging
   Arboviruses
 DTSTART;TZID=America/New_York:20260817T000000
 DTEND;TZID=America/New_York:20260828T000000
-DTSTAMP:20260811T061902Z
+DTSTAMP:20260812T062918Z
 UID:0bfaec84c5e7cefe@gid-seminars.wnprc.wisc.edu
 CATEGORIES:ASTMH
 DESCRIPTION:\nEvent URL: https://www.astmh.org/news-events/events-calendar
@@ -723,7 +722,7 @@ SUMMARY:Pallab Maulik\, MD\, PhD\, MSc | Associate or Full Professor with
  Tenure (50%) - Global Mental Health Job Talk
 DTSTART;TZID=America/Los_Angeles:20260817T170000
 DTEND;TZID=America/Los_Angeles:20260817T180000
-DTSTAMP:20260811T061902Z
+DTSTAMP:20260812T062918Z
 UID:5d87835be8e8181c@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Fred Hutch Center for AIDS Research (CFAR)
 DESCRIPTION:Event interval: Single day event\nOnline Meeting Link: https:/
@@ -756,7 +755,7 @@ SUMMARY:John A. Naslund\, PhD | Associate or Full Professor with Tenure (5
  0%) - Global Mental Health Job Talk
 DTSTART;TZID=America/Los_Angeles:20260818T180000
 DTEND;TZID=America/Los_Angeles:20260818T190000
-DTSTAMP:20260811T061902Z
+DTSTAMP:20260812T062918Z
 UID:b44d0716a38a2d15@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Fred Hutch Center for AIDS Research (CFAR)
 DESCRIPTION:Event interval: Single day event\nOnline Meeting Link: https:/
@@ -789,7 +788,7 @@ BEGIN:VEVENT
 SUMMARY:Chemical Biology Supergroup: Debasis Das
 DTSTART;TZID=America/New_York:20260818T193000
 DTEND;TZID=America/New_York:20260818T203000
-DTSTAMP:20260811T061902Z
+DTSTAMP:20260812T062918Z
 UID:22ac5c4cf41dd513@gid-seminars.wnprc.wisc.edu
 CATEGORIES:University - Broad
 DESCRIPTION:Speaker: Debasis Das (Indian Institute of Science)\nTalk Title
@@ -835,7 +834,7 @@ BEGIN:VEVENT
 SUMMARY:Chemical Biology Supergroup: Debasis Das
 DTSTART;TZID=America/New_York:20260818T193000
 DTEND;TZID=America/New_York:20260818T203000
-DTSTAMP:20260811T061902Z
+DTSTAMP:20260812T062918Z
 UID:9647aec9992eba4b@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Talks
 DESCRIPTION:Speaker: Debasis Das (Indian Institute of Science)\nTalk Title
@@ -881,7 +880,7 @@ BEGIN:VEVENT
 SUMMARY:The Link Between Lifestyle and Cellular Aging
 DTSTART;TZID=America/Los_Angeles:20260820T190000
 DTEND;TZID=America/Los_Angeles:20260820T200000
-DTSTAMP:20260811T061902Z
+DTSTAMP:20260812T062918Z
 UID:272db2aceab4119d@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Class/Seminar
 DESCRIPTION:Everyone wants to feel healthy and vibrant. This is true no ma
@@ -917,7 +916,7 @@ SUMMARY:20th meeting of the Strategic and Technical Advisory Group for Neg
  lected Tropical Diseases
 DTSTART:20260824T060000Z
 DTEND:20260825T150000Z
-DTSTAMP:20260811T061902Z
+DTSTAMP:20260812T062918Z
 UID:ed080d6413803d1c@gid-seminars.wnprc.wisc.edu
 CATEGORIES:WHO
 DESCRIPTION:The 20th meeting of the WHO Strategic and Technical Advisory G
@@ -942,7 +941,7 @@ BEGIN:VEVENT
 SUMMARY:Humanitarian Health Seminar Series
 DTSTART;TZID=America/Los_Angeles:20260824T190000
 DTEND;TZID=America/Los_Angeles:20260824T200000
-DTSTAMP:20260811T061902Z
+DTSTAMP:20260812T062918Z
 UID:bb6d102edce11ac3@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Class/Seminar
 DESCRIPTION:The Center for Innovation in Global Health (CIGH) Humanitarian
@@ -967,7 +966,7 @@ SUMMARY:How to Reduce Your Environmental Toxic Exposures and Protect Your
  Family's Health
 DTSTART;TZID=America/Los_Angeles:20260827T190000
 DTEND;TZID=America/Los_Angeles:20260827T200000
-DTSTAMP:20260811T061902Z
+DTSTAMP:20260812T062918Z
 UID:6d3b55c44630097a@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Class/Seminar
 DESCRIPTION:Plastics and environmental toxins are everywhere — in our fo
@@ -1008,7 +1007,7 @@ BEGIN:VEVENT
 SUMMARY:ECR Social Event – Options XIII
 DTSTART:20260830T000000Z
 DTEND:20260830T010000Z
-DTSTAMP:20260811T061902Z
+DTSTAMP:20260812T062918Z
 UID:f83406251c335315@gid-seminars.wnprc.wisc.edu
 CATEGORIES:ISRV
 DESCRIPTION:Early-Career Researchers (ECRs) attending Options XIII this ye
@@ -1026,7 +1025,7 @@ BEGIN:VEVENT
 SUMMARY:ECR Lunchtime Workshop – Options XIII
 DTSTART:20260902T000000Z
 DTEND:20260902T010000Z
-DTSTAMP:20260811T061902Z
+DTSTAMP:20260812T062918Z
 UID:8e4347ea97ed78b3@gid-seminars.wnprc.wisc.edu
 CATEGORIES:ISRV
 DESCRIPTION:This interactive workshop\, being held exclusively for Options
@@ -1049,7 +1048,7 @@ BEGIN:VEVENT
 SUMMARY:CFAR & PHSKC Lunchbox Talk with Christopher Archiopoli
 DTSTART;TZID=America/Los_Angeles:20260908T190000
 DTEND;TZID=America/Los_Angeles:20260908T200000
-DTSTAMP:20260811T061902Z
+DTSTAMP:20260812T062918Z
 UID:6434c1ff078b5ef2@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Fred Hutch Center for AIDS Research (CFAR)
 DESCRIPTION:Event interval: Single day event\nAccessibility Contact: cfar@
@@ -1067,7 +1066,7 @@ SUMMARY:2026 Host Pathogen Map Initiative Scientific Advisory Board Meetin
  g
 DTSTART;TZID=America/Los_Angeles:20260910T000000
 DTEND;TZID=America/Los_Angeles:20260910T000000
-DTSTAMP:20260811T061902Z
+DTSTAMP:20260812T062918Z
 UID:4725a2b369ac7d88@gid-seminars.wnprc.wisc.edu
 CATEGORIES:University - UCSF
 DESCRIPTION:\n\nSource: ucsf_qbi_pasteur

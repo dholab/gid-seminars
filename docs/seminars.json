@@ -2,7 +2,7 @@
   "metadata": {
     "title": "GID Seminars Feed",
     "description": "Aggregated seminars and webinars for Global Infectious Disease research",
-    "generated_at": "2026-08-11T06:19:02.646121Z",
+    "generated_at": "2026-08-12T06:29:18.551217Z",
     "time_window": {
       "days_behind": 30,
       "days_ahead": 30
@@ -296,11 +296,11 @@
       "recording_url": null
     },
     {
-      "id": "164ed667be1e03d9",
-      "title": "Review of Data Presented at the 2026 International AIDS Conference",
+      "id": "98203804eef43ec7",
+      "title": "Register for the Webinar",
       "description": null,
       "url": "https://www.iasusa.org/events/webinar-2026-crabtree-ramirez/",
-      "start_datetime": "2026-08-11T10:00:00",
+      "start_datetime": "2026-08-10T00:00:00",
       "end_datetime": null,
       "timezone": "America/Los_Angeles",
       "location": "Online",
