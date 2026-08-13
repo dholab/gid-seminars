@@ -2,12 +2,12 @@
   "metadata": {
     "title": "GID Seminars Feed",
     "description": "Aggregated seminars and webinars for Global Infectious Disease research",
-    "generated_at": "2026-08-12T06:29:18.551217Z",
+    "generated_at": "2026-08-13T06:30:51.381766Z",
     "time_window": {
       "days_behind": 30,
       "days_ahead": 30
     },
-    "total_events": 33,
+    "total_events": 32,
     "sources": [
       "astmh_events",
       "avac_events",
@@ -330,23 +330,6 @@
       "recording_url": null
     },
     {
-      "id": "47f963cb119b3993",
-      "title": "Diana Parra P\u00e9rez, PT, MPH, PhD | Associate or Full Professor with Tenure (50%) - Global Mental Health Job Talk",
-      "description": "Event interval: Single day event\nOnline Meeting Link: https://washington.zoom.us/j/98510746854\nAccessibility Contact: DGH Academic Human Resources: dghahr@uw.edu\nEvent Types: Lectures/Seminars\nEvent sponsors: Department of Global Health\nLink: https://bit.ly/GMHJobTalks\n\nTalk Title: Bridging Worlds: Community-Grounded Implementation Science for the Future of Global Mental Health\n\nJoin the Department of Global Health's upcoming candidate faculty job talks.\n\nFrom Wednesday, August 12 to Tuesday, August 18, 2026, the department is interviewing five candidates to join our faculty as an Associate or Full Professor with Tenure (50%) - Global Mental Health. Each candidate will be presenting on a global health topic of their choice. Everyone is invited to attend the virtual job talks to learn about the candidates.\n\nAll presentations will be held virtually on Zoom. Candidate talks will be recorded and links will be shared on the job talk blog post. All faculty, staff, and students are encouraged to provide feedback via the form linked on the blog post.",
-      "url": "https://bit.ly/GMHJobTalks",
-      "start_datetime": "2026-08-12T19:00:00",
-      "end_datetime": "2026-08-12T20:00:00",
-      "timezone": "America/Los_Angeles",
-      "location": "Zoom",
-      "organizer": null,
-      "source": "uw_cfar",
-      "category": "Fred Hutch Center for AIDS Research (CFAR)",
-      "tags": [],
-      "access_restriction": "Public",
-      "registration_url": null,
-      "recording_url": null
-    },
-    {
       "id": "18cc864d860cfbca",
       "title": "The Persistence Paradigm: Ensuring the Longevity of Health Equity Research",
       "description": null,
@@ -416,7 +399,7 @@
     },
     {
       "id": "5d87835be8e8181c",
-      "title": "Pallab Maulik, MD, PhD, MSc | Associate or Full Professor with Tenure (50%) - Global Mental Health Job Talk",
+      "title": "Candidate A | Associate or Full Professor with Tenure (50%) - Global Mental Health Job Talk",
       "description": "Event interval: Single day event\nOnline Meeting Link: https://washington.zoom.us/j/91446272249\nAccessibility Contact: DGH Academic Human Resources: dghahr@uw.edu\nEvent Types: Lectures/Seminars\nEvent sponsors: Department of Global Health\nLink: https://bit.ly/GMHJobTalks\n\nTalk Title: From Evidence to Equitable Scale-Up: Building the Next Generation of Global Mental Health Implementation Science\n\nJoin the Department of Global Health's upcoming candidate faculty job talks. \n\nFrom Wednesday, August 12 to Tuesday, August 18, 2026, the department is interviewing five candidates to join our faculty as an Associate or Full Professor with Tenure (50%) - Global Mental Health. Each candidate will be presenting on a global health topic of their choice. Everyone is invited to attend the virtual job talks to learn about the candidates. \n\nAll presentations will be held virtually on Zoom. Candidate talks will be recorded and links will be shared on the job talk blog post. All faculty, staff, and students are encouraged to provide feedback via the form linked on the blog post.",
       "url": "https://bit.ly/GMHJobTalks",
       "start_datetime": "2026-08-17T17:00:00",
