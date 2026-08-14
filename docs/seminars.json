@@ -2,12 +2,12 @@
   "metadata": {
     "title": "GID Seminars Feed",
     "description": "Aggregated seminars and webinars for Global Infectious Disease research",
-    "generated_at": "2026-08-13T06:30:51.381766Z",
+    "generated_at": "2026-08-14T06:29:23.501523Z",
     "time_window": {
       "days_behind": 30,
       "days_ahead": 30
     },
-    "total_events": 32,
+    "total_events": 28,
     "sources": [
       "astmh_events",
       "avac_events",
@@ -57,40 +57,6 @@
     ]
   },
   "events": [
-    {
-      "id": "b026342a868f5f93",
-      "title": "Journaling to Enhance Your Well-Being (July 14 - August 4)",
-      "description": "Writing down your thoughts and feelings has been found to reduce stress, improve mood, and even improve immune function. Journaling regularly can help us to understand and manage our emotions and then to choose actions that align with what we really want.\n\nIf you\u2019ve always wanted to start a journaling practice, are struggling to stay consistent with your practice, or are simply curious about what journaling is all about, then this class is for you. Over four online sessions, we will explore how journaling can be a useful tool for emotional processing and outline practical tips you can use to bring this practice into your daily life.\n\nYou will get specific journaling prompts to do in class and out of class, as well as some step-by-step processes to specifically address stressful triggers, habits you want to change, and self-criticism through writing. There will also be optional sharing in class so we can support each other and feel witnessed.\n\nThis class will not be recorded. \n\nAttendance requirement for incentive points - at least 80% of 3 of the 4 sessions.  \n\nRequest disability accommodations and access info.\n\n\n\nClass details are subject to change.",
-      "url": "https://events.stanford.edu/event/journaling-to-enhance-your-well-being-july-14-august-4",
-      "start_datetime": "2026-07-14T23:00:00",
-      "end_datetime": "2026-07-15T00:15:00",
-      "timezone": "America/Los_Angeles",
-      "location": "Online",
-      "organizer": null,
-      "source": "stanford_virtual",
-      "category": "Class/Seminar",
-      "tags": [],
-      "access_restriction": "Public",
-      "registration_url": null,
-      "recording_url": null
-    },
-    {
-      "id": "ece9738b4326b97b",
-      "title": "Stanford Cancer Institute Breakthroughs in Cancer: Immunotherapy for Melanoma: Past, Present, Future",
-      "description": "The Stanford Cancer Institute Breakthroughs in Cancer seminar series provides a platform for eminent leaders in oncology to share their insights with the Stanford community. Seminars highlight innovations across basic, translational, clinical, and population cancer science. \n\nJoin us Tuesday, July 14, 4-5 p.m., at Munzer Auditorium, Beckman Center, or Zoom for a presentation by Jedd Wolchok, MD, PhD, director of the Sandra and Edward Meyer Cancer Center at Weill Cornell Medicine.\n\nDr. Wolchok has been a principal investigator in numerous pivotal clinical trials. He helped establish immunotherapy as a standard approach to cancer treatment and was instrumental in the clinical development that led to the FDA approval of ipilimumab and the combination of nivolumab and ipilimumab for advanced melanoma. His research focuses on investigating novel immunotherapies, identifying innovative ways to modulate the immune response to cancer, and uncovering the biological mechanisms that drive treatment response and resistance. His presentation will examine how T cell therapies are advancing in the treatment of solid tumors through target discovery, metabolic modulation, and exhaustion resistance.\n\nThe event is open to Stanford faculty, trainees, students, and staff.\n\nRegistration is encouraged.",
-      "url": "https://events.stanford.edu/event/stanford-cancer-institute-breakthroughs-in-cancer-cancer-immunology-in-evolution",
-      "start_datetime": "2026-07-14T23:00:00",
-      "end_datetime": "2026-07-15T00:00:00",
-      "timezone": "America/Los_Angeles",
-      "location": "Beckman Center, Munzer Auditorium",
-      "organizer": null,
-      "source": "stanford_virtual",
-      "category": "Class/Seminar",
-      "tags": [],
-      "access_restriction": "Public",
-      "registration_url": null,
-      "recording_url": null
-    },
     {
       "id": "79b42e5f29c65c74",
       "title": "TWiV 1340: Clinical update with Dr. Daniel Griffin",
@@ -330,40 +296,6 @@
       "recording_url": null
     },
     {
-      "id": "18cc864d860cfbca",
-      "title": "The Persistence Paradigm: Ensuring the Longevity of Health Equity Research",
-      "description": null,
-      "url": "https://avac.org/event/persistence-paradigm-longevity-health-equity-research/",
-      "start_datetime": "2026-08-13T00:00:00",
-      "end_datetime": null,
-      "timezone": "America/New_York",
-      "location": "Online",
-      "organizer": "AVAC",
-      "source": "avac_events",
-      "category": "AVAC",
-      "tags": [],
-      "access_restriction": "Public",
-      "registration_url": null,
-      "recording_url": null
-    },
-    {
-      "id": "088ab2d9af0b6485",
-      "title": "Samantha C. Winter, PhD | Associate or Full Professor with Tenure (50%) - Global Mental Health Job Talk",
-      "description": "Event interval: Single day event\nOnline Meeting Link: https://washington.zoom.us/j/92042998457\nAccessibility Contact: DGH Academic Human Resources: dghahr@uw.edu\nEvent Types: Lectures/Seminars\nEvent sponsors: Department of Global Health\nLink: https://bit.ly/GMHJobTalks\n\nTalk Title: Building the Future of Global Mental Health: Community Partnerships, Implementation Science, Technology, and Determinants\u202fof Mental Health Equity\u202f\n\nJoin the Department of Global Health's upcoming candidate faculty job talks. \n\nFrom Wednesday, August 12 to Tuesday, August 18, 2026, the department is interviewing five candidates to join our faculty as an Associate or Full Professor with Tenure (50%) - Global Mental Health. Each candidate will be presenting on a global health topic of their choice. Everyone is invited to attend the virtual job talks to learn about the candidates. \n\nAll presentations will be held virtually on Zoom. Candidate talks will be recorded and links will be shared on the job talk blog post. All faculty, staff, and students are encouraged to provide feedback via the form linked on the blog post.",
-      "url": "https://bit.ly/GMHJobTalks",
-      "start_datetime": "2026-08-13T19:00:00",
-      "end_datetime": "2026-08-13T20:00:00",
-      "timezone": "America/Los_Angeles",
-      "location": "Zoom",
-      "organizer": null,
-      "source": "uw_cfar",
-      "category": "Fred Hutch Center for AIDS Research (CFAR)",
-      "tags": [],
-      "access_restriction": "Public",
-      "registration_url": null,
-      "recording_url": null
-    },
-    {
       "id": "e56e74737ce1909c",
       "title": "Ashley Hagaman, PhD, MPH | Associate or Full Professor with Tenure (50%) - Global Mental Health Job Talk",
       "description": "Event interval: Single day event\nOnline Meeting Link: https://washington.zoom.us/j/91906942074\nAccessibility Contact: DGH Academic Human Resources: dghahr@uw.edu\nEvent Types: Lectures/Seminars\nEvent sponsors: Department of Global Health\nLink: https://bit.ly/GMHJobTalks\n\nTalk Title: How Do We Build Mental Health Systems that Communities Trust, Adopt, and Sustain? \n\nJoin the Department of Global Health's upcoming candidate faculty job talks. \n\nFrom Wednesday, August 12 to Tuesday, August 18, 2026, the department is interviewing five candidates to join our faculty as an Associate or Full Professor with Tenure (50%) - Global Mental Health. Each candidate will be presenting on a global health topic of their choice. Everyone is invited to attend the virtual job talks to learn about the candidates. \n\nAll presentations will be held virtually on Zoom. Candidate talks will be recorded and links will be shared on the job talk blog post. All faculty, staff, and students are encouraged to provide feedback via the form linked on the blog post.",
@@ -400,7 +332,7 @@
     {
       "id": "5d87835be8e8181c",
       "title": "Candidate A | Associate or Full Professor with Tenure (50%) - Global Mental Health Job Talk",
-      "description": "Event interval: Single day event\nOnline Meeting Link: https://washington.zoom.us/j/91446272249\nAccessibility Contact: DGH Academic Human Resources: dghahr@uw.edu\nEvent Types: Lectures/Seminars\nEvent sponsors: Department of Global Health\nLink: https://bit.ly/GMHJobTalks\n\nTalk Title: From Evidence to Equitable Scale-Up: Building the Next Generation of Global Mental Health Implementation Science\n\nJoin the Department of Global Health's upcoming candidate faculty job talks. \n\nFrom Wednesday, August 12 to Tuesday, August 18, 2026, the department is interviewing five candidates to join our faculty as an Associate or Full Professor with Tenure (50%) - Global Mental Health. Each candidate will be presenting on a global health topic of their choice. Everyone is invited to attend the virtual job talks to learn about the candidates. \n\nAll presentations will be held virtually on Zoom. Candidate talks will be recorded and links will be shared on the job talk blog post. All faculty, staff, and students are encouraged to provide feedback via the form linked on the blog post.",
+      "description": "Event interval: Single day event\nOnline Meeting Link: https://washington.zoom.us/j/91446272249\nAccessibility Contact: DGH Academic Human Resources: dghahr@uw.edu\nEvent Types: Lectures/Seminars\nLink: https://bit.ly/GMHJobTalks\n\nTalk Title: From Evidence to Equitable Scale-Up: Building the Next Generation of Global Mental Health Implementation Science\n\n\nJoin the Department of Global Health's upcoming candidate faculty job talks. \n\n\nFrom Wednesday, August 12 to Tuesday, August 18, 2026, the department is interviewing five candidates to join our faculty as an Associate or Full Professor with Tenure (50%) - Global Mental Health. Each candidate will be presenting on a global health topic of their choice. Everyone is invited to attend the virtual job talks to learn about the candidates. \n\n\nAll presentations will be held virtually on Zoom. Candidate talks will be recorded and links will be shared on the job talk blog post. All faculty, staff, and students are encouraged to provide feedback via the form linked on the blog post.",
       "url": "https://bit.ly/GMHJobTalks",
       "start_datetime": "2026-08-17T17:00:00",
       "end_datetime": "2026-08-17T18:00:00",
