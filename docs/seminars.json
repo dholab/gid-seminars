@@ -2,7 +2,7 @@
   "metadata": {
     "title": "GID Seminars Feed",
     "description": "Aggregated seminars and webinars for Global Infectious Disease research",
-    "generated_at": "2026-08-14T06:29:23.501523Z",
+    "generated_at": "2026-08-15T06:07:17.500867Z",
     "time_window": {
       "days_behind": 30,
       "days_ahead": 30
@@ -296,17 +296,17 @@
       "recording_url": null
     },
     {
-      "id": "e56e74737ce1909c",
-      "title": "Ashley Hagaman, PhD, MPH | Associate or Full Professor with Tenure (50%) - Global Mental Health Job Talk",
-      "description": "Event interval: Single day event\nOnline Meeting Link: https://washington.zoom.us/j/91906942074\nAccessibility Contact: DGH Academic Human Resources: dghahr@uw.edu\nEvent Types: Lectures/Seminars\nEvent sponsors: Department of Global Health\nLink: https://bit.ly/GMHJobTalks\n\nTalk Title: How Do We Build Mental Health Systems that Communities Trust, Adopt, and Sustain? \n\nJoin the Department of Global Health's upcoming candidate faculty job talks. \n\nFrom Wednesday, August 12 to Tuesday, August 18, 2026, the department is interviewing five candidates to join our faculty as an Associate or Full Professor with Tenure (50%) - Global Mental Health. Each candidate will be presenting on a global health topic of their choice. Everyone is invited to attend the virtual job talks to learn about the candidates. \n\nAll presentations will be held virtually on Zoom. Candidate talks will be recorded and links will be shared on the job talk blog post. All faculty, staff, and students are encouraged to provide feedback via the form linked on the blog post.",
-      "url": "https://bit.ly/GMHJobTalks",
-      "start_datetime": "2026-08-14T19:00:00",
-      "end_datetime": "2026-08-14T20:00:00",
-      "timezone": "America/Los_Angeles",
-      "location": "Zoom",
-      "organizer": null,
-      "source": "uw_cfar",
-      "category": "Fred Hutch Center for AIDS Research (CFAR)",
+      "id": "fe44f096babe9257",
+      "title": "TWiV 1348: Clinical update with Dr. Daniel Griffin",
+      "description": "[Podcast: This Week in Virology]\n\nIn his weekly clinical update, Daniel Griffin and Vincent Racaniello are troubled by the latest executive order changing routine childhood vaccine recommendations, the call for nominations to join the Advisory Committee for Immunization Practices, West Nile virus transmission in South Carolina, a newly identified midge-transmitted virus sickening cattle, and development of a cold-chain free DPT vaccine, the national cyclospora and screwworm outbreaks,new screwworm and genomics of Ebola outbreak in the Congo, and use of a mismatch vaccine to combat the Bundibugyo virus outbreak before Dr. Griffin deep dives into the measles outbreak, recent statistics on RSV, influenza and SARS-CoV-2 infections, the Wasterwater Scan dashboard, Johns Hopkins measles tracker, how to access and pay for Paxlovid, where to go for answers about long COVID-19, clinical guidelines for treating long COVID, and contacting your federal government representative to stop the assault on science and biomedical research. Click arrow to play Download TWiV 1348 (33 MB .mp3, 55 min) Subscribe (free): Apple Podcasts , RSS , email Become a&nbsp; patron &nbsp;of&nbsp;TWiV! Links for this episode DELIVERING GOLD STANDARD CHILDHOOD VACCINE RECOMMENDATIONS FOR AMERICANS (Whitehouse) Trump signed an executive order calling for fewer childhood vaccines (NY Times) CIDRAP Op-Ed: What the vaccine executive order gets wrong , and what it will cost us (CIDRAP) New CDC director faces first major test before she even begins wo",
+      "url": "https://www.microbe.tv/twiv/twiv-1348/",
+      "start_datetime": "2026-08-15T04:00:00",
+      "end_datetime": null,
+      "timezone": "UTC",
+      "location": "Podcast",
+      "organizer": "This Week in Virology",
+      "source": "twiv_podcast",
+      "category": "Podcast - TWiV",
       "tags": [],
       "access_restriction": "Public",
       "registration_url": null,
