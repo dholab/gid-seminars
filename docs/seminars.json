@@ -2,12 +2,12 @@
   "metadata": {
     "title": "GID Seminars Feed",
     "description": "Aggregated seminars and webinars for Global Infectious Disease research",
-    "generated_at": "2026-08-15T06:07:17.500867Z",
+    "generated_at": "2026-08-16T06:07:50.924929Z",
     "time_window": {
       "days_behind": 30,
       "days_ahead": 30
     },
-    "total_events": 28,
+    "total_events": 29,
     "sources": [
       "astmh_events",
       "avac_events",
@@ -301,6 +301,23 @@
       "description": "[Podcast: This Week in Virology]\n\nIn his weekly clinical update, Daniel Griffin and Vincent Racaniello are troubled by the latest executive order changing routine childhood vaccine recommendations, the call for nominations to join the Advisory Committee for Immunization Practices, West Nile virus transmission in South Carolina, a newly identified midge-transmitted virus sickening cattle, and development of a cold-chain free DPT vaccine, the national cyclospora and screwworm outbreaks,new screwworm and genomics of Ebola outbreak in the Congo, and use of a mismatch vaccine to combat the Bundibugyo virus outbreak before Dr. Griffin deep dives into the measles outbreak, recent statistics on RSV, influenza and SARS-CoV-2 infections, the Wasterwater Scan dashboard, Johns Hopkins measles tracker, how to access and pay for Paxlovid, where to go for answers about long COVID-19, clinical guidelines for treating long COVID, and contacting your federal government representative to stop the assault on science and biomedical research. Click arrow to play Download TWiV 1348 (33 MB .mp3, 55 min) Subscribe (free): Apple Podcasts , RSS , email Become a&nbsp; patron &nbsp;of&nbsp;TWiV! Links for this episode DELIVERING GOLD STANDARD CHILDHOOD VACCINE RECOMMENDATIONS FOR AMERICANS (Whitehouse) Trump signed an executive order calling for fewer childhood vaccines (NY Times) CIDRAP Op-Ed: What the vaccine executive order gets wrong , and what it will cost us (CIDRAP) New CDC director faces first major test before she even begins wo",
       "url": "https://www.microbe.tv/twiv/twiv-1348/",
       "start_datetime": "2026-08-15T04:00:00",
+      "end_datetime": null,
+      "timezone": "UTC",
+      "location": "Podcast",
+      "organizer": "This Week in Virology",
+      "source": "twiv_podcast",
+      "category": "Podcast - TWiV",
+      "tags": [],
+      "access_restriction": "Public",
+      "registration_url": null,
+      "recording_url": null
+    },
+    {
+      "id": "86af271ffb103773",
+      "title": "TWiV 1349: Smallpox and mummies",
+      "description": "[Podcast: This Week in Virology]\n\nTWiV explains how liquid\u2013liquid phase separation and a phage-encoded inhibitor cooperatively drive transcriptional transition during phage SPO1 infection, and the first smallpox virus genomes from an early outbreak in South America. Hosts: Vincent Racaniello , Rich Condit , Brianne Barker , and Jolene Ramsey Click arrow to play Download TWiV 1349 (74 MB .mp3, 123 min) Subscribe (free): Apple Podcasts , RSS , email Become a&nbsp; patron &nbsp;of&nbsp;TWiV! Links for this episode Support science education at MicrobeTV Positions in Rosenfeld Lab (email) Fred Murphy , a pioneer in virology (J Virol) New midge-borne orthobunyavirus sickening cattle in Europe (Science) What to Know About the Vaccines Targeted by Trump\u2019s Executive Order (NY Times) What vaccine Executive Order gets wrong (CIDRAP) Trudy Rey&#8217;s 100th post at virology blog Transcriptional transition during phage SPO1 infection (Nucl Acids Res) Phase separation 101 (Iwasa lab) Early smallpox in America (Science) Letters read on TWiV 1349 Timestamps by&nbsp; Jolene Ramsey. Thanks! Picks of the Week Brianne &#8211; APod August 7: Rubin&#8217;s Cosmos Field Rich &#8211; Jenner\u2019s Inquiry Original, \u201cannotated\u201d ; (PDF) Smallpox vaccination and opposition by anti-vaccination societies in 19th century Britain Jolene &#8211; Scott Seligmann\u2019s web tool for searching keywords in podcast transcripts Vincent &#8211; The End of Reading is Here Listener Picks Tony &#8211; Fauci Fiasco Addendum Charles &#8211; The Proposed Changes ",
+      "url": "https://www.microbe.tv/twiv/twiv-1349/",
+      "start_datetime": "2026-08-16T04:00:00",
       "end_datetime": null,
       "timezone": "UTC",
       "location": "Podcast",
