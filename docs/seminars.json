@@ -2,12 +2,12 @@
   "metadata": {
     "title": "GID Seminars Feed",
     "description": "Aggregated seminars and webinars for Global Infectious Disease research",
-    "generated_at": "2026-08-17T06:11:12.507645Z",
+    "generated_at": "2026-08-18T06:13:48.220025Z",
     "time_window": {
       "days_behind": 30,
       "days_ahead": 30
     },
-    "total_events": 29,
+    "total_events": 27,
     "sources": [
       "astmh_events",
       "avac_events",
@@ -57,23 +57,6 @@
     ]
   },
   "events": [
-    {
-      "id": "5092d610bcf692ac",
-      "title": "TWiV 1341: Phage breaks and COVID origins",
-      "description": "[Podcast: This Week in Virology]\n\nTWiV explains research that reveals dual activity of a phage-encoded lysin that modulates infection dynamics in a mycobacteriophage, and refutes a proposed link between the SARS-CoV-2 furin cleavage site and mouse-adapted MERS-coronavirus MA30. Hosts:&nbsp; Vincent Racaniello , Kathy Spindler, Angela Mingarelli, and Jolene Ramsey Click arrow to play Download TWiV 1341 (60 MB .mp3, 100 min) Subscribe (free):&nbsp; Apple Podcasts ,&nbsp; RSS ,&nbsp; email Become a&nbsp; patron &nbsp;of&nbsp;TWiV! Links for this episode Support science education at MicrobeTV 2:43 Positions in Rosenfeld Lab (email) 6:26 Dual activity of phage-encoded lysin (mBio) 9:00 Furin cleavage site and SARS-CoV-2 origins (PNAS) 34:24 Theories on SARS-CoV-2 origins (CR Biol) 42:00 Timestamps by&nbsp; Jolene Ramsey. Thanks! Picks of the Week 1:18:19 Angela &#8211; Pigeons. An underappreciated animal.&nbsp; Superparamagnetic macrophages , cancer detectors , mirror mark test Kathy &#8211; Wednesday\u2019s APOD and Graphene Jolene &#8211; Microbial Puppet Masters science exhibit , 3D-models linked in their paper Vincent &#8211; Beyond Inheritance by Roxanne Khamsi ( TWiEVO 126 ) Listener Pick Lana &#8211; The Episodic Table of Elements Intro music is by&nbsp; Ronald Jenkees Send your virology questions and comments to twiv@microbe.tv Content in this podcast should not be construed as medical advice. The post TWiV 1341: Phage breaks and COVID origins first appeared on This Week in Virology .",
-      "url": "https://www.microbe.tv/twiv/twiv-1341/",
-      "start_datetime": "2026-07-19T04:00:00",
-      "end_datetime": null,
-      "timezone": "UTC",
-      "location": "Podcast",
-      "organizer": "This Week in Virology",
-      "source": "twiv_podcast",
-      "category": "Podcast - TWiV",
-      "tags": [],
-      "access_restriction": "Public",
-      "registration_url": null,
-      "recording_url": null
-    },
     {
       "id": "ccb803051dfd4538",
       "title": "Beyond the Brush",
@@ -245,23 +228,6 @@
       "recording_url": null
     },
     {
-      "id": "98203804eef43ec7",
-      "title": "Register for the Webinar",
-      "description": null,
-      "url": "https://www.iasusa.org/events/webinar-2026-crabtree-ramirez/",
-      "start_datetime": "2026-08-10T00:00:00",
-      "end_datetime": null,
-      "timezone": "America/Los_Angeles",
-      "location": "Online",
-      "organizer": null,
-      "source": "iasusa_webinars",
-      "category": "IAS-USA",
-      "tags": [],
-      "access_restriction": "Public",
-      "registration_url": null,
-      "recording_url": null
-    },
-    {
       "id": "29f8eccbe53b35b6",
       "title": "ENT Expert Up Close: Latest Advances in Rhinoplasty and Sinus Surgery",
       "description": "OverviewThis session will explore advanced surgical techniques and decision-making strategies in rhinoplasty that address both aesthetic goals and functional nasal airflow, while also examining the complexities of different types of sinusitis and the role of surgery as a definitive treatment option within appropriate patient care pathways. The activity will highlight how structural and preservation approaches can be tailored to optimize form and function, including in complex and revision cases, and will emphasize evidence-based technique and thoughtful preoperative planning to improve surgical outcomes and patient satisfaction.\n\nRegistrationRegistration for all practitioners - free\n\nTo register for this activity, please click HERE.\n\nCreditsAMA PRA Category 1 Credits\u2122 (1.00 hours), Non-Physician Participation Credit (1.00 hours)\n\nTarget AudienceSpecialties - Allergy, Immunology, and Rheumatology, Otolaryngology (ENT)Professions - Non-Physician, Physician ObjectivesAt the conclusion of this activity, learners should be able to:\n1. Describe structural and preservation techniques that support both function and aesthetics in rhinoplasty.\n2. Identify key preoperative factors that influence airway outcomes and revision risk.\n3. Name different underlying factors that can lead to chronic sinusitis\n4. Review why some surgeries fail and others resolve chronic sinusitis symptoms\n\nAccreditationIn support of improving patient care, Stanford Medicine is jointly accredited by the Accreditation Council for Continuing Medical Education (ACCME), the Accreditation Council for Pharmacy Education (ACPE), and the American Nurses Credentialing Center (ANCC), to provide continuing education for the healthcare team. \n \nCredit Designation \nAmerican Medical Association (AMA) \nStanford Medicine designates this Live Activity for a maximum of 1.00 AMA PRA Category 1 CreditsTM.  Physicians should claim only the credit commensurate with the extent of their participation in the activity.",
@@ -330,23 +296,6 @@
       "recording_url": null
     },
     {
-      "id": "5d87835be8e8181c",
-      "title": "Candidate A | Associate or Full Professor with Tenure (50%) - Global Mental Health Job Talk",
-      "description": "Event interval: Single day event\nOnline Meeting Link: https://washington.zoom.us/j/91446272249\nAccessibility Contact: DGH Academic Human Resources: dghahr@uw.edu\nEvent Types: Lectures/Seminars\nLink: https://bit.ly/GMHJobTalks\n\nTalk Title: From Evidence to Equitable Scale-Up: Building the Next Generation of Global Mental Health Implementation Science\n\n\nJoin the Department of Global Health's upcoming candidate faculty job talks. \n\n\nFrom Wednesday, August 12 to Tuesday, August 18, 2026, the department is interviewing five candidates to join our faculty as an Associate or Full Professor with Tenure (50%) - Global Mental Health. Each candidate will be presenting on a global health topic of their choice. Everyone is invited to attend the virtual job talks to learn about the candidates. \n\n\nAll presentations will be held virtually on Zoom. Candidate talks will be recorded and links will be shared on the job talk blog post. All faculty, staff, and students are encouraged to provide feedback via the form linked on the blog post.",
-      "url": "https://bit.ly/GMHJobTalks",
-      "start_datetime": "2026-08-17T17:00:00",
-      "end_datetime": "2026-08-17T18:00:00",
-      "timezone": "America/Los_Angeles",
-      "location": "Zoom",
-      "organizer": null,
-      "source": "uw_cfar",
-      "category": "Fred Hutch Center for AIDS Research (CFAR)",
-      "tags": [],
-      "access_restriction": "Public",
-      "registration_url": null,
-      "recording_url": null
-    },
-    {
       "id": "b44d0716a38a2d15",
       "title": "John A. Naslund, PhD | Associate or Full Professor with Tenure (50%) - Global Mental Health Job Talk",
       "description": "Event interval: Single day event\nOnline Meeting Link: https://washington.zoom.us/j/95230561101\nAccessibility Contact: DGH Academic Human Resources: dghahr@uw.edu\nEvent Types: Lectures/Seminars\nEvent sponsors: Department of Global Health\nLink: https://bit.ly/GMHJobTalks\n\nTalk Title: Reimagining Global Mental Health Care Delivery: Scaling Solutions Through Task Sharing, Community Partnerships, and Digital Innovation \n\nJoin the Department of Global Health's upcoming candidate faculty job talks. \n\nFrom Wednesday, August 12 to Tuesday, August 18, 2026, the department is interviewing five candidates to join our faculty as an Associate or Full Professor with Tenure (50%) - Global Mental Health. Each candidate will be presenting on a global health topic of their choice. Everyone is invited to attend the virtual job talks to learn about the candidates. \n\nAll presentations will be held virtually on Zoom. Candidate talks will be recorded and links will be shared on the job talk blog post. All faculty, staff, and students are encouraged to provide feedback via the form linked on the blog post.",
@@ -392,6 +341,23 @@
       "organizer": null,
       "source": "broad_institute",
       "category": "Talks",
+      "tags": [],
+      "access_restriction": "Public",
+      "registration_url": null,
+      "recording_url": null
+    },
+    {
+      "id": "f25505d55995e910",
+      "title": "Extraordinary Meeting of the Strategic Advisory Group of Experts (SAGE) on Immunization 19 August 2026",
+      "description": "This extraordinary virtual meeting for the Strategic Advisory Group of Experts on Immunization (SAGE) will take place on 19 August 2026",
+      "url": "https://www.who.int/news-room/events/detail/2026/08/19/default-calendar/extraordinary-meeting-of-the-strategic-advisory-group-of-experts-(sage)-on-immunization-19-august-2026",
+      "start_datetime": "2026-08-19T14:00:00",
+      "end_datetime": "2026-08-19T17:00:00",
+      "timezone": "UTC",
+      "location": "Online/Geneva",
+      "organizer": "World Health Organization",
+      "source": "who_events",
+      "category": "WHO",
       "tags": [],
       "access_restriction": "Public",
       "registration_url": null,
