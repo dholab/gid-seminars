@@ -2,7 +2,7 @@
   "metadata": {
     "title": "GID Seminars Feed",
     "description": "Aggregated seminars and webinars for Global Infectious Disease research",
-    "generated_at": "2026-08-18T06:13:48.220025Z",
+    "generated_at": "2026-08-19T06:09:22.805198Z",
     "time_window": {
       "days_behind": 30,
       "days_ahead": 30
@@ -296,23 +296,6 @@
       "recording_url": null
     },
     {
-      "id": "b44d0716a38a2d15",
-      "title": "John A. Naslund, PhD | Associate or Full Professor with Tenure (50%) - Global Mental Health Job Talk",
-      "description": "Event interval: Single day event\nOnline Meeting Link: https://washington.zoom.us/j/95230561101\nAccessibility Contact: DGH Academic Human Resources: dghahr@uw.edu\nEvent Types: Lectures/Seminars\nEvent sponsors: Department of Global Health\nLink: https://bit.ly/GMHJobTalks\n\nTalk Title: Reimagining Global Mental Health Care Delivery: Scaling Solutions Through Task Sharing, Community Partnerships, and Digital Innovation \n\nJoin the Department of Global Health's upcoming candidate faculty job talks. \n\nFrom Wednesday, August 12 to Tuesday, August 18, 2026, the department is interviewing five candidates to join our faculty as an Associate or Full Professor with Tenure (50%) - Global Mental Health. Each candidate will be presenting on a global health topic of their choice. Everyone is invited to attend the virtual job talks to learn about the candidates. \n\nAll presentations will be held virtually on Zoom. Candidate talks will be recorded and links will be shared on the job talk blog post. All faculty, staff, and students are encouraged to provide feedback via the form linked on the blog post.",
-      "url": "https://bit.ly/GMHJobTalks",
-      "start_datetime": "2026-08-18T18:00:00",
-      "end_datetime": "2026-08-18T19:00:00",
-      "timezone": "America/Los_Angeles",
-      "location": "Zoom",
-      "organizer": null,
-      "source": "uw_cfar",
-      "category": "Fred Hutch Center for AIDS Research (CFAR)",
-      "tags": [],
-      "access_restriction": "Public",
-      "registration_url": null,
-      "recording_url": null
-    },
-    {
       "id": "22ac5c4cf41dd513",
       "title": "Chemical Biology Supergroup: Debasis Das",
       "description": "Speaker: Debasis Das (Indian Institute of Science)\nTalk Title: Harnessing Enzymatic Power for Bioenergy and Therapeutics\n\nDescription: Enzymes are nature's most efficient catalysts, capable of driving complex chemical transformations with remarkable speed and selectivity. Understanding how these biological catalysts function not only deepens our knowledge of fundamental biochemistry but also enables innovative solutions for challenges in sustainable manufacturing and human health. In this seminar, I will present our efforts to discover and engineer microbial enzymes for two distinct yet impactful applications: renewable hydrocarbon production and the treatment of biofilm-associated infections.\n\nThe first part focuses on UndB, a membrane-bound enzyme that catalyzes the conversion of fatty acids into terminal 1-alkenes\u2500valuable platform chemicals widely used in the production of polymers, lubricants, and detergents. Although UndB was discovered nearly a decade ago, its catalytic mechanism has remained largely elusive. Our studies establish that UndB is a diiron enzyme with a conserved histidine-coordinated active site and demonstrate that catalysis requires molecular oxygen together with electron-transfer partners. These mechanistic insights have guided the engineering of an efficient whole-cell biocatalyst capable of converting naturally abundant free fatty acids into medium-chain 1-alkenes with conversion efficiencies of up to 95%.\n\nThe second part highlights the discovery of microbial enzymes that target the extracellular matrix of bacterial biofilms, offering a promising strategy to combat antimicrobial-resistant infections. We identified an orphan enzyme from the cow rumen microbiome that rapidly disperses mature biofilms formed by clinical isolates of Klebsiella pneumoniae at low micromolar concentrations, thereby enhancing antibiotic susceptibility and promoting immune-mediated clearance in a murine wound infection model. We further discovered CRhAB, a biofilm-",
@@ -511,6 +494,23 @@
       "organizer": null,
       "source": "iasusa_webinars",
       "category": "IAS-USA",
+      "tags": [],
+      "access_restriction": "Public",
+      "registration_url": null,
+      "recording_url": null
+    },
+    {
+      "id": "72ea8b04b0d8faa9",
+      "title": "Upcoming Post COVID-19 Condition Educational Events Key Details for Webinars/Sessions Join our expert-led webinars, covering practical strategies for managing Post COVID-19 Condition. Format: Virtual on Zoom\ufe31Recordings available on website after sessions Target Audience: Physicians, Nurse Practitioners, Occupational Therapists, Pharmacists, Physical Therapists, Psychologists, Registered Nurses, Resident Doctors in Training, Respiratory Therapists, and other health care professionals are encouraged to attend. Patients and their families, and members of the public are also welcome. Webinar Length: 1 hour webinar sessions Access: PC / iMac / cell phone Registration: The PCC 2026 Webinar Series is now o pen! Please keep an eye out for additional webinars opening soon! Accreditation: This program is accredited. See the accreditation section below for more information. Fees: No cost to attend Register for PCC 2026 Webinar Series Latest Developments in PCC & Cardiac",
+      "description": "Post-COVID Condition webinar series by University of Saskatchewan. Presenters: Dr. Gavin Oudit, MD, PhD, FRCPC",
+      "url": "https://usask-ca.zoom.us/meeting/register/BY8yZBgZSV2q_KkEge6FmQ",
+      "start_datetime": "2026-09-17T15:00:00",
+      "end_datetime": null,
+      "timezone": "America/Regina",
+      "location": "Online (Zoom)",
+      "organizer": "University of Saskatchewan",
+      "source": "usask_pcc",
+      "category": "University - USask",
       "tags": [],
       "access_restriction": "Public",
       "registration_url": null,
