@@ -2,12 +2,12 @@
   "metadata": {
     "title": "GID Seminars Feed",
     "description": "Aggregated seminars and webinars for Global Infectious Disease research",
-    "generated_at": "2026-08-19T06:09:22.805198Z",
+    "generated_at": "2026-08-20T06:09:14.106381Z",
     "time_window": {
       "days_behind": 30,
       "days_ahead": 30
     },
-    "total_events": 27,
+    "total_events": 25,
     "sources": [
       "astmh_events",
       "avac_events",
@@ -57,23 +57,6 @@
     ]
   },
   "events": [
-    {
-      "id": "ccb803051dfd4538",
-      "title": "Beyond the Brush",
-      "description": "While most of us were taught that brushing twice a day and flossing (when we remember) was how we take care of our teeth, modern science reveals that maintaining oral health is about far more than just a quick scrub and snap.\n\nOral health is the gateway to your overall systemic wellness, and effective oral hygiene is a big part of that puzzle. If you are looking to elevate your daily routine from a chore to an intentional self-care ritual for overall wellness, then this webinar is for you!\n\nWe will start with the essentials, demystifying the foundational habits of effective at-home care. You will learn the \"why\" behind traditional techniques before we pivot into the cutting-edge world of dental innovation.\n\nWe will navigate the ever-growing \u201cdental care\u201d aisle of the pharmacy together, breaking down smart ingredients, modern technologies and innovations, and our deeper understanding of the oral microbiome - how to balance the \"good\" bacteria in your mouth for fresher breath and stronger enamel.\n\nWhether you are looking to reverse years of sensitivity, prevent future dental work, or simply understand the labels on your products, this course provides the clarity you need. By the end, you\u2019ll have a personalized, tech-forward toolkit to maintain a radiant smile for a lifetime.\n\nThis class will be recorded and a one-week link to the recording will be shared with all registered participants. \n\nTo receive incentive points, attend at least 80% of the live session or listen to the entire recording within one week.\n\nRequest disability accommodations and access info.\n\n\n\nClass details are subject to change.",
-      "url": "https://events.stanford.edu/event/beyond-the-brush",
-      "start_datetime": "2026-07-20T19:00:00",
-      "end_datetime": "2026-07-20T20:00:00",
-      "timezone": "America/Los_Angeles",
-      "location": "Online",
-      "organizer": null,
-      "source": "stanford_virtual",
-      "category": "Class/Seminar",
-      "tags": [],
-      "access_restriction": "Public",
-      "registration_url": null,
-      "recording_url": null
-    },
     {
       "id": "046d89e09fc66bd4",
       "title": "TWiV 1342: Clinical update with Dr. Daniel Griffin",
@@ -324,23 +307,6 @@
       "organizer": null,
       "source": "broad_institute",
       "category": "Talks",
-      "tags": [],
-      "access_restriction": "Public",
-      "registration_url": null,
-      "recording_url": null
-    },
-    {
-      "id": "f25505d55995e910",
-      "title": "Extraordinary Meeting of the Strategic Advisory Group of Experts (SAGE) on Immunization 19 August 2026",
-      "description": "This extraordinary virtual meeting for the Strategic Advisory Group of Experts on Immunization (SAGE) will take place on 19 August 2026",
-      "url": "https://www.who.int/news-room/events/detail/2026/08/19/default-calendar/extraordinary-meeting-of-the-strategic-advisory-group-of-experts-(sage)-on-immunization-19-august-2026",
-      "start_datetime": "2026-08-19T14:00:00",
-      "end_datetime": "2026-08-19T17:00:00",
-      "timezone": "UTC",
-      "location": "Online/Geneva",
-      "organizer": "World Health Organization",
-      "source": "who_events",
-      "category": "WHO",
       "tags": [],
       "access_restriction": "Public",
       "registration_url": null,
