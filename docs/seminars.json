@@ -2,12 +2,12 @@
   "metadata": {
     "title": "GID Seminars Feed",
     "description": "Aggregated seminars and webinars for Global Infectious Disease research",
-    "generated_at": "2026-08-20T06:09:14.106381Z",
+    "generated_at": "2026-08-21T06:09:54.446179Z",
     "time_window": {
       "days_behind": 30,
       "days_ahead": 30
     },
-    "total_events": 25,
+    "total_events": 26,
     "sources": [
       "astmh_events",
       "avac_events",
@@ -409,6 +409,23 @@
       "organizer": "ISRV",
       "source": "isrv_events",
       "category": "ISRV",
+      "tags": [],
+      "access_restriction": "Public",
+      "registration_url": null,
+      "recording_url": null
+    },
+    {
+      "id": "8ad6d8c24bd4c52e",
+      "title": "The 9th World One Health Congress",
+      "description": "WHO, together with the Food and Agriculture Organization of the United Nations (FAO), the United Nations Environment Programme (UNEP) and the World Organisation for Animal Health (WOAH), will participate in the 9th World One Health Congress.",
+      "url": "https://www.who.int/news-room/events/detail/2026/09/04/default-calendar/the-9th-world-one-health-congress",
+      "start_datetime": "2026-09-04T00:00:00",
+      "end_datetime": "2026-09-08T00:00:00",
+      "timezone": "UTC",
+      "location": "Online/Geneva",
+      "organizer": "World Health Organization",
+      "source": "who_events",
+      "category": "WHO",
       "tags": [],
       "access_restriction": "Public",
       "registration_url": null,
