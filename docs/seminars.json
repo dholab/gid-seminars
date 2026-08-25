@@ -2,12 +2,12 @@
   "metadata": {
     "title": "GID Seminars Feed",
     "description": "Aggregated seminars and webinars for Global Infectious Disease research",
-    "generated_at": "2026-08-24T06:13:39.812705Z",
+    "generated_at": "2026-08-25T06:09:57.348316Z",
     "time_window": {
       "days_behind": 30,
       "days_ahead": 30
     },
-    "total_events": 34,
+    "total_events": 31,
     "sources": [
       "astmh_events",
       "avac_events",
@@ -57,40 +57,6 @@
     ]
   },
   "events": [
-    {
-      "id": "b12ebe754660c67d",
-      "title": "Your Patients Trust You, but Do They Believe You?",
-      "description": "[Podcast: Let's Talk ID] Duration: 1748\n\nTrust alone doesn&apos;t always change minds. Buddy Creech, MD, MPH, FPIDS, sits down with Todd Wolynn, MD, MMM, executive director of the Trusted Messenger Program, to share practical communication strategies that help clinicians build trust, navigate difficult conversations and guide patients toward evidence-based decisions.",
-      "url": "https://www.buzzsprout.com/2019912/episodes/19548664-your-patients-trust-you-but-do-they-believe-you.mp3",
-      "start_datetime": "2026-07-25T12:00:00",
-      "end_datetime": null,
-      "timezone": "UTC",
-      "location": "Podcast",
-      "organizer": "Let's Talk ID",
-      "source": "idsa_podcast",
-      "category": "Podcast - IDSA",
-      "tags": [],
-      "access_restriction": "Public",
-      "registration_url": null,
-      "recording_url": null
-    },
-    {
-      "id": "81105c1147741279",
-      "title": "TWiV 1343: Batting averages and stolen bases",
-      "description": "[Podcast: This Week in Virology]\n\nTWiV explains research which shows that Per os infectivity factors are essential for bracovirus infection and wasp parasitism, and that periodic shifts in viral load increase risk of Hendra virus spillover from Pteropus bats. Hosts:&nbsp; Vincent Racaniello , Rich Condit , and Kathy Spindler Click arrow to play Download TWiV 1343 (62 MB .mp3, 102 min) Subscribe (free):&nbsp; Apple Podcasts ,&nbsp; RSS ,&nbsp; email Become a&nbsp; patron &nbsp;of&nbsp;TWiV! Links for this episode Support science education at MicrobeTV 3:04 Positions in Rosenfeld Lab (email) 3:11 Susumu Tonegawa Dies ( Wikipedia ) 4:47 Measles Cases Hit New Record in U.S., as Vaccination Rates Wane (NYTimes) 7:52 Polydnaviruses on on TWiVs 372 and 443 13:13 Per os infectivity factors essential for bracovirus infection and wasp parasitism (PNAS) 12:08 Periodic shifts in viral load increase risk of Hendra virus spillover from Pteropus bats (Sci Adv) 42:14 Letters read on TWiV 1343 Timestamps by&nbsp; Jolene Ramsey. Thanks! Picks of the Week 1:29:23 Kathy &#8211; A) Sign up for ScienceAdviser daily newsletter, free B) Goats DO get brain damage from head butting ( Original bioRxiv preprint ) Rich &#8211; This Star Just Ate a Planet, and It\u2019s Not Done Yet Alan &#8211; Schisto and Ladders educational board game story, and the original publication on it . Vincent &#8211; How female dolphins know which males to avoid ( Original article ) Listener Pick David &#8211; What&#8217;s Under Your Feet in New York City? Ken &#8",
-      "url": "https://www.microbe.tv/twiv/twiv-1343/",
-      "start_datetime": "2026-07-26T04:00:00",
-      "end_datetime": null,
-      "timezone": "UTC",
-      "location": "Podcast",
-      "organizer": "This Week in Virology",
-      "source": "twiv_podcast",
-      "category": "Podcast - TWiV",
-      "tags": [],
-      "access_restriction": "Public",
-      "registration_url": null,
-      "recording_url": null
-    },
     {
       "id": "fb8b3473e8225cf1",
       "title": "Timely Topics in Global Health Webinar",
@@ -364,23 +330,6 @@
       "recording_url": null
     },
     {
-      "id": "ed080d6413803d1c",
-      "title": "20th meeting of the Strategic and Technical Advisory Group for Neglected Tropical Diseases",
-      "description": "The 20th meeting of the WHO Strategic and Technical Advisory Group for Neglected Tropical Diseases (STAG-NTD) will be held on 24\u201325 August 2026. The meeting will be hosted by the Department of Malaria and Neglected Tropical Diseases at WHO headquarters, with participation taking place virtually.",
-      "url": "https://www.who.int/news-room/events/detail/2026/08/24/default-calendar/20th-meeting-of-the-strategic-and-technical-advisory-group-for-neglected-tropical-diseases",
-      "start_datetime": "2026-08-24T06:00:00",
-      "end_datetime": "2026-08-25T15:00:00",
-      "timezone": "UTC",
-      "location": "Online/Geneva",
-      "organizer": "World Health Organization",
-      "source": "who_events",
-      "category": "WHO",
-      "tags": [],
-      "access_restriction": "Public",
-      "registration_url": null,
-      "recording_url": null
-    },
-    {
       "id": "bb6d102edce11ac3",
       "title": "Humanitarian Health Seminar Series",
       "description": "The Center for Innovation in Global Health (CIGH) Humanitarian Health Series at Stanford University, convened jointly with the Consortium of Universities for Global Health (CUGH) and the Stanford Center for African Studies, continues its 2026 programming on critical humanitarian and global health crises. This 60-minute international panel brings together multidisciplinary experts to examine the escalating risk of food insecurity and famine in the Sahel and to identify concrete policy pathways for response.",
@@ -399,7 +348,7 @@
     },
     {
       "id": "6d3b55c44630097a",
-      "title": "How to Reduce Your Environmental Toxic Exposures and Protect Your Family's Health",
+      "title": "How to Reduce Your Environmental Toxic Exposures and Protect Your Family\u2019s Health",
       "description": "Plastics and environmental toxins are everywhere \u2014 in our food packaging, cookware, personal care products, and even our drinking water. Emerging research links everyday chemical exposures, including microplastics, to hormonal disruption, inflammation, metabolic issues, and other serious health concerns. The good news is that small, informed changes can meaningfully reduce your exposure and support long-term well-being.\n\nIn this engaging webinar, you'll explore the science behind how these toxins enter our bodies and why they matter for your health. We'll focus on what the evidence actually says, so you can make confident, practical decisions rather than feeling overwhelmed by alarming headlines.\n\nKey takeaways include simple swaps for common household items and personal products, how to read labels and identify problematic ingredients, and a prioritized action plan so you know where your efforts will have the greatest impact. You'll leave with reference guides to use at home and in the store.\n\nThis class will be recorded and a one-week link to the recording will be shared with all registered participants.\n\nThis class qualifies for double points as part of our August promotion. To receive 4,000 points, attend at least 80% of the live session or watch the entire recording by 12 pm Pacific Time on August 31. You can still receive 2,000 points if you watch the recording after August 31 and before the expiration date.\n\nRequest disability accommodations and access info.\n\n\n\nClass details are subject to change.",
       "url": "https://events.stanford.edu/event/how-to-reduce-your-environmental-toxic-exposures-and-protect-your-familys-health",
       "start_datetime": "2026-08-27T19:00:00",
