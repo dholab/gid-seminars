@@ -2,12 +2,12 @@
   "metadata": {
     "title": "GID Seminars Feed",
     "description": "Aggregated seminars and webinars for Global Infectious Disease research",
-    "generated_at": "2026-08-25T06:09:57.348316Z",
+    "generated_at": "2026-08-26T06:10:27.353211Z",
     "time_window": {
       "days_behind": 30,
       "days_ahead": 30
     },
-    "total_events": 31,
+    "total_events": 32,
     "sources": [
       "astmh_events",
       "avac_events",
@@ -409,6 +409,23 @@
       "organizer": "ISRV",
       "source": "isrv_events",
       "category": "ISRV",
+      "tags": [],
+      "access_restriction": "Public",
+      "registration_url": null,
+      "recording_url": null
+    },
+    {
+      "id": "d7f5ed252e024399",
+      "title": "WHO Health Emergencies EPI-WIN webinar: Improving survival in Filovirus disease, including Ebola and Marburg: launch of the WHO Clinical Management Guidelines",
+      "description": "This EPI-WIN webinar will help communities by increasing awareness of the health risks associated with El Ni\u00f1o and providing practical, evidence-based actions that individuals, communities, health workers and local authorities can take to prepare for and reduce these risks.",
+      "url": "https://www.who.int/news-room/events/detail/2026/09/02/default-calendar/who-health-emergencies-epi-win-webinar-improving-survival-in-filovirus-disease-including-ebola-and-marburg-launch-of-the-who-clinical-management-guidelines",
+      "start_datetime": "2026-09-02T11:00:00",
+      "end_datetime": "2026-09-02T12:00:00",
+      "timezone": "UTC",
+      "location": "Online/Geneva",
+      "organizer": "World Health Organization",
+      "source": "who_events",
+      "category": "WHO",
       "tags": [],
       "access_restriction": "Public",
       "registration_url": null,
