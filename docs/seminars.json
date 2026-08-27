@@ -2,12 +2,12 @@
   "metadata": {
     "title": "GID Seminars Feed",
     "description": "Aggregated seminars and webinars for Global Infectious Disease research",
-    "generated_at": "2026-08-26T06:10:27.353211Z",
+    "generated_at": "2026-08-27T09:05:31.342408Z",
     "time_window": {
       "days_behind": 30,
       "days_ahead": 30
     },
-    "total_events": 32,
+    "total_events": 33,
     "sources": [
       "astmh_events",
       "avac_events",
@@ -57,23 +57,6 @@
     ]
   },
   "events": [
-    {
-      "id": "fb8b3473e8225cf1",
-      "title": "Timely Topics in Global Health Webinar",
-      "description": "Communicating about public and global health has never been more challenging \u2014 or more important. Our panel of global health communications experts will discuss the current challenges, including disinformation, the rise of AI, and declining public trust, and highlight solutions and best practices, based on a new commentary in Nature Health and insights from the Stanford Global Health Media Fellowship.\n\nModerator\n\nEli Cahan, MD\n\nAward-winning investigative health journalist, Stanford neonatal intensive care fellow, CIGH postdoctoral affiliate, director of the Stanford Health Media Fellowship\n\nPanelists\n\nNeha Mukherjee\n\n2024-25 Global Health Media Fellow, Medical student, Icahn School of Medicine at Mt. Sinai\n\nNeha Mukherjee was the 2024-2025 Stanford Global Health Media Fellow and is a third-year medical student at the Icahn School of Medicine at Mount Sinai. In 2022, Neha graduated from Brown University with degrees in Public Health and Journalism. Her work has been featured in CNN, where she helped lead coverage of the 2025 measles outbreak in Texas, NBC News, WIRED, the San Francisco Chronicle, and the Philadelphia Inquirer. \n\nGabriella Stern\n\nRecently retired Director of Communications, World Health Organization\n\nGabriella Stern is a research fellow at the Harvard Center for International Development at Harvard Kennedy School, and a senior communications adviser at Harvard T.H. Chan School of Public Health, where she is also a journalist in residence at the Center for Health Communication. In addition, Gabby serves as an external adviser at the Stanford Center for Innovation in Global Health. She retired as Director of Communications at the World Health Organization on Sept. 30, 2025 after 6 1/2 years in the role. She led the organization\u2019s global communications strategy, managed a team of communications professionals, and served as spokesperson for the Director-General. She joined WHO in March 2019 after more than three years as  Director of Media & External Rel",
-      "url": "https://events.stanford.edu/event/timely-topics-in-global-health-webinar",
-      "start_datetime": "2026-07-27T19:00:00",
-      "end_datetime": "2026-07-27T20:00:00",
-      "timezone": "America/Los_Angeles",
-      "location": "Online",
-      "organizer": null,
-      "source": "stanford_virtual",
-      "category": "Lecture/Presentation/Talk",
-      "tags": [],
-      "access_restriction": "Public",
-      "registration_url": null,
-      "recording_url": null
-    },
     {
       "id": "22c95015224d8c08",
       "title": "TEPHI Grand Rounds | The Cost of Beauty: Infections Associated with Cosmetic Procedures",
@@ -449,10 +432,10 @@
       "recording_url": null
     },
     {
-      "id": "6434c1ff078b5ef2",
+      "id": "dfe030ec8c6b7454",
       "title": "CFAR & PHSKC Lunchbox Talk with Christopher Archiopoli",
-      "description": "Event interval: Single day event\nAccessibility Contact: cfar@uw.edu\nEvent Types: Lectures/Seminars",
-      "url": null,
+      "description": "Event interval: Single day event\nOnline Meeting Link: https://washington.zoom.us/meeting/register/h2pGskolRqW5nMXvYx6tZw\nAccessibility Contact: cfar@uw.edu\nEvent Types: Lectures/Seminars\n\nSpeaker: Christopher Archiopoli\nTalk Title: Identifying Non-Traditional Marketing Channels and Strategies to Reach People Unhoused or Unstably Housed Living with HIV/AIDS\nBio: Christopher Archiopoli has lived in the Seattle area since 2006; they were born in Connecticut and raised in Phoenix, Arizona. They hold a Bachelor of Science in Marketing from Arizona State University, a Certificate in Project Management from the University of Washington, and their Master of Business Administration and a graduate Certificate in Marketing from Washington State University. They are currently enrolled in the University of Rhode Island's Doctor of Business Administration program with a projected graduation of December 2028. Following their undergraduate studies, they worked for over twenty years in the beauty industry as a manager, educator and service provider. Marking a desire for career change and personal growth, Christopher pivoted to social services in 2022, where they've focused on advocating for the unhoused community, people living with HIV/AIDS and individuals experiencing substance use disorder. They work with the Washington Recovery Alliance on their Public Policy Committee, with UW Positive Research as co-chair of the Community Advisory Board and volunteer as a facilitator/peer coach with Peer Seattle. Christopher serves as a board member on the King County Board of Health and Chair of the Governance Council for Public Health-Seattle & King County\u2019s Healthcare for the Homeless Network.",
+      "url": "https://washington.zoom.us/meeting/register/h2pGskolRqW5nMXvYx6tZw",
       "start_datetime": "2026-09-08T19:00:00",
       "end_datetime": "2026-09-08T20:00:00",
       "timezone": "America/Los_Angeles",
@@ -570,7 +553,7 @@
     {
       "id": "198f8cc9a8b9603c",
       "title": "Science-Based Strategies to Support Your Immune System",
-      "description": "The immune system is a remarkably complex network of organs, cells, and chemical messengers that protects us from infection every day. Yet we're constantly bombarded with products, remedies, and online advice claiming to \"boost\" immunity. How can you tell what's supported by science \u2014 and what's simply marketing?\n\nIn this noontime webinar, you'll learn how the immune system works, how it changes as we age, and what lifestyle habits truly support immune health. We'll separate fact from fiction as we examine the evidence behind nutrition, exercise, sleep, stress management, supplements, and other popular immune remedies.\n\nYou'll also discover why vaccines work differently from remedies that claim to \"boost\" immunity, how they train the immune system to recognize specific threats, and why vaccination remains one of the most effective tools for preventing serious infectious diseases.\n\nYou'll leave with practical, evidence-based strategies you can use right away \u2014 and a clearer understanding of what really supports a healthy immune system.\n\nThis class will be recorded and a one-week link to the recording will be shared with all registered participants. \n\nTo receive incentive points, attend at least 80% of the live session or listen to the entire recording within one week.  \n\nRequest disability accommodations and access info.\n\nClass details are subject to change.",
+      "description": "The immune system is a remarkably complex network of organs, cells, and chemical messengers that protects us from infection every day. Yet we're constantly bombarded with products, remedies, and online advice claiming to \"boost\" immunity. How can you tell what's supported by science and what's simply marketing?\n\nIn this noontime webinar, you'll learn how the immune system works, how it changes as we age, and what lifestyle habits truly support immune health. We'll separate fact from fiction as we examine the evidence behind nutrition, exercise, sleep, stress management, supplements, and other popular immune remedies.\n\nYou'll also discover why vaccines work differently from remedies that claim to \"boost\" immunity, how they train the immune system to recognize specific threats, and why vaccination remains one of the most effective tools for preventing serious infectious diseases.\n\nYou'll leave with practical, evidence-based strategies you can use right away and a clearer understanding of what really supports a healthy immune system.\n\nThis class will be recorded and a one-week link to the recording will be shared with all registered participants. \n\nTo receive incentive points, attend at least 80% of the live session or listen to the entire recording within one week.  \n\nRequest disability accommodations and access info.\n\nClass details are subject to change.",
       "url": "https://events.stanford.edu/event/science-based-strategies-to-support-your-immune-system",
       "start_datetime": "2026-09-22T19:00:00",
       "end_datetime": "2026-09-22T20:00:00",
@@ -596,6 +579,40 @@
       "organizer": "ISRV",
       "source": "isrv_events",
       "category": "ISRV",
+      "tags": [],
+      "access_restriction": "Public",
+      "registration_url": null,
+      "recording_url": null
+    },
+    {
+      "id": "d964ccdcc46d292c",
+      "title": "Evolving Oral PrEP Guidance for Ciswomen: What do we know, and what will it take?",
+      "description": null,
+      "url": "https://avac.org/event/evolving-oral-prep-guidance-for-ciswomen/",
+      "start_datetime": "2026-09-23T00:00:00",
+      "end_datetime": null,
+      "timezone": "America/New_York",
+      "location": "Online",
+      "organizer": "AVAC",
+      "source": "avac_events",
+      "category": "AVAC",
+      "tags": [],
+      "access_restriction": "Public",
+      "registration_url": null,
+      "recording_url": null
+    },
+    {
+      "id": "190b77a05212711a",
+      "title": "WHO Information Meeting on the composition of influenza virus vaccines for use in the 2027 southern hemisphere influenza season",
+      "description": null,
+      "url": "https://www.who.int/news-room/events/detail/2026/09/25/default-calendar/who-information-meeting-on-the-composition-of-influenza-virus-vaccines-for-use-in-the-2027-southern-hemisphere-influenza-season",
+      "start_datetime": "2026-09-25T09:00:00",
+      "end_datetime": "2026-09-25T12:00:00",
+      "timezone": "UTC",
+      "location": "Online/Geneva",
+      "organizer": "World Health Organization",
+      "source": "who_events",
+      "category": "WHO",
       "tags": [],
       "access_restriction": "Public",
       "registration_url": null,

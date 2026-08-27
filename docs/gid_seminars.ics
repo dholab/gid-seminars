@@ -7,57 +7,11 @@ X-WR-CALDESC:Aggregated seminars and webinars for Global Infectious Diseas
  e research
 X-WR-CALNAME:GID Seminars
 BEGIN:VEVENT
-SUMMARY:Timely Topics in Global Health Webinar
-DTSTART;TZID=America/Los_Angeles:20260727T190000
-DTEND;TZID=America/Los_Angeles:20260727T200000
-DTSTAMP:20260826T061027Z
-UID:fb8b3473e8225cf1@gid-seminars.wnprc.wisc.edu
-CATEGORIES:Lecture/Presentation/Talk
-DESCRIPTION:Communicating about public and global health has never been mo
- re challenging — or more important. Our panel of global health communica
- tions experts will discuss the current challenges\, including disinformati
- on\, the rise of AI\, and declining public trust\, and highlight solutions
-  and best practices\, based on a new commentary in Nature Health and insig
- hts from the Stanford Global Health Media Fellowship.\n\nModerator\n\nEli 
- Cahan\, MD\n\nAward-winning investigative health journalist\, Stanford neo
- natal intensive care fellow\, CIGH postdoctoral affiliate\, director of th
- e Stanford Health Media Fellowship\n\nPanelists\n\nNeha Mukherjee\n\n2024-
- 25 Global Health Media Fellow\, Medical student\, Icahn School of Medicine
-  at Mt. Sinai\n\nNeha Mukherjee was the 2024-2025 Stanford Global Health M
- edia Fellow and is a third-year medical student at the Icahn School of Med
- icine at Mount Sinai. In 2022\, Neha graduated from Brown University with 
- degrees in Public Health and Journalism. Her work has been featured in CNN
- \, where she helped lead coverage of the 2025 measles outbreak in Texas\, 
- NBC News\, WIRED\, the San Francisco Chronicle\, and the Philadelphia Inqu
- irer. \n\nGabriella Stern\n\nRecently retired Director of Communications\,
-  World Health Organization\n\nGabriella Stern is a research fellow at the 
- Harvard Center for International Development at Harvard Kennedy School\, a
- nd a senior communications adviser at Harvard T.H. Chan School of Public H
- ealth\, where she is also a journalist in residence at the Center for Heal
- th Communication. In addition\, Gabby serves as an external adviser at the
-  Stanford Center for Innovation in Global Health. She retired as Director 
- of Communications at the World Health Organization on Sept. 30\, 2025 afte
- r 6 1/2 years in the role. She led the organization’s global communicati
- ons strategy\, managed a team of communications professionals\, and served
-  as spokesperson for the Director-General. She joined WHO in March 2019 af
- ter more than three years as  Director of Media & External Rel\n\nEvent UR
- L: https://events.stanford.edu/event/timely-topics-in-global-health-webina
- r\n\nSource: stanford_virtual
-LOCATION:Online
-URL:https://events.stanford.edu/event/timely-topics-in-global-health-webin
- ar
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Timely Topics in Global Health Webinar
-TRIGGER:-PT1H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:TEPHI Grand Rounds | The Cost of Beauty: Infections Associated wit
  h Cosmetic Procedures
 DTSTART;TZID=America/Chicago:20260729T150000
 DTEND;TZID=America/Chicago:20260729T160000
-DTSTAMP:20260826T061027Z
+DTSTAMP:20260827T090531Z
 UID:22c95015224d8c08@gid-seminars.wnprc.wisc.edu
 CATEGORIES:TEPHI
 DESCRIPTION:\nEvent URL: https://tephi.texas.gov/events/event?id=43e665b2-
@@ -76,7 +30,7 @@ BEGIN:VEVENT
 SUMMARY:TWiV 1344: Clinical update with Dr. Daniel Griffin
 DTSTART:20260801T040000Z
 DTEND:20260801T050000Z
-DTSTAMP:20260826T061027Z
+DTSTAMP:20260827T090531Z
 UID:dc2949f0445663d7@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Podcast - TWiV
 DESCRIPTION:[Podcast: This Week in Virology]\n\nIn his weekly clinical upd
@@ -114,7 +68,7 @@ BEGIN:VEVENT
 SUMMARY:TWiV 1345: Rocky Mountain Virology High
 DTSTART:20260802T040000Z
 DTEND:20260802T050000Z
-DTSTAMP:20260826T061027Z
+DTSTAMP:20260827T090531Z
 UID:1feefd8daeb2cc4e@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Podcast - TWiV
 DESCRIPTION:[Podcast: This Week in Virology]\n\nTWiV travels to Colorado S
@@ -152,7 +106,7 @@ BEGIN:VEVENT
 SUMMARY:TWiV 1346: Clinical update with Dr. Daniel Griffin
 DTSTART:20260808T040000Z
 DTEND:20260808T050000Z
-DTSTAMP:20260826T061027Z
+DTSTAMP:20260827T090531Z
 UID:bfb3e2e61812402b@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Podcast - TWiV
 DESCRIPTION:[Podcast: This Week in Virology]\n\nIn his weekly clinical upd
@@ -190,7 +144,7 @@ BEGIN:VEVENT
 SUMMARY:TWiV 1347: No Short Answers for Long COVID
 DTSTART:20260809T040000Z
 DTEND:20260809T050000Z
-DTSTAMP:20260826T061027Z
+DTSTAMP:20260827T090531Z
 UID:c514090a86949a88@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Podcast - TWiV
 DESCRIPTION:[Podcast: This Week in Virology]\n\nTWiV explains research sho
@@ -227,7 +181,7 @@ SUMMARY:ENT Expert Up Close: Latest Advances in Rhinoplasty and Sinus Surg
  ery
 DTSTART;TZID=America/Los_Angeles:20260811T190000
 DTEND;TZID=America/Los_Angeles:20260811T200000
-DTSTAMP:20260826T061027Z
+DTSTAMP:20260827T090531Z
 UID:29f8eccbe53b35b6@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Class/Seminar
 DESCRIPTION:OverviewThis session will explore advanced surgical techniques
@@ -274,7 +228,7 @@ BEGIN:VEVENT
 SUMMARY:TWiV 1348: Clinical update with Dr. Daniel Griffin
 DTSTART:20260815T040000Z
 DTEND:20260815T050000Z
-DTSTAMP:20260826T061027Z
+DTSTAMP:20260827T090531Z
 UID:fe44f096babe9257@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Podcast - TWiV
 DESCRIPTION:[Podcast: This Week in Virology]\n\nIn his weekly clinical upd
@@ -312,7 +266,7 @@ BEGIN:VEVENT
 SUMMARY:TWiV 1349: Smallpox and mummies
 DTSTART:20260816T040000Z
 DTEND:20260816T050000Z
-DTSTAMP:20260826T061027Z
+DTSTAMP:20260827T090531Z
 UID:86af271ffb103773@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Podcast - TWiV
 DESCRIPTION:[Podcast: This Week in Virology]\n\nTWiV explains how liquid
@@ -351,7 +305,7 @@ SUMMARY:19th International Course on Dengue\, Oropouche and Other Emerging
   Arboviruses
 DTSTART;TZID=America/New_York:20260817T000000
 DTEND;TZID=America/New_York:20260828T000000
-DTSTAMP:20260826T061027Z
+DTSTAMP:20260827T090531Z
 UID:0bfaec84c5e7cefe@gid-seminars.wnprc.wisc.edu
 CATEGORIES:ASTMH
 DESCRIPTION:\nEvent URL: https://www.astmh.org/news-events/events-calendar
@@ -371,7 +325,7 @@ BEGIN:VEVENT
 SUMMARY:Chemical Biology Supergroup: Debasis Das
 DTSTART;TZID=America/New_York:20260818T193000
 DTEND;TZID=America/New_York:20260818T203000
-DTSTAMP:20260826T061027Z
+DTSTAMP:20260827T090531Z
 UID:22ac5c4cf41dd513@gid-seminars.wnprc.wisc.edu
 CATEGORIES:University - Broad
 DESCRIPTION:Speaker: Debasis Das (Indian Institute of Science)\nTalk Title
@@ -417,7 +371,7 @@ BEGIN:VEVENT
 SUMMARY:Chemical Biology Supergroup: Debasis Das
 DTSTART;TZID=America/New_York:20260818T193000
 DTEND;TZID=America/New_York:20260818T203000
-DTSTAMP:20260826T061027Z
+DTSTAMP:20260827T090531Z
 UID:9647aec9992eba4b@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Talks
 DESCRIPTION:Speaker: Debasis Das (Indian Institute of Science)\nTalk Title
@@ -463,7 +417,7 @@ BEGIN:VEVENT
 SUMMARY:The Link Between Lifestyle and Cellular Aging
 DTSTART;TZID=America/Los_Angeles:20260820T190000
 DTEND;TZID=America/Los_Angeles:20260820T200000
-DTSTAMP:20260826T061027Z
+DTSTAMP:20260827T090531Z
 UID:272db2aceab4119d@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Class/Seminar
 DESCRIPTION:Everyone wants to feel healthy and vibrant. This is true no ma
@@ -499,7 +453,7 @@ BEGIN:VEVENT
 SUMMARY:From IV to Oral: What the COPAT Trial Tells Us
 DTSTART:20260822T000000Z
 DTEND:20260822T010000Z
-DTSTAMP:20260826T061027Z
+DTSTAMP:20260827T090531Z
 UID:ed5b242f346913d0@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Podcast - IDSA
 DESCRIPTION:[Podcast: Let's Talk ID] Duration: 1824\n\nMeet the newest voi
@@ -526,7 +480,7 @@ BEGIN:VEVENT
 SUMMARY:TWiV 1350: Clinical update with Dr. Daniel Griffin
 DTSTART:20260822T045808Z
 DTEND:20260822T055808Z
-DTSTAMP:20260826T061027Z
+DTSTAMP:20260827T090531Z
 UID:48117986eda6a9d8@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Podcast - TWiV
 DESCRIPTION:[Podcast: This Week in Virology]\n\nIn his weekly clinical upd
@@ -564,7 +518,7 @@ BEGIN:VEVENT
 SUMMARY:TWiV 1351: Ebola Virus Brains and Contagious Catfish Cancers
 DTSTART:20260823T040000Z
 DTEND:20260823T050000Z
-DTSTAMP:20260826T061027Z
+DTSTAMP:20260827T090531Z
 UID:3e826c370a2d7be6@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Podcast - TWiV
 DESCRIPTION:[Podcast: This Week in Virology]\n\nTWiV describes a human cer
@@ -601,7 +555,7 @@ BEGIN:VEVENT
 SUMMARY:Humanitarian Health Seminar Series
 DTSTART;TZID=America/Los_Angeles:20260824T190000
 DTEND;TZID=America/Los_Angeles:20260824T200000
-DTSTAMP:20260826T061027Z
+DTSTAMP:20260827T090531Z
 UID:bb6d102edce11ac3@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Class/Seminar
 DESCRIPTION:The Center for Innovation in Global Health (CIGH) Humanitarian
@@ -626,7 +580,7 @@ SUMMARY:How to Reduce Your Environmental Toxic Exposures and Protect Your
  Family’s Health
 DTSTART;TZID=America/Los_Angeles:20260827T190000
 DTEND;TZID=America/Los_Angeles:20260827T200000
-DTSTAMP:20260826T061027Z
+DTSTAMP:20260827T090531Z
 UID:6d3b55c44630097a@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Class/Seminar
 DESCRIPTION:Plastics and environmental toxins are everywhere — in our fo
@@ -667,7 +621,7 @@ BEGIN:VEVENT
 SUMMARY:ECR Social Event – Options XIII
 DTSTART:20260830T000000Z
 DTEND:20260830T010000Z
-DTSTAMP:20260826T061027Z
+DTSTAMP:20260827T090531Z
 UID:f83406251c335315@gid-seminars.wnprc.wisc.edu
 CATEGORIES:ISRV
 DESCRIPTION:Early-Career Researchers (ECRs) attending Options XIII this ye
@@ -685,7 +639,7 @@ BEGIN:VEVENT
 SUMMARY:2026 STI Prevention Conference
 DTSTART;TZID=America/New_York:20260831T000000
 DTEND;TZID=America/New_York:20260831T010000
-DTSTAMP:20260826T061027Z
+DTSTAMP:20260827T090531Z
 UID:1689134ab48ab834@gid-seminars.wnprc.wisc.edu
 CATEGORIES:AVAC
 DESCRIPTION:\nEvent URL: https://avac.org/event/2026-sti-prevention-confer
@@ -701,7 +655,7 @@ BEGIN:VEVENT
 SUMMARY:ECR Lunchtime Workshop – Options XIII
 DTSTART:20260902T000000Z
 DTEND:20260902T010000Z
-DTSTAMP:20260826T061027Z
+DTSTAMP:20260827T090531Z
 UID:8e4347ea97ed78b3@gid-seminars.wnprc.wisc.edu
 CATEGORIES:ISRV
 DESCRIPTION:This interactive workshop\, being held exclusively for Options
@@ -726,7 +680,7 @@ SUMMARY:WHO Health Emergencies EPI-WIN webinar: Improving survival in Filo
  nagement Guidelines
 DTSTART:20260902T110000Z
 DTEND:20260902T120000Z
-DTSTAMP:20260826T061027Z
+DTSTAMP:20260827T090531Z
 UID:d7f5ed252e024399@gid-seminars.wnprc.wisc.edu
 CATEGORIES:WHO
 DESCRIPTION:This EPI-WIN webinar will help communities by increasing aware
@@ -754,7 +708,7 @@ BEGIN:VEVENT
 SUMMARY:The 9th World One Health Congress
 DTSTART:20260904T000000Z
 DTEND:20260908T000000Z
-DTSTAMP:20260826T061027Z
+DTSTAMP:20260827T090531Z
 UID:8ad6d8c24bd4c52e@gid-seminars.wnprc.wisc.edu
 CATEGORIES:WHO
 DESCRIPTION:WHO\, together with the Food and Agriculture Organization of t
@@ -776,12 +730,36 @@ BEGIN:VEVENT
 SUMMARY:CFAR & PHSKC Lunchbox Talk with Christopher Archiopoli
 DTSTART;TZID=America/Los_Angeles:20260908T190000
 DTEND;TZID=America/Los_Angeles:20260908T200000
-DTSTAMP:20260826T061027Z
-UID:6434c1ff078b5ef2@gid-seminars.wnprc.wisc.edu
+DTSTAMP:20260827T090531Z
+UID:dfe030ec8c6b7454@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Fred Hutch Center for AIDS Research (CFAR)
-DESCRIPTION:Event interval: Single day event\nAccessibility Contact: cfar@
- uw.edu\nEvent Types: Lectures/Seminars\n\n\nSource: uw_cfar
+DESCRIPTION:Event interval: Single day event\nOnline Meeting Link: https:/
+ /washington.zoom.us/meeting/register/h2pGskolRqW5nMXvYx6tZw\nAccessibility
+  Contact: cfar@uw.edu\nEvent Types: Lectures/Seminars\n\nSpeaker: Christop
+ her Archiopoli\nTalk Title: Identifying Non-Traditional Marketing Channels
+  and Strategies to Reach People Unhoused or Unstably Housed Living with HI
+ V/AIDS\nBio: Christopher Archiopoli has lived in the Seattle area since 20
+ 06\; they were born in Connecticut and raised in Phoenix\, Arizona. They h
+ old a Bachelor of Science in Marketing from Arizona State University\, a C
+ ertificate in Project Management from the University of Washington\, and t
+ heir Master of Business Administration and a graduate Certificate in Marke
+ ting from Washington State University. They are currently enrolled in the 
+ University of Rhode Island's Doctor of Business Administration program wit
+ h a projected graduation of December 2028. Following their undergraduate s
+ tudies\, they worked for over twenty years in the beauty industry as a man
+ ager\, educator and service provider. Marking a desire for career change a
+ nd personal growth\, Christopher pivoted to social services in 2022\, wher
+ e they've focused on advocating for the unhoused community\, people living
+  with HIV/AIDS and individuals experiencing substance use disorder. They w
+ ork with the Washington Recovery Alliance on their Public Policy Committee
+ \, with UW Positive Research as co-chair of the Community Advisory Board a
+ nd volunteer as a facilitator/peer coach with Peer Seattle. Christopher se
+ rves as a board member on the King County Board of Health and Chair of the
+  Governance Council for Public Health-Seattle & King County’s Healthcare
+  for the Homeless Network.\n\nEvent URL: https://washington.zoom.us/meetin
+ g/register/h2pGskolRqW5nMXvYx6tZw\n\nSource: uw_cfar
 LOCATION:Online
+URL:https://washington.zoom.us/meeting/register/h2pGskolRqW5nMXvYx6tZw
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: CFAR & PHSKC Lunchbox Talk with Christopher Archiopo
@@ -794,7 +772,7 @@ SUMMARY:2026 Host Pathogen Map Initiative Scientific Advisory Board Meetin
  g
 DTSTART;TZID=America/Los_Angeles:20260910T000000
 DTEND;TZID=America/Los_Angeles:20260910T000000
-DTSTAMP:20260826T061027Z
+DTSTAMP:20260827T090531Z
 UID:4725a2b369ac7d88@gid-seminars.wnprc.wisc.edu
 CATEGORIES:University - UCSF
 DESCRIPTION:\n\nSource: ucsf_qbi_pasteur
@@ -811,7 +789,7 @@ SUMMARY:Herpes Simplex Virus and Varicella Zoster Virus in People With HIV
  : Prevention and Treatment Strategies
 DTSTART;TZID=America/Los_Angeles:20260915T110000
 DTEND;TZID=America/Los_Angeles:20260915T120000
-DTSTAMP:20260826T061027Z
+DTSTAMP:20260827T090531Z
 UID:98af1e99eed09899@gid-seminars.wnprc.wisc.edu
 CATEGORIES:IAS-USA
 DESCRIPTION:\nEvent URL: https://www.iasusa.org/events/webinar-2026-celum/
@@ -829,7 +807,7 @@ BEGIN:VEVENT
 SUMMARY:2026 US Conference on HIV/AIDS (USCHA)
 DTSTART;TZID=America/New_York:20260917T000000
 DTEND;TZID=America/New_York:20260917T010000
-DTSTAMP:20260826T061027Z
+DTSTAMP:20260827T090531Z
 UID:9a3e933a0659836c@gid-seminars.wnprc.wisc.edu
 CATEGORIES:AVAC
 DESCRIPTION:\nEvent URL: https://avac.org/event/2026-us-conference-on-hiv-
@@ -858,7 +836,7 @@ SUMMARY:Upcoming Post COVID-19 Condition Educational Events Key Details fo
  st Developments in PCC & Cardiac
 DTSTART;TZID=America/Regina:20260917T150000
 DTEND;TZID=America/Regina:20260917T160000
-DTSTAMP:20260826T061027Z
+DTSTAMP:20260827T090531Z
 UID:72ea8b04b0d8faa9@gid-seminars.wnprc.wisc.edu
 CATEGORIES:University - USask
 DESCRIPTION:Post-COVID Condition webinar series by University of Saskatche
@@ -891,7 +869,7 @@ SUMMARY:WHO Consultation on the composition of influenza virus vaccines fo
  r use in the 2027 southern hemisphere influenza season
 DTSTART:20260921T000000Z
 DTEND:20260925T000000Z
-DTSTAMP:20260826T061027Z
+DTSTAMP:20260827T090531Z
 UID:86494622f2be8728@gid-seminars.wnprc.wisc.edu
 CATEGORIES:WHO
 DESCRIPTION:Twice each year\, the World Health Organization (WHO) organize
@@ -919,7 +897,7 @@ BEGIN:VEVENT
 SUMMARY:Clinical Role of M184I/V in Current and Future HIV Management
 DTSTART;TZID=America/Los_Angeles:20260922T100000
 DTEND;TZID=America/Los_Angeles:20260922T110000
-DTSTAMP:20260826T061027Z
+DTSTAMP:20260827T090531Z
 UID:a72ae8d2c518c8ed@gid-seminars.wnprc.wisc.edu
 CATEGORIES:IAS-USA
 DESCRIPTION:\nEvent URL: https://www.iasusa.org/events/webinar-2026-muta/
@@ -937,31 +915,30 @@ BEGIN:VEVENT
 SUMMARY:Science-Based Strategies to Support Your Immune System
 DTSTART;TZID=America/Los_Angeles:20260922T190000
 DTEND;TZID=America/Los_Angeles:20260922T200000
-DTSTAMP:20260826T061027Z
+DTSTAMP:20260827T090531Z
 UID:198f8cc9a8b9603c@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Class/Seminar
 DESCRIPTION:The immune system is a remarkably complex network of organs\, 
  cells\, and chemical messengers that protects us from infection every day.
   Yet we're constantly bombarded with products\, remedies\, and online advi
  ce claiming to "boost" immunity. How can you tell what's supported by scie
- nce — and what's simply marketing?\n\nIn this noontime webinar\, you'll 
- learn how the immune system works\, how it changes as we age\, and what li
- festyle habits truly support immune health. We'll separate fact from ficti
- on as we examine the evidence behind nutrition\, exercise\, sleep\, stress
-  management\, supplements\, and other popular immune remedies.\n\nYou'll a
- lso discover why vaccines work differently from remedies that claim to "bo
- ost" immunity\, how they train the immune system to recognize specific thr
- eats\, and why vaccination remains one of the most effective tools for pre
- venting serious infectious diseases.\n\nYou'll leave with practical\, evid
- ence-based strategies you can use right away — and a clearer understandi
- ng of what really supports a healthy immune system.\n\nThis class will be 
- recorded and a one-week link to the recording will be shared with all regi
- stered participants. \n\nTo receive incentive points\, attend at least 80%
-  of the live session or listen to the entire recording within one week.  
- \n\nRequest disability accommodations and access info.\n\nClass details ar
- e subject to change.\n\nEvent URL: https://events.stanford.edu/event/scien
- ce-based-strategies-to-support-your-immune-system\n\nSource: stanford_virt
- ual
+ nce and what's simply marketing?\n\nIn this noontime webinar\, you'll lear
+ n how the immune system works\, how it changes as we age\, and what lifest
+ yle habits truly support immune health. We'll separate fact from fiction a
+ s we examine the evidence behind nutrition\, exercise\, sleep\, stress man
+ agement\, supplements\, and other popular immune remedies.\n\nYou'll also 
+ discover why vaccines work differently from remedies that claim to "boost"
+  immunity\, how they train the immune system to recognize specific threats
+ \, and why vaccination remains one of the most effective tools for prevent
+ ing serious infectious diseases.\n\nYou'll leave with practical\, evidence
+ -based strategies you can use right away and a clearer understanding of wh
+ at really supports a healthy immune system.\n\nThis class will be recorded
+  and a one-week link to the recording will be shared with all registered p
+ articipants. \n\nTo receive incentive points\, attend at least 80% of the 
+ live session or listen to the entire recording within one week.  \n\nReque
+ st disability accommodations and access info.\n\nClass details are subject
+  to change.\n\nEvent URL: https://events.stanford.edu/event/science-based-
+ strategies-to-support-your-immune-system\n\nSource: stanford_virtual
 LOCATION:Online
 URL:https://events.stanford.edu/event/science-based-strategies-to-support-
  your-immune-system
@@ -976,7 +953,7 @@ BEGIN:VEVENT
 SUMMARY:ANISE 8th Meeting & Mini-School
 DTSTART:20260923T000000Z
 DTEND:20260923T010000Z
-DTSTAMP:20260826T061027Z
+DTSTAMP:20260827T090531Z
 UID:b2fbdbfae5e6a959@gid-seminars.wnprc.wisc.edu
 CATEGORIES:ISRV
 DESCRIPTION:ANISE in collaboration with the Institut Pasteur de Dakar is d
@@ -992,6 +969,49 @@ URL:https://www.isrv.global/events-calendar/anise-8th-meeting/
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: ANISE 8th Meeting & Mini-School
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Evolving Oral PrEP Guidance for Ciswomen: What do we know\, and wh
+ at will it take?
+DTSTART;TZID=America/New_York:20260923T000000
+DTEND;TZID=America/New_York:20260923T010000
+DTSTAMP:20260827T090531Z
+UID:d964ccdcc46d292c@gid-seminars.wnprc.wisc.edu
+CATEGORIES:AVAC
+DESCRIPTION:\nEvent URL: https://avac.org/event/evolving-oral-prep-guidanc
+ e-for-ciswomen/\n\nSource: avac_events
+LOCATION:Online
+URL:https://avac.org/event/evolving-oral-prep-guidance-for-ciswomen/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Evolving Oral PrEP Guidance for Ciswomen: What do we
+  know\, and what will it take?
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WHO Information Meeting on the composition of influenza virus vacc
+ ines for use in the 2027 southern hemisphere influenza season
+DTSTART:20260925T090000Z
+DTEND:20260925T120000Z
+DTSTAMP:20260827T090531Z
+UID:190b77a05212711a@gid-seminars.wnprc.wisc.edu
+CATEGORIES:WHO
+DESCRIPTION:\nEvent URL: https://www.who.int/news-room/events/detail/2026/
+ 09/25/default-calendar/who-information-meeting-on-the-composition-of-influ
+ enza-virus-vaccines-for-use-in-the-2027-southern-hemisphere-influenza-seas
+ on\n\nSource: who_events
+LOCATION:Online/Geneva
+URL:https://www.who.int/news-room/events/detail/2026/09/25/default-calenda
+ r/who-information-meeting-on-the-composition-of-influenza-virus-vaccines-f
+ or-use-in-the-2027-southern-hemisphere-influenza-season
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: WHO Information Meeting on the composition of influe
+ nza virus vaccines for use in the 2027 southern hemisphere influenza seaso
+ n
 TRIGGER:-PT1H
 END:VALARM
 END:VEVENT
