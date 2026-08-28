@@ -2,12 +2,12 @@
   "metadata": {
     "title": "GID Seminars Feed",
     "description": "Aggregated seminars and webinars for Global Infectious Disease research",
-    "generated_at": "2026-08-27T09:05:31.342408Z",
+    "generated_at": "2026-08-28T09:09:34.814429Z",
     "time_window": {
       "days_behind": 30,
       "days_ahead": 30
     },
-    "total_events": 33,
+    "total_events": 35,
     "sources": [
       "astmh_events",
       "avac_events",
@@ -45,6 +45,7 @@
       "Immunology",
       "Lecture/Presentation/Talk",
       "Modelling",
+      "PhD Defense",
       "Podcast - IDSA",
       "Podcast - TWiV",
       "TEPHI",
@@ -415,6 +416,23 @@
       "recording_url": null
     },
     {
+      "id": "b62338b126864c73",
+      "title": "PhD Dissertation Defense: Madeline Hays",
+      "description": "Title: Experimental Evaluation of High-Density Neural Recording with Compressive Readout for Bidirectional Implants\n\nAbstract: High-density neural interfaces for restoration and augmentation of sensory or motor functions require simultaneous recording from thousands of neurons with single-cell resolution. However, safety requirements limit power density, making high-throughput data transmission a major obstacle for bidirectional neural implants. The wired-OR compressive readout scheme addresses this problem by exploiting sparsity of neural activity to achieve ultra-low-power compression, but its ability to preserve physiologically relevant neural signals has not been experimentally established. Here we evaluated wired-OR compression for neural waveform preservation, single-cell resolvability, and cell-type identification in ex vivo retinal recordings. Spontaneous activity from macaque retina was recorded using a 1024-channel, 32x32 microelectrode array with 36 \u03bcm pitch, reaching compression ratios up to 150x. Spike waveforms and rates obtained from wired-OR compressed recordings were well matched to those obtained from full bandwidth (20 kHz sampling) recordings. Using simple spike sorting methods, individual neurons were resolved from the wired-OR recordings, producing spatiotemporal maps that included somatic, dendritic, and axonal compartments. These compressed spatiotemporal maps and the individual neurons\u2019 spike autocorrelation functions were comparable to those obtained under full bandwidth conditions. Together with other key physiological features, such as inter-spike interval and axon conduction velocity, neuronal populations of distinct cell types were identified. These results demonstrate for the first time that the highly compressive wired-OR approach preserves neural signals for effective spike sorting and downstream cell-type classification in physiological recordings. This approach could prove broadly useful for bidirectional neural implants seeking si",
+      "url": "https://events.stanford.edu/event/phd-dissertation-defense-madeline-hays",
+      "start_datetime": "2026-09-03T16:00:00",
+      "end_datetime": "2026-09-03T17:00:00",
+      "timezone": "America/Los_Angeles",
+      "location": "Paul G. Allen Center for Integrated Systems Annex, 101X",
+      "organizer": null,
+      "source": "stanford_virtual",
+      "category": "PhD Defense",
+      "tags": [],
+      "access_restriction": "Public",
+      "registration_url": null,
+      "recording_url": null
+    },
+    {
       "id": "8ad6d8c24bd4c52e",
       "title": "The 9th World One Health Congress",
       "description": "WHO, together with the Food and Agriculture Organization of the United Nations (FAO), the United Nations Environment Programme (UNEP) and the World Organisation for Animal Health (WOAH), will participate in the 9th World One Health Congress.",
@@ -551,6 +569,23 @@
       "recording_url": null
     },
     {
+      "id": "d498c232017c5799",
+      "title": "Webinar on \u2018Highlights from Options XIII\u2019",
+      "description": "22 September 2026 - 1PM - 2.30PM  GMT, Online webinar",
+      "url": "https://www.isrv.global/events-calendar/webinar-on-highlights-from-options-xiii/",
+      "start_datetime": "2026-09-22T13:00:00",
+      "end_datetime": null,
+      "timezone": "UTC",
+      "location": "Online",
+      "organizer": "ISRV",
+      "source": "isrv_events",
+      "category": "ISRV",
+      "tags": [],
+      "access_restriction": "Public",
+      "registration_url": null,
+      "recording_url": null
+    },
+    {
       "id": "198f8cc9a8b9603c",
       "title": "Science-Based Strategies to Support Your Immune System",
       "description": "The immune system is a remarkably complex network of organs, cells, and chemical messengers that protects us from infection every day. Yet we're constantly bombarded with products, remedies, and online advice claiming to \"boost\" immunity. How can you tell what's supported by science and what's simply marketing?\n\nIn this noontime webinar, you'll learn how the immune system works, how it changes as we age, and what lifestyle habits truly support immune health. We'll separate fact from fiction as we examine the evidence behind nutrition, exercise, sleep, stress management, supplements, and other popular immune remedies.\n\nYou'll also discover why vaccines work differently from remedies that claim to \"boost\" immunity, how they train the immune system to recognize specific threats, and why vaccination remains one of the most effective tools for preventing serious infectious diseases.\n\nYou'll leave with practical, evidence-based strategies you can use right away and a clearer understanding of what really supports a healthy immune system.\n\nThis class will be recorded and a one-week link to the recording will be shared with all registered participants. \n\nTo receive incentive points, attend at least 80% of the live session or listen to the entire recording within one week.  \n\nRequest disability accommodations and access info.\n\nClass details are subject to change.",
@@ -585,10 +620,10 @@
       "recording_url": null
     },
     {
-      "id": "d964ccdcc46d292c",
-      "title": "Evolving Oral PrEP Guidance for Ciswomen: What do we know, and what will it take?",
+      "id": "d3d06caac17d52d6",
+      "title": "Evolving Oral PrEP Guidance for Cis Women: What do we know, and what will it take?",
       "description": null,
-      "url": "https://avac.org/event/evolving-oral-prep-guidance-for-ciswomen/",
+      "url": "https://avac.org/event/evolving-oral-prep-guidance-for-cis-women/",
       "start_datetime": "2026-09-23T00:00:00",
       "end_datetime": null,
       "timezone": "America/New_York",
