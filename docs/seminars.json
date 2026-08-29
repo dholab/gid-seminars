@@ -2,12 +2,12 @@
   "metadata": {
     "title": "GID Seminars Feed",
     "description": "Aggregated seminars and webinars for Global Infectious Disease research",
-    "generated_at": "2026-08-28T09:09:34.814429Z",
+    "generated_at": "2026-08-29T06:12:41.766257Z",
     "time_window": {
       "days_behind": 30,
       "days_ahead": 30
     },
-    "total_events": 35,
+    "total_events": 36,
     "sources": [
       "astmh_events",
       "avac_events",
@@ -58,23 +58,6 @@
     ]
   },
   "events": [
-    {
-      "id": "22c95015224d8c08",
-      "title": "TEPHI Grand Rounds | The Cost of Beauty: Infections Associated with Cosmetic Procedures",
-      "description": null,
-      "url": "https://tephi.texas.gov/events/event?id=43e665b2-416d-49bb-a7b5-7ff9952072bc",
-      "start_datetime": "2026-07-29T15:00:00",
-      "end_datetime": null,
-      "timezone": "America/Chicago",
-      "location": "Virtual",
-      "organizer": "Texas EPHI",
-      "source": "tephi_events",
-      "category": "TEPHI",
-      "tags": [],
-      "access_restriction": "Public",
-      "registration_url": null,
-      "recording_url": null
-    },
     {
       "id": "dc2949f0445663d7",
       "title": "TWiV 1344: Clinical update with Dr. Daniel Griffin",
@@ -348,6 +331,23 @@
       "recording_url": null
     },
     {
+      "id": "a54b3a12402c0c43",
+      "title": "TWiV 1352: Clinical update with Dr. Daniel Griffin",
+      "description": "[Podcast: This Week in Virology]\n\nIn his weekly clinical update, Daniel Griffin and Vincent Racaniello are disheartened by the suggested change in federal vaccine recommendations, how Florida rolled back 4 childhood vaccine school requirements, results from a clinical trial suggesting that IPV can be used for outbreak control in IPV only countries, the continued national cyclosporiasis and screwworm outbreaks, size of the Ebola outbreak in the Congo, the death of 2 children in Pennsylvania from measles and the economic cost of the measles outbreak before Dr. Griffin deep dives into the use of monoclonal antibodies and remdesivir to treat Bundibugyo virus infection, measles outbreak, recent statistics RSV, influenza, SARS-CoV-2 infections, access and how pay for Paxlovid, , where to go for answers about long COVID-19, clinical guidelines for treating long COVID, and contacting your federal government representative to stop the assault on science and biomedical research. Click arrow to play Download TWiV 1352 (24 MB .mp3, 49 min) Subscribe (free): Apple Podcasts , RSS , email Become a&nbsp; patron &nbsp;of&nbsp;TWiV! Links for this episode Request for Information: Categories Used in Federal Vaccine Recommendations and the Role of Shared Clinical Decision-Making (Federal Register) HHS Seeks Public Input on Federal Vaccine Recommendation Categories and Shared Clinical Decision-Making (US Department of Health and Human Services) HPV Vaccination and Risk of Head and Neck Cancers: A Large Real-World Cohort Study (In",
+      "url": "https://www.microbe.tv/twiv/twiv-1352/",
+      "start_datetime": "2026-08-29T04:00:00",
+      "end_datetime": null,
+      "timezone": "UTC",
+      "location": "Podcast",
+      "organizer": "This Week in Virology",
+      "source": "twiv_podcast",
+      "category": "Podcast - TWiV",
+      "tags": [],
+      "access_restriction": "Public",
+      "registration_url": null,
+      "recording_url": null
+    },
+    {
       "id": "f83406251c335315",
       "title": "ECR Social Event \u2013 Options XIII",
       "description": "Early-Career Researchers (ECRs) attending Options XIII this year are invited to unwind, connect, and have some fun at ourexclusive social evening on Sunday 30 August 2026.",
@@ -452,7 +452,7 @@
     {
       "id": "dfe030ec8c6b7454",
       "title": "CFAR & PHSKC Lunchbox Talk with Christopher Archiopoli",
-      "description": "Event interval: Single day event\nOnline Meeting Link: https://washington.zoom.us/meeting/register/h2pGskolRqW5nMXvYx6tZw\nAccessibility Contact: cfar@uw.edu\nEvent Types: Lectures/Seminars\n\nSpeaker: Christopher Archiopoli\nTalk Title: Identifying Non-Traditional Marketing Channels and Strategies to Reach People Unhoused or Unstably Housed Living with HIV/AIDS\nBio: Christopher Archiopoli has lived in the Seattle area since 2006; they were born in Connecticut and raised in Phoenix, Arizona. They hold a Bachelor of Science in Marketing from Arizona State University, a Certificate in Project Management from the University of Washington, and their Master of Business Administration and a graduate Certificate in Marketing from Washington State University. They are currently enrolled in the University of Rhode Island's Doctor of Business Administration program with a projected graduation of December 2028. Following their undergraduate studies, they worked for over twenty years in the beauty industry as a manager, educator and service provider. Marking a desire for career change and personal growth, Christopher pivoted to social services in 2022, where they've focused on advocating for the unhoused community, people living with HIV/AIDS and individuals experiencing substance use disorder. They work with the Washington Recovery Alliance on their Public Policy Committee, with UW Positive Research as co-chair of the Community Advisory Board and volunteer as a facilitator/peer coach with Peer Seattle. Christopher serves as a board member on the King County Board of Health and Chair of the Governance Council for Public Health-Seattle & King County\u2019s Healthcare for the Homeless Network.",
+      "description": "Event interval: Single day event\nOnline Meeting Link: https://washington.zoom.us/meeting/register/h2pGskolRqW5nMXvYx6tZw\nAccessibility Contact: cfar@uw.edu\nEvent Types: Lectures/Seminars\n\nRegister here!: \nhttps://washington.zoom.us/meeting/register/h2pGskolRqW5nMXvYx6tZw\n\nSpeaker: Christopher Archiopoli\nTalk Title: Identifying Non-Traditional Marketing Channels and Strategies to Reach People Unhoused or Unstably Housed Living with HIV/AIDS\nBio: Christopher Archiopoli has lived in the Seattle area since 2006; they were born in Connecticut and raised in Phoenix, Arizona. They hold a Bachelor of Science in Marketing from Arizona State University, a Certificate in Project Management from the University of Washington, and their Master of Business Administration and a graduate Certificate in Marketing from Washington State University. They are currently enrolled in the University of Rhode Island's Doctor of Business Administration program with a projected graduation of December 2028. Following their undergraduate studies, they worked for over twenty years in the beauty industry as a manager, educator and service provider. Marking a desire for career change and personal growth, Christopher pivoted to social services in 2022, where they've focused on advocating for the unhoused community, people living with HIV/AIDS and individuals experiencing substance use disorder. They work with the Washington Recovery Alliance on their Public Policy Committee, with UW Positive Research as co-chair of the Community Advisory Board and volunteer as a facilitator/peer coach with Peer Seattle. Christopher serves as a board member on the King County Board of Health and Chair of the Governance Council for Public Health-Seattle & King County\u2019s Healthcare for the Homeless Network.",
       "url": "https://washington.zoom.us/meeting/register/h2pGskolRqW5nMXvYx6tZw",
       "start_datetime": "2026-09-08T19:00:00",
       "end_datetime": "2026-09-08T20:00:00",
@@ -643,6 +643,23 @@
       "url": "https://www.who.int/news-room/events/detail/2026/09/25/default-calendar/who-information-meeting-on-the-composition-of-influenza-virus-vaccines-for-use-in-the-2027-southern-hemisphere-influenza-season",
       "start_datetime": "2026-09-25T09:00:00",
       "end_datetime": "2026-09-25T12:00:00",
+      "timezone": "UTC",
+      "location": "Online/Geneva",
+      "organizer": "World Health Organization",
+      "source": "who_events",
+      "category": "WHO",
+      "tags": [],
+      "access_restriction": "Public",
+      "registration_url": null,
+      "recording_url": null
+    },
+    {
+      "id": "827984e2e579dd50",
+      "title": "Second United Nations General Assembly High\u2011Level Meeting on Pandemic Prevention, Preparedness and Response",
+      "description": "The meeting will take place at a critical moment for health emergencies governance, when there is a need to sustain political attention and investment in pandemic prevention, preparedness and response.",
+      "url": "https://www.who.int/news-room/events/detail/2026/09/25/default-calendar/second-united-nations-general-assembly-high-level-meeting-on-pandemic-prevention-preparedness-and-response",
+      "start_datetime": "2026-09-25T13:00:00",
+      "end_datetime": "2026-09-25T21:00:00",
       "timezone": "UTC",
       "location": "Online/Geneva",
       "organizer": "World Health Organization",
