@@ -2,7 +2,7 @@
   "metadata": {
     "title": "GID Seminars Feed",
     "description": "Aggregated seminars and webinars for Global Infectious Disease research",
-    "generated_at": "2026-08-31T06:18:40.078490Z",
+    "generated_at": "2026-09-01T06:15:07.716468Z",
     "time_window": {
       "days_behind": 30,
       "days_ahead": 30
@@ -58,23 +58,6 @@
     ]
   },
   "events": [
-    {
-      "id": "1feefd8daeb2cc4e",
-      "title": "TWiV 1345: Rocky Mountain Virology High",
-      "description": "[Podcast: This Week in Virology]\n\nTWiV travels to Colorado State University in Ft. Collins, where he speaks with Angela Bosco-Lauth, Rebekah Kading, and Mark Stenglein about their careers and their virology research. Host:&nbsp; Vincent Racaniello Guests: Angela Bosco-Lauth , Rebekah Kading , and Mark Stenglein Click arrow to play Download TWiV 1345 (47 MB .mp3, 78 min) Subscribe (free):&nbsp; Apple Podcasts ,&nbsp; RSS ,&nbsp; email Become a&nbsp; patron &nbsp;of&nbsp;TWiV! Links for this episode Support science education at MicrobeTV 1:16:38 Susceptibility of wild and domestic songbirds to Usutu virus (PLoS NTD) 9:56 Rabbit Hemorrhagic Disease Virus 2 Infection in Snowshoe Hares (J Wildl Dis) 14:12 SARS-CoV-2 Delta variant transmission among red fox and striped skunk (Virology) 20:08 Susceptibilities and viral shedding of peridomestic wildlife infected with clade 2.3.4.4b H5N1 (Virology) 25:34 Socioeconomic benefits associated with bats (J Ethnobiol Ethnomed) 32:31 Intrinsic factors driving mosquito vector competence (Front Cell Inf Micro) 36:01 Modernizing the Toolkit for Arthropod Bloodmeal Identification (Insects) 41:47 Can Bats Serve as Reservoirs for Arboviruses? (Viruses) 46:28 The Case for Studying New Viruses of New Hosts (Ann Rev Virol) 54:32 Rapid evolution of SARS-CoV-2 in domestic cats (Virus Evol) 1:02:03 Safety study of Rift Valley Fever human vaccine candidate in mosquitoes (Transbound Emerg Dis) 1:04:20 Timestamps by&nbsp; Jolene Ramsey. Thanks! Intro music is by&nbsp; Ronald Jenkees Send yo",
-      "url": "https://www.microbe.tv/twiv/twiv-1345/",
-      "start_datetime": "2026-08-02T04:00:00",
-      "end_datetime": null,
-      "timezone": "UTC",
-      "location": "Podcast",
-      "organizer": "This Week in Virology",
-      "source": "twiv_podcast",
-      "category": "Podcast - TWiV",
-      "tags": [],
-      "access_restriction": "Public",
-      "registration_url": null,
-      "recording_url": null
-    },
     {
       "id": "bfb3e2e61812402b",
       "title": "TWiV 1346: Clinical update with Dr. Daniel Griffin",
@@ -682,6 +665,23 @@
       "organizer": null,
       "source": "iasusa_webinars",
       "category": "IAS-USA",
+      "tags": [],
+      "access_restriction": "Public",
+      "registration_url": null,
+      "recording_url": null
+    },
+    {
+      "id": "14cddda21bb2bea7",
+      "title": "Medicine Grand Rounds with Julie Parsonnet, MD",
+      "description": "Stanford Department of Medicine would like to invite all Stanford community members to attend this instance of the Medicine Grand Rounds (MGR) series, which will feature a Stanford infectious disease physician and epidemiologist who helped establish H. pylori as a cause of gastric cancer, and who continues to reveal how deeply infections shape chronic disease, metabolism, and even body temperature.",
+      "url": "https://events.stanford.edu/event/medicine-grand-rounds-with-julie-parsonnet-md",
+      "start_datetime": "2026-09-30T19:00:00",
+      "end_datetime": "2026-09-30T20:00:00",
+      "timezone": "America/Los_Angeles",
+      "location": "Li Ka Shing Center, Berg Hall",
+      "organizer": null,
+      "source": "stanford_virtual",
+      "category": "Lecture/Presentation/Talk",
       "tags": [],
       "access_restriction": "Public",
       "registration_url": null,
