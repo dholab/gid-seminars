@@ -2,12 +2,12 @@
   "metadata": {
     "title": "GID Seminars Feed",
     "description": "Aggregated seminars and webinars for Global Infectious Disease research",
-    "generated_at": "2026-09-01T06:15:07.716468Z",
+    "generated_at": "2026-09-02T06:19:10.867526Z",
     "time_window": {
       "days_behind": 30,
       "days_ahead": 30
     },
-    "total_events": 37,
+    "total_events": 38,
     "sources": [
       "astmh_events",
       "avac_events",
@@ -682,6 +682,23 @@
       "organizer": null,
       "source": "stanford_virtual",
       "category": "Lecture/Presentation/Talk",
+      "tags": [],
+      "access_restriction": "Public",
+      "registration_url": null,
+      "recording_url": null
+    },
+    {
+      "id": "f04f552e6260c3e1",
+      "title": "CFAR Seminar with Dr. Marco Pravetoni and Dr. Thomas Fitzpatrick",
+      "description": "Event interval: Single day event\nCampus location: Hans Rosling Center for Population Health (HRC)\nOnline Meeting Link: https://washington.zoom.us/meeting/register/JeKyeA5wTWuN34fxcSzHdw\nCampus room: Room 101\nAccessibility Contact: g0201@uw.edu\nEvent Types: Lectures/Seminars\n\nREGISTER NOW! \nRegister via this link for in person attendance:\nIn person registration: \nhttps://app.smartsheet.com/b/form/01a001a5c4ae75f19e948a0c0bedf3f2\n\nRegister via this link for virtual attendance:\nZoom registration: \nhttps://washington.zoom.us/meeting/register/JeKyeA5wTWuN34fxcSzHdw \n\n--------------------------------------------------------------------------------\n\n3:30pm - 4:00pm\nIN PERSON\nNew Faces Speaker: Thomas Fitzpatrick, MD\nActing Instructor, Department of Medicine, Division of Allergy & Infectious Diseases\nTalk Title: Perspectives of People Who Use Drugs on the Risks and Benefits of Anti-Fentanyl Immunotherapies and Clinical Trial Participation\nBio: Thomas (Tom) Fitzpatrick, MD, MPH, is a board-certified internal medicine and infectious disease physician and Acting Instructor in the UW Division of Allergy and Infectious Diseases. His overarching goal as a clinician and researcher is to improve the health of communities disproportionately affected by infectious diseases and substance use disorders by developing new interventions that reduce harms from higher-risk behaviors. He has two decades of experience implementing and evaluating public health programs in partnership with people who use drugs (PWUD) in the United States and China. During his clinical training, he was awarded several research fellowships and grants, including the Doris Duke International Clinical Research Fellowship, the Boston University Fellow Immersion Training Program in Addiction Medicine, the UW ADAI Small Grant Program, the China Medical Board Postdoctoral Research Fellowship, and the Fordham HIV and Drug Abuse Prevention Research Ethics Training Fellowship.\n \n4:00pm - 5:00pm\nIN PERSON\nCFAR Seminar Speak",
+      "url": "https://washington.zoom.us/meeting/register/JeKyeA5wTWuN34fxcSzHdw",
+      "start_datetime": "2026-10-01T22:30:00",
+      "end_datetime": "2026-10-02T00:00:00",
+      "timezone": "America/Los_Angeles",
+      "location": "Hans Rosling Center for Population Health (HRC)",
+      "organizer": null,
+      "source": "uw_cfar",
+      "category": "Fred Hutch Center for AIDS Research (CFAR)",
       "tags": [],
       "access_restriction": "Public",
       "registration_url": null,
