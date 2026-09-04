@@ -2,12 +2,12 @@
   "metadata": {
     "title": "GID Seminars Feed",
     "description": "Aggregated seminars and webinars for Global Infectious Disease research",
-    "generated_at": "2026-09-03T06:15:34.469447Z",
+    "generated_at": "2026-09-04T06:14:27.491456Z",
     "time_window": {
       "days_behind": 30,
       "days_ahead": 30
     },
-    "total_events": 39,
+    "total_events": 40,
     "sources": [
       "astmh_events",
       "avac_events",
@@ -405,6 +405,23 @@
       "url": "https://www.who.int/news-room/events/detail/2026/09/04/default-calendar/the-9th-world-one-health-congress",
       "start_datetime": "2026-09-04T00:00:00",
       "end_datetime": "2026-09-08T00:00:00",
+      "timezone": "UTC",
+      "location": "Online/Geneva",
+      "organizer": "World Health Organization",
+      "source": "who_events",
+      "category": "WHO",
+      "tags": [],
+      "access_restriction": "Public",
+      "registration_url": null,
+      "recording_url": null
+    },
+    {
+      "id": "06ab99a7f2b03937",
+      "title": "Second in-person meeting of the One Health High-Level Expert Panel Term II",
+      "description": "The second in-person meeting of the One Health High-Level Expert Panel (OHHLEP) Term II will be held following the World One Health Congress (WOHC) in Lisbon, Portugal. The meeting will provide an opportunity to review progress on OHHLEP deliverables and discuss outcomes of the WOHC.",
+      "url": "https://www.who.int/news-room/events/detail/2026/09/08/default-calendar/second-in-person-meeting-of-the-one-health-high-level-expert-panel-term-ii",
+      "start_datetime": "2026-09-08T00:00:00",
+      "end_datetime": "2026-09-10T00:00:00",
       "timezone": "UTC",
       "location": "Online/Geneva",
       "organizer": "World Health Organization",
