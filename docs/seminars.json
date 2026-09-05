@@ -2,7 +2,7 @@
   "metadata": {
     "title": "GID Seminars Feed",
     "description": "Aggregated seminars and webinars for Global Infectious Disease research",
-    "generated_at": "2026-09-04T06:14:27.491456Z",
+    "generated_at": "2026-09-05T06:13:05.728720Z",
     "time_window": {
       "days_behind": 30,
       "days_ahead": 30
@@ -399,23 +399,6 @@
       "recording_url": null
     },
     {
-      "id": "8ad6d8c24bd4c52e",
-      "title": "The 9th World One Health Congress",
-      "description": "WHO, together with the Food and Agriculture Organization of the United Nations (FAO), the United Nations Environment Programme (UNEP) and the World Organisation for Animal Health (WOAH), will participate in the 9th World One Health Congress.",
-      "url": "https://www.who.int/news-room/events/detail/2026/09/04/default-calendar/the-9th-world-one-health-congress",
-      "start_datetime": "2026-09-04T00:00:00",
-      "end_datetime": "2026-09-08T00:00:00",
-      "timezone": "UTC",
-      "location": "Online/Geneva",
-      "organizer": "World Health Organization",
-      "source": "who_events",
-      "category": "WHO",
-      "tags": [],
-      "access_restriction": "Public",
-      "registration_url": null,
-      "recording_url": null
-    },
-    {
       "id": "06ab99a7f2b03937",
       "title": "Second in-person meeting of the One Health High-Level Expert Panel Term II",
       "description": "The second in-person meeting of the One Health High-Level Expert Panel (OHHLEP) Term II will be held following the World One Health Congress (WOHC) in Lisbon, Portugal. The meeting will provide an opportunity to review progress on OHHLEP deliverables and discuss outcomes of the WOHC.",
@@ -546,6 +529,23 @@
       "organizer": "World Health Organization",
       "source": "who_events",
       "category": "WHO",
+      "tags": [],
+      "access_restriction": "Public",
+      "registration_url": null,
+      "recording_url": null
+    },
+    {
+      "id": "bea15a8b22b0e624",
+      "title": "Plain Language as Scientific Accountability: How to Communicate Science Beyond Academic Audiences",
+      "description": null,
+      "url": "https://avac.org/event/plain-language-scientific-accountability-communicating-science-beyond-academic-audiences/",
+      "start_datetime": "2026-09-22T00:00:00",
+      "end_datetime": null,
+      "timezone": "America/New_York",
+      "location": "Online",
+      "organizer": "AVAC",
+      "source": "avac_events",
+      "category": "AVAC",
       "tags": [],
       "access_restriction": "Public",
       "registration_url": null,
