@@ -2,12 +2,12 @@
   "metadata": {
     "title": "GID Seminars Feed",
     "description": "Aggregated seminars and webinars for Global Infectious Disease research",
-    "generated_at": "2026-09-05T06:13:05.728720Z",
+    "generated_at": "2026-09-06T06:12:58.100809Z",
     "time_window": {
       "days_behind": 30,
       "days_ahead": 30
     },
-    "total_events": 40,
+    "total_events": 42,
     "sources": [
       "astmh_events",
       "avac_events",
@@ -399,6 +399,23 @@
       "recording_url": null
     },
     {
+      "id": "1d8fa063ad06e610",
+      "title": "TWiV 1354: Clinical update with Dr. Daniel Griffin",
+      "description": "[Podcast: This Week in Virology]\n\nIn his weekly clinical update, Daniel Griffin and Vincent Racaniello remember Dolly Parton and her patronage of science, especially development of the COVID-19 vaccines, if the shingles vaccine protect against cardiovascular events as well as dementia, the continued national cyclosporiasis and screwworm outbreaks, size of the Ebola outbreak in the Congo, the death of 2 children in Pennsylvania from measles and the economic cost of the measles outbreak, before Dr. Griffin deep dives into how to determine the case fatality rate of measles as well as measles outbreaks, recent statistics RSV, influenza, SARS-CoV-2 infections, approval of new mRNA COVID-19 vaccines by the FDA, access and how pay for Paxlovid, where to go for answers about long COVID-19, clinical guidelines for treating long COVID, B-cells-autoimmunity- long COVID, enrolling in a long COVID trial and the use of the COVID antiviral drug to \u201csop up\u201d chronic virus shedding and contacting your federal government representative to stop the assault on science and biomedical research. Click arrow to play Download&nbsp; TWiV 1354 (39 MB .mp3, 65 min) Subscribe (free):&nbsp; Apple Podcasts , RSS ,&nbsp; email Become a&nbsp; patron &nbsp;of&nbsp;TWiV! Links for this episode Dolly Parton adapts her song Jolene as she receives Covid-19 vaccine she helped fund (YouTube) Dolly Parton\u2019s major contributions to vaccines and public health (the bmj) Recombinant shingles vaccination and the risk of cardiovascular events (Nature Medici",
+      "url": "https://www.microbe.tv/twiv/twiv-1354/",
+      "start_datetime": "2026-09-05T18:45:41",
+      "end_datetime": null,
+      "timezone": "UTC",
+      "location": "Podcast",
+      "organizer": "This Week in Virology",
+      "source": "twiv_podcast",
+      "category": "Podcast - TWiV",
+      "tags": [],
+      "access_restriction": "Public",
+      "registration_url": null,
+      "recording_url": null
+    },
+    {
       "id": "06ab99a7f2b03937",
       "title": "Second in-person meeting of the One Health High-Level Expert Panel Term II",
       "description": "The second in-person meeting of the One Health High-Level Expert Panel (OHHLEP) Term II will be held following the World One Health Congress (WOHC) in Lisbon, Portugal. The meeting will provide an opportunity to review progress on OHHLEP deliverables and discuss outcomes of the WOHC.",
@@ -733,6 +750,23 @@
       "organizer": null,
       "source": "stanford_virtual",
       "category": "Lecture/Presentation/Talk",
+      "tags": [],
+      "access_restriction": "Public",
+      "registration_url": null,
+      "recording_url": null
+    },
+    {
+      "id": "65371143c2b33292",
+      "title": "Strategic Advisory Group of Experts on Immunization (SAGE) - October 2026",
+      "description": "Strategic Advisory Group of Experts on Immunization (SAGE) - October 2026",
+      "url": "https://www.who.int/news-room/events/detail/2026/10/05/default-calendar/strategic-advisory-group-of-experts-on-immunization-october-2026",
+      "start_datetime": "2026-10-05T10:00:00",
+      "end_datetime": "2026-10-08T17:00:00",
+      "timezone": "UTC",
+      "location": "Online/Geneva",
+      "organizer": "World Health Organization",
+      "source": "who_events",
+      "category": "WHO",
       "tags": [],
       "access_restriction": "Public",
       "registration_url": null,
