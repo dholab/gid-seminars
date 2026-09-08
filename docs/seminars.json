@@ -2,12 +2,12 @@
   "metadata": {
     "title": "GID Seminars Feed",
     "description": "Aggregated seminars and webinars for Global Infectious Disease research",
-    "generated_at": "2026-09-07T06:18:49.233184Z",
+    "generated_at": "2026-09-08T06:14:20.872944Z",
     "time_window": {
       "days_behind": 30,
       "days_ahead": 30
     },
-    "total_events": 42,
+    "total_events": 43,
     "sources": [
       "astmh_events",
       "avac_events",
@@ -58,23 +58,6 @@
     ]
   },
   "events": [
-    {
-      "id": "c514090a86949a88",
-      "title": "TWiV 1347: No Short Answers for Long COVID",
-      "description": "[Podcast: This Week in Virology]\n\nTWiV explains research showing that Long COVID is associated with reactivation of numerous chronic viruses, including herpesviruses and anelloviruses, and with the production of autoantibodies that target neurological tissues. Hosts:&nbsp; Vincent Racaniello , Alan Dove , and Brianne Barker Click arrow to play Download TWiV 1347 (65 MB .mp3, 107 min) Subscribe (free):&nbsp; Apple Podcasts ,&nbsp; RSS ,&nbsp; email Become a&nbsp; patron &nbsp;of&nbsp;TWiV! Links for this episode Support science education at MicrobeTV 3:08 Positions in Rosenfeld Lab (email) 3:17 Virus reactivation in acute and long COVID-19 (Nature) 4:36 Association between autoantibodies and neurological symptoms in long COVID (Cell) 34:39 Letters read on TWiV 1347 1:05:46 Timestamps by&nbsp; Jolene Ramsey. Thanks! Picks of the Week 1:34:13 Brianne &#8211; Merriam-Webster Time Traveler Feature Alan &#8211; The Incandescent , by Emily Tesh Vincent &#8211; How mosquitoes are conquering the world \u2014 in four charts Listener Picks Vici &#8211; PBS Eons Charles &#8211; Entomologist Stephen Dobson on releasing modified mosquitoes to fight disease Intro music is by&nbsp; Ronald Jenkees Send your virology questions and comments to twiv@microbe.tv Content in this podcast should not be construed as medical advice. The post TWiV 1347: No Short Answers for Long COVID first appeared on This Week in Virology .",
-      "url": "https://www.microbe.tv/twiv/twiv-1347/",
-      "start_datetime": "2026-08-09T04:00:00",
-      "end_datetime": null,
-      "timezone": "UTC",
-      "location": "Podcast",
-      "organizer": "This Week in Virology",
-      "source": "twiv_podcast",
-      "category": "Podcast - TWiV",
-      "tags": [],
-      "access_restriction": "Public",
-      "registration_url": null,
-      "recording_url": null
-    },
     {
       "id": "29f8eccbe53b35b6",
       "title": "ENT Expert Up Close: Latest Advances in Rhinoplasty and Sinus Surgery",
@@ -384,7 +367,7 @@
     {
       "id": "1d8fa063ad06e610",
       "title": "TWiV 1354: Clinical update with Dr. Daniel Griffin",
-      "description": "[Podcast: This Week in Virology]\n\nIn his weekly clinical update, Daniel Griffin and Vincent Racaniello remember Dolly Parton and her patronage of science, especially development of the COVID-19 vaccines, if the shingles vaccine protect against cardiovascular events as well as dementia, the continued national cyclosporiasis and screwworm outbreaks, size of the Ebola outbreak in the Congo, the death of 2 children in Pennsylvania from measles and the economic cost of the measles outbreak, before Dr. Griffin deep dives into how to determine the case fatality rate of measles as well as measles outbreaks, recent statistics RSV, influenza, SARS-CoV-2 infections, approval of new mRNA COVID-19 vaccines by the FDA, access and how pay for Paxlovid, where to go for answers about long COVID-19, clinical guidelines for treating long COVID, B-cells-autoimmunity- long COVID, enrolling in a long COVID trial and the use of the COVID antiviral drug to \u201csop up\u201d chronic virus shedding and contacting your federal government representative to stop the assault on science and biomedical research. Click arrow to play Download&nbsp; TWiV 1354 (39 MB .mp3, 65 min) Subscribe (free):&nbsp; Apple Podcasts , RSS ,&nbsp; email Become a&nbsp; patron &nbsp;of&nbsp;TWiV! Links for this episode Dolly Parton adapts her song Jolene as she receives Covid-19 vaccine she helped fund (YouTube) 5:29 Dolly Parton\u2019s major contributions to vaccines and public health (the bmj) 5:29 Recombinant shingles vaccination and the risk of cardiovascular events (Nat",
+      "description": "[Podcast: This Week in Virology]\n\nIn his weekly clinical update, Daniel Griffin and Vincent Racaniello remember Dolly Parton and her patronage of science, especially development of the COVID-19 vaccines, if the shingles vaccine protect against cardiovascular events as well as dementia, the continued national cyclosporiasis and screwworm outbreaks, size of the Ebola outbreak in the Congo, the death of 2 children in Pennsylvania from measles and the economic cost of the measles outbreak, before Dr. Griffin deep dives into how to determine the case fatality rate of measles as well as measles outbreaks, recent statistics RSV, influenza, SARS-CoV-2 infections, approval of new mRNA COVID-19 vaccines by the FDA, access and how pay for Paxlovid, where to go for answers about long COVID-19, clinical guidelines for treating long COVID, B-cells-autoimmunity- long COVID, enrolling in a long COVID trial and the use of the COVID antiviral drug to \u201csop up\u201d chronic virus shedding and contacting your federal government representative to stop the assault on science and biomedical research. Click arrow to play Download&nbsp; TWiV 1354 (39 MB .mp3, 65 min) Subscribe (free):&nbsp; Apple Podcasts , RSS ,&nbsp; email Become a&nbsp; patron &nbsp;of&nbsp;TWiV! Links for this episode Dolly Parton adapts her song Jolene as she receives Covid-19 vaccine she helped fund (YouTube) Dolly Parton\u2019s major contributions to vaccines and public health (the bmj) Recombinant shingles vaccination and the risk of cardiovascular events (Nature Medici",
       "url": "https://www.microbe.tv/twiv/twiv-1354/",
       "start_datetime": "2026-09-05T18:45:41",
       "end_datetime": null,
@@ -478,6 +461,23 @@
       "organizer": null,
       "source": "iasusa_webinars",
       "category": "IAS-USA",
+      "tags": [],
+      "access_restriction": "Public",
+      "registration_url": null,
+      "recording_url": null
+    },
+    {
+      "id": "d64135ffca93d790",
+      "title": "WHO Health Emergencies EPI-WIN webinar: Strengthening pandemic preparedness: from investment to implementation and impact",
+      "description": "Pandemic prevention, preparedness and response (PPR) requires sustained investment to build and maintain the capacities needed to detect, prevent and respond to health emergencies. This webinar will explore practical experiences from country and regional initiatives, highlighting lessons learned on translating investments into stronger preparedness systems and more resilient health security capacities.",
+      "url": "https://www.who.int/news-room/events/detail/2026/09/16/default-calendar/who-health-emergencies-epi-win-webinar-strengthening-pandemic-preparedness-from-investment-to-implementation-and-impact",
+      "start_datetime": "2026-09-16T11:30:00",
+      "end_datetime": "2026-09-16T12:30:00",
+      "timezone": "UTC",
+      "location": "Online/Geneva",
+      "organizer": "World Health Organization",
+      "source": "who_events",
+      "category": "WHO",
       "tags": [],
       "access_restriction": "Public",
       "registration_url": null,
@@ -767,6 +767,23 @@
       "organizer": "World Health Organization",
       "source": "who_events",
       "category": "WHO",
+      "tags": [],
+      "access_restriction": "Public",
+      "registration_url": null,
+      "recording_url": null
+    },
+    {
+      "id": "c0af5815646a5849",
+      "title": "CFAR Health Access SWG Webinar with Dr. Russell Brewer",
+      "description": "Event interval: Single day event\nOnline Meeting Link: https://washington.zoom.us/meeting/register/yYrrRSnOQACbkGzySPUUww\nAccessibility Contact: g0201@uw.edu\nEvent Types: Lectures/Seminars\n\nSpeaker: Russell Brewer\nTalk Title: Building Responsive Academic-Community Partnerships for Integrated HIV Service Delivery: Lessons from Chicago\u2019s STRIVE Initiative\nBio: Russell Brewer, DrPH, is a Research Professor in the Department of Medicine at the University of Chicago (UC) and Director of Community-Engaged Research, Capacity Building, and Southern Initiatives at the Chicago Center for HIV Elimination (CCHE). He also serves as Co-Director of the Behavioral, Social, and Implementation Sciences Core of the Third Coast Center for AIDS Research (TC-CFAR). For more than two decades, Dr. Brewer has led public health research and practice initiatives across academic institutions, nonprofit organizations, governmental public health agencies, and philanthropy. His expertise spans community-engaged and implementation research, organizational capacity building, program development and implementation, and mixed-methods evaluation. Since 2022, Dr. Brewer has worked closely with frontline community-based organizations in Chicago to strengthen organizational infrastructure and build capacity to implement and sustain integrated HIV, mental health, substance use, and other wraparound services. He also has a longstanding program of research focused on communities impacted by the criminal legal system in Chicago and the Southern United States. His work brings together correctional systems, community-based organizations, public health partners, and other key stakeholders to identify and address barriers to care, strengthen cross-sector partnerships and service delivery systems, and improve access to HIV services during and following incarceration. From 2011 to 2017, he led the HIV/STI Portfolio at the Louisiana Public Health Institute in New Orleans, where he directed initiatives designed to im",
+      "url": "https://washington.zoom.us/meeting/register/yYrrRSnOQACbkGzySPUUww",
+      "start_datetime": "2026-10-07T18:00:00",
+      "end_datetime": "2026-10-07T19:00:00",
+      "timezone": "America/Los_Angeles",
+      "location": "Online",
+      "organizer": null,
+      "source": "uw_cfar",
+      "category": "Fred Hutch Center for AIDS Research (CFAR)",
       "tags": [],
       "access_restriction": "Public",
       "registration_url": null,
