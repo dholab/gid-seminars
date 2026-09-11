@@ -2,12 +2,12 @@
   "metadata": {
     "title": "GID Seminars Feed",
     "description": "Aggregated seminars and webinars for Global Infectious Disease research",
-    "generated_at": "2026-09-10T06:15:06.188624Z",
+    "generated_at": "2026-09-11T06:14:17.740024Z",
     "time_window": {
       "days_behind": 30,
       "days_ahead": 30
     },
-    "total_events": 49,
+    "total_events": 48,
     "sources": [
       "astmh_events",
       "avac_events",
@@ -58,23 +58,6 @@
     ]
   },
   "events": [
-    {
-      "id": "29f8eccbe53b35b6",
-      "title": "ENT Expert Up Close: Latest Advances in Rhinoplasty and Sinus Surgery",
-      "description": "OverviewThis session will explore advanced surgical techniques and decision-making strategies in rhinoplasty that address both aesthetic goals and functional nasal airflow, while also examining the complexities of different types of sinusitis and the role of surgery as a definitive treatment option within appropriate patient care pathways. The activity will highlight how structural and preservation approaches can be tailored to optimize form and function, including in complex and revision cases, and will emphasize evidence-based technique and thoughtful preoperative planning to improve surgical outcomes and patient satisfaction.\n\nRegistrationRegistration for all practitioners - free\n\nTo register for this activity, please click HERE.\n\nCreditsAMA PRA Category 1 Credits\u2122 (1.00 hours), Non-Physician Participation Credit (1.00 hours)\n\nTarget AudienceSpecialties - Allergy, Immunology, and Rheumatology, Otolaryngology (ENT)Professions - Non-Physician, Physician ObjectivesAt the conclusion of this activity, learners should be able to:\n1. Describe structural and preservation techniques that support both function and aesthetics in rhinoplasty.\n2. Identify key preoperative factors that influence airway outcomes and revision risk.\n3. Name different underlying factors that can lead to chronic sinusitis\n4. Review why some surgeries fail and others resolve chronic sinusitis symptoms\n\nAccreditationIn support of improving patient care, Stanford Medicine is jointly accredited by the Accreditation Council for Continuing Medical Education (ACCME), the Accreditation Council for Pharmacy Education (ACPE), and the American Nurses Credentialing Center (ANCC), to provide continuing education for the healthcare team. \n \nCredit Designation \nAmerican Medical Association (AMA) \nStanford Medicine designates this Live Activity for a maximum of 1.00 AMA PRA Category 1 CreditsTM.  Physicians should claim only the credit commensurate with the extent of their participation in the activity.",
-      "url": "https://events.stanford.edu/event/ent-expert-up-close-latest-advances-in-rhinoplasty-and-sinus-surgery",
-      "start_datetime": "2026-08-11T19:00:00",
-      "end_datetime": "2026-08-11T20:00:00",
-      "timezone": "America/Los_Angeles",
-      "location": "Online",
-      "organizer": null,
-      "source": "stanford_virtual",
-      "category": "Class/Seminar",
-      "tags": [],
-      "access_restriction": "Public",
-      "registration_url": null,
-      "recording_url": null
-    },
     {
       "id": "fe44f096babe9257",
       "title": "TWiV 1348: Clinical update with Dr. Daniel Griffin",
