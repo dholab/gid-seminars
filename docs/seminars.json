@@ -2,12 +2,12 @@
   "metadata": {
     "title": "GID Seminars Feed",
     "description": "Aggregated seminars and webinars for Global Infectious Disease research",
-    "generated_at": "2026-09-11T06:14:17.740024Z",
+    "generated_at": "2026-09-12T06:14:27.062053Z",
     "time_window": {
       "days_behind": 30,
       "days_ahead": 30
     },
-    "total_events": 48,
+    "total_events": 50,
     "sources": [
       "astmh_events",
       "avac_events",
@@ -246,6 +246,23 @@
       "recording_url": null
     },
     {
+      "id": "fa966b8fd48fb677",
+      "title": "Options XIII Mini-School and ECR Events",
+      "description": "TheISRV Options XIII Mini-Schooltook place in Washington, DC on29 August 2026, bringing together Early Career Researchers (ECRs) from around the world for a day of learning, discussion and connection ahead of Options XIII.",
+      "url": "https://www.isrv.global/events-calendar/options-xiii-mini-school-and-ecr-events/",
+      "start_datetime": "2026-08-29T00:00:00",
+      "end_datetime": null,
+      "timezone": "UTC",
+      "location": null,
+      "organizer": "ISRV",
+      "source": "isrv_events",
+      "category": "ISRV",
+      "tags": [],
+      "access_restriction": "Public",
+      "registration_url": null,
+      "recording_url": null
+    },
+    {
       "id": "a54b3a12402c0c43",
       "title": "TWiV 1352: Clinical update with Dr. Daniel Griffin",
       "description": "[Podcast: This Week in Virology]\n\nIn his weekly clinical update, Daniel Griffin and Vincent Racaniello are disheartened by the suggested change in federal vaccine recommendations, how Florida rolled back 4 childhood vaccine school requirements, results from a clinical trial suggesting that IPV can be used for outbreak control in IPV only countries, the continued national cyclosporiasis and screwworm outbreaks, size of the Ebola outbreak in the Congo, the death of 2 children in Pennsylvania from measles and the economic cost of the measles outbreak before Dr. Griffin deep dives into the use of monoclonal antibodies and remdesivir to treat Bundibugyo virus infection, measles outbreak, recent statistics RSV, influenza, SARS-CoV-2 infections, access and how pay for Paxlovid, , where to go for answers about long COVID-19, clinical guidelines for treating long COVID, and contacting your federal government representative to stop the assault on science and biomedical research. Click arrow to play Download&nbsp; TWiV 1352 (24 MB .mp3, 49 min) Subscribe (free):&nbsp; Apple Podcasts , RSS ,&nbsp; email Become a&nbsp; patron &nbsp;of&nbsp;TWiV! Links for this episode Request for Information: Categories Used in Federal Vaccine Recommendations and the Role of Shared Clinical Decision-Making (Federal Register) 2:32 HHS Seeks Public Input on Federal Vaccine Recommendation Categories and Shared Clinical Decision-Making (US Department of Health and Human Services) 2:32 HPV Vaccination and Risk of Head and Neck Cancers: A Large",
@@ -410,6 +427,23 @@
       "organizer": null,
       "source": "ucsf_qbi_pasteur",
       "category": "University - UCSF",
+      "tags": [],
+      "access_restriction": "Public",
+      "registration_url": null,
+      "recording_url": null
+    },
+    {
+      "id": "dadfdaf972a1fd14",
+      "title": "TWiV 1356: Clinical update with Dr. Daniel Griffin",
+      "description": "[Podcast: This Week in Virology]\n\nIn his weekly clinical update, Daniel Griffin and Vincent Racaniello delve into dengue virus infections in Florida, recent human rabies infections in the US, proposed changes in biomedical funding including \u201cconverting\u201d the Department of War into NIAID, the continuing controversy over the deaths of 2 children in Pennsylvania from measles, before Dr. Griffin deep dives into recent statistics RSV, influenza, SARS-CoV-2 infections, approval of new mRNA COVID-19 vaccines by the FDA, and contacting your federal government representative to stop the assault on science and biomedical research. Click arrow to play Download TWiV 1356 (29 MB .mp3, 47 min) Subscribe (free): Apple Podcasts , RSS , email Become a&nbsp; patron &nbsp;of&nbsp;TWiV! Links for this episode Dengue in Florida : Florida Arbovirus Surveillance (Florida Health) Nationwide Increase in Reported Human Rabies Exposures: Rabies Post-exposure Prophylaxis Administration (CDC: Health Alert Network) NIH proposes major revamp of how it scores research grant proposals (Nature) Revealed: inside the US military\u2019s plan to tap huge sums from the NIH (Nature) Vaccination Coverage Among Adolescents Aged 13\u201317 Years \u2014 National Immunization Survey-Teen, United States, 2025 (CDC:MMWR) Dashboard SCREWWORM.Gov (USDA: Animal and Plant Health Inspection Service) CDC Activates Emergency Operations Center for New World Screwworm Response (CDC Newroom) Ebola dashboard (ebola.fyi) EBOLA: The Democratic Republic of the Congo, 2026 (WHO) Bundib",
+      "url": "https://www.microbe.tv/twiv/twiv-1356/",
+      "start_datetime": "2026-09-12T04:00:00",
+      "end_datetime": null,
+      "timezone": "UTC",
+      "location": "Podcast",
+      "organizer": "This Week in Virology",
+      "source": "twiv_podcast",
+      "category": "Podcast - TWiV",
       "tags": [],
       "access_restriction": "Public",
       "registration_url": null,
