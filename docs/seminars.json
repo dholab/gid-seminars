@@ -2,12 +2,12 @@
   "metadata": {
     "title": "GID Seminars Feed",
     "description": "Aggregated seminars and webinars for Global Infectious Disease research",
-    "generated_at": "2026-09-12T06:14:27.062053Z",
+    "generated_at": "2026-09-13T06:17:10.013994Z",
     "time_window": {
       "days_behind": 30,
       "days_ahead": 30
     },
-    "total_events": 50,
+    "total_events": 51,
     "sources": [
       "astmh_events",
       "avac_events",
@@ -438,6 +438,23 @@
       "description": "[Podcast: This Week in Virology]\n\nIn his weekly clinical update, Daniel Griffin and Vincent Racaniello delve into dengue virus infections in Florida, recent human rabies infections in the US, proposed changes in biomedical funding including \u201cconverting\u201d the Department of War into NIAID, the continuing controversy over the deaths of 2 children in Pennsylvania from measles, before Dr. Griffin deep dives into recent statistics RSV, influenza, SARS-CoV-2 infections, approval of new mRNA COVID-19 vaccines by the FDA, and contacting your federal government representative to stop the assault on science and biomedical research. Click arrow to play Download TWiV 1356 (29 MB .mp3, 47 min) Subscribe (free): Apple Podcasts , RSS , email Become a&nbsp; patron &nbsp;of&nbsp;TWiV! Links for this episode Dengue in Florida : Florida Arbovirus Surveillance (Florida Health) Nationwide Increase in Reported Human Rabies Exposures: Rabies Post-exposure Prophylaxis Administration (CDC: Health Alert Network) NIH proposes major revamp of how it scores research grant proposals (Nature) Revealed: inside the US military\u2019s plan to tap huge sums from the NIH (Nature) Vaccination Coverage Among Adolescents Aged 13\u201317 Years \u2014 National Immunization Survey-Teen, United States, 2025 (CDC:MMWR) Dashboard SCREWWORM.Gov (USDA: Animal and Plant Health Inspection Service) CDC Activates Emergency Operations Center for New World Screwworm Response (CDC Newroom) Ebola dashboard (ebola.fyi) EBOLA: The Democratic Republic of the Congo, 2026 (WHO) Bundib",
       "url": "https://www.microbe.tv/twiv/twiv-1356/",
       "start_datetime": "2026-09-12T04:00:00",
+      "end_datetime": null,
+      "timezone": "UTC",
+      "location": "Podcast",
+      "organizer": "This Week in Virology",
+      "source": "twiv_podcast",
+      "category": "Podcast - TWiV",
+      "tags": [],
+      "access_restriction": "Public",
+      "registration_url": null,
+      "recording_url": null
+    },
+    {
+      "id": "8b461721a6b6040c",
+      "title": "TWiV 1357: Furin, Naturally with Paul Bieinasz",
+      "description": "[Podcast: This Week in Virology]\n\nPaul Bieniasz joins TWiV to discuss his lab&#8217;s discovery that the coronavirus nuclease NSP15 cuts viral RNA into oligonucleotides that are reinserted elsewhere in the viral RNA, generating insertion mutations at a frequency above 10\u207b\u00b3 per genome, including new furin cleavage sites at the spike S1/S2 junction. Hosts: Vincent Racaniello , Alan Dove , and Kathy Spindler Click arrow to play Download TWiV 1357 (63 MB .mp3, 104 min) Subscribe (free): Apple Podcasts , RSS , email Become a&nbsp; patron &nbsp;of&nbsp;TWiV! Links for this episode Support science education at MicrobeTV Genetic innovation in coronaviruses driven by a viral nuclease (bioRxiv) Letters read on TWiV 1357 Timestamps by&nbsp; Jolene Ramsey. Thanks! Picks of the Week Kathy &#8211; Jurassic Museum of Asturias Alan &#8211; Grand Central Winter , by Lee Stringer Vincent &#8211; How to Choose REAL Extra Virgin Olive Oil: A Practical Guide and How to Tell if Your Olive Oil is Fake! Quick Kitchen Tip! Listener Pick Shirley &#8211; I Told You So ! by Matt Kaplan Intro music is by&nbsp; Ronald Jenkees Send your virology questions and comments to twiv@microbe.tv Content in this podcast should not be construed as medical advice. The post TWiV 1357: Furin, Naturally with Paul Bieinasz first appeared on This Week in Virology .",
+      "url": "https://www.microbe.tv/twiv/twiv-1357/",
+      "start_datetime": "2026-09-13T04:00:00",
       "end_datetime": null,
       "timezone": "UTC",
       "location": "Podcast",
