@@ -2,7 +2,7 @@
   "metadata": {
     "title": "GID Seminars Feed",
     "description": "Aggregated seminars and webinars for Global Infectious Disease research",
-    "generated_at": "2026-09-13T06:17:10.013994Z",
+    "generated_at": "2026-09-14T06:19:19.675065Z",
     "time_window": {
       "days_behind": 30,
       "days_ahead": 30
@@ -58,23 +58,6 @@
     ]
   },
   "events": [
-    {
-      "id": "fe44f096babe9257",
-      "title": "TWiV 1348: Clinical update with Dr. Daniel Griffin",
-      "description": "[Podcast: This Week in Virology]\n\nIn his weekly clinical update, Daniel Griffin and Vincent Racaniello are troubled by the latest executive order changing routine childhood vaccine recommendations, the call for nominations to join the Advisory Committee for Immunization Practices, West Nile virus transmission in South Carolina, a newly identified midge-transmitted virus sickening cattle, and development of a cold-chain free DPT vaccine, the national cyclospora and screwworm outbreaks,new screwworm and genomics of Ebola outbreak in the Congo, and use of a mismatch vaccine to combat the Bundibugyo virus outbreak before Dr. Griffin deep dives into the measles outbreak, recent statistics on RSV, influenza and SARS-CoV-2 infections, the Wasterwater Scan dashboard, Johns Hopkins measles tracker, how to access and pay for Paxlovid, where to go for answers about long COVID-19, clinical guidelines for treating long COVID, and contacting your federal government representative to stop the assault on science and biomedical research. Click arrow to play Download&nbsp; TWiV 1348 (33 MB .mp3, 55 min) Subscribe (free):&nbsp; Apple Podcasts , RSS ,&nbsp; email Become a&nbsp; patron &nbsp;of&nbsp;TWiV! Links for this episode DELIVERING GOLD STANDARD CHILDHOOD VACCINE RECOMMENDATIONS FOR AMERICANS (Whitehouse) 1:57 Trump signed an executive order calling for fewer childhood vaccines (NY Times) 8:47 CIDRAP Op-Ed: What the vaccine executive order gets wrong , and what it will cost us (CIDRAP) New CDC director faces first major te",
-      "url": "https://www.microbe.tv/twiv/twiv-1348/",
-      "start_datetime": "2026-08-15T04:00:00",
-      "end_datetime": null,
-      "timezone": "UTC",
-      "location": "Podcast",
-      "organizer": "This Week in Virology",
-      "source": "twiv_podcast",
-      "category": "Podcast - TWiV",
-      "tags": [],
-      "access_restriction": "Public",
-      "registration_url": null,
-      "recording_url": null
-    },
     {
       "id": "86af271ffb103773",
       "title": "TWiV 1349: Smallpox and mummies",
@@ -920,6 +903,23 @@
       "organizer": null,
       "source": "uw_cfar",
       "category": "Fred Hutch Center for AIDS Research (CFAR)",
+      "tags": [],
+      "access_restriction": "Public",
+      "registration_url": null,
+      "recording_url": null
+    },
+    {
+      "id": "b9ebb7767a4439c8",
+      "title": "IUSTI Prague 2026 Congress",
+      "description": null,
+      "url": "https://avac.org/event/iusti-prague-2026-congress/",
+      "start_datetime": "2026-10-14T00:00:00",
+      "end_datetime": null,
+      "timezone": "America/New_York",
+      "location": null,
+      "organizer": "AVAC",
+      "source": "avac_events",
+      "category": "AVAC",
       "tags": [],
       "access_restriction": "Public",
       "registration_url": null,
