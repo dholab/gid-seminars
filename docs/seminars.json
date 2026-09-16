@@ -2,12 +2,12 @@
   "metadata": {
     "title": "GID Seminars Feed",
     "description": "Aggregated seminars and webinars for Global Infectious Disease research",
-    "generated_at": "2026-09-15T06:14:50.609374Z",
+    "generated_at": "2026-09-16T06:15:13.098663Z",
     "time_window": {
       "days_behind": 30,
       "days_ahead": 30
     },
-    "total_events": 50,
+    "total_events": 51,
     "sources": [
       "astmh_events",
       "avac_events",
@@ -58,23 +58,6 @@
     ]
   },
   "events": [
-    {
-      "id": "0bfaec84c5e7cefe",
-      "title": "19th International Course on Dengue, Oropouche and Other Emerging Arboviruses",
-      "description": null,
-      "url": "https://www.astmh.org/news-events/events-calendar/19th-international-course-on-dengue,-oropouche-and",
-      "start_datetime": "2026-08-17T00:00:00",
-      "end_datetime": "2026-08-28T00:00:00",
-      "timezone": "America/New_York",
-      "location": "La Habana, Cuba",
-      "organizer": "ASTMH",
-      "source": "astmh_events",
-      "category": "ASTMH",
-      "tags": [],
-      "access_restriction": "Public",
-      "registration_url": null,
-      "recording_url": null
-    },
     {
       "id": "22ac5c4cf41dd513",
       "title": "Chemical Biology Supergroup: Debasis Das",
@@ -433,11 +416,11 @@
       "recording_url": null
     },
     {
-      "id": "98af1e99eed09899",
-      "title": "Herpes Simplex Virus and Varicella Zoster Virus in People With HIV: Prevention and Treatment Strategies",
+      "id": "4daf6273c3522895",
+      "title": "Register for the Webinar",
       "description": null,
       "url": "https://www.iasusa.org/events/webinar-2026-celum/",
-      "start_datetime": "2026-09-15T11:00:00",
+      "start_datetime": "2026-09-14T00:00:00",
       "end_datetime": null,
       "timezone": "America/Los_Angeles",
       "location": "Online",
@@ -892,6 +875,23 @@
       "recording_url": null
     },
     {
+      "id": "2bffbc35a31244ac",
+      "title": "Books, Bonds, and Bereavement: Helping Siblings Process Loss",
+      "description": "OverviewThis activity explores the experiences and often-overlooked needs of siblings of children with serious illness or medical complexity. Faculty will discuss the emotional, social, and developmental impacts of caregiving, illness, and bereavement on siblings and share practical strategies for supporting them as part of comprehensive family-centered care. The session will also introduce bibliotherapy as an evidence-informed approach to help siblings process grief, normalize emotions, and develop healthy coping skills through guided storytelling and discussion.\n\nRegistrationRegistration for all practitioners - free\n\nTo register for this activity, please click HERE.\n\nCreditsAMA PRA Category 1 Credits\u2122 (1.00 hours), ACPE Contact Hours (1.00 hours), ANCC Contact Hours (1.00 hours), APA Continuing Education credits (1.00 hours), ASWB Continuing Education (ACE) credits (1.00 hours), CDR Continuing Professional Education Units (1.00 hours), Non-Physician Participation Credit (1.00 hours), Occupational Therapy Contact Hours (1.00 hours), Physical Therapy Contact Hours (1.00 hours)\n\nTarget AudienceSpecialties - Adolescent Medicine, Allergy, Immunology, & Rheumatology, Anesthesiology, Cardiovascular Health, Critical Care & Pulmonology, Emergency Medicine & Trauma, Hematology, Internal Medicine, Neonatology, Nephrology, Neurology, Oncology, Pediatrics, Psychiatry & Behavioral Sciences, SurgeryProfessions - Fellow/Resident, Non-Physician, Nurse, Occupational Therapist, Pharmacist, Physician, Psychologist, Registered Dietitian, Registered Nurse (RN), Social Worker ObjectivesAt the conclusion of this activity, learners should be able to:\n1. Describe the emotional, social, and developmental impacts of serious illness and bereavement on siblings, including common challenges and unmet needs.\n2. Apply evidence-informed strategies to support siblings across settings by incorporating them into care conversations, validating their experiences, and coordinating with family, school, a",
+      "url": "https://events.stanford.edu/event/books-bonds-and-bereavement-helping-siblings-process-loss",
+      "start_datetime": "2026-10-08T23:00:00",
+      "end_datetime": "2026-10-09T00:00:00",
+      "timezone": "America/Los_Angeles",
+      "location": "Online",
+      "organizer": null,
+      "source": "stanford_virtual",
+      "category": "Class/Seminar",
+      "tags": [],
+      "access_restriction": "Public",
+      "registration_url": null,
+      "recording_url": null
+    },
+    {
       "id": "b9ebb7767a4439c8",
       "title": "IUSTI Prague 2026 Congress",
       "description": null,
@@ -903,6 +903,23 @@
       "organizer": "AVAC",
       "source": "avac_events",
       "category": "AVAC",
+      "tags": [],
+      "access_restriction": "Public",
+      "registration_url": null,
+      "recording_url": null
+    },
+    {
+      "id": "00ffad471ed2028d",
+      "title": "CFAR Health Access SWG: Language Justice",
+      "description": "Event interval: Single day event\nOnline Meeting Link: https://washington.zoom.us/meeting/register/K7Dkwt-2R82qj3ZKU18mCw\nAccessibility Contact: g0201@uw.edu\nEvent Types: Lectures/Seminars\n\nRegister here!: \nhttps://washington.zoom.us/meeting/register/K7Dkwt-2R82qj3ZKU18mCw\n\nTalk Title: Increasing Participation of Spanish Speakers with Limited English Proficiency (LEP) in HIV Clinical Research in the U.S.\n\nSpeakers:\nMichele Andrasik, PhD (she/her) is a clinical health psychologist working to build and enhance partnerships with priority communities in clinical research, with a focus on ongoing vaccine trials for HIV and TB. Dr. Andrasik works to address psychosocial and structural factors associated with HIV risk and STI disparities among priority communities. At the HIV Vaccine Trials Network (HVTN) she leads social, behavioral and implementation science efforts across the Network. Dr. Andrasik is an expert in Community-Based Participatory Research approaches, implicit bias, trauma-informed care, and Qualitative Research Methods. Prior to returning to graduate school, she worked as Director of AIDS services for a community-based organization with locations in the New York City boroughs of Brooklyn and Manhattan. Currently, Dr. Andrasik is the Director of Behavioral, Social, and Implementation Sciences at the Fred Hutchinson Cancer Center (Fred Hutch) HIV Vaccine Trials Network HVTN, Principal Staff Scientist in the Vaccine and infectious Disease Division at Fred Hutch, Affiliate Associate Professor in the Department of Global Health and Director of the Behavioral Innovations Core at the UW/Fred Hutch Center for AIDS Research.\n\nAlison Cardinal, PhD is a professor in the Writing Department at the University of Washington Tacoma whose scholarly and community-engaged work brings together literacy studies, sociolinguistics, and user-centered design to advance social justice for marginalized multilingual communities. Her current scholarship includes a book manuscript, Parti",
+      "url": "https://washington.zoom.us/meeting/register/K7Dkwt-2R82qj3ZKU18mCw",
+      "start_datetime": "2026-10-15T17:00:00",
+      "end_datetime": "2026-10-15T18:00:00",
+      "timezone": "America/Los_Angeles",
+      "location": "Online",
+      "organizer": null,
+      "source": "uw_cfar",
+      "category": "Fred Hutch Center for AIDS Research (CFAR)",
       "tags": [],
       "access_restriction": "Public",
       "registration_url": null,
