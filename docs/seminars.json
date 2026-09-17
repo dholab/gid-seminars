@@ -2,12 +2,12 @@
   "metadata": {
     "title": "GID Seminars Feed",
     "description": "Aggregated seminars and webinars for Global Infectious Disease research",
-    "generated_at": "2026-09-16T06:15:13.098663Z",
+    "generated_at": "2026-09-17T06:15:24.393665Z",
     "time_window": {
       "days_behind": 30,
       "days_ahead": 30
     },
-    "total_events": 51,
+    "total_events": 52,
     "sources": [
       "astmh_events",
       "avac_events",
@@ -450,23 +450,6 @@
       "recording_url": null
     },
     {
-      "id": "d64135ffca93d790",
-      "title": "WHO Health Emergencies EPI-WIN webinar: Strengthening pandemic preparedness: from investment to implementation and impact",
-      "description": "Pandemic prevention, preparedness and response (PPR) requires sustained investment to build and maintain the capacities needed to detect, prevent and respond to health emergencies. This webinar will explore practical experiences from country and regional initiatives, highlighting lessons learned on translating investments into stronger preparedness systems and more resilient health security capacities.",
-      "url": "https://www.who.int/news-room/events/detail/2026/09/16/default-calendar/who-health-emergencies-epi-win-webinar-strengthening-pandemic-preparedness-from-investment-to-implementation-and-impact",
-      "start_datetime": "2026-09-16T11:30:00",
-      "end_datetime": "2026-09-16T12:30:00",
-      "timezone": "UTC",
-      "location": "Online/Geneva",
-      "organizer": "World Health Organization",
-      "source": "who_events",
-      "category": "WHO",
-      "tags": [],
-      "access_restriction": "Public",
-      "registration_url": null,
-      "recording_url": null
-    },
-    {
       "id": "5a726dca2fd6a26e",
       "title": "Cyclospora cayetanensis: Reflections of a parasitologist",
       "description": null,
@@ -637,6 +620,23 @@
       "recording_url": null
     },
     {
+      "id": "4edcc9a0b6f5cc7a",
+      "title": "Plain Language as Scientific Accountability: How to Communicate Science Beyond Academic Audiences",
+      "description": "Event interval: Single day event\nOnline Meeting Link: https://washington.zoom.us/meeting/register/3X2MzkZcTaG8s9LIvG4CYg\nAccessibility Contact: mlouella@uw.edu\nEvent Types: Lectures/Seminars\nEvent sponsors: UW/Fred Hutch Center for AIDS Research (CFAR) and the Penn Center for AIDS Reserch (CFAR)\n\nTuesday, September 22, 2025\n10am Pacific / 1pm Eastern\nRegistration link: https://washington.zoom.us/meeting/register/3X2MzkZcTaG8s9LIvG4CYg\n\n--------------------------------------------------------------------------------\nHow well are we communicating science if the people we most need to reach cannot understand it?\nAnd how many opportunities do researchers miss when they cannot explain their work to someone outside their own field?\n\nThe UW/Fred Hutch Center for AIDS Research (CFAR) and the Penn Center for AIDS Research (CFAR) invite you to join us for a one-hour interactive workshop, Plain Language as Scientific Accountability: How to Communicate Science Beyond Academic Audiences.\n\nLed by Michael Louella of the UW/Fred Hutch CFAR Office of Community Engagement, the workshop draws on more than 25 years of experience working with researchers and communities to make complex HIV science understandable without losing what makes the science important.\n\nThis workshop brings our two CFAR communities together around a challenge we all share: how do we communicate complex science clearly and accurately to people who do not speak the specialized language of our field?\n\nResearchers are trained to communicate with other researchers. We write abstracts, manuscripts, grants, and presentations using language that works within our disciplines. But our science rarely stays within those boundaries.\n\nYou may need to explain your research to a colleague in another field who could become a collaborator. You may have three minutes with a potential funder. A journalist may call about your latest findings. A community partner or research participant may want to understand what your study actually",
+      "url": "https://washington.zoom.us/meeting/register/3X2MzkZcTaG8s9LIvG4CYg",
+      "start_datetime": "2026-09-22T17:00:00",
+      "end_datetime": "2026-09-22T18:30:00",
+      "timezone": "America/Los_Angeles",
+      "location": "Online",
+      "organizer": null,
+      "source": "uw_cfar",
+      "category": "Fred Hutch Center for AIDS Research (CFAR)",
+      "tags": [],
+      "access_restriction": "Public",
+      "registration_url": null,
+      "recording_url": null
+    },
+    {
       "id": "198f8cc9a8b9603c",
       "title": "Science-Based Strategies to Support Your Immune System",
       "description": "The immune system is a remarkably complex network of organs, cells, and chemical messengers that protects us from infection every day. Yet we're constantly bombarded with products, remedies, and online advice claiming to \"boost\" immunity. How can you tell what's supported by science and what's simply marketing?\n\nIn this noontime webinar, you'll learn how the immune system works, how it changes as we age, and what lifestyle habits truly support immune health. We'll separate fact from fiction as we examine the evidence behind nutrition, exercise, sleep, stress management, supplements, and other popular immune remedies.\n\nYou'll also discover why vaccines work differently from remedies that claim to \"boost\" immunity, how they train the immune system to recognize specific threats, and why vaccination remains one of the most effective tools for preventing serious infectious diseases.\n\nYou'll leave with practical, evidence-based strategies you can use right away and a clearer understanding of what really supports a healthy immune system.\n\nThis class will be recorded and a one-week link to the recording will be shared with all registered participants. \n\nTo receive incentive points, attend at least 80% of the live session or listen to the entire recording within one week.  \n\nRequest disability accommodations and access info.\n\nClass details are subject to change.",
@@ -705,12 +705,12 @@
       "recording_url": null
     },
     {
-      "id": "190b77a05212711a",
+      "id": "7e7601797d99bf96",
       "title": "WHO Information Meeting on the composition of influenza virus vaccines for use in the 2027 southern hemisphere influenza season",
       "description": null,
       "url": "https://www.who.int/news-room/events/detail/2026/09/25/default-calendar/who-information-meeting-on-the-composition-of-influenza-virus-vaccines-for-use-in-the-2027-southern-hemisphere-influenza-season",
-      "start_datetime": "2026-09-25T09:00:00",
-      "end_datetime": "2026-09-25T12:00:00",
+      "start_datetime": "2026-09-25T07:00:00",
+      "end_datetime": "2026-09-25T10:00:00",
       "timezone": "UTC",
       "location": "Online/Geneva",
       "organizer": "World Health Organization",
@@ -784,6 +784,23 @@
       "organizer": null,
       "source": "iasusa_webinars",
       "category": "IAS-USA",
+      "tags": [],
+      "access_restriction": "Public",
+      "registration_url": null,
+      "recording_url": null
+    },
+    {
+      "id": "bc67f95126cd40ea",
+      "title": "Combo bNAbs for HIV Prevention \u2013 Latest Developments",
+      "description": null,
+      "url": "https://avac.org/event/whats-next-bnabs/",
+      "start_datetime": "2026-09-30T00:00:00",
+      "end_datetime": null,
+      "timezone": "America/New_York",
+      "location": "Online",
+      "organizer": "AVAC",
+      "source": "avac_events",
+      "category": "AVAC",
       "tags": [],
       "access_restriction": "Public",
       "registration_url": null,
