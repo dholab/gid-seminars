@@ -2,12 +2,12 @@
   "metadata": {
     "title": "GID Seminars Feed",
     "description": "Aggregated seminars and webinars for Global Infectious Disease research",
-    "generated_at": "2026-09-17T06:15:24.393665Z",
+    "generated_at": "2026-09-18T06:16:30.755586Z",
     "time_window": {
       "days_behind": 30,
       "days_ahead": 30
     },
-    "total_events": 52,
+    "total_events": 51,
     "sources": [
       "astmh_events",
       "avac_events",
@@ -58,40 +58,6 @@
     ]
   },
   "events": [
-    {
-      "id": "22ac5c4cf41dd513",
-      "title": "Chemical Biology Supergroup: Debasis Das",
-      "description": "Speaker: Debasis Das (Indian Institute of Science)\nTalk Title: Harnessing Enzymatic Power for Bioenergy and Therapeutics\n\nDescription: Enzymes are nature's most efficient catalysts, capable of driving complex chemical transformations with remarkable speed and selectivity. Understanding how these biological catalysts function not only deepens our knowledge of fundamental biochemistry but also enables innovative solutions for challenges in sustainable manufacturing and human health. In this seminar, I will present our efforts to discover and engineer microbial enzymes for two distinct yet impactful applications: renewable hydrocarbon production and the treatment of biofilm-associated infections.\n\nThe first part focuses on UndB, a membrane-bound enzyme that catalyzes the conversion of fatty acids into terminal 1-alkenes\u2500valuable platform chemicals widely used in the production of polymers, lubricants, and detergents. Although UndB was discovered nearly a decade ago, its catalytic mechanism has remained largely elusive. Our studies establish that UndB is a diiron enzyme with a conserved histidine-coordinated active site and demonstrate that catalysis requires molecular oxygen together with electron-transfer partners. These mechanistic insights have guided the engineering of an efficient whole-cell biocatalyst capable of converting naturally abundant free fatty acids into medium-chain 1-alkenes with conversion efficiencies of up to 95%.\n\nThe second part highlights the discovery of microbial enzymes that target the extracellular matrix of bacterial biofilms, offering a promising strategy to combat antimicrobial-resistant infections. We identified an orphan enzyme from the cow rumen microbiome that rapidly disperses mature biofilms formed by clinical isolates of Klebsiella pneumoniae at low micromolar concentrations, thereby enhancing antibiotic susceptibility and promoting immune-mediated clearance in a murine wound infection model. We further discovered CRhAB, a biofilm-",
-      "url": "https://events.broadinstitute.org/event/chemical-biology-supergroup-debasis-das-5992",
-      "start_datetime": "2026-08-18T19:30:00",
-      "end_datetime": "2026-08-18T20:30:00",
-      "timezone": "America/New_York",
-      "location": "Zoom Webinar",
-      "organizer": null,
-      "source": "broad_institute",
-      "category": "University - Broad",
-      "tags": [],
-      "access_restriction": "Public",
-      "registration_url": null,
-      "recording_url": null
-    },
-    {
-      "id": "9647aec9992eba4b",
-      "title": "Chemical Biology Supergroup: Debasis Das",
-      "description": "Speaker: Debasis Das (Indian Institute of Science)\nTalk Title: Harnessing Enzymatic Power for Bioenergy and Therapeutics\n\nDescription: Enzymes are nature's most efficient catalysts, capable of driving complex chemical transformations with remarkable speed and selectivity. Understanding how these biological catalysts function not only deepens our knowledge of fundamental biochemistry but also enables innovative solutions for challenges in sustainable manufacturing and human health. In this seminar, I will present our efforts to discover and engineer microbial enzymes for two distinct yet impactful applications: renewable hydrocarbon production and the treatment of biofilm-associated infections.\n\nThe first part focuses on UndB, a membrane-bound enzyme that catalyzes the conversion of fatty acids into terminal 1-alkenes\u2500valuable platform chemicals widely used in the production of polymers, lubricants, and detergents. Although UndB was discovered nearly a decade ago, its catalytic mechanism has remained largely elusive. Our studies establish that UndB is a diiron enzyme with a conserved histidine-coordinated active site and demonstrate that catalysis requires molecular oxygen together with electron-transfer partners. These mechanistic insights have guided the engineering of an efficient whole-cell biocatalyst capable of converting naturally abundant free fatty acids into medium-chain 1-alkenes with conversion efficiencies of up to 95%.\n\nThe second part highlights the discovery of microbial enzymes that target the extracellular matrix of bacterial biofilms, offering a promising strategy to combat antimicrobial-resistant infections. We identified an orphan enzyme from the cow rumen microbiome that rapidly disperses mature biofilms formed by clinical isolates of Klebsiella pneumoniae at low micromolar concentrations, thereby enhancing antibiotic susceptibility and promoting immune-mediated clearance in a murine wound infection model. We further discovered CRhAB, a biofilm-",
-      "url": "https://events.broadinstitute.org/event/chemical-biology-supergroup-debasis-das",
-      "start_datetime": "2026-08-18T19:30:00",
-      "end_datetime": "2026-08-18T20:30:00",
-      "timezone": "America/New_York",
-      "location": "Online",
-      "organizer": null,
-      "source": "broad_institute",
-      "category": "Talks",
-      "tags": [],
-      "access_restriction": "Public",
-      "registration_url": null,
-      "recording_url": null
-    },
     {
       "id": "272db2aceab4119d",
       "title": "The Link Between Lifestyle and Cellular Aging",
@@ -587,7 +553,7 @@
     },
     {
       "id": "a72ae8d2c518c8ed",
-      "title": "Clinical Role of M184I/V in Current and Future HIV Management",
+      "title": "Clinical Relevance of M184I/V in Current and Future HIV Management",
       "description": null,
       "url": "https://www.iasusa.org/events/webinar-2026-muta/",
       "start_datetime": "2026-09-22T10:00:00",
@@ -801,6 +767,23 @@
       "organizer": "AVAC",
       "source": "avac_events",
       "category": "AVAC",
+      "tags": [],
+      "access_restriction": "Public",
+      "registration_url": null,
+      "recording_url": null
+    },
+    {
+      "id": "648fbe9cda8b0c21",
+      "title": "Global webinar: New vaccines in the future TB prevention landscape",
+      "description": "The TB Vaccine Accelerator Working Group on Country Readiness, Advocacy and Community Partnership is hosting a series of webinars in an effort to increase knowledge about new TB vaccines for adolescents and adults, and the role that they are envisaged to play in future efforts by countries to end TB. 2 sessions will be conducted, on 30 September 2026 at 5pm and on 1 October 2026 at 9am.",
+      "url": "https://www.who.int/news-room/events/detail/2026/09/30/default-calendar/global-webinar--new-vaccines-in-the-future-tb-prevention-landscape",
+      "start_datetime": "2026-09-30T15:00:00",
+      "end_datetime": "2026-10-01T08:30:00",
+      "timezone": "UTC",
+      "location": "Online/Geneva",
+      "organizer": "World Health Organization",
+      "source": "who_events",
+      "category": "WHO",
       "tags": [],
       "access_restriction": "Public",
       "registration_url": null,
