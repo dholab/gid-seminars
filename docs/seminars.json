@@ -2,12 +2,12 @@
   "metadata": {
     "title": "GID Seminars Feed",
     "description": "Aggregated seminars and webinars for Global Infectious Disease research",
-    "generated_at": "2026-09-20T06:13:29.110647Z",
+    "generated_at": "2026-09-21T06:19:43.919656Z",
     "time_window": {
       "days_behind": 30,
       "days_ahead": 30
     },
-    "total_events": 52,
+    "total_events": 49,
     "sources": [
       "astmh_events",
       "avac_events",
@@ -58,40 +58,6 @@
     ]
   },
   "events": [
-    {
-      "id": "ed5b242f346913d0",
-      "title": "From IV to Oral: What the COPAT Trial Tells Us",
-      "description": "[Podcast: Let's Talk ID] Duration: 1824\n\nMeet the newest voices behind Let\u2019s Talk ID . Infectious disease physicians Kelly Cawcutt, MD, MS, FACP, FIDSA, FCCM, FSHEA, and Nico Cortes-Penfield, MD, FACP, FIDSA, join the podcast as co-hosts for episodes focused on research published in IDSA journals. In their first episode, they speak with Joy Juskowich, MD, and Arif Sarwari, MBA, MD, MSC, authors of a Clinical Infectious Diseases study on early transition from IV to oral antibiotics and discuss its implications for clinical practice. The study: https://academic.oup.com/cid/article/82/4/e674/8384448",
-      "url": "https://www.buzzsprout.com/2019912/episodes/19682759-from-iv-to-oral-what-the-copat-trial-tells-us.mp3",
-      "start_datetime": "2026-08-22T00:00:00",
-      "end_datetime": null,
-      "timezone": "UTC",
-      "location": "Podcast",
-      "organizer": "Let's Talk ID",
-      "source": "idsa_podcast",
-      "category": "Podcast - IDSA",
-      "tags": [],
-      "access_restriction": "Public",
-      "registration_url": null,
-      "recording_url": null
-    },
-    {
-      "id": "48117986eda6a9d8",
-      "title": "TWiV 1350: Clinical update with Dr. Daniel Griffin",
-      "description": "[Podcast: This Week in Virology]\n\nIn his weekly clinical update, Daniel Griffin and Vincent Racaniello are perplexed by the state of global public health as malaria, cholera and other infectious diseases are spread by civil warfare, the lack of manpower at the CDC to implement Congressional health programs, the first cancer mRNA vaccine resulting from a Merck and Moderna collaboration, how cyclosporiasis and screwworm outbreaks continue, FDA approval of new drugs against screwworm and critical policy decisions to control the Ebola outbreak in the Congo, before Dr. Griffin deep dives into the measles outbreak, recent statistics on RSV, influenza, SARS-CoV-2 infections and the drop in vaccination rates in the US, how schools are the source of measles infection, how vaccines only prevent severe disease not transmission as trafficking of measles on vaccinated people begins to be acknowledged, to access and pay for Paxlovid, what to know about the mRNA flu vaccine, where to go for answers about long COVID-19, clinical guidelines for treating long COVID, three myths of respiratory disease and contacting your federal government representative to stop the assault on science and biomedical research. Click arrow to play Download&nbsp; TWiV 1350 (37 MB .mp3, 61 min) Subscribe (free):&nbsp; Apple Podcasts , RSS ,&nbsp; email Become a&nbsp; patron &nbsp;of&nbsp;TWiV! Links for this episode Myanmar\u2019s Civil War Pushes Infectious Disease Over Its Borders (NY Times) 1:52 Alzheimer\u2019s disease (AP News) US adult cigarette smokin",
-      "url": "https://www.microbe.tv/twiv/twiv-1350/",
-      "start_datetime": "2026-08-22T04:58:08",
-      "end_datetime": null,
-      "timezone": "UTC",
-      "location": "Podcast",
-      "organizer": "This Week in Virology",
-      "source": "twiv_podcast",
-      "category": "Podcast - TWiV",
-      "tags": [],
-      "access_restriction": "Public",
-      "registration_url": null,
-      "recording_url": null
-    },
     {
       "id": "3e826c370a2d7be6",
       "title": "TWiV 1351: Ebola Virus Brains and Contagious Catfish Cancers",
@@ -427,23 +393,6 @@
       "organizer": null,
       "source": "stanford_virtual",
       "category": "Lecture/Presentation/Talk",
-      "tags": [],
-      "access_restriction": "Public",
-      "registration_url": null,
-      "recording_url": null
-    },
-    {
-      "id": "9a3e933a0659836c",
-      "title": "2026 US Conference on HIV/AIDS (USCHA)",
-      "description": null,
-      "url": "https://avac.org/event/2026-us-conference-on-hiv-aids-uscha/",
-      "start_datetime": "2026-09-17T00:00:00",
-      "end_datetime": null,
-      "timezone": "America/New_York",
-      "location": null,
-      "organizer": "AVAC",
-      "source": "avac_events",
-      "category": "AVAC",
       "tags": [],
       "access_restriction": "Public",
       "registration_url": null,
