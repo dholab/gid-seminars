@@ -2,12 +2,12 @@
   "metadata": {
     "title": "GID Seminars Feed",
     "description": "Aggregated seminars and webinars for Global Infectious Disease research",
-    "generated_at": "2026-09-21T06:19:43.919656Z",
+    "generated_at": "2026-09-22T06:14:54.879547Z",
     "time_window": {
       "days_behind": 30,
       "days_ahead": 30
     },
-    "total_events": 49,
+    "total_events": 47,
     "sources": [
       "astmh_events",
       "avac_events",
@@ -58,23 +58,6 @@
     ]
   },
   "events": [
-    {
-      "id": "3e826c370a2d7be6",
-      "title": "TWiV 1351: Ebola Virus Brains and Contagious Catfish Cancers",
-      "description": "[Podcast: This Week in Virology]\n\nTWiV describes a human cerebral organoid model for Ebola virus persistence, and brown bullhead catfish melanoma, a novel transmissible cancer. Hosts:&nbsp; Vincent Racaniello , Alan Dove , and Rich Condit Click arrow to play Download TWiV 1351 (61 MB .mp3, 101 min) Subscribe (free):&nbsp; Apple Podcasts ,&nbsp; RSS ,&nbsp; email Become a&nbsp; patron &nbsp;of&nbsp;TWiV! Links for this episode Support science education at MicrobeTV 7:17 Revamp of how NIH scores research grant proposals (Nature) 7:54 Kansas BSL-4 lab faces more delays (Science) 18:53 Ebola virus persistence in a human cerebral organoid model (Nat Micro) 21:57 Hidden cost of immune privilege (Nat Micro) Transmissible melanoma of catfish (Nature) 51:00 Skin cancer spreads between catfish (Nature) Tasmania devil cancer vaccine (Nature) 54:54 Letters read on TWiV 1351 Timestamps by&nbsp; Jolene Ramsey. Thanks! Picks of the Week 1:29:09 Rich &#8211; The Faith of Beasts by James S.A. Corey Alan &#8211; Ingrained , by Callum Robinson Vincent &#8211; NYC&#8217;s 5 Broken Skyscrapers \u2014 Which One Dies First? Intro music is by&nbsp; Ronald Jenkees Send your virology questions and comments to twiv@microbe.tv Content in this podcast should not be construed as medical advice. The post TWiV 1351: Ebola Virus Brains and Contagious Catfish Cancers first appeared on This Week in Virology .",
-      "url": "https://www.microbe.tv/twiv/twiv-1351/",
-      "start_datetime": "2026-08-23T04:00:00",
-      "end_datetime": null,
-      "timezone": "UTC",
-      "location": "Podcast",
-      "organizer": "This Week in Virology",
-      "source": "twiv_podcast",
-      "category": "Podcast - TWiV",
-      "tags": [],
-      "access_restriction": "Public",
-      "registration_url": null,
-      "recording_url": null
-    },
     {
       "id": "bb6d102edce11ac3",
       "title": "Humanitarian Health Seminar Series",
@@ -331,23 +314,6 @@
       "recording_url": null
     },
     {
-      "id": "4daf6273c3522895",
-      "title": "Register for the Webinar",
-      "description": null,
-      "url": "https://www.iasusa.org/events/webinar-2026-celum/",
-      "start_datetime": "2026-09-14T00:00:00",
-      "end_datetime": null,
-      "timezone": "America/Los_Angeles",
-      "location": "Online",
-      "organizer": null,
-      "source": "iasusa_webinars",
-      "category": "IAS-USA",
-      "tags": [],
-      "access_restriction": "Public",
-      "registration_url": null,
-      "recording_url": null
-    },
-    {
       "id": "5bd59649593224e5",
       "title": "PhD Dissertation Defense: Eliel Akinbami",
       "description": "Title: Reading Enzyme Function from Sequence and Structure\n\nAbstract: Enzymes are among the most proficient catalysts known \u2013 the bacterial phosphatase PafA, for example, accelerates its reaction by roughly 1027-fold relative to the uncatalyzed reaction. Yet how a linear amino-acid sequence folds into a structure that achieves this, and how mutations to individual residues tune catalytic activity, is still only partly understood. High-throughput platforms such as HT-MEK now measure the catalytic consequences of thousands of mutations in parallel, but these functional data reveal what mutant changes activity, rarely how or why. Here I use PafA as a model system to close part of that gap through two complementary studies. \n\nInitial PafA experiments revealed that some mutations far from the active site (i.e D473V) had surprisingly large impacts on substrate specificity. Here, I explain this finding by acquiring high-resolution (1.6 \u00c5) cryo-EM structures that show PafA forms a tetrameric complex in which this distal residue is closer to the active site of the neighboring protomer. Combining structural and functional data further reveals D473V alters substrate specificity by changing the conformation of a substrate-contacting residue R164.\n\nSecond, I confront a neglected confounder present in many in vitro high-throughput measurements: misfolded proteins can dramatically distort measured kinetic constants, but most high-throughput assays do not test for or quantify misfolding. To address this, I developed deFOLD (Degradation Enabled Fraction folded of On-Bead Library Displays), a bead-based proteolysis assay that can quantify the misfolded fraction of thousands of variants at once, enabling corrected kinetic parameters and a direct, scalable readout of folding that most high-throughput methods lack.\n\nTogether, these two parts of my PhD connect high-throughput functional and structural data: deFOLD explains and corrects the kinetic distortions caused by misfolding, while ",
@@ -461,23 +427,6 @@
       "organizer": "This Week in Virology",
       "source": "twiv_podcast",
       "category": "Podcast - TWiV",
-      "tags": [],
-      "access_restriction": "Public",
-      "registration_url": null,
-      "recording_url": null
-    },
-    {
-      "id": "86494622f2be8728",
-      "title": "WHO Consultation on the composition of influenza virus vaccines for use in the 2027 southern hemisphere influenza season",
-      "description": "Twice each year, the World Health Organization (WHO) organizes consultations with an advisory group of experts to analyse influenza virus surveillance data generated by the WHO Global Influenza Surveillance and Response System (GISRS) and issues recommendations on the composition of the influenza vaccines for the following influenza season. These recommendations are used by national vaccine regulatory agencies and pharmaceutical companies to develop, produce and license influenza vaccines.",
-      "url": "https://www.who.int/news-room/events/detail/2026/09/21/default-calendar/who-consultation-on-the-composition-of-influenza-virus-vaccines-for-use-in-the-2027-southern-hemisphere-influenza-season",
-      "start_datetime": "2026-09-21T00:00:00",
-      "end_datetime": "2026-09-25T00:00:00",
-      "timezone": "UTC",
-      "location": "Online/Geneva",
-      "organizer": "World Health Organization",
-      "source": "who_events",
-      "category": "WHO",
       "tags": [],
       "access_restriction": "Public",
       "registration_url": null,
@@ -860,7 +809,7 @@
     {
       "id": "00ffad471ed2028d",
       "title": "CFAR Health Access SWG: Language Justice",
-      "description": "Event interval: Single day event\nOnline Meeting Link: https://washington.zoom.us/meeting/register/K7Dkwt-2R82qj3ZKU18mCw\nAccessibility Contact: g0201@uw.edu\nEvent Types: Lectures/Seminars\n\nRegister here!: \nhttps://washington.zoom.us/meeting/register/K7Dkwt-2R82qj3ZKU18mCw\n\nTalk Title: Increasing Participation of Spanish Speakers with Limited English Proficiency (LEP) in HIV Clinical Research in the U.S.\n\nSpeakers:\nMichele Andrasik, PhD (she/her) is a clinical health psychologist working to build and enhance partnerships with priority communities in clinical research, with a focus on ongoing vaccine trials for HIV and TB. Dr. Andrasik works to address psychosocial and structural factors associated with HIV risk and STI disparities among priority communities. At the HIV Vaccine Trials Network (HVTN) she leads social, behavioral and implementation science efforts across the Network. Dr. Andrasik is an expert in Community-Based Participatory Research approaches, implicit bias, trauma-informed care, and Qualitative Research Methods. Prior to returning to graduate school, she worked as Director of AIDS services for a community-based organization with locations in the New York City boroughs of Brooklyn and Manhattan. Currently, Dr. Andrasik is the Director of Behavioral, Social, and Implementation Sciences at the Fred Hutchinson Cancer Center (Fred Hutch) HIV Vaccine Trials Network HVTN, Principal Staff Scientist in the Vaccine and infectious Disease Division at Fred Hutch, Affiliate Associate Professor in the Department of Global Health and Director of the Behavioral Innovations Core at the UW/Fred Hutch Center for AIDS Research.\n\nAlison Cardinal, PhD is a professor in the Writing Department at the University of Washington Tacoma whose scholarly and community-engaged work brings together literacy studies, sociolinguistics, and user-centered design to advance social justice for marginalized multilingual communities. Her current scholarship includes a book manuscript, Parti",
+      "description": "Event interval: Single day event\nOnline Meeting Link: https://washington.zoom.us/meeting/register/K7Dkwt-2R82qj3ZKU18mCw\nAccessibility Contact: g0201@uw.edu\nEvent Types: Lectures/Seminars\n\nRegister here!: \nhttps://washington.zoom.us/meeting/register/K7Dkwt-2R82qj3ZKU18mCw\n\nTalk Title: Increasing Participation of Spanish Speakers with Limited English Proficiency (LEP) in HIV Clinical Research in the U.S.\n\nEvent Description:  Latinx individuals account for nearly 30% of new HIV infections in the United States yet comprise less than 12% of participants in HIV clinical trials. To evaluate the structural mechanisms underlying this disparity, a qualitative needs assessment was conducted evaluating barriers, language access practices, and institutional frameworks across clinical research sites (CRSs) in the country affiliated with the National Institute of Allergy and Infectious Diseases (NIAID)-funded networks, including the HIV Vaccine Trials Network (HVTN), HIV Prevention Trials Network (HPTN), and Adolescent Medicine Trials Network (ATN). This webinar will present the preliminary results of this research contrasting ideal federal aspirations\u2014such as the revised NIH Policy and Guidelines on the Inclusion of Women and Minorities as Subjects in Clinical Research of July 2025, the Food and Drug Administration (FDA) December 2025 Guidance on broadening eligibility criteria, and the statutory protections under Title VI of the Civil Rights Act\u2014against the operational field realities reported by CRS\u2019s research personnel.\n\nSpeakers:\nPedro Goicochea, MSc, MA is a public health independent researcher with decades of experience in communications, HIV prevention, clinical research, and community engagement across the United States and Latin America. Originally from Peru, he relocated to the U.S. in 2008 to contribute to the landmark iPrEx study\u2014the first clinical trial to demonstrate the efficacy of pre-exposure prophylaxis (PrEP) in preventing HIV among men and transgender women. ",
       "url": "https://washington.zoom.us/meeting/register/K7Dkwt-2R82qj3ZKU18mCw",
       "start_datetime": "2026-10-15T17:00:00",
       "end_datetime": "2026-10-15T18:00:00",
@@ -886,6 +835,23 @@
       "organizer": null,
       "source": "iasusa_webinars",
       "category": "IAS-USA",
+      "tags": [],
+      "access_restriction": "Public",
+      "registration_url": null,
+      "recording_url": null
+    },
+    {
+      "id": "06dc81fddc5d5b42",
+      "title": "Genetics Fall 2026 Colloquium",
+      "description": "Richard Bennett- Brown University. Candida the chameleon - genetic and epigenetic mechanisms of adaptation in a fungal pathogen\n\nCONTACT: mreck2@wisc.edu\n\nONLINE: https://uwmadison.zoom.us/j/91067379663",
+      "url": "https://uwmadison.zoom.us/j/91067379663",
+      "start_datetime": "2026-10-21T20:30:00",
+      "end_datetime": "2026-10-21T21:30:00",
+      "timezone": "America/Chicago",
+      "location": "1441 Genetics-Biotechnology Center Building  (Also offered online)",
+      "organizer": null,
+      "source": "uw_madison_seminars",
+      "category": "University - UW-Madison",
       "tags": [],
       "access_restriction": "Public",
       "registration_url": null,
