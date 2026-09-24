@@ -2,12 +2,12 @@
   "metadata": {
     "title": "GID Seminars Feed",
     "description": "Aggregated seminars and webinars for Global Infectious Disease research",
-    "generated_at": "2026-09-23T06:15:13.854373Z",
+    "generated_at": "2026-09-24T06:15:31.799627Z",
     "time_window": {
       "days_behind": 30,
       "days_ahead": 30
     },
-    "total_events": 47,
+    "total_events": 44,
     "sources": [
       "astmh_events",
       "avac_events",
@@ -58,23 +58,6 @@
     ]
   },
   "events": [
-    {
-      "id": "bb6d102edce11ac3",
-      "title": "Humanitarian Health Seminar Series",
-      "description": "The Center for Innovation in Global Health (CIGH) Humanitarian Health Series at Stanford University, convened jointly with the Consortium of Universities for Global Health (CUGH) and the Stanford Center for African Studies, continues its 2026 programming on critical humanitarian and global health crises. This 60-minute international panel brings together multidisciplinary experts to examine the escalating risk of food insecurity and famine in the Sahel and to identify concrete policy pathways for response.",
-      "url": "https://events.stanford.edu/event/humanitarian-health-seminar-series",
-      "start_datetime": "2026-08-24T19:00:00",
-      "end_datetime": "2026-08-24T20:00:00",
-      "timezone": "America/Los_Angeles",
-      "location": "Online",
-      "organizer": null,
-      "source": "stanford_virtual",
-      "category": "Class/Seminar",
-      "tags": [],
-      "access_restriction": "Public",
-      "registration_url": null,
-      "recording_url": null
-    },
     {
       "id": "6d3b55c44630097a",
       "title": "How to Reduce Your Environmental Toxic Exposures and Protect Your Family\u2019s Health",
@@ -501,23 +484,6 @@
       "recording_url": null
     },
     {
-      "id": "d3d06caac17d52d6",
-      "title": "Evolving Oral PrEP Guidance for Cis Women: What do we know, and what will it take?",
-      "description": null,
-      "url": "https://avac.org/event/evolving-oral-prep-guidance-for-cis-women/",
-      "start_datetime": "2026-09-23T00:00:00",
-      "end_datetime": null,
-      "timezone": "America/New_York",
-      "location": "Online",
-      "organizer": "AVAC",
-      "source": "avac_events",
-      "category": "AVAC",
-      "tags": [],
-      "access_restriction": "Public",
-      "registration_url": null,
-      "recording_url": null
-    },
-    {
       "id": "2cdc05203bd76cbc",
       "title": "Is artificial intelligence an aid or an adversary to the global health workforce?",
       "description": "Join this FREE webinar held by Royal College of General Practitioners (RCGP) in collaboration with the World Health Organisation (WHO). This webinar will examine how AI is influencing the skills required of health professionals, transforming workforce deployment and decision-making and shaping national and global health labour markets.",
@@ -781,23 +747,6 @@
       "end_datetime": null,
       "timezone": "America/New_York",
       "location": null,
-      "organizer": "AVAC",
-      "source": "avac_events",
-      "category": "AVAC",
-      "tags": [],
-      "access_restriction": "Public",
-      "registration_url": null,
-      "recording_url": null
-    },
-    {
-      "id": "92cfba4a59fd5dd3",
-      "title": "Reaching Key Populations with Long-Acting PrEP: The launch of the\u0003PrEP Power Demand Generation Toolkit",
-      "description": null,
-      "url": "https://avac.org/event/launch-prep-power-demand-generation-toolkit/",
-      "start_datetime": "2026-10-14T00:00:00",
-      "end_datetime": null,
-      "timezone": "America/New_York",
-      "location": "Online",
       "organizer": "AVAC",
       "source": "avac_events",
       "category": "AVAC",
