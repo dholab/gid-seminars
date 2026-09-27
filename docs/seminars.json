@@ -2,12 +2,12 @@
   "metadata": {
     "title": "GID Seminars Feed",
     "description": "Aggregated seminars and webinars for Global Infectious Disease research",
-    "generated_at": "2026-09-26T06:14:33.490717Z",
+    "generated_at": "2026-09-27T06:15:04.654641Z",
     "time_window": {
       "days_behind": 30,
       "days_ahead": 30
     },
-    "total_events": 42,
+    "total_events": 41,
     "sources": [
       "astmh_events",
       "avac_events",
@@ -58,23 +58,6 @@
     ]
   },
   "events": [
-    {
-      "id": "6d3b55c44630097a",
-      "title": "How to Reduce Your Environmental Toxic Exposures and Protect Your Family\u2019s Health",
-      "description": "Plastics and environmental toxins are everywhere \u2014 in our food packaging, cookware, personal care products, and even our drinking water. Emerging research links everyday chemical exposures, including microplastics, to hormonal disruption, inflammation, metabolic issues, and other serious health concerns. The good news is that small, informed changes can meaningfully reduce your exposure and support long-term well-being.\n\nIn this engaging webinar, you'll explore the science behind how these toxins enter our bodies and why they matter for your health. We'll focus on what the evidence actually says, so you can make confident, practical decisions rather than feeling overwhelmed by alarming headlines.\n\nKey takeaways include simple swaps for common household items and personal products, how to read labels and identify problematic ingredients, and a prioritized action plan so you know where your efforts will have the greatest impact. You'll leave with reference guides to use at home and in the store.\n\nThis class will be recorded and a one-week link to the recording will be shared with all registered participants.\n\nThis class qualifies for double points as part of our August promotion. To receive 4,000 points, attend at least 80% of the live session or watch the entire recording by 12 pm Pacific Time on August 31. You can still receive 2,000 points if you watch the recording after August 31 and before the expiration date.\n\nRequest disability accommodations and access info.\n\n\n\nClass details are subject to change.",
-      "url": "https://events.stanford.edu/event/how-to-reduce-your-environmental-toxic-exposures-and-protect-your-familys-health",
-      "start_datetime": "2026-08-27T19:00:00",
-      "end_datetime": "2026-08-27T20:00:00",
-      "timezone": "America/Los_Angeles",
-      "location": "Online",
-      "organizer": null,
-      "source": "stanford_virtual",
-      "category": "Class/Seminar",
-      "tags": [],
-      "access_restriction": "Public",
-      "registration_url": null,
-      "recording_url": null
-    },
     {
       "id": "fa966b8fd48fb677",
       "title": "Options XIII Mini-School and ECR Events",
