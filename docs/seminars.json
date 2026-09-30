@@ -2,7 +2,7 @@
   "metadata": {
     "title": "GID Seminars Feed",
     "description": "Aggregated seminars and webinars for Global Infectious Disease research",
-    "generated_at": "2026-09-29T06:15:26.913622Z",
+    "generated_at": "2026-09-30T06:16:07.995397Z",
     "time_window": {
       "days_behind": 30,
       "days_ahead": 30
@@ -58,23 +58,6 @@
     ]
   },
   "events": [
-    {
-      "id": "d7c4d3bda0af7ea9",
-      "title": "TWiV 1353: Phage bet-hedging and EBV antibodies",
-      "description": "[Podcast: This Week in Virology]\n\nTWiV explores how bacteriophages enable bet-hedge against bacterial immune defenses, and how transgenic mice engineered to produce human antibodies yielded potent anti-EBV candidates targeting gp350 and gp42, a promising step toward Epstein-Barr therapeutics. Hosts:&nbsp; Vincent Racaniello , Rich Condit , Brianne Barker, and Jolene Ramsey Click arrow to play Download TWiV 1353 (67 MB .mp3, 112 min) Subscribe (free):&nbsp; Apple Podcasts ,&nbsp; RSS ,&nbsp; email Become a&nbsp; patron &nbsp;of&nbsp;TWiV! Links for this episode Support science education at MicrobeTV 3:36 Dolly Parton , and advocate for science (Nature) 4:30 Phage bet-hedging (Nat Micro) 9:17 EBV monoclonal antibodies (Cell Rep Med) 40:22 Letters read on TWiV 1353 1:13:22 Timestamps by&nbsp; Jolene Ramsey. Thanks! Picks of the Week 1:34:26 Brianne &#8211; Did life on Earth emerge once or twice? Rich &#8211; Cassini Approaches Saturn ( Wiki on Cassini ) Jolene &#8211; Dolly Parton\u2019s rewrite of Jolene song for vaccines on CBS news ( Youtube ) Vincent &#8211; Thinking, Fast and Slow by Daniel Kahneman Listener Pick John &#8211; Dolly Parton Sings Vaccine, Vaccine Intro music is by&nbsp; Ronald Jenkees Send your virology questions and comments to twiv@microbe.tv Content in this podcast should not be construed as medical advice. The post TWiV 1353: Phage bet-hedging and EBV antibodies first appeared on This Week in Virology .",
-      "url": "https://www.microbe.tv/twiv/twiv-1353/",
-      "start_datetime": "2026-08-30T13:30:49",
-      "end_datetime": null,
-      "timezone": "UTC",
-      "location": "Podcast",
-      "organizer": "This Week in Virology",
-      "source": "twiv_podcast",
-      "category": "Podcast - TWiV",
-      "tags": [],
-      "access_restriction": "Public",
-      "registration_url": null,
-      "recording_url": null
-    },
     {
       "id": "8e4347ea97ed78b3",
       "title": "ECR Lunchtime Workshop \u2013 Options XIII",
@@ -416,6 +399,23 @@
       "recording_url": null
     },
     {
+      "id": "1f5d9ce563281c7b",
+      "title": "Register for the Webinar",
+      "description": null,
+      "url": "https://www.iasusa.org/events/webinar-2026-holroyd/",
+      "start_datetime": "2026-09-29T00:00:00",
+      "end_datetime": null,
+      "timezone": "America/Los_Angeles",
+      "location": "Online",
+      "organizer": null,
+      "source": "iasusa_webinars",
+      "category": "IAS-USA",
+      "tags": [],
+      "access_restriction": "Public",
+      "registration_url": null,
+      "recording_url": null
+    },
+    {
       "id": "8a72a140e67da22b",
       "title": "WHO Webinar \u2013 Establishing National RSV Surveillance and Building Burden of Disease Evidence for Public Health Action \u2013 Experiences from India",
       "description": "29 September 2026 - Online Webinar, 9am - 10am CEST",
@@ -427,23 +427,6 @@
       "organizer": "ISRV",
       "source": "isrv_events",
       "category": "ISRV",
-      "tags": [],
-      "access_restriction": "Public",
-      "registration_url": null,
-      "recording_url": null
-    },
-    {
-      "id": "8eb5581f89c6f458",
-      "title": "Alzheimer\u2019s Disease and Other Neurocognitive Disorders in People With HIV",
-      "description": null,
-      "url": "https://www.iasusa.org/events/webinar-2026-holroyd/",
-      "start_datetime": "2026-09-29T10:00:00",
-      "end_datetime": null,
-      "timezone": "America/Los_Angeles",
-      "location": "Online",
-      "organizer": null,
-      "source": "iasusa_webinars",
-      "category": "IAS-USA",
       "tags": [],
       "access_restriction": "Public",
       "registration_url": null,
@@ -536,7 +519,7 @@
     },
     {
       "id": "c3d78f5dcaf5a9aa",
-      "title": "Understanding Latin America's Economy in the Twenty-first Century",
+      "title": "Understanding Latin America\u2019s Economy in the Twenty-first Century",
       "description": "Latin America\u2019s economic performance is often depicted as a long sequence of repeated failures, including its contribution to global financial crises as well as its slow growth and intractable inequalities. Its experience in the twenty-first century, however, reveals considerable and underappreciated successes (as well as setbacks). This talk will review the region's growth and development in the last quarter century, including the commodity boom, a surprising decline in economic inequality, responses to the financial and Covid-19 crises, and the emergence of left-leaning governments that opted for pragmatic and orthodox macro policies mixed with innovative antipoverty programs.\n\nLivestream Link\n\nJeff Dayton-Johnson has served as vice president of academic affairs and dean at the Middlebury Institute of International Studies at Monterey since 2014. He is also a professor of international policy & development there. Prior to joining MIIS, he was senior economist for Latin America & the Caribbean at the OECD Development Centre in Paris, and assistant and associate professor of economics and international development studies at Dalhousie University in Canada. Dayton-Johnson's research and teaching interests include economic development, inequality, Latin America & the Caribbean, public policy, migration, social cohesion. He earned a PhD in economics and an AB hons in Latin American Studies at UC Berkeley.",
       "url": "https://events.stanford.edu/event/understanding-latin-americas-economy-in-the-twenty-first-century",
       "start_datetime": "2026-10-02T20:30:00",
@@ -611,6 +594,23 @@
       "end_datetime": null,
       "timezone": "America/New_York",
       "location": null,
+      "organizer": "AVAC",
+      "source": "avac_events",
+      "category": "AVAC",
+      "tags": [],
+      "access_restriction": "Public",
+      "registration_url": null,
+      "recording_url": null
+    },
+    {
+      "id": "92cfba4a59fd5dd3",
+      "title": "Reaching Key Populations with Long-Acting PrEP: The launch of the PrEP Power Demand Generation Toolkit",
+      "description": null,
+      "url": "https://avac.org/event/launch-prep-power-demand-generation-toolkit/",
+      "start_datetime": "2026-10-14T00:00:00",
+      "end_datetime": null,
+      "timezone": "America/New_York",
+      "location": "Online",
       "organizer": "AVAC",
       "source": "avac_events",
       "category": "AVAC",
