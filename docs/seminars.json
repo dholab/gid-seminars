@@ -2,12 +2,12 @@
   "metadata": {
     "title": "GID Seminars Feed",
     "description": "Aggregated seminars and webinars for Global Infectious Disease research",
-    "generated_at": "2026-10-01T06:18:11.443690Z",
+    "generated_at": "2026-10-02T06:15:34.285445Z",
     "time_window": {
       "days_behind": 30,
       "days_ahead": 30
     },
-    "total_events": 38,
+    "total_events": 34,
     "sources": [
       "astmh_events",
       "avac_events",
@@ -58,23 +58,6 @@
     ]
   },
   "events": [
-    {
-      "id": "8e4347ea97ed78b3",
-      "title": "ECR Lunchtime Workshop \u2013 Options XIII",
-      "description": "This interactive workshop, being held exclusively for Options XIII attendees, is designed to demystify the academic publishing process for students and Early Career Researchers (ECRs) and will run as an interactive format. Through a panel discussion with experts in publishing, participants will gain practical, experience-based insights into how manuscripts are prepared, reviewed, the role of the editor, and ultimately accepted or rejected.",
-      "url": "https://www.isrv.global/events-calendar/ecr-lunchtime-workshop-options-xiii/",
-      "start_datetime": "2026-09-02T00:00:00",
-      "end_datetime": null,
-      "timezone": "UTC",
-      "location": null,
-      "organizer": "ISRV",
-      "source": "isrv_events",
-      "category": "ISRV",
-      "tags": [],
-      "access_restriction": "Public",
-      "registration_url": null,
-      "recording_url": null
-    },
     {
       "id": "fc59e402880617e8",
       "title": "The Long Game: How Hereditary Variation Shapes Immunity and Breast Cancer Trajectories",
@@ -450,40 +433,6 @@
       "recording_url": null
     },
     {
-      "id": "3b40142a1da746a2",
-      "title": "WHO Health Emergencies EPI-WIN webinar: Understanding WHO\u2019s 2027 Southern Hemisphere Influenza vaccine recommendations and science behind them",
-      "description": "Twice each year, WHO convenes experts from the Global Influenza Surveillance and Response System (GISRS) to review the latest evidence on circulating influenza viruses and recommend the composition of influenza vaccines for upcoming seasons. The webinar will provide an opportunity for participants to better understand how influenza vaccine recommendations are made and what they mean for protecting communities during the next flu season.",
-      "url": "https://www.who.int/news-room/events/detail/2026/10/01/default-calendar/who-health-emergencies-epi-win-webinar-understanding-who-s-2027-southern-hemisphere-influenza-vaccine-recommendations-and-science-behind-them",
-      "start_datetime": "2026-10-01T11:00:00",
-      "end_datetime": "2026-10-01T12:00:00",
-      "timezone": "UTC",
-      "location": "Online/Geneva",
-      "organizer": "World Health Organization",
-      "source": "who_events",
-      "category": "WHO",
-      "tags": [],
-      "access_restriction": "Public",
-      "registration_url": null,
-      "recording_url": null
-    },
-    {
-      "id": "f04f552e6260c3e1",
-      "title": "CFAR Seminar with Dr. Marco Pravetoni and Dr. Thomas Fitzpatrick",
-      "description": "Event interval: Single day event\nCampus location: Hans Rosling Center for Population Health (HRC)\nOnline Meeting Link: https://washington.zoom.us/meeting/register/JeKyeA5wTWuN34fxcSzHdw\nCampus room: Room 101\nAccessibility Contact: g0201@uw.edu\nEvent Types: Lectures/Seminars\n\nREGISTER NOW! \nRegister via this link for in person attendance:\nIn person registration: \nhttps://app.smartsheet.com/b/form/01a001a5c4ae75f19e948a0c0bedf3f2\n\nRegister via this link for virtual attendance:\nZoom registration: \nhttps://washington.zoom.us/meeting/register/JeKyeA5wTWuN34fxcSzHdw \n\n--------------------------------------------------------------------------------\n\n3:30pm - 4:00pm\nIN PERSON\nNew Faces Speaker: Thomas Fitzpatrick, MD\nActing Instructor, Department of Medicine, Division of Allergy & Infectious Diseases\nTalk Title: Perspectives of People Who Use Drugs on the Risks and Benefits of Anti-Fentanyl Immunotherapies and Clinical Trial Participation\nBio: Thomas (Tom) Fitzpatrick, MD, MPH, is a board-certified internal medicine and infectious disease physician and Acting Instructor in the UW Division of Allergy and Infectious Diseases. His overarching goal as a clinician and researcher is to improve the health of communities disproportionately affected by infectious diseases and substance use disorders by developing new interventions that reduce harms from higher-risk behaviors. He has two decades of experience implementing and evaluating public health programs in partnership with people who use drugs (PWUD) in the United States and China. During his clinical training, he was awarded several research fellowships and grants, including the Doris Duke International Clinical Research Fellowship, the Boston University Fellow Immersion Training Program in Addiction Medicine, the UW ADAI Small Grant Program, the China Medical Board Postdoctoral Research Fellowship, and the Fordham HIV and Drug Abuse Prevention Research Ethics Training Fellowship.\n \n4:00pm - 5:00pm\nIN PERSON\nCFAR Seminar Speak",
-      "url": "https://washington.zoom.us/meeting/register/JeKyeA5wTWuN34fxcSzHdw",
-      "start_datetime": "2026-10-01T22:30:00",
-      "end_datetime": "2026-10-02T00:00:00",
-      "timezone": "America/Los_Angeles",
-      "location": "Hans Rosling Center for Population Health (HRC)",
-      "organizer": null,
-      "source": "uw_cfar",
-      "category": "Fred Hutch Center for AIDS Research (CFAR)",
-      "tags": [],
-      "access_restriction": "Public",
-      "registration_url": null,
-      "recording_url": null
-    },
-    {
       "id": "c3d78f5dcaf5a9aa",
       "title": "Understanding Latin America\u2019s Economy in the Twenty-first Century",
       "description": "Latin America\u2019s economic performance is often depicted as a long sequence of repeated failures, including its contribution to global financial crises as well as its slow growth and intractable inequalities. Its experience in the twenty-first century, however, reveals considerable and underappreciated successes (as well as setbacks). This talk will review the region's growth and development in the last quarter century, including the commodity boom, a surprising decline in economic inequality, responses to the financial and Covid-19 crises, and the emergence of left-leaning governments that opted for pragmatic and orthodox macro policies mixed with innovative antipoverty programs.\n\nLivestream Link\n\nJeff Dayton-Johnson has served as vice president of academic affairs and dean at the Middlebury Institute of International Studies at Monterey since 2014. He is also a professor of international policy & development there. Prior to joining MIIS, he was senior economist for Latin America & the Caribbean at the OECD Development Centre in Paris, and assistant and associate professor of economics and international development studies at Dalhousie University in Canada. Dayton-Johnson's research and teaching interests include economic development, inequality, Latin America & the Caribbean, public policy, migration, social cohesion. He earned a PhD in economics and an AB hons in Latin American Studies at UC Berkeley.",
@@ -577,23 +526,6 @@
       "end_datetime": null,
       "timezone": "America/New_York",
       "location": null,
-      "organizer": "AVAC",
-      "source": "avac_events",
-      "category": "AVAC",
-      "tags": [],
-      "access_restriction": "Public",
-      "registration_url": null,
-      "recording_url": null
-    },
-    {
-      "id": "92cfba4a59fd5dd3",
-      "title": "Reaching Key Populations with Long-Acting PrEP: The launch of the PrEP Power Demand Generation Toolkit",
-      "description": null,
-      "url": "https://avac.org/event/launch-prep-power-demand-generation-toolkit/",
-      "start_datetime": "2026-10-14T00:00:00",
-      "end_datetime": null,
-      "timezone": "America/New_York",
-      "location": "Online",
       "organizer": "AVAC",
       "source": "avac_events",
       "category": "AVAC",
