@@ -2,7 +2,7 @@
   "metadata": {
     "title": "GID Seminars Feed",
     "description": "Aggregated seminars and webinars for Global Infectious Disease research",
-    "generated_at": "2026-10-03T06:16:52.650838Z",
+    "generated_at": "2026-10-04T08:02:38.089120Z",
     "time_window": {
       "days_behind": 30,
       "days_ahead": 30
@@ -58,23 +58,6 @@
     ]
   },
   "events": [
-    {
-      "id": "b62338b126864c73",
-      "title": "PhD Dissertation Defense: Madeline Hays",
-      "description": "Title: Experimental Evaluation of High-Density Neural Recording with Compressive Readout for Bidirectional Implants\n\nAbstract: High-density neural interfaces for restoration and augmentation of sensory or motor functions require simultaneous recording from thousands of neurons with single-cell resolution. However, safety requirements limit power density, making high-throughput data transmission a major obstacle for bidirectional neural implants. The wired-OR compressive readout scheme addresses this problem by exploiting sparsity of neural activity to achieve ultra-low-power compression, but its ability to preserve physiologically relevant neural signals has not been experimentally established. Here we evaluated wired-OR compression for neural waveform preservation, single-cell resolvability, and cell-type identification in ex vivo retinal recordings. Spontaneous activity from macaque retina was recorded using a 1024-channel, 32x32 microelectrode array with 36 \u03bcm pitch, reaching compression ratios up to 150x. Spike waveforms and rates obtained from wired-OR compressed recordings were well matched to those obtained from full bandwidth (20 kHz sampling) recordings. Using simple spike sorting methods, individual neurons were resolved from the wired-OR recordings, producing spatiotemporal maps that included somatic, dendritic, and axonal compartments. These compressed spatiotemporal maps and the individual neurons\u2019 spike autocorrelation functions were comparable to those obtained under full bandwidth conditions. Together with other key physiological features, such as inter-spike interval and axon conduction velocity, neuronal populations of distinct cell types were identified. These results demonstrate for the first time that the highly compressive wired-OR approach preserves neural signals for effective spike sorting and downstream cell-type classification in physiological recordings. This approach could prove broadly useful for bidirectional neural implants seeking si",
-      "url": "https://events.stanford.edu/event/phd-dissertation-defense-madeline-hays",
-      "start_datetime": "2026-09-03T16:00:00",
-      "end_datetime": "2026-09-03T17:00:00",
-      "timezone": "America/Los_Angeles",
-      "location": "Paul G. Allen Center for Integrated Systems Annex, 101X",
-      "organizer": null,
-      "source": "stanford_virtual",
-      "category": "PhD Defense",
-      "tags": [],
-      "access_restriction": "Public",
-      "registration_url": null,
-      "recording_url": null
-    },
     {
       "id": "1d8fa063ad06e610",
       "title": "TWiV 1354: Clinical update with Dr. Daniel Griffin",
@@ -455,6 +438,23 @@
       "description": "[Podcast: This Week in Virology]\n\nIn his weekly clinical update, Daniel Griffin and Vincent Racaniello continue their ongoing exasperation over 5 deaths in Pennsylvania associated with measles infections, the absurdity of RFK Jr.\u2019s statement that AI is better informed than physicians, the outbreak of cholera, more deaths by raw milk products, spread of dengue virus in Florida, Ebola in DRC, refusal to acknowledge the benefits of the HBV vaccine birth dose, how TORCH agent infections impact neurodevelopment and may lead to increase chances of autism diagnosis, Legionnaires disease and screw worm cases, before Dr. Griffin deep dives into recent statistics on RSV, influenza, SARS-CoV-2 infections, the continued measles outbreak in Pennsylvania, US, and Canada, modeling predictions of the outcome for repealing measles vaccination requirements to enter school in Florida, reactogenicity of different COVID vaccines and contacting your federal government representative to stop the assault on science and biomedical research. Click arrow to play Download TWiV 1362 (32 MB .mp3, 53 min) Subscribe (free): Apple Podcasts , RSS , email Become a&nbsp; patron &nbsp;of&nbsp;TWiV! Links for this episode A.I. Is \u2018Better Informed\u2019 Than Doctors, Kennedy Tells Industry-Backed MAHA Summit (NY Times) WHO reports latest global trends in cholera , meningitis and plague (WHO) WHO: Global cholera deaths rose by 30% in2025 (CIDRAP) E. coli&nbsp;Outbreak Linked to Raw Milk Cheese (CDC: E. coli infection) CDC confirms multistate outbreak of",
       "url": "https://www.microbe.tv/twiv/twiv-1362/",
       "start_datetime": "2026-10-03T04:00:00",
+      "end_datetime": null,
+      "timezone": "UTC",
+      "location": "Podcast",
+      "organizer": "This Week in Virology",
+      "source": "twiv_podcast",
+      "category": "Podcast - TWiV",
+      "tags": [],
+      "access_restriction": "Public",
+      "registration_url": null,
+      "recording_url": null
+    },
+    {
+      "id": "2d50c749a0935903",
+      "title": "TWiV 1363: A Cauldron of Bats",
+      "description": "[Podcast: This Week in Virology]\n\nTWiV explains a study testing how 16 hypothesized social and environmental drivers impact disease outbreaks, concluding that infectious disease spillover and emergence are multi-causal, and that no one-size-fits-all strategy can prevent epidemics and pandemics, and an analysis of Myotis bats, which shows that their remarkable longevity and immunity are linked through pleiotropic adaptations to viruses and aging-related disease. Hosts: Vincent Racaniello , Alan Dove , and Angela Mingarelli Click arrow to play Download TWiV 1363 (68 MB .mp3, 116 min) Subscribe (free): Apple Podcasts , RSS , email Become a&nbsp; patron &nbsp;of&nbsp;TWiV! Links for this episode Support science education at MicrobeTV Virus Appreciation Day (Day of the Year) Anthropogenic fingerprint on emerging infectious diseases (Nature) Longevity and virus-driven adaptations in Myotis bats (Nature) Letters read on TWiV 1363 Timestamps by&nbsp; Jolene Ramsey. Thanks! Picks of the Week Angela &#8211; Birds. Alan &#8211; Halloween t-shirts from my local animal shelter. Vincent &#8211; A Thousand Brains by Jeff Hawkins Intro music is by&nbsp; Ronald Jenkees Send your virology questions and comments to twiv@microbe.tv Content in this podcast should not be construed as medical advice. The post TWiV 1363: A Cauldron of Bats first appeared on This Week in Virology .",
+      "url": "https://www.microbe.tv/twiv/twiv-1363/",
+      "start_datetime": "2026-10-04T04:00:00",
       "end_datetime": null,
       "timezone": "UTC",
       "location": "Podcast",
