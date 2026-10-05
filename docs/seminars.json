@@ -2,12 +2,12 @@
   "metadata": {
     "title": "GID Seminars Feed",
     "description": "Aggregated seminars and webinars for Global Infectious Disease research",
-    "generated_at": "2026-10-04T08:02:38.089120Z",
+    "generated_at": "2026-10-05T06:24:30.052697Z",
     "time_window": {
       "days_behind": 30,
       "days_ahead": 30
     },
-    "total_events": 35,
+    "total_events": 36,
     "sources": [
       "astmh_events",
       "avac_events",
@@ -648,6 +648,23 @@
       "organizer": null,
       "source": "uw_cfar",
       "category": "Fred Hutch Center for AIDS Research (CFAR)",
+      "tags": [],
+      "access_restriction": "Public",
+      "registration_url": null,
+      "recording_url": null
+    },
+    {
+      "id": "789d76ae3ca65da6",
+      "title": "Diagnosis and Management of Common Opportunistic Infections in People With HIV",
+      "description": null,
+      "url": "https://www.iasusa.org/events/webinar-2026-sereti/",
+      "start_datetime": "2026-11-03T11:00:00",
+      "end_datetime": null,
+      "timezone": "America/Los_Angeles",
+      "location": "Online",
+      "organizer": null,
+      "source": "iasusa_webinars",
+      "category": "IAS-USA",
       "tags": [],
       "access_restriction": "Public",
       "registration_url": null,
