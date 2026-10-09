@@ -2,12 +2,12 @@
   "metadata": {
     "title": "GID Seminars Feed",
     "description": "Aggregated seminars and webinars for Global Infectious Disease research",
-    "generated_at": "2026-10-08T06:16:48.336983Z",
+    "generated_at": "2026-10-09T06:15:53.213541Z",
     "time_window": {
       "days_behind": 30,
       "days_ahead": 30
     },
-    "total_events": 34,
+    "total_events": 33,
     "sources": [
       "astmh_events",
       "avac_events",
@@ -416,23 +416,6 @@
       "recording_url": null
     },
     {
-      "id": "12ceabacb95c2501",
-      "title": "WHO Health Emergencies EPI-WIN webinar: Preparing for respiratory virus circulation during the northern hemisphere winter season (1): current situation and strengthening surveillance and vigilance",
-      "description": "Respiratory virus surveillance provides the foundation for understanding the impact of influenza, COVID-19 and RSV on populations and health systems worldwide. In this webinar, experts will explore how surveillance data are transformed into actionable public health intelligence and demonstrate the tools and approaches that support countries in understanding and responding to global respiratory threats.",
-      "url": "https://www.who.int/news-room/events/detail/2026/10/08/default-calendar/who-health-emergencies-epi-win-webinar-preparing-for-the-northern-hemisphere-influenza-season-(i)-using-surveillance-data-to-understand-the-burden-of-global-respiratory-threats",
-      "start_datetime": "2026-10-08T11:00:00",
-      "end_datetime": "2026-10-08T12:00:00",
-      "timezone": "UTC",
-      "location": "Online/Geneva",
-      "organizer": "World Health Organization",
-      "source": "who_events",
-      "category": "WHO",
-      "tags": [],
-      "access_restriction": "Public",
-      "registration_url": null,
-      "recording_url": null
-    },
-    {
       "id": "2bffbc35a31244ac",
       "title": "Books, Bonds, and Bereavement: Helping Siblings Process Loss",
       "description": "OverviewThis activity explores the experiences and often-overlooked needs of siblings of children with serious illness or medical complexity. Faculty will discuss the emotional, social, and developmental impacts of caregiving, illness, and bereavement on siblings and share practical strategies for supporting them as part of comprehensive family-centered care. The session will also introduce bibliotherapy as an evidence-informed approach to help siblings process grief, normalize emotions, and develop healthy coping skills through guided storytelling and discussion.\n\nRegistrationRegistration for all practitioners - free\n\nTo register for this activity, please click HERE.\n\nCreditsAMA PRA Category 1 Credits\u2122 (1.00 hours), ACPE Contact Hours (1.00 hours), ANCC Contact Hours (1.00 hours), APA Continuing Education credits (1.00 hours), ASWB Continuing Education (ACE) credits (1.00 hours), CDR Continuing Professional Education Units (1.00 hours), Non-Physician Participation Credit (1.00 hours), Occupational Therapy Contact Hours (1.00 hours), Physical Therapy Contact Hours (1.00 hours)\n\nTarget AudienceSpecialties - Adolescent Medicine, Allergy, Immunology, & Rheumatology, Anesthesiology, Cardiovascular Health, Critical Care & Pulmonology, Emergency Medicine & Trauma, Hematology, Internal Medicine, Neonatology, Nephrology, Neurology, Oncology, Pediatrics, Psychiatry & Behavioral Sciences, SurgeryProfessions - Fellow/Resident, Non-Physician, Nurse, Occupational Therapist, Pharmacist, Physician, Psychologist, Registered Dietitian, Registered Nurse (RN), Social Worker ObjectivesAt the conclusion of this activity, learners should be able to:\n1. Describe the emotional, social, and developmental impacts of serious illness and bereavement on siblings, including common challenges and unmet needs.\n2. Apply evidence-informed strategies to support siblings across settings by incorporating them into care conversations, validating their experiences, and coordinating with family, school, a",
@@ -467,12 +450,12 @@
       "recording_url": null
     },
     {
-      "id": "08157be3c47b1657",
+      "id": "831ec021247ec15f",
       "title": "WHO Health Emergencies EPI-WIN webinar: Understanding Influenza A(H9N2): current risks, One Health action and pandemic preparedness",
       "description": "The webinar will provide a One Health update and support awareness on avian influenza A(H9N2) and provides an opportunity for engagement around the emerging Strategic Framework to accelerate Quadripartite action on avian influenza.",
       "url": "https://www.who.int/news-room/events/detail/2026/10/14/default-calendar/who-health-emergencies-epi-win-webinar-understanding-influenza-a(h9n2)-current-risks-one-health-action-and-pandemic-preparedness",
-      "start_datetime": "2026-10-14T11:00:00",
-      "end_datetime": "2026-10-14T12:00:00",
+      "start_datetime": "2026-10-14T10:30:00",
+      "end_datetime": "2026-10-14T11:45:00",
       "timezone": "UTC",
       "location": "Online/Geneva",
       "organizer": "World Health Organization",
