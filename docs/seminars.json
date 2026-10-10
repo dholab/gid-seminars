@@ -2,12 +2,12 @@
   "metadata": {
     "title": "GID Seminars Feed",
     "description": "Aggregated seminars and webinars for Global Infectious Disease research",
-    "generated_at": "2026-10-09T06:15:53.213541Z",
+    "generated_at": "2026-10-10T06:14:34.022671Z",
     "time_window": {
       "days_behind": 30,
       "days_ahead": 30
     },
-    "total_events": 33,
+    "total_events": 34,
     "sources": [
       "astmh_events",
       "avac_events",
@@ -58,23 +58,6 @@
     ]
   },
   "events": [
-    {
-      "id": "4725a2b369ac7d88",
-      "title": "2026 Host Pathogen Map Initiative Scientific Advisory Board Meeting",
-      "description": null,
-      "url": null,
-      "start_datetime": "2026-09-10T00:00:00",
-      "end_datetime": "2026-09-10T00:00:00",
-      "timezone": "America/Los_Angeles",
-      "location": "Online",
-      "organizer": null,
-      "source": "ucsf_qbi_pasteur",
-      "category": "University - UCSF",
-      "tags": [],
-      "access_restriction": "Public",
-      "registration_url": null,
-      "recording_url": null
-    },
     {
       "id": "dadfdaf972a1fd14",
       "title": "TWiV 1356: Clinical update with Dr. Daniel Griffin",
@@ -433,6 +416,23 @@
       "recording_url": null
     },
     {
+      "id": "2f442eaefd0abfe5",
+      "title": "TWiV 1364: Clinical Update with Dr. Daniel Griffin",
+      "description": "[Podcast: This Week in Virology]\n\nIn his weekly clinical update, Daniel Griffin and Vincent Racaniello discuss their continuing struggle to understand the ongoing outbreak of cyclospora, decimation of US public health including 30% or greater loss of personnel from the CDC, continuing measles outbreaks here and aboard, a mumps outbreak in San Diego and a Hib death in Montana, criminalization of pediatricians in Texas, dengue associated death in Florida, Ebola in Kenya, a new Legionnaires outbreak, screw worm cases, and a hearing in Florida to end requirements of four vaccines including Hib and chickenpox, before Dr. Griffin deep dives into recent statistics RSV, influenza, SARS-CoV-2 infections, the continued measles outbreak in Pennsylvania, US, Canada, statistics on vaccine preventable disease mortality in children, effectiveness of adjuvanted high dose influenza vaccine and contacting your federal government representative to stop the assault on science and biomedical research. Click arrow to play Download TWiV 1364 (45 MB .mp3, 76 min) Subscribe (free): Apple Podcasts , RSS , email Become a&nbsp; patron &nbsp;of&nbsp;TWiV! Links for this episode Smallpox History and Decisive Actions of George Washington (CDC: Emerging Infectious Diseases) Christina Jewett (NY Times) Caroline Hopkins Legaspi (NY Times) F.D.A. Found Cyclospora During Taylor Farms Inspection in Mexico (NY Times) Suspected plague incident leaves 1 dead, 200 under quarantine in Siberia (CIDRAP) Dozens quarantined in Siberia after plague instit",
+      "url": "https://www.microbe.tv/twiv/twiv-1364/",
+      "start_datetime": "2026-10-10T04:00:00",
+      "end_datetime": null,
+      "timezone": "UTC",
+      "location": "Podcast",
+      "organizer": "This Week in Virology",
+      "source": "twiv_podcast",
+      "category": "Podcast - TWiV",
+      "tags": [],
+      "access_restriction": "Public",
+      "registration_url": null,
+      "recording_url": null
+    },
+    {
       "id": "b9ebb7767a4439c8",
       "title": "IUSTI Prague 2026 Congress",
       "description": null,
@@ -614,6 +614,23 @@
       "organizer": null,
       "source": "uw_madison_seminars",
       "category": "University - UW-Madison",
+      "tags": [],
+      "access_restriction": "Public",
+      "registration_url": null,
+      "recording_url": null
+    },
+    {
+      "id": "a9e897348a429dd0",
+      "title": "COP31 Health Pavilion",
+      "description": "WHO in collaboration with the Wellcome Trust and the health community will host the Health Pavilion at the COP31 UN Climate Conference, taking place in Antalya, Turkiye, from 9 to 20 November 2026. The Health Pavilion will convene the global health community and key stakeholders across various sectors to ensure health and equity are placed at the centre of climate negotiations. It will offer a rich 2-week programme of events showcasing evidence, initiatives and solutions to maximize the health benefits of tackling climate change across regions, sectors and communities.",
+      "url": "https://www.who.int/news-room/events/detail/2026/11/09/default-calendar/cop31-health-pavilion",
+      "start_datetime": "2026-11-09T00:00:00",
+      "end_datetime": "2026-11-21T00:00:00",
+      "timezone": "UTC",
+      "location": "Online/Geneva",
+      "organizer": "World Health Organization",
+      "source": "who_events",
+      "category": "WHO",
       "tags": [],
       "access_restriction": "Public",
       "registration_url": null,
