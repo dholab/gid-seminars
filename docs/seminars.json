@@ -2,12 +2,12 @@
   "metadata": {
     "title": "GID Seminars Feed",
     "description": "Aggregated seminars and webinars for Global Infectious Disease research",
-    "generated_at": "2026-10-10T06:14:34.022671Z",
+    "generated_at": "2026-10-11T06:14:44.262256Z",
     "time_window": {
       "days_behind": 30,
       "days_ahead": 30
     },
-    "total_events": 34,
+    "total_events": 36,
     "sources": [
       "astmh_events",
       "avac_events",
@@ -433,6 +433,23 @@
       "recording_url": null
     },
     {
+      "id": "3ddc66725e866652",
+      "title": "TWiV 1365: Andes Virus Up Close",
+      "description": "[Podcast: This Week in Virology]\n\nTWiV travels to Porto, Portugal for the annual meeting of the European Society for Clinical Virology, where he speaks with Catherine and Corinne about their work on the Andes virus outbreak on the MV Hondius. Host: Vincent Racaniello Guests: Catherine Houlihan and Corinne Guerts van Kessel Click arrow to play Download TWiV 1365 (34 MB .mp3, 56 min) Subscribe (free): Apple Podcasts , RSS , email Become a&nbsp; patron &nbsp;of&nbsp;TWiV! Links for this episode Support science education at MicrobeTV Transient Andes RNA detection in asymptomatic healthcare worker (Eurosurveill) Timestamps by Jolene Ramsey. Thanks! Intro music is by&nbsp; Ronald Jenkees Send your virology questions and comments to twiv@microbe.tv Content in this podcast should not be construed as medical advice. The post TWiV 1365: Andes Virus Up Close first appeared on This Week in Virology .",
+      "url": "https://www.microbe.tv/twiv/twiv-1365/",
+      "start_datetime": "2026-10-11T04:00:00",
+      "end_datetime": null,
+      "timezone": "UTC",
+      "location": "Podcast",
+      "organizer": "This Week in Virology",
+      "source": "twiv_podcast",
+      "category": "Podcast - TWiV",
+      "tags": [],
+      "access_restriction": "Public",
+      "registration_url": null,
+      "recording_url": null
+    },
+    {
       "id": "b9ebb7767a4439c8",
       "title": "IUSTI Prague 2026 Congress",
       "description": null,
@@ -626,6 +643,23 @@
       "url": "https://www.who.int/news-room/events/detail/2026/11/09/default-calendar/cop31-health-pavilion",
       "start_datetime": "2026-11-09T00:00:00",
       "end_datetime": "2026-11-21T00:00:00",
+      "timezone": "UTC",
+      "location": "Online/Geneva",
+      "organizer": "World Health Organization",
+      "source": "who_events",
+      "category": "WHO",
+      "tags": [],
+      "access_restriction": "Public",
+      "registration_url": null,
+      "recording_url": null
+    },
+    {
+      "id": "25dcd60c23b29df9",
+      "title": "Global Model WHO 2026",
+      "description": "Step into the heart of global health diplomacy at the 2026 edition of the WHO Global Model WHO, taking place at WHO Headquarters in Geneva from 10\u201313 November 2026.",
+      "url": "https://www.who.int/news-room/events/detail/2026/11/10/default-calendar/global-model-who-2026",
+      "start_datetime": "2026-11-10T00:00:00",
+      "end_datetime": "2026-11-14T00:00:00",
       "timezone": "UTC",
       "location": "Online/Geneva",
       "organizer": "World Health Organization",
