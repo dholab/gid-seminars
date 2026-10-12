@@ -2,12 +2,12 @@
   "metadata": {
     "title": "GID Seminars Feed",
     "description": "Aggregated seminars and webinars for Global Infectious Disease research",
-    "generated_at": "2026-10-11T06:14:44.262256Z",
+    "generated_at": "2026-10-12T06:23:59.228809Z",
     "time_window": {
       "days_behind": 30,
       "days_ahead": 30
     },
-    "total_events": 36,
+    "total_events": 37,
     "sources": [
       "astmh_events",
       "avac_events",
@@ -58,23 +58,6 @@
     ]
   },
   "events": [
-    {
-      "id": "dadfdaf972a1fd14",
-      "title": "TWiV 1356: Clinical update with Dr. Daniel Griffin",
-      "description": "[Podcast: This Week in Virology]\n\nIn his weekly clinical update, Daniel Griffin and Vincent Racaniello delve into dengue virus infections in Florida, recent human rabies infections in the US, proposed changes in biomedical funding including \u201cconverting\u201d the Department of War into NIAID, the continuing controversy over the deaths of 2 children in Pennsylvania from measles, before Dr. Griffin deep dives into recent statistics RSV, influenza, SARS-CoV-2 infections, approval of new mRNA COVID-19 vaccines by the FDA, and contacting your federal government representative to stop the assault on science and biomedical research. Click arrow to play Download&nbsp; TWiV 1356 (29 MB .mp3, 47 min) Subscribe (free):&nbsp; Apple Podcasts , RSS ,&nbsp; email Become a&nbsp; patron &nbsp;of&nbsp;TWiV! Links for this episode Dengue in Florida : Florida Arbovirus Surveillance (Florida Health) 4:18 Nationwide Increase in Reported Human Rabies Exposures: Rabies Post-exposure Prophylaxis Administration (CDC: Health Alert Network) 4:46 NIH proposes major revamp of how it scores research grant proposals (Nature) Revealed: inside the US military\u2019s plan to tap huge sums from the NIH (Nature) 6:10 Vaccination Coverage Among Adolescents Aged 13\u201317 Years \u2014 National Immunization Survey-Teen, United States, 2025 (CDC:MMWR) 8:46 Dashboard SCREWWORM.Gov (USDA: Animal and Plant Health Inspection Service) CDC Activates Emergency Operations Center for New World Screwworm Response (CDC Newroom) Ebola dashboard (ebola.fyi) EBOLA: The Democratic Re",
-      "url": "https://www.microbe.tv/twiv/twiv-1356/",
-      "start_datetime": "2026-09-12T04:00:00",
-      "end_datetime": null,
-      "timezone": "UTC",
-      "location": "Podcast",
-      "organizer": "This Week in Virology",
-      "source": "twiv_podcast",
-      "category": "Podcast - TWiV",
-      "tags": [],
-      "access_restriction": "Public",
-      "registration_url": null,
-      "recording_url": null
-    },
     {
       "id": "8b461721a6b6040c",
       "title": "TWiV 1357: Furin, Naturally with Paul Bieniasz",
@@ -665,6 +648,40 @@
       "organizer": "World Health Organization",
       "source": "who_events",
       "category": "WHO",
+      "tags": [],
+      "access_restriction": "Public",
+      "registration_url": null,
+      "recording_url": null
+    },
+    {
+      "id": "72e034abaab06947",
+      "title": "CFAR & PHSKC Lunchbox Talk with Carlos Gabriel Corpuz",
+      "description": "Event interval: Single day event\nAccessibility Contact: cfar@uw.edu\nEvent Types: Lectures/Seminars",
+      "url": null,
+      "start_datetime": "2026-11-10T20:00:00",
+      "end_datetime": "2026-11-10T21:00:00",
+      "timezone": "America/Los_Angeles",
+      "location": "Online",
+      "organizer": null,
+      "source": "uw_cfar",
+      "category": "Fred Hutch Center for AIDS Research (CFAR)",
+      "tags": [],
+      "access_restriction": "Public",
+      "registration_url": null,
+      "recording_url": null
+    },
+    {
+      "id": "47be8dd19a2912a3",
+      "title": "ENT Experts Up Close: Updates in Parotid Masses and Sinonasal Malignancies",
+      "description": "OverviewThis one-hour CME activity offers a concise, evidence-based update on the evaluation, diagnosis, and management of parotid masses and sinonasal malignancies. Topics cover contemporary imaging, pathology interpretation, surgical approaches, as well as adjuvant and systemic therapies. The session emphasizes multidisciplinary decision-making, functional outcomes (including facial nerve preservation and skull base considerations), survivorship, and select endoscopic and minimally invasive techniques. Attendees will leave with useful takeaways to support clinical decision-making, streamline referrals, and stay current on evolving treatment options and clinical trials.\n\nRegistrationRegistration for all practitioners - free\n\nTo register for this activity, please click HERE.\n\nCreditsAMA PRA Category 1 Credits\u2122 (1.00 hours), Non-Physician Participation Credit (1.00 hours)\n\nTarget AudienceSpecialties - Allergy, Immunology, and Rheumatology, Otolaryngology (ENT)Professions - Advance Practice Nurse (APN), Fellow/Resident, Non-Physician, Nurse, Physician, Registered Nurse (RN)\n ObjectivesAt the conclusion of this activity, learners should be able to:\n1. Describe types of molecular testing available for parotid masses \n2. Review the contraindications and indications for parotidectomy\n3. Identify updates in diagnostic workup and staging criteria for sinonasal malignancies\n4. Describe emerging systemic therapies and active clinical trials relevant to sinonasal cancer management\n\nAccreditationIn support of improving patient care, Stanford Medicine is jointly accredited by the Accreditation Council for Continuing Medical Education (ACCME), the Accreditation Council for Pharmacy Education (ACPE), and the American Nurses Credentialing Center (ANCC), to provide continuing education for the healthcare team. \n \nCredit Designation \nAmerican Medical Association (AMA) \nStanford Medicine designates this Live Activity for a maximum of 1.00 AMA PRA Category 1 CreditsTM.  Physicians shou",
+      "url": "https://events.stanford.edu/event/ent-experts-up-close-updates-in-parotid-masses-and-sinonasal-malignancies",
+      "start_datetime": "2026-11-10T20:00:00",
+      "end_datetime": "2026-11-10T21:00:00",
+      "timezone": "America/Los_Angeles",
+      "location": "Online",
+      "organizer": null,
+      "source": "stanford_virtual",
+      "category": "Class/Seminar",
       "tags": [],
       "access_restriction": "Public",
       "registration_url": null,
