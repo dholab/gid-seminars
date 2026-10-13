@@ -2,12 +2,12 @@
   "metadata": {
     "title": "GID Seminars Feed",
     "description": "Aggregated seminars and webinars for Global Infectious Disease research",
-    "generated_at": "2026-10-12T06:23:59.228809Z",
+    "generated_at": "2026-10-13T06:18:02.999974Z",
     "time_window": {
       "days_behind": 30,
       "days_ahead": 30
     },
-    "total_events": 37,
+    "total_events": 38,
     "sources": [
       "astmh_events",
       "avac_events",
@@ -58,23 +58,6 @@
     ]
   },
   "events": [
-    {
-      "id": "8b461721a6b6040c",
-      "title": "TWiV 1357: Furin, Naturally with Paul Bieniasz",
-      "description": "[Podcast: This Week in Virology]\n\nPaul Bieniasz joins TWiV to discuss his lab&#8217;s discovery that the coronavirus nuclease NSP15 cuts viral RNA into oligonucleotides that are reinserted elsewhere in the viral RNA, generating insertion mutations at a frequency above 10\u207b\u00b3 per genome, including new furin cleavage sites at the spike S1/S2 junction. Hosts:&nbsp; Vincent Racaniello , Alan Dove , and Kathy Spindler Guest: Paul Bieniasz Click arrow to play Download TWiV 1357 (63 MB .mp3, 104 min) Subscribe (free):&nbsp; Apple Podcasts ,&nbsp; RSS ,&nbsp; email Become a&nbsp; patron &nbsp;of&nbsp;TWiV! Links for this episode Support science education at MicrobeTV 2:43 Genetic innovation in coronaviruses driven by a viral nuclease (bioRxiv) 3:52 Letters read on TWiV 1357 1:18:10 Timestamps by&nbsp; Jolene Ramsey. Thanks! Picks of the Week 1:32:22 Kathy &#8211; Jurassic Museum of Asturias Alan &#8211; Grand Central Winter , by Lee Stringer Vincent &#8211; How to Choose REAL Extra Virgin Olive Oil: A Practical Guide and How to Tell if Your Olive Oil is Fake! Quick Kitchen Tip! Listener Pick Shirley &#8211; I Told You So ! by Matt Kaplan Intro music is by&nbsp; Ronald Jenkees Send your virology questions and comments to twiv@microbe.tv Content in this podcast should not be construed as medical advice. The post TWiV 1357: Furin, Naturally with Paul Bieniasz first appeared on This Week in Virology .",
-      "url": "https://www.microbe.tv/twiv/twiv-1357/",
-      "start_datetime": "2026-09-13T04:00:00",
-      "end_datetime": null,
-      "timezone": "UTC",
-      "location": "Podcast",
-      "organizer": "This Week in Virology",
-      "source": "twiv_podcast",
-      "category": "Podcast - TWiV",
-      "tags": [],
-      "access_restriction": "Public",
-      "registration_url": null,
-      "recording_url": null
-    },
     {
       "id": "5bd59649593224e5",
       "title": "PhD Dissertation Defense: Eliel Akinbami",
@@ -677,6 +660,40 @@
       "url": "https://events.stanford.edu/event/ent-experts-up-close-updates-in-parotid-masses-and-sinonasal-malignancies",
       "start_datetime": "2026-11-10T20:00:00",
       "end_datetime": "2026-11-10T21:00:00",
+      "timezone": "America/Los_Angeles",
+      "location": "Online",
+      "organizer": null,
+      "source": "stanford_virtual",
+      "category": "Class/Seminar",
+      "tags": [],
+      "access_restriction": "Public",
+      "registration_url": null,
+      "recording_url": null
+    },
+    {
+      "id": "3fc2ea15387649ca",
+      "title": "Children and Childhood in Colonial Senegal - Kelly Duke Bryant",
+      "description": "How did French colonial institutions seek to define, regulate, and \u2018\u2018protect\u2019\u2019 childhood in Senegal, and how did children respond? \n\nIn this talk based on her recent book, Negotiating Childhood: French Colonialism and African Children in Senegal, 1848\u20131940, Kelly Duke Bryant explores the lived realities of African children across courts, schools, streets, reformatories, vaccine clinics, and other sites of colonial intervention. Rather than treating children as passive subjects, Bryant illuminates the ways children limited or negotiated colonial reforms and how the colonial state\u2019s reliance on cooperation produced unexpected forms of resistance and accommodation. The talk highlights long-term consequences of colonial governance, such as the privileging of chronological age and the centrality of official documentation, that continue to shape Senegalese childhoods.\n\nSpeaker Details\n\nKelly Duke Bryant is chair of the History Department at Rowan University, where she has taught since 2009. She earned her MA in history from the University of Wisconsin and her Ph.D., also in history, from Johns Hopkins University. A specialist in the history of West Africa, she has published scholarly articles and book chapters on the history of education, childhood, and youth in colonial Senegal. She is the author of two books, Education as Politics: Colonial Schooling and Political Debate in Senegal, 1850s-1914 (University of Wisconsin Press, 2015) and Negotiating Childhood: French Colonialism and African Children in Senegal, 1848-1940 (University of Massachusetts Press, 2026). She recently began a term as president of the French Colonial Historical Society.",
+      "url": "https://events.stanford.edu/event/children-and-childhood-in-colonial-senegal-kelly-duke-bryant",
+      "start_datetime": "2026-11-11T20:00:00",
+      "end_datetime": "2026-11-11T21:00:00",
+      "timezone": "America/Los_Angeles",
+      "location": "Online",
+      "organizer": null,
+      "source": "stanford_virtual",
+      "category": "Lecture/Presentation/Talk",
+      "tags": [],
+      "access_restriction": "Public",
+      "registration_url": null,
+      "recording_url": null
+    },
+    {
+      "id": "9f6697f7b28f9a6e",
+      "title": "Alcohol-Associated Hepatitis and Early Liver Transplantation",
+      "description": "OverviewThis activity reviews the diagnosis and management of alcohol-associated liver disease (ALD) and alcohol-associated hepatitis (AAH), including alcohol cessation strategies, treatment of alcohol use disorder, appropriate use of corticosteroids, and the evolving role of early liver transplantation. Learners will gain practical guidance on risk stratification, treatment thresholds, and timely referral of patients with severe alcohol-associated liver disease.\n\nRegistrationRegistration for all practitioners - free.\n\nTo register for this activity, please click HERE\n\nCreditsAMA PRA Category 1 Credits\u2122 (1.00 hours), AAPA Category 1 CME credits (1.00 hours), ANCC Contact Hours (1.00 hours), Non-Physician Participation Credit (1.00 hours)\n\nTarget AudienceSpecialties - Family Medicine & Community Health, Gastroenterology, Gastroenterology & Hepatology, Hematology, Internal MedicineProfessions - Advance Practice Nurse (APN), Non-Physician, Nurse, Physician, Physician Associate, Registered Nurse (RN) ObjectivesAt the conclusion of this activity, learners should be able to:\n1. Apply NIAAA clinical criteria and phosphatidylethanol testing to accurately diagnose alcohol-associated hepatitis and distinguish alcohol-associated liver disease from MASLD.\n2. Use MELD rather than the Maddrey discriminant function to risk-stratify patients with alcohol-associated hepatitis and identify candidates for corticosteroid therapy.\n3. Manage corticosteroid therapy appropriately, including assessment of contraindications and calculation of the Lille score at day 4 or 7 to discontinue treatment in non-responders.\n4. Initiate concurrent treatment of alcohol use disorder using behavioral support and evidence-based pharmacotherapy, avoiding agents contraindicated in liver disease.\n5. Identify patients appropriate for early liver transplant referral without applying a fixed 6-month sobriety interval, and document eligibility using specific, non-stigmatizing language.\n\nAccreditationIn support of",
+      "url": "https://events.stanford.edu/event/alcohol-associated-hepatitis-and-early-liver-transplantation",
+      "start_datetime": "2026-11-11T20:00:00",
+      "end_datetime": "2026-11-11T21:00:00",
       "timezone": "America/Los_Angeles",
       "location": "Online",
       "organizer": null,
