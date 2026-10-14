@@ -2,12 +2,12 @@
   "metadata": {
     "title": "GID Seminars Feed",
     "description": "Aggregated seminars and webinars for Global Infectious Disease research",
-    "generated_at": "2026-10-13T06:18:02.999974Z",
+    "generated_at": "2026-10-14T06:14:26.689355Z",
     "time_window": {
       "days_behind": 30,
       "days_ahead": 30
     },
-    "total_events": 38,
+    "total_events": 39,
     "sources": [
       "astmh_events",
       "avac_events",
@@ -478,6 +478,23 @@
       "organizer": null,
       "source": "iasusa_webinars",
       "category": "IAS-USA",
+      "tags": [],
+      "access_restriction": "Public",
+      "registration_url": null,
+      "recording_url": null
+    },
+    {
+      "id": "09337a0bf36c1dda",
+      "title": "WHO Health Emergencies EPI-WIN webinar: Safer Cholera treatment facilities: the latest WHO guidance on design, construction, WASH",
+      "description": "Cholera remains a major public health threat and an indicator of inequitable access to safe water, sanitation, hygiene and quality healthcare. This EPI-WIN webinar introduces the latest WHO guidance on the design, construction and WASH requirements of safer cholera treatment facilities.",
+      "url": "https://www.who.int/news-room/events/detail/2026/10/21/default-calendar/who-health-emergencies-epi-win-webinar-safer-cholera-treatment-facilities-the-latest-who-guidance-on-design-construction-wash",
+      "start_datetime": "2026-10-21T12:00:00",
+      "end_datetime": "2026-10-21T13:00:00",
+      "timezone": "UTC",
+      "location": "Online/Geneva",
+      "organizer": "World Health Organization",
+      "source": "who_events",
+      "category": "WHO",
       "tags": [],
       "access_restriction": "Public",
       "registration_url": null,
