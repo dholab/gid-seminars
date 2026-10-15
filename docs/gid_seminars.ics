@@ -10,7 +10,7 @@ BEGIN:VEVENT
 SUMMARY:PhD Dissertation Defense: Eliel Akinbami
 DTSTART;TZID=America/Los_Angeles:20260915T200000
 DTEND;TZID=America/Los_Angeles:20260915T210000
-DTSTAMP:20261014T061426Z
+DTSTAMP:20261015T061453Z
 UID:5bd59649593224e5@gid-seminars.wnprc.wisc.edu
 CATEGORIES:PhD Defense
 DESCRIPTION:Title: Reading Enzyme Function from Sequence and Structure\n\n
@@ -56,7 +56,7 @@ BEGIN:VEVENT
 SUMMARY:Cyclospora cayetanensis: Reflections of a parasitologist
 DTSTART;TZID=America/Chicago:20260916T150000
 DTEND;TZID=America/Chicago:20260916T160000
-DTSTAMP:20261014T061426Z
+DTSTAMP:20261015T061453Z
 UID:5a726dca2fd6a26e@gid-seminars.wnprc.wisc.edu
 CATEGORIES:TEPHI
 DESCRIPTION:\nEvent URL: https://tephi.texas.gov/events/event?id=c185f3a3-
@@ -76,7 +76,7 @@ SUMMARY:Rubenstein Lecture: How a Tiny Worm Reveals Big Insights for Medic
  ine
 DTSTART;TZID=America/Los_Angeles:20260916T190000
 DTEND;TZID=America/Los_Angeles:20260916T200000
-DTSTAMP:20261014T061426Z
+DTSTAMP:20261015T061453Z
 UID:1ba09ba6a5161db3@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Lecture/Presentation/Talk
 DESCRIPTION:Stanford Department of Medicine would like to invite all Stanf
@@ -116,7 +116,7 @@ SUMMARY:Upcoming Post COVID-19 Condition Educational Events Key Details fo
  st Developments in PCC & Cardiac
 DTSTART;TZID=America/Regina:20260917T150000
 DTEND;TZID=America/Regina:20260917T160000
-DTSTAMP:20261014T061426Z
+DTSTAMP:20261015T061453Z
 UID:72ea8b04b0d8faa9@gid-seminars.wnprc.wisc.edu
 CATEGORIES:University - USask
 DESCRIPTION:Post-COVID Condition webinar series by University of Saskatche
@@ -148,7 +148,7 @@ BEGIN:VEVENT
 SUMMARY:SDRC Friday Seminar 09.18.26
 DTSTART;TZID=America/Los_Angeles:20260918T190000
 DTEND;TZID=America/Los_Angeles:20260918T200000
-DTSTAMP:20261014T061426Z
+DTSTAMP:20261015T061453Z
 UID:e3977cadd11a206f@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Class/Seminar
 DESCRIPTION:Agnieszka Czechowicz\, MD\, PhD\nAssistant Professor\, Departm
@@ -168,7 +168,7 @@ BEGIN:VEVENT
 SUMMARY:TWiV 1358: Clinical Update with Dr. Daniel Griffin
 DTSTART:20260919T054051Z
 DTEND:20260919T064051Z
-DTSTAMP:20261014T061426Z
+DTSTAMP:20261015T061453Z
 UID:d29454ab1e06e56e@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Podcast - TWiV
 DESCRIPTION:[Podcast: This Week in Virology]\n\nIn his weekly clinical upd
@@ -206,7 +206,7 @@ BEGIN:VEVENT
 SUMMARY:TWiV 1359: SSPE\, the Long Shadow of Measles
 DTSTART:20260920T050232Z
 DTEND:20260920T060232Z
-DTSTAMP:20261014T061426Z
+DTSTAMP:20261015T061453Z
 UID:9b39637d7d86970f@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Podcast - TWiV
 DESCRIPTION:[Podcast: This Week in Virology]\n\nRoberto Cattaneo and Kalpa
@@ -240,7 +240,7 @@ BEGIN:VEVENT
 SUMMARY:Webinar on ‘Highlights from Options XIII’
 DTSTART:20260922T130000Z
 DTEND:20260922T140000Z
-DTSTAMP:20261014T061426Z
+DTSTAMP:20261015T061453Z
 UID:d498c232017c5799@gid-seminars.wnprc.wisc.edu
 CATEGORIES:ISRV
 DESCRIPTION:22 September 2026 - 1PM - 2.30PM  GMT\, Online webinar\n\nEven
@@ -259,7 +259,7 @@ BEGIN:VEVENT
 SUMMARY:Science-Based Strategies to Support Your Immune System
 DTSTART;TZID=America/Los_Angeles:20260922T190000
 DTEND;TZID=America/Los_Angeles:20260922T200000
-DTSTAMP:20261014T061426Z
+DTSTAMP:20261015T061453Z
 UID:198f8cc9a8b9603c@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Class/Seminar
 DESCRIPTION:The immune system is a remarkably complex network of organs\, 
@@ -297,7 +297,7 @@ BEGIN:VEVENT
 SUMMARY:ANISE 8th Meeting & Mini-School
 DTSTART:20260923T000000Z
 DTEND:20260923T010000Z
-DTSTAMP:20261014T061426Z
+DTSTAMP:20261015T061453Z
 UID:b2fbdbfae5e6a959@gid-seminars.wnprc.wisc.edu
 CATEGORIES:ISRV
 DESCRIPTION:ANISE in collaboration with the Institut Pasteur de Dakar is d
@@ -320,7 +320,7 @@ BEGIN:VEVENT
 SUMMARY:TWiV 1360: Clinical Update with Dr. Daniel Griffin
 DTSTART:20260926T040000Z
 DTEND:20260926T050000Z
-DTSTAMP:20261014T061426Z
+DTSTAMP:20261015T061453Z
 UID:a7aa2407293e2a9c@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Podcast - TWiV
 DESCRIPTION:[Podcast: This Week in Virology]\n\nIn his weekly clinical upd
@@ -358,7 +358,7 @@ BEGIN:VEVENT
 SUMMARY:TWiV 1361: Ancient Viral Sword and Shield
 DTSTART:20260927T111523Z
 DTEND:20260927T121523Z
-DTSTAMP:20261014T061426Z
+DTSTAMP:20261015T061453Z
 UID:09406e4954963549@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Podcast - TWiV
 DESCRIPTION:[Podcast: This Week in Virology]\n\nTWiV explains discovery of
@@ -398,7 +398,7 @@ SUMMARY:WHO Webinar – Establishing National RSV Surveillance and Buildin
   India
 DTSTART:20260929T090000Z
 DTEND:20260929T100000Z
-DTSTAMP:20261014T061426Z
+DTSTAMP:20261015T061453Z
 UID:8a72a140e67da22b@gid-seminars.wnprc.wisc.edu
 CATEGORIES:ISRV
 DESCRIPTION:29 September 2026 - Online Webinar\, 9am - 10am CEST\n\nEvent 
@@ -421,7 +421,7 @@ BEGIN:VEVENT
 SUMMARY:Medicine Grand Rounds with Julie Parsonnet\, MD
 DTSTART;TZID=America/Los_Angeles:20260930T190000
 DTEND;TZID=America/Los_Angeles:20260930T200000
-DTSTAMP:20261014T061426Z
+DTSTAMP:20261015T061453Z
 UID:14cddda21bb2bea7@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Lecture/Presentation/Talk
 DESCRIPTION:Stanford Department of Medicine would like to invite all Stanf
@@ -448,7 +448,7 @@ SUMMARY:Understanding Latin America’s Economy in the Twenty-first Centur
  y
 DTSTART;TZID=America/Los_Angeles:20261002T203000
 DTEND;TZID=America/Los_Angeles:20261002T213000
-DTSTAMP:20261014T061426Z
+DTSTAMP:20261015T061453Z
 UID:c3d78f5dcaf5a9aa@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Lecture/Presentation/Talk
 DESCRIPTION:Latin America’s economic performance is often depicted as a 
@@ -488,7 +488,7 @@ SUMMARY:Inside JID: Translational Science and the Future of Infectious Dis
  eases
 DTSTART:20261003T000000Z
 DTEND:20261003T010000Z
-DTSTAMP:20261014T061426Z
+DTSTAMP:20261015T061453Z
 UID:e1fefdf778ccdc25@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Podcast - IDSA
 DESCRIPTION:[Podcast: Let's Talk ID] Duration: 1501\n\nWhat exactly makes 
@@ -518,7 +518,7 @@ BEGIN:VEVENT
 SUMMARY:TWiV 1362: Clinical Update with Dr. Daniel Griffin
 DTSTART:20261003T040000Z
 DTEND:20261003T050000Z
-DTSTAMP:20261014T061426Z
+DTSTAMP:20261015T061453Z
 UID:937751992a7c6bc4@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Podcast - TWiV
 DESCRIPTION:[Podcast: This Week in Virology]\n\nIn his weekly clinical upd
@@ -556,7 +556,7 @@ BEGIN:VEVENT
 SUMMARY:TWiV 1363: A Cauldron of Bats
 DTSTART:20261004T040000Z
 DTEND:20261004T050000Z
-DTSTAMP:20261014T061426Z
+DTSTAMP:20261015T061453Z
 UID:2d50c749a0935903@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Podcast - TWiV
 DESCRIPTION:[Podcast: This Week in Virology]\n\nTWiV explains a study test
@@ -593,7 +593,7 @@ BEGIN:VEVENT
 SUMMARY:Books\, Bonds\, and Bereavement: Helping Siblings Process Loss
 DTSTART;TZID=America/Los_Angeles:20261008T230000
 DTEND;TZID=America/Los_Angeles:20261009T000000
-DTSTAMP:20261014T061426Z
+DTSTAMP:20261015T061453Z
 UID:2bffbc35a31244ac@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Class/Seminar
 DESCRIPTION:OverviewThis activity explores the experiences and often-overl
@@ -640,7 +640,7 @@ BEGIN:VEVENT
 SUMMARY:TWiV 1364: Clinical Update with Dr. Daniel Griffin
 DTSTART:20261010T040000Z
 DTEND:20261010T050000Z
-DTSTAMP:20261014T061426Z
+DTSTAMP:20261015T061453Z
 UID:2f442eaefd0abfe5@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Podcast - TWiV
 DESCRIPTION:[Podcast: This Week in Virology]\n\nIn his weekly clinical upd
@@ -678,7 +678,7 @@ BEGIN:VEVENT
 SUMMARY:TWiV 1365: Andes Virus Up Close
 DTSTART:20261011T040000Z
 DTEND:20261011T050000Z
-DTSTAMP:20261014T061426Z
+DTSTAMP:20261015T061453Z
 UID:3ddc66725e866652@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Podcast - TWiV
 DESCRIPTION:[Podcast: This Week in Virology]\n\nTWiV travels to Porto\, Po
@@ -707,7 +707,7 @@ BEGIN:VEVENT
 SUMMARY:IUSTI Prague 2026 Congress
 DTSTART;TZID=America/New_York:20261014T000000
 DTEND;TZID=America/New_York:20261014T010000
-DTSTAMP:20261014T061426Z
+DTSTAMP:20261015T061453Z
 UID:b9ebb7767a4439c8@gid-seminars.wnprc.wisc.edu
 CATEGORIES:AVAC
 DESCRIPTION:\nEvent URL: https://avac.org/event/iusti-prague-2026-congress
@@ -720,37 +720,10 @@ TRIGGER:-PT1H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:WHO Health Emergencies EPI-WIN webinar: Understanding Influenza A(
- H9N2): current risks\, One Health action and pandemic preparedness
-DTSTART:20261014T103000Z
-DTEND:20261014T114500Z
-DTSTAMP:20261014T061426Z
-UID:831ec021247ec15f@gid-seminars.wnprc.wisc.edu
-CATEGORIES:WHO
-DESCRIPTION:The webinar will provide a One Health update and support aware
- ness on avian influenza A(H9N2) and provides an opportunity for engagement
-  around the emerging Strategic Framework to accelerate Quadripartite actio
- n on avian influenza.\n\nEvent URL: https://www.who.int/news-room/events/d
- etail/2026/10/14/default-calendar/who-health-emergencies-epi-win-webinar-u
- nderstanding-influenza-a(h9n2)-current-risks-one-health-action-and-pandemi
- c-preparedness\n\nSource: who_events
-LOCATION:Online/Geneva
-URL:https://www.who.int/news-room/events/detail/2026/10/14/default-calenda
- r/who-health-emergencies-epi-win-webinar-understanding-influenza-a(h9n2)-c
- urrent-risks-one-health-action-and-pandemic-preparedness
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: WHO Health Emergencies EPI-WIN webinar: Understandin
- g Influenza A(H9N2): current risks\, One Health action and pandemic prepar
- edness
-TRIGGER:-PT1H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CFAR Health Access SWG: Language Justice
 DTSTART;TZID=America/Los_Angeles:20261015T170000
 DTEND;TZID=America/Los_Angeles:20261015T180000
-DTSTAMP:20261014T061426Z
+DTSTAMP:20261015T061453Z
 UID:00ffad471ed2028d@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Fred Hutch Center for AIDS Research (CFAR)
 DESCRIPTION:Event interval: Single day event\nOnline Meeting Link: https:/
@@ -796,7 +769,7 @@ SUMMARY:HIV 101: Optimization of Management of People Who Are Newly Diagno
  sed With HIV
 DTSTART;TZID=America/Los_Angeles:20261019T120000
 DTEND;TZID=America/Los_Angeles:20261019T130000
-DTSTAMP:20261014T061426Z
+DTSTAMP:20261015T061453Z
 UID:94ed1db9858b7e1c@gid-seminars.wnprc.wisc.edu
 CATEGORIES:IAS-USA
 DESCRIPTION:\nEvent URL: https://www.iasusa.org/events/webinar-2026-hiv-10
@@ -811,11 +784,72 @@ TRIGGER:-PT1H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:PhD Dissertation Defense: Santiago Mille Fragoso
+DTSTART;TZID=America/Los_Angeles:20261019T200000
+DTEND;TZID=America/Los_Angeles:20261019T210000
+DTSTAMP:20261015T061453Z
+UID:5b66d55cf499ef46@gid-seminars.wnprc.wisc.edu
+CATEGORIES:PhD Defense
+DESCRIPTION:Title: Computational and Synthetic Design of Modular Molecular
+  Devices\n\nAbstract: Cells use molecular mechanisms to detect environment
+ al signals and convert them into functional responses. Engineering this ca
+ pability could enable programmable cell behaviors\, diagnostics\, and ther
+ apies\, yet these sensors remain difficult to adapt to new inputs and outp
+ uts. I propose new strategies for designing molecular devices\, introducin
+ g methods to design binders to proteins of interest (POIs) and a post-tran
+ scriptional mechanism that converts the binding of a molecule into an outp
+ ut\, thereby contributing complementary approaches to program the sensing
+ \, processing\, and actuation layers of synthetic molecular sensors. First
+ \, I present LIDAR (Ligand-Induced Dimerization Activating RNA editing)\, 
+ a post-transcriptional receptor platform that couples ligand-dependent pro
+ tein proximity to ADAR-mediated RNA editing. LIDAR functions across archit
+ ectures and ligand classes to produce functional outputs. Second\, I prese
+ nt Germinal\, a computational pipeline for designing antibodies for therap
+ eutic and synthetic biology applications. By jointly optimizing antibody s
+ tructure and sequence with AlphaFold-Multimer and an antibody language mod
+ el\, I generated VHH and scFv binders against four proteins using tens of 
+ tested designs per target\, with structural and mutational analyses confir
+ ming their binding modes. Finally\, I outline how these advances could con
+ verge in LIDAR-inspired synthetic receptors that couple antibody-based rec
+ ognition of intracellular proteins to RNA editing. Together\, these two pr
+ ojects establish a path toward modular molecular devices whose inputs and 
+ outputs can be selected by design.\n\nPlease contact Sofia Rakicevic-More 
+ for the Zoom link.\n\nEvent URL: https://events.stanford.edu/event/phd-dis
+ sertation-defense-santiago-mille-fragoso\n\nSource: stanford_virtual
+LOCATION:Clark Center\, S360
+URL:https://events.stanford.edu/event/phd-dissertation-defense-santiago-mi
+ lle-fragoso
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: PhD Dissertation Defense: Santiago Mille Fragoso
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Investing in Biomedical Innovation for Health and Economic Growth
+DTSTART;TZID=America/New_York:20261021T000000
+DTEND;TZID=America/New_York:20261021T010000
+DTSTAMP:20261015T061453Z
+UID:9de171fc2348a0e9@gid-seminars.wnprc.wisc.edu
+CATEGORIES:AVAC
+DESCRIPTION:\nEvent URL: https://avac.org/event/investing-biomedical-innov
+ ation-health-economic-growth/\n\nSource: avac_events
+LOCATION:Online
+URL:https://avac.org/event/investing-biomedical-innovation-health-economic
+ -growth/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Investing in Biomedical Innovation for Health and Ec
+ onomic Growth
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:WHO Health Emergencies EPI-WIN webinar: Safer Cholera treatment fa
  cilities: the latest WHO guidance on design\, construction\, WASH
 DTSTART:20261021T120000Z
 DTEND:20261021T130000Z
-DTSTAMP:20261014T061426Z
+DTSTAMP:20261015T061453Z
 UID:09337a0bf36c1dda@gid-seminars.wnprc.wisc.edu
 CATEGORIES:WHO
 DESCRIPTION:Cholera remains a major public health threat and an indicator 
@@ -842,7 +876,7 @@ BEGIN:VEVENT
 SUMMARY:Genetics Fall 2026 Colloquium
 DTSTART;TZID=America/Chicago:20261021T203000
 DTEND;TZID=America/Chicago:20261021T213000
-DTSTAMP:20261014T061426Z
+DTSTAMP:20261015T061453Z
 UID:082ff5c004327412@gid-seminars.wnprc.wisc.edu
 CATEGORIES:University - UW-Madison
 DESCRIPTION:Richard Bennett- Brown University. Candida the chameleon - gen
@@ -859,7 +893,7 @@ BEGIN:VEVENT
 SUMMARY:30th meeting of the Malaria Policy Advisory Group (MPAG)
 DTSTART:20261027T000000Z
 DTEND:20261030T000000Z
-DTSTAMP:20261014T061426Z
+DTSTAMP:20261015T061453Z
 UID:ef9a4e4968875a0f@gid-seminars.wnprc.wisc.edu
 CATEGORIES:WHO
 DESCRIPTION:The 30th meeting of the Malaria Policy Advisory Group (MPAG) w
@@ -881,7 +915,7 @@ SUMMARY:Aftershocks Roundtable: How do we rebuild our HIV and public healt
  h infrastructure?
 DTSTART;TZID=America/New_York:20261028T000000
 DTEND;TZID=America/New_York:20261028T010000
-DTSTAMP:20261014T061426Z
+DTSTAMP:20261015T061453Z
 UID:323e64c81193f619@gid-seminars.wnprc.wisc.edu
 CATEGORIES:AVAC
 DESCRIPTION:\nEvent URL: https://avac.org/event/aftershocks-roundtable-reb
@@ -900,7 +934,7 @@ BEGIN:VEVENT
 SUMMARY:23rd Annual STI & HIV Research Symposium
 DTSTART;TZID=America/Los_Angeles:20261028T160000
 DTEND;TZID=America/Los_Angeles:20261028T230000
-DTSTAMP:20261014T061426Z
+DTSTAMP:20261015T061453Z
 UID:52b9f5c8d99cc8e5@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Fred Hutch Center for AIDS Research (CFAR)
 DESCRIPTION:Event interval: Single day event\nOnline Meeting Link: https:/
@@ -945,7 +979,7 @@ SUMMARY:Diagnosis and Management of Common Opportunistic Infections in Peo
  ple With HIV
 DTSTART;TZID=America/Los_Angeles:20261103T110000
 DTEND;TZID=America/Los_Angeles:20261103T120000
-DTSTAMP:20261014T061426Z
+DTSTAMP:20261015T061453Z
 UID:789d76ae3ca65da6@gid-seminars.wnprc.wisc.edu
 CATEGORIES:IAS-USA
 DESCRIPTION:\nEvent URL: https://www.iasusa.org/events/webinar-2026-sereti
@@ -963,7 +997,7 @@ BEGIN:VEVENT
 SUMMARY:Medicine Grand Rounds with Emmanuel Mignot\, MD\, PhD
 DTSTART;TZID=America/Los_Angeles:20261104T200000
 DTEND;TZID=America/Los_Angeles:20261104T210000
-DTSTAMP:20261014T061426Z
+DTSTAMP:20261015T061453Z
 UID:b2d4dc6416a19c74@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Lecture/Presentation/Talk
 DESCRIPTION:Stanford Department of Medicine would like to invite all Stanf
@@ -988,7 +1022,7 @@ BEGIN:VEVENT
 SUMMARY:Genetics Fall 2026 Colloquium
 DTSTART;TZID=America/Chicago:20261104T213000
 DTEND;TZID=America/Chicago:20261104T223000
-DTSTAMP:20261014T061426Z
+DTSTAMP:20261015T061453Z
 UID:c4dcbeb60ac41cc9@gid-seminars.wnprc.wisc.edu
 CATEGORIES:University - UW-Madison
 DESCRIPTION:Jonathan Stefely- UW-Madison. Mechanistic biology of an infect
@@ -1005,7 +1039,7 @@ BEGIN:VEVENT
 SUMMARY:COP31 Health Pavilion
 DTSTART:20261109T000000Z
 DTEND:20261121T000000Z
-DTSTAMP:20261014T061426Z
+DTSTAMP:20261015T061453Z
 UID:a9e897348a429dd0@gid-seminars.wnprc.wisc.edu
 CATEGORIES:WHO
 DESCRIPTION:WHO in collaboration with the Wellcome Trust and the health co
@@ -1031,7 +1065,7 @@ BEGIN:VEVENT
 SUMMARY:Global Model WHO 2026
 DTSTART:20261110T000000Z
 DTEND:20261114T000000Z
-DTSTAMP:20261014T061426Z
+DTSTAMP:20261015T061453Z
 UID:25dcd60c23b29df9@gid-seminars.wnprc.wisc.edu
 CATEGORIES:WHO
 DESCRIPTION:Step into the heart of global health diplomacy at the 2026 edi
@@ -1052,7 +1086,7 @@ BEGIN:VEVENT
 SUMMARY:CFAR & PHSKC Lunchbox Talk with Carlos Gabriel Corpuz
 DTSTART;TZID=America/Los_Angeles:20261110T200000
 DTEND;TZID=America/Los_Angeles:20261110T210000
-DTSTAMP:20261014T061426Z
+DTSTAMP:20261015T061453Z
 UID:72e034abaab06947@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Fred Hutch Center for AIDS Research (CFAR)
 DESCRIPTION:Event interval: Single day event\nAccessibility Contact: cfar@
@@ -1070,7 +1104,7 @@ SUMMARY:ENT Experts Up Close: Updates in Parotid Masses and Sinonasal Mali
  gnancies
 DTSTART;TZID=America/Los_Angeles:20261110T200000
 DTEND;TZID=America/Los_Angeles:20261110T210000
-DTSTAMP:20261014T061426Z
+DTSTAMP:20261015T061453Z
 UID:47be8dd19a2912a3@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Class/Seminar
 DESCRIPTION:OverviewThis one-hour CME activity offers a concise\, evidence
@@ -1117,7 +1151,7 @@ BEGIN:VEVENT
 SUMMARY:Children and Childhood in Colonial Senegal - Kelly Duke Bryant
 DTSTART;TZID=America/Los_Angeles:20261111T200000
 DTEND;TZID=America/Los_Angeles:20261111T210000
-DTSTAMP:20261014T061426Z
+DTSTAMP:20261015T061453Z
 UID:3fc2ea15387649ca@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Lecture/Presentation/Talk
 DESCRIPTION:How did French colonial institutions seek to define\, regulate
@@ -1160,7 +1194,7 @@ BEGIN:VEVENT
 SUMMARY:Alcohol-Associated Hepatitis and Early Liver Transplantation
 DTSTART;TZID=America/Los_Angeles:20261111T200000
 DTEND;TZID=America/Los_Angeles:20261111T210000
-DTSTAMP:20261014T061426Z
+DTSTAMP:20261015T061453Z
 UID:9f6697f7b28f9a6e@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Class/Seminar
 DESCRIPTION:OverviewThis activity reviews the diagnosis and management of 
