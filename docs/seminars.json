@@ -2,12 +2,12 @@
   "metadata": {
     "title": "GID Seminars Feed",
     "description": "Aggregated seminars and webinars for Global Infectious Disease research",
-    "generated_at": "2026-10-15T06:14:53.778440Z",
+    "generated_at": "2026-10-16T06:14:35.249779Z",
     "time_window": {
       "days_behind": 30,
       "days_ahead": 30
     },
-    "total_events": 40,
+    "total_events": 38,
     "sources": [
       "astmh_events",
       "avac_events",
@@ -58,23 +58,6 @@
     ]
   },
   "events": [
-    {
-      "id": "5bd59649593224e5",
-      "title": "PhD Dissertation Defense: Eliel Akinbami",
-      "description": "Title: Reading Enzyme Function from Sequence and Structure\n\nAbstract: Enzymes are among the most proficient catalysts known \u2013 the bacterial phosphatase PafA, for example, accelerates its reaction by roughly 1027-fold relative to the uncatalyzed reaction. Yet how a linear amino-acid sequence folds into a structure that achieves this, and how mutations to individual residues tune catalytic activity, is still only partly understood. High-throughput platforms such as HT-MEK now measure the catalytic consequences of thousands of mutations in parallel, but these functional data reveal what mutant changes activity, rarely how or why. Here I use PafA as a model system to close part of that gap through two complementary studies. \n\nInitial PafA experiments revealed that some mutations far from the active site (i.e D473V) had surprisingly large impacts on substrate specificity. Here, I explain this finding by acquiring high-resolution (1.6 \u00c5) cryo-EM structures that show PafA forms a tetrameric complex in which this distal residue is closer to the active site of the neighboring protomer. Combining structural and functional data further reveals D473V alters substrate specificity by changing the conformation of a substrate-contacting residue R164.\n\nSecond, I confront a neglected confounder present in many in vitro high-throughput measurements: misfolded proteins can dramatically distort measured kinetic constants, but most high-throughput assays do not test for or quantify misfolding. To address this, I developed deFOLD (Degradation Enabled Fraction folded of On-Bead Library Displays), a bead-based proteolysis assay that can quantify the misfolded fraction of thousands of variants at once, enabling corrected kinetic parameters and a direct, scalable readout of folding that most high-throughput methods lack.\n\nTogether, these two parts of my PhD connect high-throughput functional and structural data: deFOLD explains and corrects the kinetic distortions caused by misfolding, while ",
-      "url": "https://events.stanford.edu/event/phd-dissertation-defense-eliel-akinbami",
-      "start_datetime": "2026-09-15T20:00:00",
-      "end_datetime": "2026-09-15T21:00:00",
-      "timezone": "America/Los_Angeles",
-      "location": "Stanford ChEM-H Building, E153",
-      "organizer": null,
-      "source": "stanford_virtual",
-      "category": "PhD Defense",
-      "tags": [],
-      "access_restriction": "Public",
-      "registration_url": null,
-      "recording_url": null
-    },
     {
       "id": "5a726dca2fd6a26e",
       "title": "Cyclospora cayetanensis: Reflections of a parasitologist",
@@ -384,7 +367,7 @@
     {
       "id": "2f442eaefd0abfe5",
       "title": "TWiV 1364: Clinical Update with Dr. Daniel Griffin",
-      "description": "[Podcast: This Week in Virology]\n\nIn his weekly clinical update, Daniel Griffin and Vincent Racaniello discuss their continuing struggle to understand the ongoing outbreak of cyclospora, decimation of US public health including 30% or greater loss of personnel from the CDC, continuing measles outbreaks here and aboard, a mumps outbreak in San Diego and a Hib death in Montana, criminalization of pediatricians in Texas, dengue associated death in Florida, Ebola in Kenya, a new Legionnaires outbreak, screw worm cases, and a hearing in Florida to end requirements of four vaccines including Hib and chickenpox, before Dr. Griffin deep dives into recent statistics RSV, influenza, SARS-CoV-2 infections, the continued measles outbreak in Pennsylvania, US, Canada, statistics on vaccine preventable disease mortality in children, effectiveness of adjuvanted high dose influenza vaccine and contacting your federal government representative to stop the assault on science and biomedical research. Click arrow to play Download TWiV 1364 (45 MB .mp3, 76 min) Subscribe (free): Apple Podcasts , RSS , email Become a&nbsp; patron &nbsp;of&nbsp;TWiV! Links for this episode Smallpox History and Decisive Actions of George Washington (CDC: Emerging Infectious Diseases) Christina Jewett (NY Times) Caroline Hopkins Legaspi (NY Times) F.D.A. Found Cyclospora During Taylor Farms Inspection in Mexico (NY Times) Suspected plague incident leaves 1 dead, 200 under quarantine in Siberia (CIDRAP) Dozens quarantined in Siberia after plague instit",
+      "description": "[Podcast: This Week in Virology]\n\nIn his weekly clinical update, Daniel Griffin and Vincent Racaniello discuss their continuing struggle to understand the ongoing outbreak of cyclospora, decimation of US public health including 30% or greater loss of personnel from the CDC, continuing measles outbreaks here and aboard, a mumps outbreak in San Diego and a Hib death in Montana, criminalization of pediatricians in Texas, dengue associated death in Florida, Ebola in Kenya, a new Legionnaires outbreak, screw worm cases, and a hearing in Florida to end requirements of four vaccines including Hib and chickenpox, before Dr. Griffin deep dives into recent statistics RSV, influenza, SARS-CoV-2 infections, the continued measles outbreak in Pennsylvania, US, Canada, statistics on vaccine preventable disease mortality in children, effectiveness of adjuvanted high dose influenza vaccine and contacting your federal government representative to stop the assault on science and biomedical research. Click arrow to play Download&nbsp; TWiV 1364 (45 MB .mp3, 76 min) Subscribe (free):&nbsp; Apple Podcasts , RSS ,&nbsp; email Become a&nbsp; patron &nbsp;of&nbsp;TWiV! Links for this episode Smallpox History and Decisive Actions of George Washington (CDC: Emerging Infectious Diseases) 3:46 Christina Jewett (NY Times) Caroline Hopkins Legaspi (NY Times) F.D.A. Found Cyclospora During Taylor Farms Inspection in Mexico (NY Times) 8:54 Suspected plague incident leaves 1 dead, 200 under quarantine in Siberia (CIDRAP) 11:53 Dozens quaranti",
       "url": "https://www.microbe.tv/twiv/twiv-1364/",
       "start_datetime": "2026-10-10T04:00:00",
       "end_datetime": null,
@@ -401,7 +384,7 @@
     {
       "id": "3ddc66725e866652",
       "title": "TWiV 1365: Andes Virus Up Close",
-      "description": "[Podcast: This Week in Virology]\n\nTWiV travels to Porto, Portugal for the annual meeting of the European Society for Clinical Virology, where he speaks with Catherine and Corinne about their work on the Andes virus outbreak on the MV Hondius. Host: Vincent Racaniello Guests: Catherine Houlihan and Corinne Guerts van Kessel Click arrow to play Download TWiV 1365 (34 MB .mp3, 56 min) Subscribe (free): Apple Podcasts , RSS , email Become a&nbsp; patron &nbsp;of&nbsp;TWiV! Links for this episode Support science education at MicrobeTV Transient Andes RNA detection in asymptomatic healthcare worker (Eurosurveill) Timestamps by Jolene Ramsey. Thanks! Intro music is by&nbsp; Ronald Jenkees Send your virology questions and comments to twiv@microbe.tv Content in this podcast should not be construed as medical advice. The post TWiV 1365: Andes Virus Up Close first appeared on This Week in Virology .",
+      "description": "[Podcast: This Week in Virology]\n\nTWiV travels to Porto, Portugal for the annual meeting of the European Society for Clinical Virology, where he speaks with Catherine and Corinne about their work on the Andes virus outbreak on the MV Hondius. Host:&nbsp; Vincent Racaniello Guests: Catherine Houlihan and Corinne Guerts van Kessel Click arrow to play Download TWiV 1365 (34 MB .mp3, 56 min) Subscribe (free):&nbsp; Apple Podcasts ,&nbsp; RSS ,&nbsp; email Become a&nbsp; patron &nbsp;of&nbsp;TWiV! Links for this episode Support science education at MicrobeTV Transient Andes RNA detection in asymptomatic healthcare worker (Eurosurveill) 35:30 Timestamps by&nbsp; Jolene Ramsey. Thanks! Intro music is by&nbsp; Ronald Jenkees Send your virology questions and comments to twiv@microbe.tv Content in this podcast should not be construed as medical advice. The post TWiV 1365: Andes Virus Up Close first appeared on This Week in Virology .",
       "url": "https://www.microbe.tv/twiv/twiv-1365/",
       "start_datetime": "2026-10-11T04:00:00",
       "end_datetime": null,
@@ -427,23 +410,6 @@
       "organizer": "AVAC",
       "source": "avac_events",
       "category": "AVAC",
-      "tags": [],
-      "access_restriction": "Public",
-      "registration_url": null,
-      "recording_url": null
-    },
-    {
-      "id": "00ffad471ed2028d",
-      "title": "CFAR Health Access SWG: Language Justice",
-      "description": "Event interval: Single day event\nOnline Meeting Link: https://washington.zoom.us/meeting/register/K7Dkwt-2R82qj3ZKU18mCw\nAccessibility Contact: g0201@uw.edu\nEvent Types: Lectures/Seminars\n\nRegister here!: \nhttps://washington.zoom.us/meeting/register/K7Dkwt-2R82qj3ZKU18mCw\n\nIncreasing Participation of Spanish Speakers with Limited English Proficiency (LEP) in HIV Clinical Research in the U.S.\n\nLatinx individuals account for nearly 30% of new HIV infections in the United States yet comprise less than 12% of participants in HIV clinical trials. To evaluate the structural mechanisms underlying this disparity, a qualitative needs assessment was conducted evaluating barriers, language access practices, and institutional frameworks across clinical research sites (CRSs) in the country affiliated with the National Institute of Allergy and Infectious Diseases (NIAID)-funded networks, including the HIV Vaccine Trials Network (HVTN), HIV Prevention Trials Network (HPTN), and Adolescent Medicine Trials Network (ATN). This webinar will present the preliminary results of this research contrasting ideal federal aspirations\u2014such as the revised NIH Policy and Guidelines on the Inclusion of Women and Minorities as Subjects in Clinical Research of July 2025, the Food and Drug Administration (FDA) December 2025 Guidance on broadening eligibility criteria, and the statutory protections under Title VI of the Civil Rights Act\u2014against the operational field realities reported by CRS\u2019s research personnel.\n\nSpeakers:\nPedro Goicochea, MSc, MA is a public health independent researcher with decades of experience in communications, HIV prevention, clinical research, and community engagement across the United States and Latin America. Originally from Peru, he relocated to the U.S. in 2008 to contribute to the landmark iPrEx study\u2014the first clinical trial to demonstrate the efficacy of pre-exposure prophylaxis (PrEP) in preventing HIV among men and transgender women. Since the early years of the HIV",
-      "url": "https://washington.zoom.us/meeting/register/K7Dkwt-2R82qj3ZKU18mCw",
-      "start_datetime": "2026-10-15T17:00:00",
-      "end_datetime": "2026-10-15T18:00:00",
-      "timezone": "America/Los_Angeles",
-      "location": "Online",
-      "organizer": null,
-      "source": "uw_cfar",
-      "category": "Fred Hutch Center for AIDS Research (CFAR)",
       "tags": [],
       "access_restriction": "Public",
       "registration_url": null,
@@ -571,7 +537,7 @@
     {
       "id": "52b9f5c8d99cc8e5",
       "title": "23rd Annual STI & HIV Research Symposium",
-      "description": "Event interval: Single day event\nOnline Meeting Link: https://washington.zoom.us/meeting/register/KobM-NdmTJKtwKDWANrJIA\nAccessibility Contact: Jacqueline Williamson (jwilli3@uw.edu)\nEvent Types: Conferences,Lectures/Seminars\nEvent sponsors: UW/Fred Hutch Center for AIDS Research (CFAR)\nUW Center for AIDS and STD (CFAS)\n\nThe Annual STI & HIV Research Symposium, co-hosted by the UW Center for AIDS & STD (CFAS) and the UW/Fred Hutch Center for AIDS Research (CFAR), is our premier showcase for featuring emerging HIV and STI research talent within our community. Scientific talks include a keynote speaker and early-stage investigators, who are customarily recipients of developmental awards from STI and HIV research and training programs at the UW. Representatives of community-based organizations and researchers at all career stages are encouraged to attend, network and contribute to symposium discussions.\n--------------------------------------------------------------------------------\n23rd Annual STI & HIV Research Symposium\nOctober 28, 2026, from 9:00am - 4:00pm PDT\nHarborview Research & Training Center (R&T), 300 9th Ave, Seattle, WA 98104: \nhttp://maps.google.com/?q=300+9th+Ave%2C+Seattle%2C+WA+98104\nThis event will also be livestreamed via Zoom: \nhttps://washington.zoom.us/meeting/register/KobM-NdmTJKtwKDWANrJIA. If you plan to attend virtually, please be sure to register for the Zoom session: \nhttps://washington.zoom.us/meeting/register/KobM-NdmTJKtwKDWANrJIA.\n \nThis year's event will feature...\n - A keynote presentation\n - Topical panels\n - Research talks by UW award recipients\n - Early-Stage Investigator Poster Session\nBreakfast and lunch will be provided.\n\n\nRSVP Today!: \nhttps://app.smartsheet.com/b/form/019db64a17107cde9edcdc00742f3be2\nSubmit Your Poster: \nhttps://app.smartsheet.com/b/form/019db649bd647016a4b49cfd9f11ab75",
+      "description": "Event interval: Single day event\nOnline Meeting Link: https://washington.zoom.us/meeting/register/KobM-NdmTJKtwKDWANrJIA\nAccessibility Contact: Jacqueline Williamson (jwilli3@uw.edu)\nEvent Types: Conferences,Lectures/Seminars\nEvent sponsors: UW/Fred Hutch Center for AIDS Research (CFAR)\nUW Center for AIDS and STD (CFAS)\n\nThe Annual STI & HIV Research Symposium, co-hosted by the UW Center for AIDS & STD (CFAS) and the UW/Fred Hutch Center for AIDS Research (CFAR), is our premier showcase for featuring emerging HIV and STI research talent within our community. Scientific talks include a keynote speaker and early-stage investigators, who are customarily recipients of developmental awards from STI and HIV research and training programs at the UW. Representatives of community-based organizations and researchers at all career stages are encouraged to attend, network and contribute to symposium discussions.\n--------------------------------------------------------------------------------\n23rd Annual STI & HIV Research Symposium\nOctober 28, 2026, from 9:00am - 4:00pm PDT\nHarborview Research & Training Center (R&T), 300 9th Ave, Seattle, WA 98104: \nhttp://maps.google.com/?q=300+9th+Ave%2C+Seattle%2C+WA+98104\nThis event will also be livestreamed via Zoom: \nhttps://washington.zoom.us/meeting/register/KobM-NdmTJKtwKDWANrJIA. If you plan to attend virtually, please be sure to register for the Zoom session: \nhttps://washington.zoom.us/meeting/register/KobM-NdmTJKtwKDWANrJIA.\n \nThis year's event will feature...\n - Keynote: \"Holding Fast to Discovery: Lessons from HPV Vaccine Research\" by Dr. Ruanne V. Barnabas of Harvard University and Mass General Brigham\n - Panel: \"Interventions to Address Syndemics of Substance Use Disorders, HIV, and Hepatitis C: Research Updates from CFAR Substance Use Scientific Working Group Early-Stage Investigators\"\n - Panel: \"When Community Engagement Works: How Do We Know?\"\n - Research talks by early-stage investigators and UW award recipients\n - Early-S",
       "url": "https://washington.zoom.us/meeting/register/KobM-NdmTJKtwKDWANrJIA",
       "start_datetime": "2026-10-28T16:00:00",
       "end_datetime": "2026-10-28T23:00:00",
