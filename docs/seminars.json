@@ -2,7 +2,7 @@
   "metadata": {
     "title": "GID Seminars Feed",
     "description": "Aggregated seminars and webinars for Global Infectious Disease research",
-    "generated_at": "2026-10-16T06:14:35.249779Z",
+    "generated_at": "2026-10-17T06:12:59.304547Z",
     "time_window": {
       "days_behind": 30,
       "days_ahead": 30
@@ -58,40 +58,6 @@
     ]
   },
   "events": [
-    {
-      "id": "5a726dca2fd6a26e",
-      "title": "Cyclospora cayetanensis: Reflections of a parasitologist",
-      "description": null,
-      "url": "https://tephi.texas.gov/events/event?id=c185f3a3-f6df-4224-8d90-c16d20b39a4e",
-      "start_datetime": "2026-09-16T15:00:00",
-      "end_datetime": null,
-      "timezone": "America/Chicago",
-      "location": "Virtual",
-      "organizer": "Texas EPHI",
-      "source": "tephi_events",
-      "category": "TEPHI",
-      "tags": [],
-      "access_restriction": "Public",
-      "registration_url": null,
-      "recording_url": null
-    },
-    {
-      "id": "1ba09ba6a5161db3",
-      "title": "Rubenstein Lecture: How a Tiny Worm Reveals Big Insights for Medicine",
-      "description": "Stanford Department of Medicine would like to invite all Stanford community members to attend this instance of the Medicine Grand Rounds (MGR) series, which will feature Gary Ruvkun, PhD, a molecular biologist at Massachusetts General Hospital and Professor of Genetics at Harvard Medical School who shared the 2024 Nobel Prize in Physiology or Medicine with Victor Ambros for the discovery of microRNA.\n\nCE accreditation info here.\n\nCME Activity ID: 58641\n\nMOC Credit (1): Complete this form after each session; reflective statement (1-2 sentences) required.",
-      "url": "https://events.stanford.edu/event/medicine-grand-rounds-with-gary-ruvkun-phd",
-      "start_datetime": "2026-09-16T19:00:00",
-      "end_datetime": "2026-09-16T20:00:00",
-      "timezone": "America/Los_Angeles",
-      "location": "Li Ka Shing Center, Berg Hall",
-      "organizer": null,
-      "source": "stanford_virtual",
-      "category": "Lecture/Presentation/Talk",
-      "tags": [],
-      "access_restriction": "Public",
-      "registration_url": null,
-      "recording_url": null
-    },
     {
       "id": "72ea8b04b0d8faa9",
       "title": "Upcoming Post COVID-19 Condition Educational Events Key Details for Webinars/Sessions Join our expert-led webinars, covering practical strategies for managing Post COVID-19 Condition. Format: Virtual on Zoom\ufe31Recordings available on website after sessions Target Audience: Physicians, Nurse Practitioners, Occupational Therapists, Pharmacists, Physical Therapists, Psychologists, Registered Nurses, Resident Doctors in Training, Respiratory Therapists, and other health care professionals are encouraged to attend. Patients and their families, and members of the public are also welcome. Webinar Length: 1 hour webinar sessions Access: PC / iMac / cell phone Registration: The PCC 2026 Webinar Series is now o pen! Please keep an eye out for additional webinars opening soon! Accreditation: This program is accredited. See the accreditation section below for more information. Fees: No cost to attend Register for PCC 2026 Webinar Series Latest Developments in PCC & Cardiac",
@@ -416,6 +382,23 @@
       "recording_url": null
     },
     {
+      "id": "4bf32e202f8ecdb0",
+      "title": "TWiV 1366: Clinical Update with Dr. Daniel Griffin",
+      "description": "[Podcast: This Week in Virology]\n\nIn his weekly clinical update, Daniel Griffin and Vincent Racaniello are crestfallen to learn of the 6 th measles death in Pennsylvania and more than 9000 deaths from Ebola, an enterovirus/Coxsackievirus outbreak at the University of Pennsylvania, decimation of the HIV services following withdrawal of PEPFAR and USAID, role of gut microbes in vaccine adverse events such as fever, continued raw milk consumption, and thermostable nanoparticles for mRNA vaccine delivery before Dr. Griffin deep dives into recent statistics RSV, influenza, SARS-CoV-2 infections, measles, development of a rapid diagnostic for measles, how long COVID effects sleep cycles and the microbiome, and contacting your federal government representative to stop the assault on science and biomedical research. Click arrow to play Download TWiV 1366 (37 MB .mp3, 62 min) Subscribe (free): Apple Podcasts , RSS , email Become a&nbsp; patron &nbsp;of&nbsp;TWiV! Links for this episode Hand, foot, and mouth disease cases spike at Penn this fall (The Daily Pennsylvanian) HIV service delivery after the PEPFAR and USAID HIV funding withdrawal in Uganda and Zimbabwe: an interrupted time-series study (LANCET: Global Health) The human gut microbiome primes fever after vaccination (Science) Escape to 11,100\u2019 in Rustic Luxury (HaydenBackcountry) Consumption of Unpasteurized (Raw) Milk and Milk Products by Pregnant People and Children: Policy Statement&nbsp;(Pediatrics) Raw milk poses serious infection risks with no added heal",
+      "url": "https://www.microbe.tv/twiv/twiv-1366/",
+      "start_datetime": "2026-10-17T04:00:00",
+      "end_datetime": null,
+      "timezone": "UTC",
+      "location": "Podcast",
+      "organizer": "This Week in Virology",
+      "source": "twiv_podcast",
+      "category": "Podcast - TWiV",
+      "tags": [],
+      "access_restriction": "Public",
+      "registration_url": null,
+      "recording_url": null
+    },
+    {
       "id": "94ed1db9858b7e1c",
       "title": "HIV 101: Optimization of Management of People Who Are Newly Diagnosed With HIV",
       "description": null,
@@ -458,6 +441,23 @@
       "end_datetime": null,
       "timezone": "America/New_York",
       "location": "Online",
+      "organizer": "AVAC",
+      "source": "avac_events",
+      "category": "AVAC",
+      "tags": [],
+      "access_restriction": "Public",
+      "registration_url": null,
+      "recording_url": null
+    },
+    {
+      "id": "fb7aef26b58807b2",
+      "title": "Save HIV Funding Rally",
+      "description": null,
+      "url": "https://avac.org/event/save-hiv-funding-rally/",
+      "start_datetime": "2026-10-21T00:00:00",
+      "end_datetime": null,
+      "timezone": "America/New_York",
+      "location": null,
       "organizer": "AVAC",
       "source": "avac_events",
       "category": "AVAC",
@@ -571,7 +571,7 @@
     {
       "id": "b2d4dc6416a19c74",
       "title": "Medicine Grand Rounds with Emmanuel Mignot, MD, PhD",
-      "description": "Stanford Department of Medicine would like to invite all Stanford community members to attend this instance of the Medicine Grand Rounds (MGR) series, which will feature Emmanuel Mignot, MD, PhD, a Stanford sleep medicine pioneer who discovered that narcolepsy is caused by an immune-mediated loss of brain cells \u2014 work that earned him a 2023 Breakthrough Prize in Life Sciences and the 2026 Albert Lasker Basic Medical Research Award.",
+      "description": "Stanford Department of Medicine would like to invite all Stanford community members to attend this instance of the Medicine Grand Rounds (MGR) series, which will feature Emmanuel Mignot, MD, PhD, a Stanford sleep medicine pioneer who discovered that narcolepsy is caused by an immune-mediated loss of brain cells \u2014 work that earned him a 2023 Breakthrough Prize in Life Sciences and the 2026 Albert Lasker Basic Medical Research Award.\n\nCE accreditation info here.\n\nCME Activity ID: 58648\n\nMOC Credit (1): Complete this form after each session; reflective statement (1-2 sentences) required.",
       "url": "https://events.stanford.edu/event/medicine-grand-rounds-with-emmanuel-mignot-md-phd",
       "start_datetime": "2026-11-04T20:00:00",
       "end_datetime": "2026-11-04T21:00:00",
