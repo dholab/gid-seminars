@@ -2,12 +2,12 @@
   "metadata": {
     "title": "GID Seminars Feed",
     "description": "Aggregated seminars and webinars for Global Infectious Disease research",
-    "generated_at": "2026-10-18T06:13:10.418232Z",
+    "generated_at": "2026-10-19T06:18:59.843447Z",
     "time_window": {
       "days_behind": 30,
       "days_ahead": 30
     },
-    "total_events": 39,
+    "total_events": 38,
     "sources": [
       "astmh_events",
       "avac_events",
@@ -58,40 +58,6 @@
     ]
   },
   "events": [
-    {
-      "id": "e3977cadd11a206f",
-      "title": "SDRC Friday Seminar 09.18.26",
-      "description": "Agnieszka Czechowicz, MD, PhD\nAssistant Professor, Department of Pediatrics, Stanford University\n\n\"Investigating the Immune System Through Non-Genotoxic Cell and Gene Therapies for Fanconi Anemia\"",
-      "url": "https://events.stanford.edu/event/sdrc-friday-seminar-091826",
-      "start_datetime": "2026-09-18T19:00:00",
-      "end_datetime": "2026-09-18T20:00:00",
-      "timezone": "America/Los_Angeles",
-      "location": "Beckman Center, B302",
-      "organizer": null,
-      "source": "stanford_virtual",
-      "category": "Class/Seminar",
-      "tags": [],
-      "access_restriction": "Public",
-      "registration_url": null,
-      "recording_url": null
-    },
-    {
-      "id": "d29454ab1e06e56e",
-      "title": "TWiV 1358: Clinical Update with Dr. Daniel Griffin",
-      "description": "[Podcast: This Week in Virology]\n\nIn his weekly clinical update, Daniel Griffin and Vincent Racaniello are angered by the continuous reporting of measles deaths in the US and around the world, the Ebola outbreak in Uganda, changes in reporting of virus infection and vaccine recommendations, establishing an NIH research center on vaccine harms, Legionnaires at Yankee stadium and the first time in more than half a century reporting of an equine screwworm case, and how HHS may prevent more than half of US children from getting the COVID-19 vaccine this season before Dr. Griffin deep dives into recent statistics RSV, influenza, SARS-CoV-2 infections, efficacy and safety of the 2026-2027 COVID-19 vaccine, and contacting your federal government representative to stop the assault on science and biomedical research. Click arrow to play Download&nbsp; TWiV 1358 (33 MB .mp3, 54 min) Subscribe (free):&nbsp; Apple Podcasts , RSS ,&nbsp; email Become a&nbsp; patron &nbsp;of&nbsp;TWiV! Links for this episode Unvaccinated Woman Likely Died of Measles Complications, Pa. County Coroner Says NY Times) 2:04 Confirmed death of an 18-year old due to complications of measles (Facebook: Mifflin County Coroner\u2019s Office) 3:12 CDC\u2019s new tracking method for measles deaths puzzles experts (CIDRAP) 4:51 Kennedy to deliver keynote for anti-vaccine group he once led (STATNews) 6:04 Exclusive: New NIH research center on vaccine harms takes shape (Science) 6:50 US pediatricians report seeing fewer patients because of immigration enforcement ",
-      "url": "https://www.microbe.tv/twiv/twiv-1358/",
-      "start_datetime": "2026-09-19T05:40:51",
-      "end_datetime": null,
-      "timezone": "UTC",
-      "location": "Podcast",
-      "organizer": "This Week in Virology",
-      "source": "twiv_podcast",
-      "category": "Podcast - TWiV",
-      "tags": [],
-      "access_restriction": "Public",
-      "registration_url": null,
-      "recording_url": null
-    },
     {
       "id": "9b39637d7d86970f",
       "title": "TWiV 1359: SSPE, the Long Shadow of Measles",
@@ -512,6 +478,23 @@
       "organizer": "AVAC",
       "source": "avac_events",
       "category": "AVAC",
+      "tags": [],
+      "access_restriction": "Public",
+      "registration_url": null,
+      "recording_url": null
+    },
+    {
+      "id": "d6bfcff0fa37d9a1",
+      "title": "WHO Health Emergencies EPI-WIN webinar: Preparing for respiratory virus circulation during the northern hemisphere winter season (2): Influenza and COVID-19 prevention & control",
+      "description": "This webinar focused on shielding yourself and your community from influenza and COVID-19. During this webinar, we will share new WHO resources, announce the winner of the WHO global youth competition, and will hear from individuals impacted by these respiratory viruses",
+      "url": "https://www.who.int/news-room/events/detail/2026/10/28/default-calendar/who-health-emergencies-epi-win-webinar--preparing-for-respiratory-virus-circulation-during-the-northern-hemisphere-winter-season-(2)--influenza-and-covid-19-prevention---control",
+      "start_datetime": "2026-10-28T13:00:00",
+      "end_datetime": "2026-10-28T14:00:00",
+      "timezone": "UTC",
+      "location": "Online/Geneva",
+      "organizer": "World Health Organization",
+      "source": "who_events",
+      "category": "WHO",
       "tags": [],
       "access_restriction": "Public",
       "registration_url": null,
