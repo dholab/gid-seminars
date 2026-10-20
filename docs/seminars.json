@@ -2,12 +2,12 @@
   "metadata": {
     "title": "GID Seminars Feed",
     "description": "Aggregated seminars and webinars for Global Infectious Disease research",
-    "generated_at": "2026-10-19T06:18:59.843447Z",
+    "generated_at": "2026-10-20T06:13:59.992626Z",
     "time_window": {
       "days_behind": 30,
       "days_ahead": 30
     },
-    "total_events": 38,
+    "total_events": 39,
     "sources": [
       "astmh_events",
       "avac_events",
@@ -58,23 +58,6 @@
     ]
   },
   "events": [
-    {
-      "id": "9b39637d7d86970f",
-      "title": "TWiV 1359: SSPE, the Long Shadow of Measles",
-      "description": "[Podcast: This Week in Virology]\n\nRoberto Cattaneo and Kalpana Yadav join TWiV at the 2026 meeting of the American Society for Virology to discuss how the absence of measles virus receptors in the brain selects for hyperfusogenic variants that spread neuron-to-neuron and cause subacute sclerosing panencephalitis, a rare but fatal long-term neurological sequela of measles infection. Host:&nbsp; Vincent Racaniello Guests: Roberto Cattaneo and Kalpana Yadav Click arrow to play Download TWiV 1359 (42 MB .mp3, 70 min) Subscribe (free):&nbsp; Apple Podcasts ,&nbsp; RSS ,&nbsp; email Become a&nbsp; patron &nbsp;of&nbsp;TWiV! Links for this episode Support science education at MicrobeTV 2:01 How measles virus adapts to the brain (Ann Rev Virol) Measles virus F50S change in neuronal spread (J Virol) 26:24 Measles virus collective infectious unit and SSPE (J Virol) Measles virus brain tropism acquisition (PLoS Path) 26:24 Timestamps by&nbsp; Jolene Ramsey. Thanks! Intro music is by&nbsp; Ronald Jenkees Send your virology questions and comments to twiv@microbe.tv Content in this podcast should not be construed as medical advice. The post TWiV 1359: SSPE, the Long Shadow of Measles first appeared on This Week in Virology .",
-      "url": "https://www.microbe.tv/twiv/twiv-1359/",
-      "start_datetime": "2026-09-20T05:02:32",
-      "end_datetime": null,
-      "timezone": "UTC",
-      "location": "Podcast",
-      "organizer": "This Week in Virology",
-      "source": "twiv_podcast",
-      "category": "Podcast - TWiV",
-      "tags": [],
-      "access_restriction": "Public",
-      "registration_url": null,
-      "recording_url": null
-    },
     {
       "id": "d498c232017c5799",
       "title": "Webinar on \u2018Highlights from Options XIII\u2019",
@@ -348,23 +331,6 @@
       "recording_url": null
     },
     {
-      "id": "94ed1db9858b7e1c",
-      "title": "HIV 101: Optimization of Management of People Who Are Newly Diagnosed With HIV",
-      "description": null,
-      "url": "https://www.iasusa.org/events/webinar-2026-hiv-101/",
-      "start_datetime": "2026-10-19T12:00:00",
-      "end_datetime": null,
-      "timezone": "America/Los_Angeles",
-      "location": "Online",
-      "organizer": null,
-      "source": "iasusa_webinars",
-      "category": "IAS-USA",
-      "tags": [],
-      "access_restriction": "Public",
-      "registration_url": null,
-      "recording_url": null
-    },
-    {
       "id": "5b66d55cf499ef46",
       "title": "PhD Dissertation Defense: Santiago Mille Fragoso",
       "description": "Title: Computational and Synthetic Design of Modular Molecular Devices\n\nAbstract: Cells use molecular mechanisms to detect environmental signals and convert them into functional responses. Engineering this capability could enable programmable cell behaviors, diagnostics, and therapies, yet these sensors remain difficult to adapt to new inputs and outputs. I propose new strategies for designing molecular devices, introducing methods to design binders to proteins of interest (POIs) and a post-transcriptional mechanism that converts the binding of a molecule into an output, thereby contributing complementary approaches to program the sensing, processing, and actuation layers of synthetic molecular sensors. First, I present LIDAR (Ligand-Induced Dimerization Activating RNA editing), a post-transcriptional receptor platform that couples ligand-dependent protein proximity to ADAR-mediated RNA editing. LIDAR functions across architectures and ligand classes to produce functional outputs. Second, I present Germinal, a computational pipeline for designing antibodies for therapeutic and synthetic biology applications. By jointly optimizing antibody structure and sequence with AlphaFold-Multimer and an antibody language model, I generated VHH and scFv binders against four proteins using tens of tested designs per target, with structural and mutational analyses confirming their binding modes. Finally, I outline how these advances could converge in LIDAR-inspired synthetic receptors that couple antibody-based recognition of intracellular proteins to RNA editing. Together, these two projects establish a path toward modular molecular devices whose inputs and outputs can be selected by design.\n\nPlease contact Sofia Rakicevic-More for the Zoom link.",
@@ -467,6 +433,23 @@
       "recording_url": null
     },
     {
+      "id": "7158c8f401c26389",
+      "title": "Reaching Key Populations with Long-Acting PrEP: The launch of the PrEP Power Demand Generation Toolkit",
+      "description": null,
+      "url": "https://avac.org/event/launch-prep-power-demand-generation-toolkit/",
+      "start_datetime": "2026-10-27T00:00:00",
+      "end_datetime": null,
+      "timezone": "America/New_York",
+      "location": "Online",
+      "organizer": "AVAC",
+      "source": "avac_events",
+      "category": "AVAC",
+      "tags": [],
+      "access_restriction": "Public",
+      "registration_url": null,
+      "recording_url": null
+    },
+    {
       "id": "323e64c81193f619",
       "title": "Aftershocks Roundtable: How do we rebuild our HIV and public health infrastructure?",
       "description": null,
@@ -484,10 +467,10 @@
       "recording_url": null
     },
     {
-      "id": "d6bfcff0fa37d9a1",
+      "id": "a91746e2079db08e",
       "title": "WHO Health Emergencies EPI-WIN webinar: Preparing for respiratory virus circulation during the northern hemisphere winter season (2): Influenza and COVID-19 prevention & control",
       "description": "This webinar focused on shielding yourself and your community from influenza and COVID-19. During this webinar, we will share new WHO resources, announce the winner of the WHO global youth competition, and will hear from individuals impacted by these respiratory viruses",
-      "url": "https://www.who.int/news-room/events/detail/2026/10/28/default-calendar/who-health-emergencies-epi-win-webinar--preparing-for-respiratory-virus-circulation-during-the-northern-hemisphere-winter-season-(2)--influenza-and-covid-19-prevention---control",
+      "url": "https://www.who.int/news-room/events/detail/2026/10/28/default-calendar/who-health-emergencies-epi-win-webinar-preparing-for-respiratory-virus-circulation-during-the-northern-hemisphere-winter-season-(2)-influenza-and-covid-19-prevention-control",
       "start_datetime": "2026-10-28T13:00:00",
       "end_datetime": "2026-10-28T14:00:00",
       "timezone": "UTC",
@@ -699,6 +682,40 @@
       "organizer": "World Health Organization",
       "source": "who_events",
       "category": "WHO",
+      "tags": [],
+      "access_restriction": "Public",
+      "registration_url": null,
+      "recording_url": null
+    },
+    {
+      "id": "3f7c170bf87935f7",
+      "title": "World AMR Awareness Week 2026: One Health, One Action: Prevent AMR Now",
+      "description": null,
+      "url": "https://www.who.int/news-room/events/detail/2026/11/18/default-calendar/world-amr-awareness-week-2026",
+      "start_datetime": "2026-11-18T08:00:00",
+      "end_datetime": "2026-11-24T17:00:00",
+      "timezone": "UTC",
+      "location": "Online/Geneva",
+      "organizer": "World Health Organization",
+      "source": "who_events",
+      "category": "WHO",
+      "tags": [],
+      "access_restriction": "Public",
+      "registration_url": null,
+      "recording_url": null
+    },
+    {
+      "id": "a4a9d4f0d6ec6d73",
+      "title": "Genetics Fall 2026 Colloquium",
+      "description": "Bob Johnston- Johns Hopkins University. The evolution of developmental timing in laminated, light-responsive primate retinal organoids\n\nCONTACT: mreck2@wisc.edu",
+      "url": null,
+      "start_datetime": "2026-11-18T21:30:00",
+      "end_datetime": "2026-11-18T22:30:00",
+      "timezone": "America/Chicago",
+      "location": "1441 Genetics-Biotechnology Center Building",
+      "organizer": null,
+      "source": "uw_madison_seminars",
+      "category": "University - UW-Madison",
       "tags": [],
       "access_restriction": "Public",
       "registration_url": null,
