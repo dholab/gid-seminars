@@ -7,90 +7,10 @@ X-WR-CALDESC:Aggregated seminars and webinars for Global Infectious Diseas
  e research
 X-WR-CALNAME:GID Seminars
 BEGIN:VEVENT
-SUMMARY:Webinar on ‘Highlights from Options XIII’
-DTSTART:20260922T130000Z
-DTEND:20260922T140000Z
-DTSTAMP:20261022T061435Z
-UID:d498c232017c5799@gid-seminars.wnprc.wisc.edu
-CATEGORIES:ISRV
-DESCRIPTION:22 September 2026 - 1PM - 2.30PM  GMT\, Online webinar\n\nEven
- t URL: https://www.isrv.global/events-calendar/webinar-on-highlights-from-
- options-xiii/\n\nSource: isrv_events
-LOCATION:Online
-URL:https://www.isrv.global/events-calendar/webinar-on-highlights-from-opt
- ions-xiii/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Webinar on ‘Highlights from Options XIII’
-TRIGGER:-PT1H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Science-Based Strategies to Support Your Immune System
-DTSTART;TZID=America/Los_Angeles:20260922T190000
-DTEND;TZID=America/Los_Angeles:20260922T200000
-DTSTAMP:20261022T061435Z
-UID:198f8cc9a8b9603c@gid-seminars.wnprc.wisc.edu
-CATEGORIES:Class/Seminar
-DESCRIPTION:The immune system is a remarkably complex network of organs\, 
- cells\, and chemical messengers that protects us from infection every day.
-  Yet we're constantly bombarded with products\, remedies\, and online advi
- ce claiming to "boost" immunity. How can you tell what's supported by scie
- nce and what's simply marketing?\n\nIn this noontime webinar\, you'll lear
- n how the immune system works\, how it changes as we age\, and what lifest
- yle habits truly support immune health. We'll separate fact from fiction a
- s we examine the evidence behind nutrition\, exercise\, sleep\, stress man
- agement\, supplements\, and other popular immune remedies.\n\nYou'll also 
- discover why vaccines work differently from remedies that claim to "boost"
-  immunity\, how they train the immune system to recognize specific threats
- \, and why vaccination remains one of the most effective tools for prevent
- ing serious infectious diseases.\n\nYou'll leave with practical\, evidence
- -based strategies you can use right away and a clearer understanding of wh
- at really supports a healthy immune system.\n\nThis class will be recorded
-  and a one-week link to the recording will be shared with all registered p
- articipants. \n\nTo receive incentive points\, attend at least 80% of the 
- live session or listen to the entire recording within one week.  \n\nReque
- st disability accommodations and access info.\n\nClass details are subject
-  to change.\n\nEvent URL: https://events.stanford.edu/event/science-based-
- strategies-to-support-your-immune-system\n\nSource: stanford_virtual
-LOCATION:Online
-URL:https://events.stanford.edu/event/science-based-strategies-to-support-
- your-immune-system
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Science-Based Strategies to Support Your Immune Syst
- em
-TRIGGER:-PT1H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ANISE 8th Meeting & Mini-School
-DTSTART:20260923T000000Z
-DTEND:20260923T010000Z
-DTSTAMP:20261022T061435Z
-UID:b2fbdbfae5e6a959@gid-seminars.wnprc.wisc.edu
-CATEGORIES:ISRV
-DESCRIPTION:ANISE in collaboration with the Institut Pasteur de Dakar is d
- elighted to hold the8th edition of ANISE meeting.ANISE meeting is a top sc
- ientific meeting in Africa for influenza\, RSV and other respiratory virus
- es of public health importance. The meeting brings together more than 200 
- scientists\, public health specialists\, clinicians\, academics and policy
- -makers to share findings from research and surveillance activities from m
- ember countries as part of its mission to relieve sickness and preserve \n
- \nEvent URL: https://www.isrv.global/events-calendar/anise-8th-meeting/\n
- \nSource: isrv_events
-URL:https://www.isrv.global/events-calendar/anise-8th-meeting/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: ANISE 8th Meeting & Mini-School
-TRIGGER:-PT1H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:TWiV 1360: Clinical Update with Dr. Daniel Griffin
 DTSTART:20260926T040000Z
 DTEND:20260926T050000Z
-DTSTAMP:20261022T061435Z
+DTSTAMP:20261023T061442Z
 UID:a7aa2407293e2a9c@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Podcast - TWiV
 DESCRIPTION:[Podcast: This Week in Virology]\n\nIn his weekly clinical upd
@@ -128,7 +48,7 @@ BEGIN:VEVENT
 SUMMARY:TWiV 1361: Ancient Viral Sword and Shield
 DTSTART:20260927T111523Z
 DTEND:20260927T121523Z
-DTSTAMP:20261022T061435Z
+DTSTAMP:20261023T061442Z
 UID:09406e4954963549@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Podcast - TWiV
 DESCRIPTION:[Podcast: This Week in Virology]\n\nTWiV explains discovery of
@@ -168,7 +88,7 @@ SUMMARY:WHO Webinar – Establishing National RSV Surveillance and Buildin
   India
 DTSTART:20260929T090000Z
 DTEND:20260929T100000Z
-DTSTAMP:20261022T061435Z
+DTSTAMP:20261023T061442Z
 UID:8a72a140e67da22b@gid-seminars.wnprc.wisc.edu
 CATEGORIES:ISRV
 DESCRIPTION:29 September 2026 - Online Webinar\, 9am - 10am CEST\n\nEvent 
@@ -191,7 +111,7 @@ BEGIN:VEVENT
 SUMMARY:Medicine Grand Rounds with Julie Parsonnet\, MD
 DTSTART;TZID=America/Los_Angeles:20260930T190000
 DTEND;TZID=America/Los_Angeles:20260930T200000
-DTSTAMP:20261022T061435Z
+DTSTAMP:20261023T061442Z
 UID:14cddda21bb2bea7@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Lecture/Presentation/Talk
 DESCRIPTION:Stanford Department of Medicine would like to invite all Stanf
@@ -218,7 +138,7 @@ SUMMARY:Understanding Latin America’s Economy in the Twenty-first Centur
  y
 DTSTART;TZID=America/Los_Angeles:20261002T203000
 DTEND;TZID=America/Los_Angeles:20261002T213000
-DTSTAMP:20261022T061435Z
+DTSTAMP:20261023T061442Z
 UID:c3d78f5dcaf5a9aa@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Lecture/Presentation/Talk
 DESCRIPTION:Latin America’s economic performance is often depicted as a 
@@ -258,7 +178,7 @@ SUMMARY:Inside JID: Translational Science and the Future of Infectious Dis
  eases
 DTSTART:20261003T000000Z
 DTEND:20261003T010000Z
-DTSTAMP:20261022T061435Z
+DTSTAMP:20261023T061442Z
 UID:e1fefdf778ccdc25@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Podcast - IDSA
 DESCRIPTION:[Podcast: Let's Talk ID] Duration: 1501\n\nWhat exactly makes 
@@ -288,7 +208,7 @@ BEGIN:VEVENT
 SUMMARY:TWiV 1362: Clinical Update with Dr. Daniel Griffin
 DTSTART:20261003T040000Z
 DTEND:20261003T050000Z
-DTSTAMP:20261022T061435Z
+DTSTAMP:20261023T061442Z
 UID:937751992a7c6bc4@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Podcast - TWiV
 DESCRIPTION:[Podcast: This Week in Virology]\n\nIn his weekly clinical upd
@@ -326,7 +246,7 @@ BEGIN:VEVENT
 SUMMARY:TWiV 1363: A Cauldron of Bats
 DTSTART:20261004T040000Z
 DTEND:20261004T050000Z
-DTSTAMP:20261022T061435Z
+DTSTAMP:20261023T061442Z
 UID:2d50c749a0935903@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Podcast - TWiV
 DESCRIPTION:[Podcast: This Week in Virology]\n\nTWiV explains a study test
@@ -363,7 +283,7 @@ BEGIN:VEVENT
 SUMMARY:Books\, Bonds\, and Bereavement: Helping Siblings Process Loss
 DTSTART;TZID=America/Los_Angeles:20261008T230000
 DTEND;TZID=America/Los_Angeles:20261009T000000
-DTSTAMP:20261022T061435Z
+DTSTAMP:20261023T061442Z
 UID:2bffbc35a31244ac@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Class/Seminar
 DESCRIPTION:OverviewThis activity explores the experiences and often-overl
@@ -410,7 +330,7 @@ BEGIN:VEVENT
 SUMMARY:TWiV 1364: Clinical Update with Dr. Daniel Griffin
 DTSTART:20261010T040000Z
 DTEND:20261010T050000Z
-DTSTAMP:20261022T061435Z
+DTSTAMP:20261023T061442Z
 UID:2f442eaefd0abfe5@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Podcast - TWiV
 DESCRIPTION:[Podcast: This Week in Virology]\n\nIn his weekly clinical upd
@@ -448,7 +368,7 @@ BEGIN:VEVENT
 SUMMARY:TWiV 1365: Andes Virus Up Close
 DTSTART:20261011T040000Z
 DTEND:20261011T050000Z
-DTSTAMP:20261022T061435Z
+DTSTAMP:20261023T061442Z
 UID:3ddc66725e866652@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Podcast - TWiV
 DESCRIPTION:[Podcast: This Week in Virology]\n\nTWiV travels to Porto\, Po
@@ -478,7 +398,7 @@ BEGIN:VEVENT
 SUMMARY:TWiV 1366: Clinical Update with Dr. Daniel Griffin
 DTSTART:20261017T040000Z
 DTEND:20261017T050000Z
-DTSTAMP:20261022T061435Z
+DTSTAMP:20261023T061442Z
 UID:4bf32e202f8ecdb0@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Podcast - TWiV
 DESCRIPTION:[Podcast: This Week in Virology]\n\nIn his weekly clinical upd
@@ -516,7 +436,7 @@ BEGIN:VEVENT
 SUMMARY:TWiV 1367: Turning Off Hepatitis B Virus Without Cutting its DNA
 DTSTART:20261018T040000Z
 DTEND:20261018T050000Z
-DTSTAMP:20261022T061435Z
+DTSTAMP:20261023T061442Z
 UID:3b1f2a0dfe853e15@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Podcast - TWiV
 DESCRIPTION:[Podcast: This Week in Virology]\n\nTWiV explains a study whic
@@ -553,7 +473,7 @@ BEGIN:VEVENT
 SUMMARY:PhD Dissertation Defense: Santiago Mille Fragoso
 DTSTART;TZID=America/Los_Angeles:20261019T200000
 DTEND;TZID=America/Los_Angeles:20261019T210000
-DTSTAMP:20261022T061435Z
+DTSTAMP:20261023T061442Z
 UID:5b66d55cf499ef46@gid-seminars.wnprc.wisc.edu
 CATEGORIES:PhD Defense
 DESCRIPTION:Title: Computational and Synthetic Design of Modular Molecular
@@ -596,7 +516,7 @@ SUMMARY:Plagues and Icons: The Stories that Shaped ID | Calvin Kunin: A Li
  fe in Infectious Diseases (Part 1)
 DTSTART:20261020T090000Z
 DTEND:20261020T100000Z
-DTSTAMP:20261022T061435Z
+DTSTAMP:20261023T061442Z
 UID:23cfa312bb85523d@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Podcast - IDSA
 DESCRIPTION:[Podcast: Let's Talk ID] Duration: 1895\n\nIn this episode of 
@@ -622,7 +542,7 @@ BEGIN:VEVENT
 SUMMARY:30th meeting of the Malaria Policy Advisory Group (MPAG)
 DTSTART:20261027T000000Z
 DTEND:20261030T000000Z
-DTSTAMP:20261022T061435Z
+DTSTAMP:20261023T061442Z
 UID:ef9a4e4968875a0f@gid-seminars.wnprc.wisc.edu
 CATEGORIES:WHO
 DESCRIPTION:The 30th meeting of the Malaria Policy Advisory Group (MPAG) w
@@ -644,7 +564,7 @@ SUMMARY:Reaching Key Populations with Long-Acting PrEP: The launch of the
  PrEP Power Demand Generation Toolkit
 DTSTART;TZID=America/New_York:20261027T000000
 DTEND;TZID=America/New_York:20261027T010000
-DTSTAMP:20261022T061435Z
+DTSTAMP:20261023T061442Z
 UID:7158c8f401c26389@gid-seminars.wnprc.wisc.edu
 CATEGORIES:AVAC
 DESCRIPTION:\nEvent URL: https://avac.org/event/launch-prep-power-demand-g
@@ -663,7 +583,7 @@ SUMMARY:From commitment to action: tracking progress towards universal soc
  ial protection inclusive of people with tuberculosis
 DTSTART:20261027T120000Z
 DTEND:20261027T140000Z
-DTSTAMP:20261022T061435Z
+DTSTAMP:20261023T061442Z
 UID:70a4735aa7148e12@gid-seminars.wnprc.wisc.edu
 CATEGORIES:WHO
 DESCRIPTION:WHO and the International Labour Organization (ILO) will joint
@@ -690,7 +610,7 @@ SUMMARY:Aftershocks Roundtable: How do we rebuild our HIV and public healt
  h infrastructure?
 DTSTART;TZID=America/New_York:20261028T000000
 DTEND;TZID=America/New_York:20261028T010000
-DTSTAMP:20261022T061435Z
+DTSTAMP:20261023T061442Z
 UID:323e64c81193f619@gid-seminars.wnprc.wisc.edu
 CATEGORIES:AVAC
 DESCRIPTION:\nEvent URL: https://avac.org/event/aftershocks-roundtable-reb
@@ -711,7 +631,7 @@ SUMMARY:WHO Health Emergencies EPI-WIN webinar: Preparing for respiratory
  nza and COVID-19 prevention & control
 DTSTART:20261028T130000Z
 DTEND:20261028T140000Z
-DTSTAMP:20261022T061435Z
+DTSTAMP:20261023T061442Z
 UID:a91746e2079db08e@gid-seminars.wnprc.wisc.edu
 CATEGORIES:WHO
 DESCRIPTION:This webinar focused on shielding yourself and your community 
@@ -739,7 +659,7 @@ BEGIN:VEVENT
 SUMMARY:23rd Annual STI & HIV Research Symposium
 DTSTART;TZID=America/Los_Angeles:20261028T160000
 DTEND;TZID=America/Los_Angeles:20261028T230000
-DTSTAMP:20261022T061435Z
+DTSTAMP:20261023T061442Z
 UID:52b9f5c8d99cc8e5@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Fred Hutch Center for AIDS Research (CFAR)
 DESCRIPTION:Event interval: Single day event\nOnline Meeting Link: https:/
@@ -782,10 +702,37 @@ TRIGGER:-PT1H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Medicine Grand Rounds with Emmanuel Mignot\, MD\, PhD
+DTSTART;TZID=America/Los_Angeles:20261028T190000
+DTEND;TZID=America/Los_Angeles:20261028T200000
+DTSTAMP:20261023T061442Z
+UID:b2f84ad6e55c12e0@gid-seminars.wnprc.wisc.edu
+CATEGORIES:Lecture/Presentation/Talk
+DESCRIPTION:Stanford Department of Medicine would like to invite all Stanf
+ ord community members to attend this instance of the Medicine Grand Rounds
+  (MGR) series\, which will feature Emmanuel Mignot\, MD\, PhD\, a Stanford
+  sleep medicine pioneer who discovered that narcolepsy is caused by an imm
+ une-mediated loss of brain cells — work that earned him a 2023 Breakthro
+ ugh Prize in Life Sciences and the 2026 Albert Lasker Basic Medical Resear
+ ch Award.\n\nCE accreditation info here.\n\nCME Activity ID: 58647\n\nMOC 
+ Credit (1): Complete this form after each session\; reflective statement (
+ 1-2 sentences) required.\n\nEvent URL: https://events.stanford.edu/event/m
+ edicine-grand-rounds-with-emmanuel-mignot\n\nSource: stanford_virtual
+LOCATION:Li Ka Shing Center\, Berg Hall
+URL:https://events.stanford.edu/event/medicine-grand-rounds-with-emmanuel-
+ mignot
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Medicine Grand Rounds with Emmanuel Mignot\, MD\, Ph
+ D
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Zeming Lin and Roshan Rao from Biohub - Day 1
 DTSTART;TZID=America/New_York:20261029T150000
 DTEND;TZID=America/New_York:20261029T160000
-DTSTAMP:20261022T061435Z
+DTSTAMP:20261023T061442Z
 UID:22e82769191c4a51@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Talks
 DESCRIPTION:More info for both days and livestream links at broad.io/biohu
@@ -828,11 +775,36 @@ TRIGGER:-PT1H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Oceans Seminar Series | Irene Salinas Remiro | Immunity\, Pore-For
+ ming Toxins and Vertebrate Evolution
+DTSTART;TZID=America/Los_Angeles:20261030T190000
+DTEND;TZID=America/Los_Angeles:20261030T200000
+DTSTAMP:20261023T061442Z
+UID:f88b2a90d91ab08f@gid-seminars.wnprc.wisc.edu
+CATEGORIES:Class/Seminar
+DESCRIPTION:Please join us for the next installment of our Fall Oceans Sem
+ inar Series! Irene Salinas Remiro - Immunity\, Pore-Forming Toxins and Ver
+ tebrate Evolution Where: In-person at Boatworks Lecture Hall\; livestreame
+ d to Y2E2 299When: 12:00 - 1:00 PM We look forward to seeing you there!\n
+ \nEvent URL: https://events.stanford.edu/event/oceans-seminar-series-irene
+ -salinas-remiro-immunity-pore-forming-toxins-and-vertebrate-evolution\n\nS
+ ource: stanford_virtual
+LOCATION:Hopkins Marine Station\, Boatworks
+URL:https://events.stanford.edu/event/oceans-seminar-series-irene-salinas-
+ remiro-immunity-pore-forming-toxins-and-vertebrate-evolution
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Oceans Seminar Series | Irene Salinas Remiro | Immun
+ ity\, Pore-Forming Toxins and Vertebrate Evolution
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Diagnosis and Management of Common Opportunistic Infections in Peo
  ple With HIV
 DTSTART;TZID=America/Los_Angeles:20261103T110000
 DTEND;TZID=America/Los_Angeles:20261103T120000
-DTSTAMP:20261022T061435Z
+DTSTAMP:20261023T061442Z
 UID:789d76ae3ca65da6@gid-seminars.wnprc.wisc.edu
 CATEGORIES:IAS-USA
 DESCRIPTION:\nEvent URL: https://www.iasusa.org/events/webinar-2026-sereti
@@ -847,38 +819,10 @@ TRIGGER:-PT1H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Medicine Grand Rounds with Emmanuel Mignot\, MD\, PhD
-DTSTART;TZID=America/Los_Angeles:20261104T200000
-DTEND;TZID=America/Los_Angeles:20261104T210000
-DTSTAMP:20261022T061435Z
-UID:b2d4dc6416a19c74@gid-seminars.wnprc.wisc.edu
-CATEGORIES:Lecture/Presentation/Talk
-DESCRIPTION:Stanford Department of Medicine would like to invite all Stanf
- ord community members to attend this instance of the Medicine Grand Rounds
-  (MGR) series\, which will feature Emmanuel Mignot\, MD\, PhD\, a Stanford
-  sleep medicine pioneer who discovered that narcolepsy is caused by an imm
- une-mediated loss of brain cells — work that earned him a 2023 Breakthro
- ugh Prize in Life Sciences and the 2026 Albert Lasker Basic Medical Resear
- ch Award.\n\nCE accreditation info here.\n\nCME Activity ID: 58648\n\nMOC 
- Credit (1): Complete this form after each session\; reflective statement (
- 1-2 sentences) required.\n\nEvent URL: https://events.stanford.edu/event/m
- edicine-grand-rounds-with-emmanuel-mignot-md-phd\n\nSource: stanford_virtu
- al
-LOCATION:\, Berg Hall
-URL:https://events.stanford.edu/event/medicine-grand-rounds-with-emmanuel-
- mignot-md-phd
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Medicine Grand Rounds with Emmanuel Mignot\, MD\, Ph
- D
-TRIGGER:-PT1H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Genetics Fall 2026 Colloquium
 DTSTART;TZID=America/Chicago:20261104T213000
 DTEND;TZID=America/Chicago:20261104T223000
-DTSTAMP:20261022T061435Z
+DTSTAMP:20261023T061442Z
 UID:c4dcbeb60ac41cc9@gid-seminars.wnprc.wisc.edu
 CATEGORIES:University - UW-Madison
 DESCRIPTION:Jonathan Stefely- UW-Madison. Mechanistic biology of an infect
@@ -895,7 +839,7 @@ BEGIN:VEVENT
 SUMMARY:COP31 Health Pavilion
 DTSTART:20261109T000000Z
 DTEND:20261121T000000Z
-DTSTAMP:20261022T061435Z
+DTSTAMP:20261023T061442Z
 UID:a9e897348a429dd0@gid-seminars.wnprc.wisc.edu
 CATEGORIES:WHO
 DESCRIPTION:WHO in collaboration with the Wellcome Trust and the health co
@@ -921,7 +865,7 @@ BEGIN:VEVENT
 SUMMARY:Global Model WHO 2026
 DTSTART:20261110T000000Z
 DTEND:20261114T000000Z
-DTSTAMP:20261022T061435Z
+DTSTAMP:20261023T061442Z
 UID:25dcd60c23b29df9@gid-seminars.wnprc.wisc.edu
 CATEGORIES:WHO
 DESCRIPTION:Step into the heart of global health diplomacy at the 2026 edi
@@ -943,7 +887,7 @@ SUMMARY:ENT Experts Up Close: Updates in Parotid Masses and Sinonasal Mali
  gnancies
 DTSTART;TZID=America/Los_Angeles:20261110T200000
 DTEND;TZID=America/Los_Angeles:20261110T210000
-DTSTAMP:20261022T061435Z
+DTSTAMP:20261023T061442Z
 UID:47be8dd19a2912a3@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Class/Seminar
 DESCRIPTION:OverviewThis one-hour CME activity offers a concise\, evidence
@@ -990,7 +934,7 @@ BEGIN:VEVENT
 SUMMARY:CFAR & PHSKC Lunchbox Talk with Carlos Gabriel Corpuz
 DTSTART;TZID=America/Los_Angeles:20261110T200000
 DTEND;TZID=America/Los_Angeles:20261110T210000
-DTSTAMP:20261022T061435Z
+DTSTAMP:20261023T061442Z
 UID:c7cbb6b109ff73a5@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Fred Hutch Center for AIDS Research (CFAR)
 DESCRIPTION:Event interval: Single day event\nOnline Meeting Link: https:/
@@ -1020,7 +964,7 @@ BEGIN:VEVENT
 SUMMARY:Children and Childhood in Colonial Senegal - Kelly Duke Bryant
 DTSTART;TZID=America/Los_Angeles:20261111T200000
 DTEND;TZID=America/Los_Angeles:20261111T210000
-DTSTAMP:20261022T061435Z
+DTSTAMP:20261023T061442Z
 UID:3fc2ea15387649ca@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Lecture/Presentation/Talk
 DESCRIPTION:How did French colonial institutions seek to define\, regulate
@@ -1063,7 +1007,7 @@ BEGIN:VEVENT
 SUMMARY:Alcohol-Associated Hepatitis and Early Liver Transplantation
 DTSTART;TZID=America/Los_Angeles:20261111T200000
 DTEND;TZID=America/Los_Angeles:20261111T210000
-DTSTAMP:20261022T061435Z
+DTSTAMP:20261023T061442Z
 UID:9f6697f7b28f9a6e@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Class/Seminar
 DESCRIPTION:OverviewThis activity reviews the diagnosis and management of 
@@ -1110,7 +1054,7 @@ BEGIN:VEVENT
 SUMMARY:World Cervical Cancer Elimination Day 2026
 DTSTART:20261117T000000Z
 DTEND:20261118T000000Z
-DTSTAMP:20261022T061435Z
+DTSTAMP:20261023T061442Z
 UID:b43a5926d8112ce6@gid-seminars.wnprc.wisc.edu
 CATEGORIES:WHO
 DESCRIPTION:On 17 November\, join a global movement raising awareness\, ce
@@ -1133,7 +1077,7 @@ SUMMARY:Technical consultation on MERS-CoV vaccination in camels as a One
  Health intervention
 DTSTART:20261117T000000Z
 DTEND:20261219T000000Z
-DTSTAMP:20261022T061435Z
+DTSTAMP:20261023T061442Z
 UID:493946185829f287@gid-seminars.wnprc.wisc.edu
 CATEGORIES:WHO
 DESCRIPTION:\nEvent URL: https://www.who.int/news-room/events/detail/2026/
@@ -1155,7 +1099,7 @@ SUMMARY:World AMR Awareness Week 2026: One Health\, One Action: Prevent AM
  R Now
 DTSTART:20261118T080000Z
 DTEND:20261124T170000Z
-DTSTAMP:20261022T061435Z
+DTSTAMP:20261023T061442Z
 UID:3f7c170bf87935f7@gid-seminars.wnprc.wisc.edu
 CATEGORIES:WHO
 DESCRIPTION:\nEvent URL: https://www.who.int/news-room/events/detail/2026/
@@ -1174,7 +1118,7 @@ BEGIN:VEVENT
 SUMMARY:Make a Gutsy Move for Better Health
 DTSTART;TZID=America/Los_Angeles:20261118T200000
 DTEND;TZID=America/Los_Angeles:20261118T210000
-DTSTAMP:20261022T061435Z
+DTSTAMP:20261023T061442Z
 UID:5d0633e268402a57@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Class/Seminar
 DESCRIPTION:The gut microbiome is a diverse colony of bacteria that reside
@@ -1209,7 +1153,7 @@ BEGIN:VEVENT
 SUMMARY:Genetics Fall 2026 Colloquium
 DTSTART;TZID=America/Chicago:20261118T213000
 DTEND;TZID=America/Chicago:20261118T223000
-DTSTAMP:20261022T061435Z
+DTSTAMP:20261023T061442Z
 UID:a4a9d4f0d6ec6d73@gid-seminars.wnprc.wisc.edu
 CATEGORIES:University - UW-Madison
 DESCRIPTION:Bob Johnston- Johns Hopkins University. The evolution of devel
@@ -1226,7 +1170,7 @@ BEGIN:VEVENT
 SUMMARY:Stanford Emergency Medicine Innovation Symposium - StEMI X
 DTSTART;TZID=America/Los_Angeles:20261119T170000
 DTEND;TZID=America/Los_Angeles:20261119T220000
-DTSTAMP:20261022T061435Z
+DTSTAMP:20261023T061442Z
 UID:745c471efeda7ff2@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Lecture/Presentation/Talk
 DESCRIPTION:AI is reshaping diagnosis. Digital health is redefining access
@@ -1266,7 +1210,7 @@ BEGIN:VEVENT
 SUMMARY:CFAS Seminar November 2026: TBA
 DTSTART;TZID=America/Los_Angeles:20261120T000000
 DTEND;TZID=America/Los_Angeles:20261120T010000
-DTSTAMP:20261022T061435Z
+DTSTAMP:20261023T061442Z
 UID:0ca160b69e2dafb4@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Fred Hutch Center for AIDS Research (CFAR)
 DESCRIPTION:Event interval: Single day event\nAccessibility Contact: cfas@
