@@ -2,12 +2,12 @@
   "metadata": {
     "title": "GID Seminars Feed",
     "description": "Aggregated seminars and webinars for Global Infectious Disease research",
-    "generated_at": "2026-10-23T06:14:42.486320Z",
+    "generated_at": "2026-10-24T06:13:16.429827Z",
     "time_window": {
       "days_behind": 30,
       "days_ahead": 30
     },
-    "total_events": 39,
+    "total_events": 41,
     "sources": [
       "astmh_events",
       "avac_events",
@@ -313,6 +313,23 @@
       "recording_url": null
     },
     {
+      "id": "318b236696f1c054",
+      "title": "TWiV 1368: Clinical Update with Dr. Daniel Griffin",
+      "description": "[Podcast: This Week in Virology]\n\nIn his weekly clinical update, Daniel Griffin and Vincent Racaniello are discouraged by the continuous attack on vaccines especially the birth dose of the hepatitis B virus vaccine, effects of the 2026 changes in immunization schedule, the global burden of vaccine preventable diseases including pertussis and measles, expansion of the Bundibugyo ebolavirus outbreak in Kenya, increase in rabies diagnosis in the US and screwworm cases before Dr. Griffin deep dives into recent statistics RSV, influenza, SARS-CoV-2 infections, measles including an 8% increase in confirmed cases in 1 week in the US and its history especially the Faroe Island outbreak in 1846, warnings of congenital measles, effect of Fluvoxamine and Metformin to combat fatigue of long COVID and contacting your federal government representative to stop the assault on science and biomedical research. Click arrow to play Download TWiV 1368 (33 MB .mp3, 55 min) Subscribe (free): Apple Podcasts , RSS , email Become a&nbsp; patron &nbsp;of&nbsp;TWiV! Links for this episode Kennedy\u2019s Vaccine Plan Could Cause Surge in Hepatitis B, Study Finds(NY Times) Projected Effect of 2026 Federal Changes to the Childhood Immunization Schedule on Chronic Hepatitis B Virus Infections in the United States (Annals of Internal Medicine) Highlights from the Meeting of the Strategic Advisory Group of Experts (SAGE) on Immunization (WHO) The Effect of Pertussis Vaccination During Pregnancy on Pertussis and Diphtheria Immunity in Children at 3",
+      "url": "https://www.microbe.tv/twiv/twiv-1368/",
+      "start_datetime": "2026-10-24T04:00:00",
+      "end_datetime": null,
+      "timezone": "UTC",
+      "location": "Podcast",
+      "organizer": "This Week in Virology",
+      "source": "twiv_podcast",
+      "category": "Podcast - TWiV",
+      "tags": [],
+      "access_restriction": "Public",
+      "registration_url": null,
+      "recording_url": null
+    },
+    {
       "id": "ef9a4e4968875a0f",
       "title": "30th meeting of the Malaria Policy Advisory Group (MPAG)",
       "description": "The 30th meeting of the Malaria Policy Advisory Group (MPAG) will take place on 28\u201330 October.\ufeff",
@@ -477,6 +494,23 @@
       "organizer": null,
       "source": "iasusa_webinars",
       "category": "IAS-USA",
+      "tags": [],
+      "access_restriction": "Public",
+      "registration_url": null,
+      "recording_url": null
+    },
+    {
+      "id": "93f473a3cb8215ee",
+      "title": "An Interactive Discussion with Dr. Larry Corey on the State of HIV Cure Research and Technology",
+      "description": "Event interval: Single day event\nAccessibility Contact: cfar@uw.edu\nEvent Types: Lectures/Seminars\nEvent sponsors: CFAR IRC\n\nEvent Description: The IRC core will be hosting a \u201croundtable discussion\u201d with Larry Corey after his Five-Year Review at VIDD seminar on 11/3. His seminar will be 3-4pm and we\u2019ll start the discussion shortly after.\nLocation: Pelton Auditorium, FHCC",
+      "url": null,
+      "start_datetime": "2026-11-03T23:00:00",
+      "end_datetime": "2026-11-04T00:00:00",
+      "timezone": "America/Los_Angeles",
+      "location": "Online",
+      "organizer": null,
+      "source": "uw_cfar",
+      "category": "Fred Hutch Center for AIDS Research (CFAR)",
       "tags": [],
       "access_restriction": "Public",
       "registration_url": null,
