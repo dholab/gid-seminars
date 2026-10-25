@@ -2,12 +2,12 @@
   "metadata": {
     "title": "GID Seminars Feed",
     "description": "Aggregated seminars and webinars for Global Infectious Disease research",
-    "generated_at": "2026-10-24T06:13:16.429827Z",
+    "generated_at": "2026-10-25T06:13:22.838297Z",
     "time_window": {
       "days_behind": 30,
       "days_ahead": 30
     },
-    "total_events": 41,
+    "total_events": 42,
     "sources": [
       "astmh_events",
       "avac_events",
@@ -318,6 +318,23 @@
       "description": "[Podcast: This Week in Virology]\n\nIn his weekly clinical update, Daniel Griffin and Vincent Racaniello are discouraged by the continuous attack on vaccines especially the birth dose of the hepatitis B virus vaccine, effects of the 2026 changes in immunization schedule, the global burden of vaccine preventable diseases including pertussis and measles, expansion of the Bundibugyo ebolavirus outbreak in Kenya, increase in rabies diagnosis in the US and screwworm cases before Dr. Griffin deep dives into recent statistics RSV, influenza, SARS-CoV-2 infections, measles including an 8% increase in confirmed cases in 1 week in the US and its history especially the Faroe Island outbreak in 1846, warnings of congenital measles, effect of Fluvoxamine and Metformin to combat fatigue of long COVID and contacting your federal government representative to stop the assault on science and biomedical research. Click arrow to play Download TWiV 1368 (33 MB .mp3, 55 min) Subscribe (free): Apple Podcasts , RSS , email Become a&nbsp; patron &nbsp;of&nbsp;TWiV! Links for this episode Kennedy\u2019s Vaccine Plan Could Cause Surge in Hepatitis B, Study Finds(NY Times) Projected Effect of 2026 Federal Changes to the Childhood Immunization Schedule on Chronic Hepatitis B Virus Infections in the United States (Annals of Internal Medicine) Highlights from the Meeting of the Strategic Advisory Group of Experts (SAGE) on Immunization (WHO) The Effect of Pertussis Vaccination During Pregnancy on Pertussis and Diphtheria Immunity in Children at 3",
       "url": "https://www.microbe.tv/twiv/twiv-1368/",
       "start_datetime": "2026-10-24T04:00:00",
+      "end_datetime": null,
+      "timezone": "UTC",
+      "location": "Podcast",
+      "organizer": "This Week in Virology",
+      "source": "twiv_podcast",
+      "category": "Podcast - TWiV",
+      "tags": [],
+      "access_restriction": "Public",
+      "registration_url": null,
+      "recording_url": null
+    },
+    {
+      "id": "5ef7cfd18ece7201",
+      "title": "TWiV 1369: Florida Model Makes Measles Great Again",
+      "description": "[Podcast: This Week in Virology]\n\nTWiV explains projected effects of removing school-entry vaccination requirements on measles transmission in Florida and evidence that HLA class I escape drives the evolution of SARS-CoV-2 in human populations. Hosts: Vincent Racaniello , Alan Dove , Rich Condit , Brianne Barker Click arrow to play Download TWiV 1369 (71 MB .mp3, 117 min) Subscribe (free): Apple Podcasts , RSS , email Become a&nbsp; patron &nbsp;of&nbsp;TWiV! Links for this episode Support science education at MicrobeTV Effects of removing Florida school vaccination mandates (PNAS) HLA escape drives SARS-CoV-2 evolution (PNAS) The other landscape of SARS-CoV-2 evolution (PNAS) Letters read on TWiV 1369 Timestamps by&nbsp; Jolene Ramsey. Thanks! Picks of the Week Brianne &#8211; Astronomers Discover the First Green Star Rich &#8211; Inside the Johns Hopkins Psilocybin Playlist by Marc Shapiro (2020) Alan &#8211; The Wreck of the Mentor , by Eric Jay Dolin Vincent &#8211; The Apollo 11 Code is Open Source (and its\u2019 hilarious) Intro music is by&nbsp; Ronald Jenkees Send your virology questions and comments to twiv@microbe.tv Content in this podcast should not be construed as medical advice. The post TWiV 1369: Florida Model Makes Measles Great Again first appeared on This Week in Virology .",
+      "url": "https://www.microbe.tv/twiv/twiv-1369/",
+      "start_datetime": "2026-10-25T04:00:00",
       "end_datetime": null,
       "timezone": "UTC",
       "location": "Podcast",
