@@ -7,48 +7,10 @@ X-WR-CALDESC:Aggregated seminars and webinars for Global Infectious Diseas
  e research
 X-WR-CALNAME:GID Seminars
 BEGIN:VEVENT
-SUMMARY:TWiV 1360: Clinical Update with Dr. Daniel Griffin
-DTSTART:20260926T040000Z
-DTEND:20260926T050000Z
-DTSTAMP:20261025T061322Z
-UID:a7aa2407293e2a9c@gid-seminars.wnprc.wisc.edu
-CATEGORIES:Podcast - TWiV
-DESCRIPTION:[Podcast: This Week in Virology]\n\nIn his weekly clinical upd
- ate\, Daniel Griffin and Vincent Racaniello frustration continues over the
-  increasing number of measles infections\, Kennedy’s undermining of vacc
- ines\, perpetuation of autism- vaccine\, autism-tylenol myths\, an outbrea
- k of hepatitis A virus in the US\, the Ebola outbreak in Uganda\, changes 
- in reporting of virus infection and vaccine recommendations\, Legionnaires
-  disease and screw worm cases\, and before Dr. Griffin deep dives into rec
- ent statistics RSV\, influenza\, SARS-CoV-2 infections\, economics of a me
- asles outbreak in Chicago\, what defines reactogenicity of the mRNA COVID 
- vaccines\, the on-going delay by HHS of COVID shots for children\, neurops
- ychiatric symptoms of long COVID and contacting your federal government re
- presentative to stop the assault on science and biomedical research. Click
-  arrow to play Download&nbsp\; TWiV 1360 (33 MB .mp3\, 54 min) Subscribe (
- free):&nbsp\; Apple Podcasts \, RSS \,&nbsp\; email Become a&nbsp\; patron
-  &nbsp\;of&nbsp\;TWiV! Links for this episode CDC adds 177 cases to US mea
- sles total but has yet to confirm deaths in Pennsylvania (CIDRAP) Kennedy 
- questions vaccine safety at Children’s Health Defense event (CIDRAP) 2:3
- 5 Trump says some routine immunizations will be split into five separate s
- hots. Vaccine experts say it won’t work (CNN) 5:41 Multistate Hepatitis 
- A Outbreak Potentially Linked to Frozen Clams (CDC: Hepatitis A) 10:17 Cum
- ulative Incidence and Prevalence of Autism Spectrum Disorder (JAMA Pediatr
- ics) 14:50 Data and Stat\n\nEvent URL: https://www.microbe.tv/twiv/twiv-13
- 60/\n\nSource: twiv_podcast
-LOCATION:Podcast
-URL:https://www.microbe.tv/twiv/twiv-1360/
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: TWiV 1360: Clinical Update with Dr. Daniel Griffin
-TRIGGER:-PT1H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:TWiV 1361: Ancient Viral Sword and Shield
 DTSTART:20260927T111523Z
 DTEND:20260927T121523Z
-DTSTAMP:20261025T061322Z
+DTSTAMP:20261026T061907Z
 UID:09406e4954963549@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Podcast - TWiV
 DESCRIPTION:[Podcast: This Week in Virology]\n\nTWiV explains discovery of
@@ -88,7 +50,7 @@ SUMMARY:WHO Webinar – Establishing National RSV Surveillance and Buildin
   India
 DTSTART:20260929T090000Z
 DTEND:20260929T100000Z
-DTSTAMP:20261025T061322Z
+DTSTAMP:20261026T061907Z
 UID:8a72a140e67da22b@gid-seminars.wnprc.wisc.edu
 CATEGORIES:ISRV
 DESCRIPTION:29 September 2026 - Online Webinar\, 9am - 10am CEST\n\nEvent 
@@ -111,7 +73,7 @@ BEGIN:VEVENT
 SUMMARY:Medicine Grand Rounds with Julie Parsonnet\, MD
 DTSTART;TZID=America/Los_Angeles:20260930T190000
 DTEND;TZID=America/Los_Angeles:20260930T200000
-DTSTAMP:20261025T061322Z
+DTSTAMP:20261026T061907Z
 UID:14cddda21bb2bea7@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Lecture/Presentation/Talk
 DESCRIPTION:Stanford Department of Medicine would like to invite all Stanf
@@ -138,7 +100,7 @@ SUMMARY:Understanding Latin America’s Economy in the Twenty-first Centur
  y
 DTSTART;TZID=America/Los_Angeles:20261002T203000
 DTEND;TZID=America/Los_Angeles:20261002T213000
-DTSTAMP:20261025T061322Z
+DTSTAMP:20261026T061907Z
 UID:c3d78f5dcaf5a9aa@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Lecture/Presentation/Talk
 DESCRIPTION:Latin America’s economic performance is often depicted as a 
@@ -178,7 +140,7 @@ SUMMARY:Inside JID: Translational Science and the Future of Infectious Dis
  eases
 DTSTART:20261003T000000Z
 DTEND:20261003T010000Z
-DTSTAMP:20261025T061322Z
+DTSTAMP:20261026T061907Z
 UID:e1fefdf778ccdc25@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Podcast - IDSA
 DESCRIPTION:[Podcast: Let's Talk ID] Duration: 1501\n\nWhat exactly makes 
@@ -208,7 +170,7 @@ BEGIN:VEVENT
 SUMMARY:TWiV 1362: Clinical Update with Dr. Daniel Griffin
 DTSTART:20261003T040000Z
 DTEND:20261003T050000Z
-DTSTAMP:20261025T061322Z
+DTSTAMP:20261026T061907Z
 UID:937751992a7c6bc4@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Podcast - TWiV
 DESCRIPTION:[Podcast: This Week in Virology]\n\nIn his weekly clinical upd
@@ -246,7 +208,7 @@ BEGIN:VEVENT
 SUMMARY:TWiV 1363: A Cauldron of Bats
 DTSTART:20261004T040000Z
 DTEND:20261004T050000Z
-DTSTAMP:20261025T061322Z
+DTSTAMP:20261026T061907Z
 UID:2d50c749a0935903@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Podcast - TWiV
 DESCRIPTION:[Podcast: This Week in Virology]\n\nTWiV explains a study test
@@ -283,7 +245,7 @@ BEGIN:VEVENT
 SUMMARY:Books\, Bonds\, and Bereavement: Helping Siblings Process Loss
 DTSTART;TZID=America/Los_Angeles:20261008T230000
 DTEND;TZID=America/Los_Angeles:20261009T000000
-DTSTAMP:20261025T061322Z
+DTSTAMP:20261026T061907Z
 UID:2bffbc35a31244ac@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Class/Seminar
 DESCRIPTION:OverviewThis activity explores the experiences and often-overl
@@ -330,7 +292,7 @@ BEGIN:VEVENT
 SUMMARY:TWiV 1364: Clinical Update with Dr. Daniel Griffin
 DTSTART:20261010T040000Z
 DTEND:20261010T050000Z
-DTSTAMP:20261025T061322Z
+DTSTAMP:20261026T061907Z
 UID:2f442eaefd0abfe5@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Podcast - TWiV
 DESCRIPTION:[Podcast: This Week in Virology]\n\nIn his weekly clinical upd
@@ -368,7 +330,7 @@ BEGIN:VEVENT
 SUMMARY:TWiV 1365: Andes Virus Up Close
 DTSTART:20261011T040000Z
 DTEND:20261011T050000Z
-DTSTAMP:20261025T061322Z
+DTSTAMP:20261026T061907Z
 UID:3ddc66725e866652@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Podcast - TWiV
 DESCRIPTION:[Podcast: This Week in Virology]\n\nTWiV travels to Porto\, Po
@@ -398,7 +360,7 @@ BEGIN:VEVENT
 SUMMARY:TWiV 1366: Clinical Update with Dr. Daniel Griffin
 DTSTART:20261017T040000Z
 DTEND:20261017T050000Z
-DTSTAMP:20261025T061322Z
+DTSTAMP:20261026T061907Z
 UID:4bf32e202f8ecdb0@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Podcast - TWiV
 DESCRIPTION:[Podcast: This Week in Virology]\n\nIn his weekly clinical upd
@@ -412,18 +374,18 @@ DESCRIPTION:[Podcast: This Week in Virology]\n\nIn his weekly clinical upd
  nza\, SARS-CoV-2 infections\, measles\, development of a rapid diagnostic 
  for measles\, how long COVID effects sleep cycles and the microbiome\, and
   contacting your federal government representative to stop the assault on 
- science and biomedical research. Click arrow to play Download TWiV 1366 (3
- 7 MB .mp3\, 62 min) Subscribe (free): Apple Podcasts \, RSS \, email Becom
- e a&nbsp\; patron &nbsp\;of&nbsp\;TWiV! Links for this episode Hand\, foot
- \, and mouth disease cases spike at Penn this fall (The Daily Pennsylvania
- n) HIV service delivery after the PEPFAR and USAID HIV funding withdrawal 
- in Uganda and Zimbabwe: an interrupted time-series study (LANCET: Global H
- ealth) The human gut microbiome primes fever after vaccination (Science) E
- scape to 11\,100’ in Rustic Luxury (HaydenBackcountry) Consumption of Un
- pasteurized (Raw) Milk and Milk Products by Pregnant People and Children: 
- Policy Statement&nbsp\;(Pediatrics) Raw milk poses serious infection risks
-  with no added heal\n\nEvent URL: https://www.microbe.tv/twiv/twiv-1366/\n
- \nSource: twiv_podcast
+ science and biomedical research. Click arrow to play Download&nbsp\; TWiV 
+ 1366 (37 MB .mp3\, 62 min) Subscribe (free):&nbsp\; Apple Podcasts \, RSS 
+ \,&nbsp\; email Become a&nbsp\; patron &nbsp\;of&nbsp\;TWiV! Links for thi
+ s episode Hand\, foot\, and mouth disease cases spike at Penn this fall (T
+ he Daily Pennsylvanian) 1:33 HIV service delivery after the PEPFAR and USA
+ ID HIV funding withdrawal in Uganda and Zimbabwe: an interrupted time-seri
+ es study (LANCET: Global Health) 3:40 The human gut microbiome primes feve
+ r after vaccination (Science) 6:17 Escape to 11\,100’ in Rustic Luxury (
+ HaydenBackcountry) Consumption of Unpasteurized (Raw) Milk and Milk Produc
+ ts by Pregnant People and Children: Policy Statement (Pediatrics) 11:47 Ra
+ w milk poses serious \n\nEvent URL: https://www.microbe.tv/twiv/twiv-1366/
+ \n\nSource: twiv_podcast
 LOCATION:Podcast
 URL:https://www.microbe.tv/twiv/twiv-1366/
 BEGIN:VALARM
@@ -436,7 +398,7 @@ BEGIN:VEVENT
 SUMMARY:TWiV 1367: Turning Off Hepatitis B Virus Without Cutting its DNA
 DTSTART:20261018T040000Z
 DTEND:20261018T050000Z
-DTSTAMP:20261025T061322Z
+DTSTAMP:20261026T061907Z
 UID:3b1f2a0dfe853e15@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Podcast - TWiV
 DESCRIPTION:[Podcast: This Week in Virology]\n\nTWiV explains a study whic
@@ -445,21 +407,22 @@ DESCRIPTION:[Podcast: This Week in Virology]\n\nTWiV explains a study whic
   and development of an epigenetic silencer therapy to transcriptionally in
  activate viral DNA in chronic hepatitis B. Hosts:&nbsp\; Vincent Racaniell
  o \, Rich Condit \, Kathy Spindler\, and Brianne Barker Click arrow to pla
- y Download TWiV 1367 (68 MB .mp3\, 113 min) Subscribe (free): Apple Podcas
- ts \, RSS \, email Become a&nbsp\; patron &nbsp\;of&nbsp\;TWiV! Links for 
- this episode Support science education at MicrobeTV Helen Branswell \, 69 
- (STAT) Influenza A virus and fetal immune dysregulation (Sci Adv) Epigenet
- ic silencing for hepatitis B (Nat Biomed Eng) Letters read on TWiV 1367 Ti
- mestamps by&nbsp\; Jolene Ramsey. Thanks! Picks of the Week Brianne &#8211
- \; A healing touch for coral bleaching Kathy &#8211\; Saturday Morning Phy
- sics especially The Science of Survey Research Rich &#8211\; Everything is
-  Tuberculosis by John Green Vincent &#8211\; Death by Black Hole: And Othe
- r Cosmic Quandaries by Neil deGrasse Tyson Intro music is by&nbsp\; Ronald
-  Jenkees Send your virology questions and comments to twiv@microbe.tv Cont
- ent in this podcast should not be construed as medical advice. The post TW
- iV 1367: Turning Off Hepatitis B Virus Without Cutting its DNA first appea
- red on This Week in Virology .\n\nEvent URL: https://www.microbe.tv/twiv/t
- wiv-1367/\n\nSource: twiv_podcast
+ y Download TWiV 1367 (68 MB .mp3\, 113 min) Subscribe (free):&nbsp\; Apple
+  Podcasts \,&nbsp\; RSS \,&nbsp\; email Become a&nbsp\; patron &nbsp\;of&n
+ bsp\;TWiV! Links for this episode Support science education at MicrobeTV H
+ elen Branswell \, 69 (STAT) 4:07 Influenza A virus and fetal immune dysreg
+ ulation (Sci Adv) 5:52 Epigenetic silencing for hepatitis B (Nat Biomed En
+ g) 35:45 Letters read on TWiV 1367 1:23:05 Timestamps by&nbsp\; Jolene Ram
+ sey. Thanks! Picks of the Week 1:34:20 Brianne &#8211\; A healing touch fo
+ r coral bleaching Kathy &#8211\; Saturday Morning Physics especially The S
+ cience of Survey Research Rich &#8211\; Everything is Tuberculosis by John
+  Green Vincent &#8211\; Death by Black Hole: And Other Cosmic Quandaries b
+ y Neil deGrasse Tyson Intro music is by&nbsp\; Ronald Jenkees Send your vi
+ rology questions and comments to twiv@microbe.tv Content in this podcast s
+ hould not be construed as medical advice. The post TWiV 1367: Turning Off 
+ Hepatitis B Virus Without Cutting its DNA first appeared on This Week in V
+ irology .\n\nEvent URL: https://www.microbe.tv/twiv/twiv-1367/\n\nSource: 
+ twiv_podcast
 LOCATION:Podcast
 URL:https://www.microbe.tv/twiv/twiv-1367/
 BEGIN:VALARM
@@ -473,7 +436,7 @@ BEGIN:VEVENT
 SUMMARY:PhD Dissertation Defense: Santiago Mille Fragoso
 DTSTART;TZID=America/Los_Angeles:20261019T200000
 DTEND;TZID=America/Los_Angeles:20261019T210000
-DTSTAMP:20261025T061322Z
+DTSTAMP:20261026T061907Z
 UID:5b66d55cf499ef46@gid-seminars.wnprc.wisc.edu
 CATEGORIES:PhD Defense
 DESCRIPTION:Title: Computational and Synthetic Design of Modular Molecular
@@ -516,7 +479,7 @@ SUMMARY:Plagues and Icons: The Stories that Shaped ID | Calvin Kunin: A Li
  fe in Infectious Diseases (Part 1)
 DTSTART:20261020T090000Z
 DTEND:20261020T100000Z
-DTSTAMP:20261025T061322Z
+DTSTAMP:20261026T061907Z
 UID:23cfa312bb85523d@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Podcast - IDSA
 DESCRIPTION:[Podcast: Let's Talk ID] Duration: 1895\n\nIn this episode of 
@@ -542,7 +505,7 @@ BEGIN:VEVENT
 SUMMARY:TWiV 1368: Clinical Update with Dr. Daniel Griffin
 DTSTART:20261024T040000Z
 DTEND:20261024T050000Z
-DTSTAMP:20261025T061322Z
+DTSTAMP:20261026T061907Z
 UID:318b236696f1c054@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Podcast - TWiV
 DESCRIPTION:[Podcast: This Week in Virology]\n\nIn his weekly clinical upd
@@ -550,24 +513,24 @@ DESCRIPTION:[Podcast: This Week in Virology]\n\nIn his weekly clinical upd
  ous attack on vaccines especially the birth dose of the hepatitis B virus 
  vaccine\, effects of the 2026 changes in immunization schedule\, the globa
  l burden of vaccine preventable diseases including pertussis and measles\,
-  expansion of the Bundibugyo ebolavirus outbreak in Kenya\, increase in ra
- bies diagnosis in the US and screwworm cases before Dr. Griffin deep dives
-  into recent statistics RSV\, influenza\, SARS-CoV-2 infections\, measles 
- including an 8% increase in confirmed cases in 1 week in the US and its hi
- story especially the Faroe Island outbreak in 1846\, warnings of congenita
- l measles\, effect of Fluvoxamine and Metformin to combat fatigue of long 
- COVID and contacting your federal government representative to stop the as
- sault on science and biomedical research. Click arrow to play Download TWi
- V 1368 (33 MB .mp3\, 55 min) Subscribe (free): Apple Podcasts \, RSS \, em
- ail Become a&nbsp\; patron &nbsp\;of&nbsp\;TWiV! Links for this episode Ke
- nnedy’s Vaccine Plan Could Cause Surge in Hepatitis B\, Study Finds(NY T
- imes) Projected Effect of 2026 Federal Changes to the Childhood Immunizati
- on Schedule on Chronic Hepatitis B Virus Infections in the United States (
- Annals of Internal Medicine) Highlights from the Meeting of the Strategic 
- Advisory Group of Experts (SAGE) on Immunization (WHO) The Effect of Pertu
- ssis Vaccination During Pregnancy on Pertussis and Diphtheria Immunity in 
- Children at 3\n\nEvent URL: https://www.microbe.tv/twiv/twiv-1368/\n\nSour
- ce: twiv_podcast
+  expansion of the Bundibugyo ebolavirus outbreak in Kenya\, &nbsp\;increas
+ e in rabies diagnosis in the US and screwworm cases before Dr. Griffin dee
+ p dives into recent statistics RSV\, influenza\, SARS-CoV-2 infections\, m
+ easles including an 8% increase in confirmed cases in 1 week in the US and
+  its history especially the Faroe Island outbreak in 1846\, warnings of co
+ ngenital measles\, &nbsp\;effect of Fluvoxamine and Metformin to combat fa
+ tigue of long COVID and contacting your federal government representative 
+ to stop the assault on science and biomedical research. Click arrow to pla
+ y Download&nbsp\; TWiV 1368 (33 MB .mp3\, 55 min) Subscribe (free):&nbsp\;
+  Apple Podcasts \, RSS \,&nbsp\; email Become a&nbsp\; patron &nbsp\;of&nb
+ sp\;TWiV! Links for this episode Kennedy’s Vaccine Plan Could Cause Surg
+ e in Hepatitis B\, Study Finds (NY Times) 2:15 Projected Effect of 2026 Fe
+ deral Changes to the Childhood Immunization Schedule on Chronic Hepatitis 
+ B Virus Infections in the United States (Annals of Internal Medicine) 2:45
+  Highlights from the Meeting of the Strategic Advisory Group of Experts (S
+ AGE) on Immunization (WHO) 4:14 The Effect of Pertussis Vaccination During
+  Pregnancy on Pert\n\nEvent URL: https://www.microbe.tv/twiv/twiv-1368/\n
+ \nSource: twiv_podcast
 LOCATION:Podcast
 URL:https://www.microbe.tv/twiv/twiv-1368/
 BEGIN:VALARM
@@ -580,29 +543,30 @@ BEGIN:VEVENT
 SUMMARY:TWiV 1369: Florida Model Makes Measles Great Again
 DTSTART:20261025T040000Z
 DTEND:20261025T050000Z
-DTSTAMP:20261025T061322Z
+DTSTAMP:20261026T061907Z
 UID:5ef7cfd18ece7201@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Podcast - TWiV
 DESCRIPTION:[Podcast: This Week in Virology]\n\nTWiV explains projected ef
  fects of removing school-entry vaccination requirements on measles transmi
  ssion in Florida and evidence that HLA class I escape drives the evolution
-  of SARS-CoV-2 in human populations. Hosts: Vincent Racaniello \, Alan Dov
- e \, Rich Condit \, Brianne Barker Click arrow to play Download TWiV 1369 
- (71 MB .mp3\, 117 min) Subscribe (free): Apple Podcasts \, RSS \, email Be
- come a&nbsp\; patron &nbsp\;of&nbsp\;TWiV! Links for this episode Support 
- science education at MicrobeTV Effects of removing Florida school vaccinat
- ion mandates (PNAS) HLA escape drives SARS-CoV-2 evolution (PNAS) The othe
- r landscape of SARS-CoV-2 evolution (PNAS) Letters read on TWiV 1369 Times
- tamps by&nbsp\; Jolene Ramsey. Thanks! Picks of the Week Brianne &#8211\; 
- Astronomers Discover the First Green Star Rich &#8211\; Inside the Johns H
- opkins Psilocybin Playlist by Marc Shapiro (2020) Alan &#8211\; The Wreck 
- of the Mentor \, by Eric Jay Dolin Vincent &#8211\; The Apollo 11 Code is 
- Open Source (and its’ hilarious) Intro music is by&nbsp\; Ronald Jenkees
-  Send your virology questions and comments to twiv@microbe.tv Content in t
- his podcast should not be construed as medical advice. The post TWiV 1369:
-  Florida Model Makes Measles Great Again first appeared on This Week in Vi
- rology .\n\nEvent URL: https://www.microbe.tv/twiv/twiv-1369/\n\nSource: t
- wiv_podcast
+  of SARS-CoV-2 in human populations. Hosts:&nbsp\; Vincent Racaniello \, A
+ lan Dove \, Rich Condit \, Brianne Barker Click arrow to play Download TWi
+ V 1369 (71 MB .mp3\, 117 min) Subscribe (free):&nbsp\; Apple Podcasts \,&n
+ bsp\; RSS \,&nbsp\; email Become a&nbsp\; patron &nbsp\;of&nbsp\;TWiV! Lin
+ ks for this episode Support science education at MicrobeTV 7:05 Effects of
+  removing Florida school vaccination mandates (PNAS) 7:23 HLA escape drive
+ s SARS-CoV-2 evolution (PNAS) 37:34 The other landscape of SARS-CoV-2 evol
+ ution (PNAS) 38:30 Letters read on TWiV 1369 1:21:44 Timestamps by&nbsp\; 
+ Jolene Ramsey. Thanks! Picks of the Week 1:38:41 Brianne &#8211\; Astronom
+ ers Discover the First Green Star Rich &#8211\; Inside the Johns Hopkins P
+ silocybin Playlist by Marc Shapiro (2020) Alan &#8211\; The Wreck of the M
+ entor \, by Eric Jay Dolin Vincent &#8211\; The Apollo 11 Code is Open Sou
+ rce (and its’ hilarious) Intro music is by&nbsp\; Ronald Jenkees Send yo
+ ur virology questions and comments to twiv@microbe.tv Content in this podc
+ ast should not be construed as medical advice. The post TWiV 1369: Florida
+  Model Makes Measles Great Again first appeared on This Week in Virology .
+ \n\nEvent URL: https://www.microbe.tv/twiv/twiv-1369/\n\nSource: twiv_podc
+ ast
 LOCATION:Podcast
 URL:https://www.microbe.tv/twiv/twiv-1369/
 BEGIN:VALARM
@@ -615,7 +579,7 @@ BEGIN:VEVENT
 SUMMARY:30th meeting of the Malaria Policy Advisory Group (MPAG)
 DTSTART:20261027T000000Z
 DTEND:20261030T000000Z
-DTSTAMP:20261025T061322Z
+DTSTAMP:20261026T061907Z
 UID:ef9a4e4968875a0f@gid-seminars.wnprc.wisc.edu
 CATEGORIES:WHO
 DESCRIPTION:The 30th meeting of the Malaria Policy Advisory Group (MPAG) w
@@ -637,7 +601,7 @@ SUMMARY:Reaching Key Populations with Long-Acting PrEP: The launch of the
  PrEP Power Demand Generation Toolkit
 DTSTART;TZID=America/New_York:20261027T000000
 DTEND;TZID=America/New_York:20261027T010000
-DTSTAMP:20261025T061322Z
+DTSTAMP:20261026T061907Z
 UID:7158c8f401c26389@gid-seminars.wnprc.wisc.edu
 CATEGORIES:AVAC
 DESCRIPTION:\nEvent URL: https://avac.org/event/launch-prep-power-demand-g
@@ -656,7 +620,7 @@ SUMMARY:From commitment to action: tracking progress towards universal soc
  ial protection inclusive of people with tuberculosis
 DTSTART:20261027T120000Z
 DTEND:20261027T140000Z
-DTSTAMP:20261025T061322Z
+DTSTAMP:20261026T061907Z
 UID:70a4735aa7148e12@gid-seminars.wnprc.wisc.edu
 CATEGORIES:WHO
 DESCRIPTION:WHO and the International Labour Organization (ILO) will joint
@@ -683,7 +647,7 @@ SUMMARY:Aftershocks Roundtable: How do we rebuild our HIV and public healt
  h infrastructure?
 DTSTART;TZID=America/New_York:20261028T000000
 DTEND;TZID=America/New_York:20261028T010000
-DTSTAMP:20261025T061322Z
+DTSTAMP:20261026T061907Z
 UID:323e64c81193f619@gid-seminars.wnprc.wisc.edu
 CATEGORIES:AVAC
 DESCRIPTION:\nEvent URL: https://avac.org/event/aftershocks-roundtable-reb
@@ -704,7 +668,7 @@ SUMMARY:WHO Health Emergencies EPI-WIN webinar: Preparing for respiratory
  nza and COVID-19 prevention & control
 DTSTART:20261028T130000Z
 DTEND:20261028T140000Z
-DTSTAMP:20261025T061322Z
+DTSTAMP:20261026T061907Z
 UID:a91746e2079db08e@gid-seminars.wnprc.wisc.edu
 CATEGORIES:WHO
 DESCRIPTION:This webinar focused on shielding yourself and your community 
@@ -732,7 +696,7 @@ BEGIN:VEVENT
 SUMMARY:23rd Annual STI & HIV Research Symposium
 DTSTART;TZID=America/Los_Angeles:20261028T160000
 DTEND;TZID=America/Los_Angeles:20261028T230000
-DTSTAMP:20261025T061322Z
+DTSTAMP:20261026T061907Z
 UID:52b9f5c8d99cc8e5@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Fred Hutch Center for AIDS Research (CFAR)
 DESCRIPTION:Event interval: Single day event\nOnline Meeting Link: https:/
@@ -778,7 +742,7 @@ BEGIN:VEVENT
 SUMMARY:Medicine Grand Rounds with Emmanuel Mignot\, MD\, PhD
 DTSTART;TZID=America/Los_Angeles:20261028T190000
 DTEND;TZID=America/Los_Angeles:20261028T200000
-DTSTAMP:20261025T061322Z
+DTSTAMP:20261026T061907Z
 UID:b2f84ad6e55c12e0@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Lecture/Presentation/Talk
 DESCRIPTION:Stanford Department of Medicine would like to invite all Stanf
@@ -805,7 +769,7 @@ BEGIN:VEVENT
 SUMMARY:Zeming Lin and Roshan Rao from Biohub - Day 1
 DTSTART;TZID=America/New_York:20261029T150000
 DTEND;TZID=America/New_York:20261029T160000
-DTSTAMP:20261025T061322Z
+DTSTAMP:20261026T061907Z
 UID:22e82769191c4a51@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Talks
 DESCRIPTION:More info for both days and livestream links at broad.io/biohu
@@ -852,7 +816,7 @@ SUMMARY:Oceans Seminar Series | Irene Salinas Remiro | Immunity\, Pore-For
  ming Toxins and Vertebrate Evolution
 DTSTART;TZID=America/Los_Angeles:20261030T190000
 DTEND;TZID=America/Los_Angeles:20261030T200000
-DTSTAMP:20261025T061322Z
+DTSTAMP:20261026T061907Z
 UID:f88b2a90d91ab08f@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Class/Seminar
 DESCRIPTION:Please join us for the next installment of our Fall Oceans Sem
@@ -873,11 +837,30 @@ TRIGGER:-PT1H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:SDRC Friday Seminar 10.30.26
+DTSTART;TZID=America/Los_Angeles:20261030T190000
+DTEND;TZID=America/Los_Angeles:20261030T200000
+DTSTAMP:20261026T061907Z
+UID:70d6c2681e3d0d95@gid-seminars.wnprc.wisc.edu
+CATEGORIES:Class/Seminar
+DESCRIPTION:Edgar Engleman\, MD\, PhD\nProfessor\, Dept of Pathology\, Dep
+ t of Medicine\, Stanford University\n\n"Manipulating Immune Tolerance to P
+ revent and Treat Disease"\n\nEvent URL: https://events.stanford.edu/event/
+ sdrc-friday-seminar-103026\n\nSource: stanford_virtual
+LOCATION:Beckman Center\, B302
+URL:https://events.stanford.edu/event/sdrc-friday-seminar-103026
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: SDRC Friday Seminar 10.30.26
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Diagnosis and Management of Common Opportunistic Infections in Peo
  ple With HIV
 DTSTART;TZID=America/Los_Angeles:20261103T110000
 DTEND;TZID=America/Los_Angeles:20261103T120000
-DTSTAMP:20261025T061322Z
+DTSTAMP:20261026T061907Z
 UID:789d76ae3ca65da6@gid-seminars.wnprc.wisc.edu
 CATEGORIES:IAS-USA
 DESCRIPTION:\nEvent URL: https://www.iasusa.org/events/webinar-2026-sereti
@@ -896,7 +879,7 @@ SUMMARY:An Interactive Discussion with Dr. Larry Corey on the State of HIV
   Cure Research and Technology
 DTSTART;TZID=America/Los_Angeles:20261103T230000
 DTEND;TZID=America/Los_Angeles:20261104T000000
-DTSTAMP:20261025T061322Z
+DTSTAMP:20261026T061907Z
 UID:93f473a3cb8215ee@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Fred Hutch Center for AIDS Research (CFAR)
 DESCRIPTION:Event interval: Single day event\nAccessibility Contact: cfar@
@@ -917,7 +900,7 @@ BEGIN:VEVENT
 SUMMARY:Genetics Fall 2026 Colloquium
 DTSTART;TZID=America/Chicago:20261104T213000
 DTEND;TZID=America/Chicago:20261104T223000
-DTSTAMP:20261025T061322Z
+DTSTAMP:20261026T061907Z
 UID:c4dcbeb60ac41cc9@gid-seminars.wnprc.wisc.edu
 CATEGORIES:University - UW-Madison
 DESCRIPTION:Jonathan Stefely- UW-Madison. Mechanistic biology of an infect
@@ -934,7 +917,7 @@ BEGIN:VEVENT
 SUMMARY:COP31 Health Pavilion
 DTSTART:20261109T000000Z
 DTEND:20261121T000000Z
-DTSTAMP:20261025T061322Z
+DTSTAMP:20261026T061907Z
 UID:a9e897348a429dd0@gid-seminars.wnprc.wisc.edu
 CATEGORIES:WHO
 DESCRIPTION:WHO in collaboration with the Wellcome Trust and the health co
@@ -960,7 +943,7 @@ BEGIN:VEVENT
 SUMMARY:Global Model WHO 2026
 DTSTART:20261110T000000Z
 DTEND:20261114T000000Z
-DTSTAMP:20261025T061322Z
+DTSTAMP:20261026T061907Z
 UID:25dcd60c23b29df9@gid-seminars.wnprc.wisc.edu
 CATEGORIES:WHO
 DESCRIPTION:Step into the heart of global health diplomacy at the 2026 edi
@@ -982,7 +965,7 @@ SUMMARY:ENT Experts Up Close: Updates in Parotid Masses and Sinonasal Mali
  gnancies
 DTSTART;TZID=America/Los_Angeles:20261110T200000
 DTEND;TZID=America/Los_Angeles:20261110T210000
-DTSTAMP:20261025T061322Z
+DTSTAMP:20261026T061907Z
 UID:47be8dd19a2912a3@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Class/Seminar
 DESCRIPTION:OverviewThis one-hour CME activity offers a concise\, evidence
@@ -1029,7 +1012,7 @@ BEGIN:VEVENT
 SUMMARY:CFAR & PHSKC Lunchbox Talk with Carlos Gabriel Corpuz
 DTSTART;TZID=America/Los_Angeles:20261110T200000
 DTEND;TZID=America/Los_Angeles:20261110T210000
-DTSTAMP:20261025T061322Z
+DTSTAMP:20261026T061907Z
 UID:c7cbb6b109ff73a5@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Fred Hutch Center for AIDS Research (CFAR)
 DESCRIPTION:Event interval: Single day event\nOnline Meeting Link: https:/
@@ -1059,7 +1042,7 @@ BEGIN:VEVENT
 SUMMARY:Children and Childhood in Colonial Senegal - Kelly Duke Bryant
 DTSTART;TZID=America/Los_Angeles:20261111T200000
 DTEND;TZID=America/Los_Angeles:20261111T210000
-DTSTAMP:20261025T061322Z
+DTSTAMP:20261026T061907Z
 UID:3fc2ea15387649ca@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Lecture/Presentation/Talk
 DESCRIPTION:How did French colonial institutions seek to define\, regulate
@@ -1102,7 +1085,7 @@ BEGIN:VEVENT
 SUMMARY:Alcohol-Associated Hepatitis and Early Liver Transplantation
 DTSTART;TZID=America/Los_Angeles:20261111T200000
 DTEND;TZID=America/Los_Angeles:20261111T210000
-DTSTAMP:20261025T061322Z
+DTSTAMP:20261026T061907Z
 UID:9f6697f7b28f9a6e@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Class/Seminar
 DESCRIPTION:OverviewThis activity reviews the diagnosis and management of 
@@ -1149,7 +1132,7 @@ BEGIN:VEVENT
 SUMMARY:World Cervical Cancer Elimination Day 2026
 DTSTART:20261117T000000Z
 DTEND:20261118T000000Z
-DTSTAMP:20261025T061322Z
+DTSTAMP:20261026T061907Z
 UID:b43a5926d8112ce6@gid-seminars.wnprc.wisc.edu
 CATEGORIES:WHO
 DESCRIPTION:On 17 November\, join a global movement raising awareness\, ce
@@ -1172,7 +1155,7 @@ SUMMARY:Technical consultation on MERS-CoV vaccination in camels as a One
  Health intervention
 DTSTART:20261117T000000Z
 DTEND:20261219T000000Z
-DTSTAMP:20261025T061322Z
+DTSTAMP:20261026T061907Z
 UID:493946185829f287@gid-seminars.wnprc.wisc.edu
 CATEGORIES:WHO
 DESCRIPTION:\nEvent URL: https://www.who.int/news-room/events/detail/2026/
@@ -1194,7 +1177,7 @@ SUMMARY:World AMR Awareness Week 2026: One Health\, One Action: Prevent AM
  R Now
 DTSTART:20261118T080000Z
 DTEND:20261124T170000Z
-DTSTAMP:20261025T061322Z
+DTSTAMP:20261026T061907Z
 UID:3f7c170bf87935f7@gid-seminars.wnprc.wisc.edu
 CATEGORIES:WHO
 DESCRIPTION:\nEvent URL: https://www.who.int/news-room/events/detail/2026/
@@ -1213,7 +1196,7 @@ BEGIN:VEVENT
 SUMMARY:Make a Gutsy Move for Better Health
 DTSTART;TZID=America/Los_Angeles:20261118T200000
 DTEND;TZID=America/Los_Angeles:20261118T210000
-DTSTAMP:20261025T061322Z
+DTSTAMP:20261026T061907Z
 UID:5d0633e268402a57@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Class/Seminar
 DESCRIPTION:The gut microbiome is a diverse colony of bacteria that reside
@@ -1248,7 +1231,7 @@ BEGIN:VEVENT
 SUMMARY:Genetics Fall 2026 Colloquium
 DTSTART;TZID=America/Chicago:20261118T213000
 DTEND;TZID=America/Chicago:20261118T223000
-DTSTAMP:20261025T061322Z
+DTSTAMP:20261026T061907Z
 UID:a4a9d4f0d6ec6d73@gid-seminars.wnprc.wisc.edu
 CATEGORIES:University - UW-Madison
 DESCRIPTION:Bob Johnston- Johns Hopkins University. The evolution of devel
@@ -1265,7 +1248,7 @@ BEGIN:VEVENT
 SUMMARY:Stanford Emergency Medicine Innovation Symposium - StEMI X
 DTSTART;TZID=America/Los_Angeles:20261119T170000
 DTEND;TZID=America/Los_Angeles:20261119T220000
-DTSTAMP:20261025T061322Z
+DTSTAMP:20261026T061907Z
 UID:745c471efeda7ff2@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Lecture/Presentation/Talk
 DESCRIPTION:AI is reshaping diagnosis. Digital health is redefining access
@@ -1305,7 +1288,7 @@ BEGIN:VEVENT
 SUMMARY:CFAS Seminar November 2026: TBA
 DTSTART;TZID=America/Los_Angeles:20261120T000000
 DTEND;TZID=America/Los_Angeles:20261120T010000
-DTSTAMP:20261025T061322Z
+DTSTAMP:20261026T061907Z
 UID:0ca160b69e2dafb4@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Fred Hutch Center for AIDS Research (CFAR)
 DESCRIPTION:Event interval: Single day event\nAccessibility Contact: cfas@
@@ -1321,6 +1304,23 @@ URL:http://depts.washington.edu/cfas/
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: CFAS Seminar November 2026: TBA
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HIV Management During Pregnancy and Postpartum
+DTSTART;TZID=America/Los_Angeles:20261124T120000
+DTEND;TZID=America/Los_Angeles:20261124T130000
+DTSTAMP:20261026T061907Z
+UID:1accbc9ba61edd3a@gid-seminars.wnprc.wisc.edu
+CATEGORIES:IAS-USA
+DESCRIPTION:\nEvent URL: https://www.iasusa.org/events/webinar-2026-jao/\n
+ \nSource: iasusa_webinars
+LOCATION:Online
+URL:https://www.iasusa.org/events/webinar-2026-jao/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: HIV Management During Pregnancy and Postpartum
 TRIGGER:-PT1H
 END:VALARM
 END:VEVENT

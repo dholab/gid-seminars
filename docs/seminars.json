@@ -2,12 +2,12 @@
   "metadata": {
     "title": "GID Seminars Feed",
     "description": "Aggregated seminars and webinars for Global Infectious Disease research",
-    "generated_at": "2026-10-25T06:13:22.838297Z",
+    "generated_at": "2026-10-26T06:19:07.171535Z",
     "time_window": {
       "days_behind": 30,
       "days_ahead": 30
     },
-    "total_events": 42,
+    "total_events": 43,
     "sources": [
       "astmh_events",
       "avac_events",
@@ -57,23 +57,6 @@
     ]
   },
   "events": [
-    {
-      "id": "a7aa2407293e2a9c",
-      "title": "TWiV 1360: Clinical Update with Dr. Daniel Griffin",
-      "description": "[Podcast: This Week in Virology]\n\nIn his weekly clinical update, Daniel Griffin and Vincent Racaniello frustration continues over the increasing number of measles infections, Kennedy\u2019s undermining of vaccines, perpetuation of autism- vaccine, autism-tylenol myths, an outbreak of hepatitis A virus in the US, the Ebola outbreak in Uganda, changes in reporting of virus infection and vaccine recommendations, Legionnaires disease and screw worm cases, and before Dr. Griffin deep dives into recent statistics RSV, influenza, SARS-CoV-2 infections, economics of a measles outbreak in Chicago, what defines reactogenicity of the mRNA COVID vaccines, the on-going delay by HHS of COVID shots for children, neuropsychiatric symptoms of long COVID and contacting your federal government representative to stop the assault on science and biomedical research. Click arrow to play Download&nbsp; TWiV 1360 (33 MB .mp3, 54 min) Subscribe (free):&nbsp; Apple Podcasts , RSS ,&nbsp; email Become a&nbsp; patron &nbsp;of&nbsp;TWiV! Links for this episode CDC adds 177 cases to US measles total but has yet to confirm deaths in Pennsylvania (CIDRAP) Kennedy questions vaccine safety at Children\u2019s Health Defense event (CIDRAP) 2:35 Trump says some routine immunizations will be split into five separate shots. Vaccine experts say it won\u2019t work (CNN) 5:41 Multistate Hepatitis A Outbreak Potentially Linked to Frozen Clams (CDC: Hepatitis A) 10:17 Cumulative Incidence and Prevalence of Autism Spectrum Disorder (JAMA Pediatrics) 14:50 Data and Stat",
-      "url": "https://www.microbe.tv/twiv/twiv-1360/",
-      "start_datetime": "2026-09-26T04:00:00",
-      "end_datetime": null,
-      "timezone": "UTC",
-      "location": "Podcast",
-      "organizer": "This Week in Virology",
-      "source": "twiv_podcast",
-      "category": "Podcast - TWiV",
-      "tags": [],
-      "access_restriction": "Public",
-      "registration_url": null,
-      "recording_url": null
-    },
     {
       "id": "09406e4954963549",
       "title": "TWiV 1361: Ancient Viral Sword and Shield",
@@ -247,7 +230,7 @@
     {
       "id": "4bf32e202f8ecdb0",
       "title": "TWiV 1366: Clinical Update with Dr. Daniel Griffin",
-      "description": "[Podcast: This Week in Virology]\n\nIn his weekly clinical update, Daniel Griffin and Vincent Racaniello are crestfallen to learn of the 6 th measles death in Pennsylvania and more than 9000 deaths from Ebola, an enterovirus/Coxsackievirus outbreak at the University of Pennsylvania, decimation of the HIV services following withdrawal of PEPFAR and USAID, role of gut microbes in vaccine adverse events such as fever, continued raw milk consumption, and thermostable nanoparticles for mRNA vaccine delivery before Dr. Griffin deep dives into recent statistics RSV, influenza, SARS-CoV-2 infections, measles, development of a rapid diagnostic for measles, how long COVID effects sleep cycles and the microbiome, and contacting your federal government representative to stop the assault on science and biomedical research. Click arrow to play Download TWiV 1366 (37 MB .mp3, 62 min) Subscribe (free): Apple Podcasts , RSS , email Become a&nbsp; patron &nbsp;of&nbsp;TWiV! Links for this episode Hand, foot, and mouth disease cases spike at Penn this fall (The Daily Pennsylvanian) HIV service delivery after the PEPFAR and USAID HIV funding withdrawal in Uganda and Zimbabwe: an interrupted time-series study (LANCET: Global Health) The human gut microbiome primes fever after vaccination (Science) Escape to 11,100\u2019 in Rustic Luxury (HaydenBackcountry) Consumption of Unpasteurized (Raw) Milk and Milk Products by Pregnant People and Children: Policy Statement&nbsp;(Pediatrics) Raw milk poses serious infection risks with no added heal",
+      "description": "[Podcast: This Week in Virology]\n\nIn his weekly clinical update, Daniel Griffin and Vincent Racaniello are crestfallen to learn of the 6 th measles death in Pennsylvania and more than 9000 deaths from Ebola, an enterovirus/Coxsackievirus outbreak at the University of Pennsylvania, decimation of the HIV services following withdrawal of PEPFAR and USAID, role of gut microbes in vaccine adverse events such as fever, continued raw milk consumption, and thermostable nanoparticles for mRNA vaccine delivery before Dr. Griffin deep dives into recent statistics RSV, influenza, SARS-CoV-2 infections, measles, development of a rapid diagnostic for measles, how long COVID effects sleep cycles and the microbiome, and contacting your federal government representative to stop the assault on science and biomedical research. Click arrow to play Download&nbsp; TWiV 1366 (37 MB .mp3, 62 min) Subscribe (free):&nbsp; Apple Podcasts , RSS ,&nbsp; email Become a&nbsp; patron &nbsp;of&nbsp;TWiV! Links for this episode Hand, foot, and mouth disease cases spike at Penn this fall (The Daily Pennsylvanian) 1:33 HIV service delivery after the PEPFAR and USAID HIV funding withdrawal in Uganda and Zimbabwe: an interrupted time-series study (LANCET: Global Health) 3:40 The human gut microbiome primes fever after vaccination (Science) 6:17 Escape to 11,100\u2019 in Rustic Luxury (HaydenBackcountry) Consumption of Unpasteurized (Raw) Milk and Milk Products by Pregnant People and Children: Policy Statement (Pediatrics) 11:47 Raw milk poses serious ",
       "url": "https://www.microbe.tv/twiv/twiv-1366/",
       "start_datetime": "2026-10-17T04:00:00",
       "end_datetime": null,
@@ -264,7 +247,7 @@
     {
       "id": "3b1f2a0dfe853e15",
       "title": "TWiV 1367: Turning Off Hepatitis B Virus Without Cutting its DNA",
-      "description": "[Podcast: This Week in Virology]\n\nTWiV explains a study which shows that influenza A virus infection induces immune dysregulation in the placenta and fetus without vertical transmission in nonhuman primates, and development of an epigenetic silencer therapy to transcriptionally inactivate viral DNA in chronic hepatitis B. Hosts:&nbsp; Vincent Racaniello , Rich Condit , Kathy Spindler, and Brianne Barker Click arrow to play Download TWiV 1367 (68 MB .mp3, 113 min) Subscribe (free): Apple Podcasts , RSS , email Become a&nbsp; patron &nbsp;of&nbsp;TWiV! Links for this episode Support science education at MicrobeTV Helen Branswell , 69 (STAT) Influenza A virus and fetal immune dysregulation (Sci Adv) Epigenetic silencing for hepatitis B (Nat Biomed Eng) Letters read on TWiV 1367 Timestamps by&nbsp; Jolene Ramsey. Thanks! Picks of the Week Brianne &#8211; A healing touch for coral bleaching Kathy &#8211; Saturday Morning Physics especially The Science of Survey Research Rich &#8211; Everything is Tuberculosis by John Green Vincent &#8211; Death by Black Hole: And Other Cosmic Quandaries by Neil deGrasse Tyson Intro music is by&nbsp; Ronald Jenkees Send your virology questions and comments to twiv@microbe.tv Content in this podcast should not be construed as medical advice. The post TWiV 1367: Turning Off Hepatitis B Virus Without Cutting its DNA first appeared on This Week in Virology .",
+      "description": "[Podcast: This Week in Virology]\n\nTWiV explains a study which shows that influenza A virus infection induces immune dysregulation in the placenta and fetus without vertical transmission in nonhuman primates, and development of an epigenetic silencer therapy to transcriptionally inactivate viral DNA in chronic hepatitis B. Hosts:&nbsp; Vincent Racaniello , Rich Condit , Kathy Spindler, and Brianne Barker Click arrow to play Download TWiV 1367 (68 MB .mp3, 113 min) Subscribe (free):&nbsp; Apple Podcasts ,&nbsp; RSS ,&nbsp; email Become a&nbsp; patron &nbsp;of&nbsp;TWiV! Links for this episode Support science education at MicrobeTV Helen Branswell , 69 (STAT) 4:07 Influenza A virus and fetal immune dysregulation (Sci Adv) 5:52 Epigenetic silencing for hepatitis B (Nat Biomed Eng) 35:45 Letters read on TWiV 1367 1:23:05 Timestamps by&nbsp; Jolene Ramsey. Thanks! Picks of the Week 1:34:20 Brianne &#8211; A healing touch for coral bleaching Kathy &#8211; Saturday Morning Physics especially The Science of Survey Research Rich &#8211; Everything is Tuberculosis by John Green Vincent &#8211; Death by Black Hole: And Other Cosmic Quandaries by Neil deGrasse Tyson Intro music is by&nbsp; Ronald Jenkees Send your virology questions and comments to twiv@microbe.tv Content in this podcast should not be construed as medical advice. The post TWiV 1367: Turning Off Hepatitis B Virus Without Cutting its DNA first appeared on This Week in Virology .",
       "url": "https://www.microbe.tv/twiv/twiv-1367/",
       "start_datetime": "2026-10-18T04:00:00",
       "end_datetime": null,
@@ -315,7 +298,7 @@
     {
       "id": "318b236696f1c054",
       "title": "TWiV 1368: Clinical Update with Dr. Daniel Griffin",
-      "description": "[Podcast: This Week in Virology]\n\nIn his weekly clinical update, Daniel Griffin and Vincent Racaniello are discouraged by the continuous attack on vaccines especially the birth dose of the hepatitis B virus vaccine, effects of the 2026 changes in immunization schedule, the global burden of vaccine preventable diseases including pertussis and measles, expansion of the Bundibugyo ebolavirus outbreak in Kenya, increase in rabies diagnosis in the US and screwworm cases before Dr. Griffin deep dives into recent statistics RSV, influenza, SARS-CoV-2 infections, measles including an 8% increase in confirmed cases in 1 week in the US and its history especially the Faroe Island outbreak in 1846, warnings of congenital measles, effect of Fluvoxamine and Metformin to combat fatigue of long COVID and contacting your federal government representative to stop the assault on science and biomedical research. Click arrow to play Download TWiV 1368 (33 MB .mp3, 55 min) Subscribe (free): Apple Podcasts , RSS , email Become a&nbsp; patron &nbsp;of&nbsp;TWiV! Links for this episode Kennedy\u2019s Vaccine Plan Could Cause Surge in Hepatitis B, Study Finds(NY Times) Projected Effect of 2026 Federal Changes to the Childhood Immunization Schedule on Chronic Hepatitis B Virus Infections in the United States (Annals of Internal Medicine) Highlights from the Meeting of the Strategic Advisory Group of Experts (SAGE) on Immunization (WHO) The Effect of Pertussis Vaccination During Pregnancy on Pertussis and Diphtheria Immunity in Children at 3",
+      "description": "[Podcast: This Week in Virology]\n\nIn his weekly clinical update, Daniel Griffin and Vincent Racaniello are discouraged by the continuous attack on vaccines especially the birth dose of the hepatitis B virus vaccine, effects of the 2026 changes in immunization schedule, the global burden of vaccine preventable diseases including pertussis and measles, expansion of the Bundibugyo ebolavirus outbreak in Kenya, &nbsp;increase in rabies diagnosis in the US and screwworm cases before Dr. Griffin deep dives into recent statistics RSV, influenza, SARS-CoV-2 infections, measles including an 8% increase in confirmed cases in 1 week in the US and its history especially the Faroe Island outbreak in 1846, warnings of congenital measles, &nbsp;effect of Fluvoxamine and Metformin to combat fatigue of long COVID and contacting your federal government representative to stop the assault on science and biomedical research. Click arrow to play Download&nbsp; TWiV 1368 (33 MB .mp3, 55 min) Subscribe (free):&nbsp; Apple Podcasts , RSS ,&nbsp; email Become a&nbsp; patron &nbsp;of&nbsp;TWiV! Links for this episode Kennedy\u2019s Vaccine Plan Could Cause Surge in Hepatitis B, Study Finds (NY Times) 2:15 Projected Effect of 2026 Federal Changes to the Childhood Immunization Schedule on Chronic Hepatitis B Virus Infections in the United States (Annals of Internal Medicine) 2:45 Highlights from the Meeting of the Strategic Advisory Group of Experts (SAGE) on Immunization (WHO) 4:14 The Effect of Pertussis Vaccination During Pregnancy on Pert",
       "url": "https://www.microbe.tv/twiv/twiv-1368/",
       "start_datetime": "2026-10-24T04:00:00",
       "end_datetime": null,
@@ -332,7 +315,7 @@
     {
       "id": "5ef7cfd18ece7201",
       "title": "TWiV 1369: Florida Model Makes Measles Great Again",
-      "description": "[Podcast: This Week in Virology]\n\nTWiV explains projected effects of removing school-entry vaccination requirements on measles transmission in Florida and evidence that HLA class I escape drives the evolution of SARS-CoV-2 in human populations. Hosts: Vincent Racaniello , Alan Dove , Rich Condit , Brianne Barker Click arrow to play Download TWiV 1369 (71 MB .mp3, 117 min) Subscribe (free): Apple Podcasts , RSS , email Become a&nbsp; patron &nbsp;of&nbsp;TWiV! Links for this episode Support science education at MicrobeTV Effects of removing Florida school vaccination mandates (PNAS) HLA escape drives SARS-CoV-2 evolution (PNAS) The other landscape of SARS-CoV-2 evolution (PNAS) Letters read on TWiV 1369 Timestamps by&nbsp; Jolene Ramsey. Thanks! Picks of the Week Brianne &#8211; Astronomers Discover the First Green Star Rich &#8211; Inside the Johns Hopkins Psilocybin Playlist by Marc Shapiro (2020) Alan &#8211; The Wreck of the Mentor , by Eric Jay Dolin Vincent &#8211; The Apollo 11 Code is Open Source (and its\u2019 hilarious) Intro music is by&nbsp; Ronald Jenkees Send your virology questions and comments to twiv@microbe.tv Content in this podcast should not be construed as medical advice. The post TWiV 1369: Florida Model Makes Measles Great Again first appeared on This Week in Virology .",
+      "description": "[Podcast: This Week in Virology]\n\nTWiV explains projected effects of removing school-entry vaccination requirements on measles transmission in Florida and evidence that HLA class I escape drives the evolution of SARS-CoV-2 in human populations. Hosts:&nbsp; Vincent Racaniello , Alan Dove , Rich Condit , Brianne Barker Click arrow to play Download TWiV 1369 (71 MB .mp3, 117 min) Subscribe (free):&nbsp; Apple Podcasts ,&nbsp; RSS ,&nbsp; email Become a&nbsp; patron &nbsp;of&nbsp;TWiV! Links for this episode Support science education at MicrobeTV 7:05 Effects of removing Florida school vaccination mandates (PNAS) 7:23 HLA escape drives SARS-CoV-2 evolution (PNAS) 37:34 The other landscape of SARS-CoV-2 evolution (PNAS) 38:30 Letters read on TWiV 1369 1:21:44 Timestamps by&nbsp; Jolene Ramsey. Thanks! Picks of the Week 1:38:41 Brianne &#8211; Astronomers Discover the First Green Star Rich &#8211; Inside the Johns Hopkins Psilocybin Playlist by Marc Shapiro (2020) Alan &#8211; The Wreck of the Mentor , by Eric Jay Dolin Vincent &#8211; The Apollo 11 Code is Open Source (and its\u2019 hilarious) Intro music is by&nbsp; Ronald Jenkees Send your virology questions and comments to twiv@microbe.tv Content in this podcast should not be construed as medical advice. The post TWiV 1369: Florida Model Makes Measles Great Again first appeared on This Week in Virology .",
       "url": "https://www.microbe.tv/twiv/twiv-1369/",
       "start_datetime": "2026-10-25T04:00:00",
       "end_datetime": null,
@@ -491,6 +474,23 @@
       "end_datetime": "2026-10-30T20:00:00",
       "timezone": "America/Los_Angeles",
       "location": "Hopkins Marine Station, Boatworks",
+      "organizer": null,
+      "source": "stanford_virtual",
+      "category": "Class/Seminar",
+      "tags": [],
+      "access_restriction": "Public",
+      "registration_url": null,
+      "recording_url": null
+    },
+    {
+      "id": "70d6c2681e3d0d95",
+      "title": "SDRC Friday Seminar 10.30.26",
+      "description": "Edgar Engleman, MD, PhD\nProfessor, Dept of Pathology, Dept of Medicine, Stanford University\n\n\"Manipulating Immune Tolerance to Prevent and Treat Disease\"",
+      "url": "https://events.stanford.edu/event/sdrc-friday-seminar-103026",
+      "start_datetime": "2026-10-30T19:00:00",
+      "end_datetime": "2026-10-30T20:00:00",
+      "timezone": "America/Los_Angeles",
+      "location": "Beckman Center, B302",
       "organizer": null,
       "source": "stanford_virtual",
       "category": "Class/Seminar",
@@ -766,6 +766,23 @@
       "organizer": null,
       "source": "uw_cfar",
       "category": "Fred Hutch Center for AIDS Research (CFAR)",
+      "tags": [],
+      "access_restriction": "Public",
+      "registration_url": null,
+      "recording_url": null
+    },
+    {
+      "id": "1accbc9ba61edd3a",
+      "title": "HIV Management During Pregnancy and Postpartum",
+      "description": null,
+      "url": "https://www.iasusa.org/events/webinar-2026-jao/",
+      "start_datetime": "2026-11-24T12:00:00",
+      "end_datetime": null,
+      "timezone": "America/Los_Angeles",
+      "location": "Online",
+      "organizer": null,
+      "source": "iasusa_webinars",
+      "category": "IAS-USA",
       "tags": [],
       "access_restriction": "Public",
       "registration_url": null,
