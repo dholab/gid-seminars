@@ -2,12 +2,12 @@
   "metadata": {
     "title": "GID Seminars Feed",
     "description": "Aggregated seminars and webinars for Global Infectious Disease research",
-    "generated_at": "2026-10-29T06:11:00.109503Z",
+    "generated_at": "2026-10-30T06:10:58.632844Z",
     "time_window": {
       "days_behind": 30,
       "days_ahead": 30
     },
-    "total_events": 42,
+    "total_events": 40,
     "sources": [
       "astmh_events",
       "avac_events",
@@ -57,23 +57,6 @@
     ]
   },
   "events": [
-    {
-      "id": "8a72a140e67da22b",
-      "title": "WHO Webinar \u2013 Establishing National RSV Surveillance and Building Burden of Disease Evidence for Public Health Action \u2013 Experiences from India",
-      "description": "29 September 2026 - Online Webinar, 9am - 10am CEST",
-      "url": "https://www.isrv.global/events-calendar/who-webinar-establishing-national-rsv-surveillance-and-building-burden-of-disease-evidence-for-public-health-action-lessons-from-india/",
-      "start_datetime": "2026-09-29T09:00:00",
-      "end_datetime": null,
-      "timezone": "UTC",
-      "location": "Online",
-      "organizer": "ISRV",
-      "source": "isrv_events",
-      "category": "ISRV",
-      "tags": [],
-      "access_restriction": "Public",
-      "registration_url": null,
-      "recording_url": null
-    },
     {
       "id": "14cddda21bb2bea7",
       "title": "Medicine Grand Rounds with Julie Parsonnet, MD",
@@ -351,23 +334,6 @@
       "title": "Zeming Lin and Roshan Rao from Biohub - Day 1",
       "description": "More info for both days and livestream links at broad.io/biohub-broad-2026. \n\n \n\nThursday, October 29\n\nTitle: World models of protein biology\nLocation: Broad Auditorium (415M-1-Auditorium)\nTime: 11:00 am - 12:00 pm\nSpeaker: Zeming Lin, Biohub\n\n\nAbstract: Protein language models learn representations of sequence and structure that support the prediction of biomolecular complexes and the design of proteins with experimentally measured binding activity. Biohub's open release of the ESM family of world models \u2013 ESMC, ESMFold2, and ESM Atlas \u2013 makes these capabilities available to the broader research community. Using ESMC and ESMFold2 to search candidate sequences, the team designed minibinders and single-chain antibodies against five targets. Additional inference-time search improved experimental hit rates in nine of ten target-modality comparisons. The ESMAtlas gives a perspective on scientific discovery with interpretable ESM features.\n\nThese advances make structure prediction and large-scale computational search increasingly accessible, while experimental validation remains a central constraint on biological discovery. Model confidence can help prioritize candidates, but establishing binding, specificity, and function requires experimental evidence. The cost and timescale of obtaining that evidence limit how rapidly computational hypotheses can be evaluated and refined. In this talk, Zeming Lin will examine how researchers can use these models for prediction and design, and how virtual biology might accelerate experimental throughput.\n\nBiography: Zeming Lin is a Principal Research Scientist in AI Research at Biohub and a co-founder of EvolutionaryScale. His research focuses on large-scale protein models for structure prediction and protein design. He was the main modeling contributor to ESMFold, which predicts atomic-level protein structures directly from sequence, and helped develop ESM3 and Biohub's recent ESMFold2. Earlier, at Meta FAIR, he was a member of the in",
       "url": "https://events.broadinstitute.org/event/zeming-lin-and-roshan-rao-from-biohub-day-1",
-      "start_datetime": "2026-10-29T15:00:00",
-      "end_datetime": "2026-10-29T16:00:00",
-      "timezone": "America/New_York",
-      "location": "Merkin Building (415M), Broad Auditorium",
-      "organizer": null,
-      "source": "broad_institute",
-      "category": "Talks",
-      "tags": [],
-      "access_restriction": "Public",
-      "registration_url": null,
-      "recording_url": null
-    },
-    {
-      "id": "82bd3ca976ca24c8",
-      "title": "World models of protein biology",
-      "description": "Protein language models learn representations of sequence and structure that support the prediction of biomolecular complexes and the design of proteins with experimentally measured binding activity. Biohub's open release of the ESM family of world models (ESMC, ESMFold2, and ESM Atlas) makes these capabilities available to the broader research community. Using ESMC and ESMFold2 to search candidate sequences, the team designed minibinders and single-chain antibodies against five targets. Additional inference-time search improved experimental hit rates in nine of ten target-modality comparisons. The ESM Atlas gives a perspective on scientific discovery with interpretable ESM features.\n\n \n\nThese advances make structure prediction and large-scale computational search increasingly accessible, while experimental validation remains a central constraint on biological discovery. Model confidence can help prioritize candidates, but establishing binding, specificity, and function requires experimental evidence. The cost and timescale of obtaining that evidence limit how rapidly computational hypotheses can be evaluated and refined. In this talk, Zeming Lin will examine how researchers can use these models for prediction and design, and how virtual biology might accelerate experimental throughput.",
-      "url": "https://events.broadinstitute.org/event/world-models-of-protein-biology",
       "start_datetime": "2026-10-29T15:00:00",
       "end_datetime": "2026-10-29T16:00:00",
       "timezone": "America/New_York",
