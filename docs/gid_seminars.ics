@@ -7,37 +7,11 @@ X-WR-CALDESC:Aggregated seminars and webinars for Global Infectious Diseas
  e research
 X-WR-CALNAME:GID Seminars
 BEGIN:VEVENT
-SUMMARY:Medicine Grand Rounds with Julie Parsonnet\, MD
-DTSTART;TZID=America/Los_Angeles:20260930T190000
-DTEND;TZID=America/Los_Angeles:20260930T200000
-DTSTAMP:20261030T061058Z
-UID:14cddda21bb2bea7@gid-seminars.wnprc.wisc.edu
-CATEGORIES:Lecture/Presentation/Talk
-DESCRIPTION:Stanford Department of Medicine would like to invite all Stanf
- ord community members to attend this instance of the Medicine Grand Rounds
-  (MGR) series\, which will feature a Stanford infectious disease physician
-  and epidemiologist who helped establish H. pylori as a cause of gastric c
- ancer\, and who continues to reveal how deeply infections shape chronic di
- sease\, metabolism\, and even body temperature.\n\nCE accreditation info h
- ere.\n\nCME Activity ID: 58643\n\nMOC Credit (1): Complete this form after
-  each session\; reflective statement (1-2 sentences) required.\n\nEvent UR
- L: https://events.stanford.edu/event/medicine-grand-rounds-with-julie-pars
- onnet-md\n\nSource: stanford_virtual
-LOCATION:Li Ka Shing Center\, Berg Hall
-URL:https://events.stanford.edu/event/medicine-grand-rounds-with-julie-par
- sonnet-md
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Medicine Grand Rounds with Julie Parsonnet\, MD
-TRIGGER:-PT1H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Understanding Latin America’s Economy in the Twenty-first Centur
  y
 DTSTART;TZID=America/Los_Angeles:20261002T203000
 DTEND;TZID=America/Los_Angeles:20261002T213000
-DTSTAMP:20261030T061058Z
+DTSTAMP:20261031T060820Z
 UID:c3d78f5dcaf5a9aa@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Lecture/Presentation/Talk
 DESCRIPTION:Latin America’s economic performance is often depicted as a 
@@ -77,7 +51,7 @@ SUMMARY:Inside JID: Translational Science and the Future of Infectious Dis
  eases
 DTSTART:20261003T000000Z
 DTEND:20261003T010000Z
-DTSTAMP:20261030T061058Z
+DTSTAMP:20261031T060820Z
 UID:e1fefdf778ccdc25@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Podcast - IDSA
 DESCRIPTION:[Podcast: Let's Talk ID] Duration: 1501\n\nWhat exactly makes 
@@ -107,7 +81,7 @@ BEGIN:VEVENT
 SUMMARY:TWiV 1362: Clinical Update with Dr. Daniel Griffin
 DTSTART:20261003T040000Z
 DTEND:20261003T050000Z
-DTSTAMP:20261030T061058Z
+DTSTAMP:20261031T060820Z
 UID:937751992a7c6bc4@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Podcast - TWiV
 DESCRIPTION:[Podcast: This Week in Virology]\n\nIn his weekly clinical upd
@@ -145,7 +119,7 @@ BEGIN:VEVENT
 SUMMARY:TWiV 1363: A Cauldron of Bats
 DTSTART:20261004T040000Z
 DTEND:20261004T050000Z
-DTSTAMP:20261030T061058Z
+DTSTAMP:20261031T060820Z
 UID:2d50c749a0935903@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Podcast - TWiV
 DESCRIPTION:[Podcast: This Week in Virology]\n\nTWiV explains a study test
@@ -182,7 +156,7 @@ BEGIN:VEVENT
 SUMMARY:Books\, Bonds\, and Bereavement: Helping Siblings Process Loss
 DTSTART;TZID=America/Los_Angeles:20261008T230000
 DTEND;TZID=America/Los_Angeles:20261009T000000
-DTSTAMP:20261030T061058Z
+DTSTAMP:20261031T060820Z
 UID:2bffbc35a31244ac@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Class/Seminar
 DESCRIPTION:OverviewThis activity explores the experiences and often-overl
@@ -229,7 +203,7 @@ BEGIN:VEVENT
 SUMMARY:TWiV 1364: Clinical Update with Dr. Daniel Griffin
 DTSTART:20261010T040000Z
 DTEND:20261010T050000Z
-DTSTAMP:20261030T061058Z
+DTSTAMP:20261031T060820Z
 UID:2f442eaefd0abfe5@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Podcast - TWiV
 DESCRIPTION:[Podcast: This Week in Virology]\n\nIn his weekly clinical upd
@@ -267,7 +241,7 @@ BEGIN:VEVENT
 SUMMARY:TWiV 1365: Andes Virus Up Close
 DTSTART:20261011T040000Z
 DTEND:20261011T050000Z
-DTSTAMP:20261030T061058Z
+DTSTAMP:20261031T060820Z
 UID:3ddc66725e866652@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Podcast - TWiV
 DESCRIPTION:[Podcast: This Week in Virology]\n\nTWiV travels to Porto\, Po
@@ -297,7 +271,7 @@ BEGIN:VEVENT
 SUMMARY:TWiV 1366: Clinical Update with Dr. Daniel Griffin
 DTSTART:20261017T040000Z
 DTEND:20261017T050000Z
-DTSTAMP:20261030T061058Z
+DTSTAMP:20261031T060820Z
 UID:4bf32e202f8ecdb0@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Podcast - TWiV
 DESCRIPTION:[Podcast: This Week in Virology]\n\nIn his weekly clinical upd
@@ -335,7 +309,7 @@ BEGIN:VEVENT
 SUMMARY:TWiV 1367: Turning Off Hepatitis B Virus Without Cutting its DNA
 DTSTART:20261018T040000Z
 DTEND:20261018T050000Z
-DTSTAMP:20261030T061058Z
+DTSTAMP:20261031T060820Z
 UID:3b1f2a0dfe853e15@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Podcast - TWiV
 DESCRIPTION:[Podcast: This Week in Virology]\n\nTWiV explains a study whic
@@ -373,7 +347,7 @@ BEGIN:VEVENT
 SUMMARY:PhD Dissertation Defense: Santiago Mille Fragoso
 DTSTART;TZID=America/Los_Angeles:20261019T200000
 DTEND;TZID=America/Los_Angeles:20261019T210000
-DTSTAMP:20261030T061058Z
+DTSTAMP:20261031T060820Z
 UID:5b66d55cf499ef46@gid-seminars.wnprc.wisc.edu
 CATEGORIES:PhD Defense
 DESCRIPTION:Title: Computational and Synthetic Design of Modular Molecular
@@ -416,7 +390,7 @@ SUMMARY:Plagues and Icons: The Stories that Shaped ID | Calvin Kunin: A Li
  fe in Infectious Diseases (Part 1)
 DTSTART:20261020T090000Z
 DTEND:20261020T100000Z
-DTSTAMP:20261030T061058Z
+DTSTAMP:20261031T060820Z
 UID:23cfa312bb85523d@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Podcast - IDSA
 DESCRIPTION:[Podcast: Let's Talk ID] Duration: 1895\n\nIn this episode of 
@@ -442,7 +416,7 @@ BEGIN:VEVENT
 SUMMARY:TWiV 1368: Clinical Update with Dr. Daniel Griffin
 DTSTART:20261024T040000Z
 DTEND:20261024T050000Z
-DTSTAMP:20261030T061058Z
+DTSTAMP:20261031T060820Z
 UID:318b236696f1c054@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Podcast - TWiV
 DESCRIPTION:[Podcast: This Week in Virology]\n\nIn his weekly clinical upd
@@ -480,7 +454,7 @@ BEGIN:VEVENT
 SUMMARY:TWiV 1369: Florida Model Makes Measles Great Again
 DTSTART:20261025T040000Z
 DTEND:20261025T050000Z
-DTSTAMP:20261030T061058Z
+DTSTAMP:20261031T060820Z
 UID:5ef7cfd18ece7201@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Podcast - TWiV
 DESCRIPTION:[Podcast: This Week in Virology]\n\nTWiV explains projected ef
@@ -517,7 +491,7 @@ SUMMARY:Plagues and Icons: The Stories that Shaped ID | Calvin Kunin: A Li
  fe in Infectious Diseases (Part 2)
 DTSTART:20261028T100000Z
 DTEND:20261028T110000Z
-DTSTAMP:20261030T061058Z
+DTSTAMP:20261031T060820Z
 UID:69a9b11beb3a9f3f@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Podcast - IDSA
 DESCRIPTION:[Podcast: Let's Talk ID] Duration: 1592\n\nIn Part 2 of Plague
@@ -542,7 +516,7 @@ BEGIN:VEVENT
 SUMMARY:Medicine Grand Rounds with Emmanuel Mignot\, MD\, PhD
 DTSTART;TZID=America/Los_Angeles:20261028T190000
 DTEND;TZID=America/Los_Angeles:20261028T200000
-DTSTAMP:20261030T061058Z
+DTSTAMP:20261031T060820Z
 UID:b2f84ad6e55c12e0@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Lecture/Presentation/Talk
 DESCRIPTION:Stanford Department of Medicine would like to invite all Stanf
@@ -569,7 +543,7 @@ BEGIN:VEVENT
 SUMMARY:Zeming Lin and Roshan Rao from Biohub - Day 1
 DTSTART;TZID=America/New_York:20261029T150000
 DTEND;TZID=America/New_York:20261029T160000
-DTSTAMP:20261030T061058Z
+DTSTAMP:20261031T060820Z
 UID:22e82769191c4a51@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Talks
 DESCRIPTION:More info for both days and livestream links at broad.io/biohu
@@ -616,7 +590,7 @@ SUMMARY:Oceans Seminar Series | Irene Salinas Remiro | Immunity\, Pore-For
  ming Toxins and Vertebrate Evolution
 DTSTART;TZID=America/Los_Angeles:20261030T190000
 DTEND;TZID=America/Los_Angeles:20261030T200000
-DTSTAMP:20261030T061058Z
+DTSTAMP:20261031T060820Z
 UID:f88b2a90d91ab08f@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Class/Seminar
 DESCRIPTION:Please join us for the next installment of our Fall Oceans Sem
@@ -640,7 +614,7 @@ BEGIN:VEVENT
 SUMMARY:SDRC Friday Seminar 10.30.26
 DTSTART;TZID=America/Los_Angeles:20261030T190000
 DTEND;TZID=America/Los_Angeles:20261030T200000
-DTSTAMP:20261030T061058Z
+DTSTAMP:20261031T060820Z
 UID:70d6c2681e3d0d95@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Class/Seminar
 DESCRIPTION:Edgar Engleman\, MD\nProfessor\, Dept of Pathology\, Dept of M
@@ -656,11 +630,73 @@ TRIGGER:-PT1H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:TWiV 1370: Clinical Update with Dr. Daniel Griffin
+DTSTART:20261031T040000Z
+DTEND:20261031T050000Z
+DTSTAMP:20261031T060820Z
+UID:5eb53822aced4eda@gid-seminars.wnprc.wisc.edu
+CATEGORIES:Podcast - TWiV
+DESCRIPTION:[Podcast: This Week in Virology]\n\nIn his weekly clinical upd
+ ate\, Daniel Griffin and Vincent Racaniello are distressed by the continue
+ d upheaval of leadership at the CDC\, recent news of H5 highly pathogenic 
+ influenza virus found on mink farms in Utah and in the polar bear populati
+ on of Greenland\, continuing spread of dengue virus in Florida and screwwo
+ rm in the US\, the Ebola outbreak in Kenya\, identification of cross-react
+ ive T cells following administration of VSV-ZEBOV-GP vaccine and re-addres
+ sing vaccination policy changes in Florida and the global burden of measle
+ s infection before Dr. Griffin deep dives into recent statistics RSV\, inf
+ luenza\, SARS-CoV-2 infections and measles\, ineffectiveness of the measle
+ s vaccine in infants under 9 months old\, efficacy of high dose and standa
+ rd dose of the influenza vaccine for the elderly\, familial susceptibility
+  to SARS-CoV-2 infection and contacting your federal government representa
+ tive to stop the assault on science and biomedical research. Click arrow t
+ o play Download TWiV 1370 (37 MB .mp3\, 61 min) Subscribe (free): Apple Po
+ dcasts \, RSS \, email Become a&nbsp\; patron &nbsp\;of&nbsp\;TWiV! Links 
+ for this episode C.D.C. Deputy Director Resigns After Four Months in the J
+ obFinds(NY Times) Preliminary report on H5N1 highly pathogenic avian influ
+ enza in Utah mink \, August 2026(Virological) Evidence of Exposure to High
+ ly Pathogenic Avian Influenza H5 Viruses in East Greenland Polar Bears (CD
+ C: Emerging Infectious Diseases) Florida counties declare emergency over w
+ ildly unusu\n\nEvent URL: https://www.microbe.tv/twiv/twiv-1370/\n\nSource
+ : twiv_podcast
+LOCATION:Podcast
+URL:https://www.microbe.tv/twiv/twiv-1370/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: TWiV 1370: Clinical Update with Dr. Daniel Griffin
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ninth meeting of the Intergovernmental Working Group (IGWG) on the
+  WHO Pandemic Agreement
+DTSTART:20261102T000000Z
+DTEND:20261114T000000Z
+DTSTAMP:20261031T060820Z
+UID:e35e7f50c046b062@gid-seminars.wnprc.wisc.edu
+CATEGORIES:WHO
+DESCRIPTION:The ninth meeting of the Intergovernmental Working Group (IGWG
+ ) on the WHO Pandemic Agreement will be conducted in hybrid format during 
+ 2–13 November 2026.\n\nEvent URL: https://www.who.int/news-room/events/d
+ etail/2026/11/02/default-calendar/ninth-meeting-of-the-intergovernmental-w
+ orking-group-(igwg)-on-the-who-pandemic-agreement\n\nSource: who_events
+LOCATION:Online/Geneva
+URL:https://www.who.int/news-room/events/detail/2026/11/02/default-calenda
+ r/ninth-meeting-of-the-intergovernmental-working-group-(igwg)-on-the-who-p
+ andemic-agreement
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Ninth meeting of the Intergovernmental Working Group
+  (IGWG) on the WHO Pandemic Agreement
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:WHO Webinar - One Health in practice: connecting research\, innova
  tion and implementation
 DTSTART:20261102T100000Z
 DTEND:20261102T113000Z
-DTSTAMP:20261030T061058Z
+DTSTAMP:20261031T060820Z
 UID:42ce0944ec8949c0@gid-seminars.wnprc.wisc.edu
 CATEGORIES:WHO
 DESCRIPTION:A webinar to bring together the WHO One Health collaborating c
@@ -686,7 +722,7 @@ SUMMARY:Diagnosis and Management of Common Opportunistic Infections in Peo
  ple With HIV
 DTSTART;TZID=America/Los_Angeles:20261103T110000
 DTEND;TZID=America/Los_Angeles:20261103T120000
-DTSTAMP:20261030T061058Z
+DTSTAMP:20261031T060820Z
 UID:789d76ae3ca65da6@gid-seminars.wnprc.wisc.edu
 CATEGORIES:IAS-USA
 DESCRIPTION:\nEvent URL: https://www.iasusa.org/events/webinar-2026-sereti
@@ -705,7 +741,7 @@ SUMMARY:WHO Webinar – Before the crisis: WHO advancing prevention throug
  h a One Health approach
 DTSTART:20261103T140000Z
 DTEND:20261103T153000Z
-DTSTAMP:20261030T061058Z
+DTSTAMP:20261031T060820Z
 UID:c0e7dc02f313023e@gid-seminars.wnprc.wisc.edu
 CATEGORIES:WHO
 DESCRIPTION:Prevention is a key priority in WHO’s global strategy\, incl
@@ -734,7 +770,7 @@ SUMMARY:An Interactive Discussion with Dr. Larry Corey on the State of HIV
   Cure Research and Technology
 DTSTART;TZID=America/Los_Angeles:20261104T000000
 DTEND;TZID=America/Los_Angeles:20261104T010000
-DTSTAMP:20261030T061058Z
+DTSTAMP:20261031T060820Z
 UID:03a3d6151a2e7304@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Fred Hutch Center for AIDS Research (CFAR)
 DESCRIPTION:Event interval: Single day event\nAccessibility Contact: cfar@
@@ -757,7 +793,7 @@ SUMMARY:WHO Health Emergencies EPI-WIN webinar: Launch of WHO guidelines f
  and yellow fever
 DTSTART:20261104T120000Z
 DTEND:20261104T130000Z
-DTSTAMP:20261030T061058Z
+DTSTAMP:20261031T060820Z
 UID:516f685bcb374c44@gid-seminars.wnprc.wisc.edu
 CATEGORIES:WHO
 DESCRIPTION:This webinar is to inform the launch of WHO guidelines for cli
@@ -788,7 +824,7 @@ BEGIN:VEVENT
 SUMMARY:Genetics Fall 2026 Colloquium
 DTSTART;TZID=America/Chicago:20261104T213000
 DTEND;TZID=America/Chicago:20261104T223000
-DTSTAMP:20261030T061058Z
+DTSTAMP:20261031T060820Z
 UID:c4dcbeb60ac41cc9@gid-seminars.wnprc.wisc.edu
 CATEGORIES:University - UW-Madison
 DESCRIPTION:Jonathan Stefely- UW-Madison. Mechanistic biology of an infect
@@ -805,7 +841,7 @@ BEGIN:VEVENT
 SUMMARY:Lower-Cost HIV Tests: Advocacy for better diagnostic deals
 DTSTART;TZID=America/New_York:20261105T000000
 DTEND;TZID=America/New_York:20261105T010000
-DTSTAMP:20261030T061058Z
+DTSTAMP:20261031T060820Z
 UID:b579e43f6d15781b@gid-seminars.wnprc.wisc.edu
 CATEGORIES:AVAC
 DESCRIPTION:\nEvent URL: https://avac.org/event/lower-cost-hiv-tests/\n\nS
@@ -824,7 +860,7 @@ SUMMARY:Quadripartite Webinar – Operationalizing One Health: translating
   enablers\, dismantling barriers and aligning global policy
 DTSTART:20261105T140000Z
 DTEND:20261105T153000Z
-DTSTAMP:20261030T061058Z
+DTSTAMP:20261031T060820Z
 UID:78e21567db0531b4@gid-seminars.wnprc.wisc.edu
 CATEGORIES:WHO
 DESCRIPTION:This webinar provides an opportunity for the public to hear di
@@ -850,7 +886,7 @@ BEGIN:VEVENT
 SUMMARY:COP31 Health Pavilion
 DTSTART:20261109T000000Z
 DTEND:20261121T000000Z
-DTSTAMP:20261030T061058Z
+DTSTAMP:20261031T060820Z
 UID:a9e897348a429dd0@gid-seminars.wnprc.wisc.edu
 CATEGORIES:WHO
 DESCRIPTION:WHO in collaboration with the Wellcome Trust and the health co
@@ -876,7 +912,7 @@ BEGIN:VEVENT
 SUMMARY:Global Model WHO 2026
 DTSTART:20261110T000000Z
 DTEND:20261114T000000Z
-DTSTAMP:20261030T061058Z
+DTSTAMP:20261031T060820Z
 UID:25dcd60c23b29df9@gid-seminars.wnprc.wisc.edu
 CATEGORIES:WHO
 DESCRIPTION:Step into the heart of global health diplomacy at the 2026 edi
@@ -898,7 +934,7 @@ SUMMARY:ENT Experts Up Close: Updates in Parotid Masses and Sinonasal Mali
  gnancies
 DTSTART;TZID=America/Los_Angeles:20261110T200000
 DTEND;TZID=America/Los_Angeles:20261110T210000
-DTSTAMP:20261030T061058Z
+DTSTAMP:20261031T060820Z
 UID:47be8dd19a2912a3@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Class/Seminar
 DESCRIPTION:OverviewThis one-hour CME activity offers a concise\, evidence
@@ -945,7 +981,7 @@ BEGIN:VEVENT
 SUMMARY:CFAR & PHSKC Lunchbox Talk with Carlos Gabriel Corpuz
 DTSTART;TZID=America/Los_Angeles:20261110T200000
 DTEND;TZID=America/Los_Angeles:20261110T210000
-DTSTAMP:20261030T061058Z
+DTSTAMP:20261031T060820Z
 UID:c7cbb6b109ff73a5@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Fred Hutch Center for AIDS Research (CFAR)
 DESCRIPTION:Event interval: Single day event\nOnline Meeting Link: https:/
@@ -975,7 +1011,7 @@ BEGIN:VEVENT
 SUMMARY:Children and Childhood in Colonial Senegal - Kelly Duke Bryant
 DTSTART;TZID=America/Los_Angeles:20261111T200000
 DTEND;TZID=America/Los_Angeles:20261111T210000
-DTSTAMP:20261030T061058Z
+DTSTAMP:20261031T060820Z
 UID:3fc2ea15387649ca@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Lecture/Presentation/Talk
 DESCRIPTION:How did French colonial institutions seek to define\, regulate
@@ -1018,7 +1054,7 @@ BEGIN:VEVENT
 SUMMARY:Alcohol-Associated Hepatitis and Early Liver Transplantation
 DTSTART;TZID=America/Los_Angeles:20261111T200000
 DTEND;TZID=America/Los_Angeles:20261111T210000
-DTSTAMP:20261030T061058Z
+DTSTAMP:20261031T060820Z
 UID:9f6697f7b28f9a6e@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Class/Seminar
 DESCRIPTION:OverviewThis activity reviews the diagnosis and management of 
@@ -1065,7 +1101,7 @@ BEGIN:VEVENT
 SUMMARY:World Cervical Cancer Elimination Day 2026
 DTSTART:20261117T000000Z
 DTEND:20261118T000000Z
-DTSTAMP:20261030T061058Z
+DTSTAMP:20261031T060820Z
 UID:b43a5926d8112ce6@gid-seminars.wnprc.wisc.edu
 CATEGORIES:WHO
 DESCRIPTION:On 17 November\, join a global movement raising awareness\, ce
@@ -1088,7 +1124,7 @@ SUMMARY:Technical consultation on MERS-CoV vaccination in camels as a One
  Health intervention
 DTSTART:20261117T000000Z
 DTEND:20261219T000000Z
-DTSTAMP:20261030T061058Z
+DTSTAMP:20261031T060820Z
 UID:493946185829f287@gid-seminars.wnprc.wisc.edu
 CATEGORIES:WHO
 DESCRIPTION:\nEvent URL: https://www.who.int/news-room/events/detail/2026/
@@ -1110,7 +1146,7 @@ SUMMARY:World AMR Awareness Week 2026: One Health\, One Action: Prevent AM
  R Now
 DTSTART:20261118T080000Z
 DTEND:20261124T170000Z
-DTSTAMP:20261030T061058Z
+DTSTAMP:20261031T060820Z
 UID:3f7c170bf87935f7@gid-seminars.wnprc.wisc.edu
 CATEGORIES:WHO
 DESCRIPTION:\nEvent URL: https://www.who.int/news-room/events/detail/2026/
@@ -1129,7 +1165,7 @@ BEGIN:VEVENT
 SUMMARY:Make a Gutsy Move for Better Health
 DTSTART;TZID=America/Los_Angeles:20261118T200000
 DTEND;TZID=America/Los_Angeles:20261118T210000
-DTSTAMP:20261030T061058Z
+DTSTAMP:20261031T060820Z
 UID:5d0633e268402a57@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Class/Seminar
 DESCRIPTION:The gut microbiome is a diverse colony of bacteria that reside
@@ -1164,7 +1200,7 @@ BEGIN:VEVENT
 SUMMARY:Genetics Fall 2026 Colloquium
 DTSTART;TZID=America/Chicago:20261118T213000
 DTEND;TZID=America/Chicago:20261118T223000
-DTSTAMP:20261030T061058Z
+DTSTAMP:20261031T060820Z
 UID:a4a9d4f0d6ec6d73@gid-seminars.wnprc.wisc.edu
 CATEGORIES:University - UW-Madison
 DESCRIPTION:Bob Johnston- Johns Hopkins University. The evolution of devel
@@ -1181,7 +1217,7 @@ BEGIN:VEVENT
 SUMMARY:Stanford Emergency Medicine Innovation Symposium - StEMI X
 DTSTART;TZID=America/Los_Angeles:20261119T170000
 DTEND;TZID=America/Los_Angeles:20261119T220000
-DTSTAMP:20261030T061058Z
+DTSTAMP:20261031T060820Z
 UID:745c471efeda7ff2@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Lecture/Presentation/Talk
 DESCRIPTION:AI is reshaping diagnosis. Digital health is redefining access
@@ -1221,7 +1257,7 @@ BEGIN:VEVENT
 SUMMARY:CFAS Seminar November 2026: TBA
 DTSTART;TZID=America/Los_Angeles:20261120T000000
 DTEND;TZID=America/Los_Angeles:20261120T010000
-DTSTAMP:20261030T061058Z
+DTSTAMP:20261031T060820Z
 UID:0ca160b69e2dafb4@gid-seminars.wnprc.wisc.edu
 CATEGORIES:Fred Hutch Center for AIDS Research (CFAR)
 DESCRIPTION:Event interval: Single day event\nAccessibility Contact: cfas@

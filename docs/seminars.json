@@ -2,12 +2,12 @@
   "metadata": {
     "title": "GID Seminars Feed",
     "description": "Aggregated seminars and webinars for Global Infectious Disease research",
-    "generated_at": "2026-10-30T06:10:58.632844Z",
+    "generated_at": "2026-10-31T06:08:20.550418Z",
     "time_window": {
       "days_behind": 30,
       "days_ahead": 30
     },
-    "total_events": 40,
+    "total_events": 41,
     "sources": [
       "astmh_events",
       "avac_events",
@@ -57,23 +57,6 @@
     ]
   },
   "events": [
-    {
-      "id": "14cddda21bb2bea7",
-      "title": "Medicine Grand Rounds with Julie Parsonnet, MD",
-      "description": "Stanford Department of Medicine would like to invite all Stanford community members to attend this instance of the Medicine Grand Rounds (MGR) series, which will feature a Stanford infectious disease physician and epidemiologist who helped establish H. pylori as a cause of gastric cancer, and who continues to reveal how deeply infections shape chronic disease, metabolism, and even body temperature.\n\nCE accreditation info here.\n\nCME Activity ID: 58643\n\nMOC Credit (1): Complete this form after each session; reflective statement (1-2 sentences) required.",
-      "url": "https://events.stanford.edu/event/medicine-grand-rounds-with-julie-parsonnet-md",
-      "start_datetime": "2026-09-30T19:00:00",
-      "end_datetime": "2026-09-30T20:00:00",
-      "timezone": "America/Los_Angeles",
-      "location": "Li Ka Shing Center, Berg Hall",
-      "organizer": null,
-      "source": "stanford_virtual",
-      "category": "Lecture/Presentation/Talk",
-      "tags": [],
-      "access_restriction": "Public",
-      "registration_url": null,
-      "recording_url": null
-    },
     {
       "id": "c3d78f5dcaf5a9aa",
       "title": "Understanding Latin America\u2019s Economy in the Twenty-first Century",
@@ -375,6 +358,40 @@
       "organizer": null,
       "source": "stanford_virtual",
       "category": "Class/Seminar",
+      "tags": [],
+      "access_restriction": "Public",
+      "registration_url": null,
+      "recording_url": null
+    },
+    {
+      "id": "5eb53822aced4eda",
+      "title": "TWiV 1370: Clinical Update with Dr. Daniel Griffin",
+      "description": "[Podcast: This Week in Virology]\n\nIn his weekly clinical update, Daniel Griffin and Vincent Racaniello are distressed by the continued upheaval of leadership at the CDC, recent news of H5 highly pathogenic influenza virus found on mink farms in Utah and in the polar bear population of Greenland, continuing spread of dengue virus in Florida and screwworm in the US, the Ebola outbreak in Kenya, identification of cross-reactive T cells following administration of VSV-ZEBOV-GP vaccine and re-addressing vaccination policy changes in Florida and the global burden of measles infection before Dr. Griffin deep dives into recent statistics RSV, influenza, SARS-CoV-2 infections and measles, ineffectiveness of the measles vaccine in infants under 9 months old, efficacy of high dose and standard dose of the influenza vaccine for the elderly, familial susceptibility to SARS-CoV-2 infection and contacting your federal government representative to stop the assault on science and biomedical research. Click arrow to play Download TWiV 1370 (37 MB .mp3, 61 min) Subscribe (free): Apple Podcasts , RSS , email Become a&nbsp; patron &nbsp;of&nbsp;TWiV! Links for this episode C.D.C. Deputy Director Resigns After Four Months in the JobFinds(NY Times) Preliminary report on H5N1 highly pathogenic avian influenza in Utah mink , August 2026(Virological) Evidence of Exposure to Highly Pathogenic Avian Influenza H5 Viruses in East Greenland Polar Bears (CDC: Emerging Infectious Diseases) Florida counties declare emergency over wildly unusu",
+      "url": "https://www.microbe.tv/twiv/twiv-1370/",
+      "start_datetime": "2026-10-31T04:00:00",
+      "end_datetime": null,
+      "timezone": "UTC",
+      "location": "Podcast",
+      "organizer": "This Week in Virology",
+      "source": "twiv_podcast",
+      "category": "Podcast - TWiV",
+      "tags": [],
+      "access_restriction": "Public",
+      "registration_url": null,
+      "recording_url": null
+    },
+    {
+      "id": "e35e7f50c046b062",
+      "title": "Ninth meeting of the Intergovernmental Working Group (IGWG) on the WHO Pandemic Agreement",
+      "description": "The ninth meeting of the Intergovernmental Working Group (IGWG) on the WHO Pandemic Agreement will be conducted in hybrid format during 2\u201313 November 2026.",
+      "url": "https://www.who.int/news-room/events/detail/2026/11/02/default-calendar/ninth-meeting-of-the-intergovernmental-working-group-(igwg)-on-the-who-pandemic-agreement",
+      "start_datetime": "2026-11-02T00:00:00",
+      "end_datetime": "2026-11-14T00:00:00",
+      "timezone": "UTC",
+      "location": "Online/Geneva",
+      "organizer": "World Health Organization",
+      "source": "who_events",
+      "category": "WHO",
       "tags": [],
       "access_restriction": "Public",
       "registration_url": null,
