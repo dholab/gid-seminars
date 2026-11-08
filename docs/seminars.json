@@ -2,7 +2,7 @@
   "metadata": {
     "title": "GID Seminars Feed",
     "description": "Aggregated seminars and webinars for Global Infectious Disease research",
-    "generated_at": "2026-11-07T06:08:05.651114Z",
+    "generated_at": "2026-11-08T06:08:30.721021Z",
     "time_window": {
       "days_behind": 30,
       "days_ahead": 30
@@ -57,23 +57,6 @@
     ]
   },
   "events": [
-    {
-      "id": "2bffbc35a31244ac",
-      "title": "Books, Bonds, and Bereavement: Helping Siblings Process Loss",
-      "description": "OverviewThis activity explores the experiences and often-overlooked needs of siblings of children with serious illness or medical complexity. Faculty will discuss the emotional, social, and developmental impacts of caregiving, illness, and bereavement on siblings and share practical strategies for supporting them as part of comprehensive family-centered care. The session will also introduce bibliotherapy as an evidence-informed approach to help siblings process grief, normalize emotions, and develop healthy coping skills through guided storytelling and discussion.\n\nRegistrationRegistration for all practitioners - free\n\nTo register for this activity, please click HERE.\n\nCreditsAMA PRA Category 1 Credits\u2122 (1.00 hours), ACPE Contact Hours (1.00 hours), ANCC Contact Hours (1.00 hours), APA Continuing Education credits (1.00 hours), ASWB Continuing Education (ACE) credits (1.00 hours), CDR Continuing Professional Education Units (1.00 hours), Non-Physician Participation Credit (1.00 hours), Occupational Therapy Contact Hours (1.00 hours), Physical Therapy Contact Hours (1.00 hours)\n\nTarget AudienceSpecialties - Adolescent Medicine, Allergy, Immunology, & Rheumatology, Anesthesiology, Cardiovascular Health, Critical Care & Pulmonology, Emergency Medicine & Trauma, Hematology, Internal Medicine, Neonatology, Nephrology, Neurology, Oncology, Pediatrics, Psychiatry & Behavioral Sciences, SurgeryProfessions - Fellow/Resident, Non-Physician, Nurse, Occupational Therapist, Pharmacist, Physician, Psychologist, Registered Dietitian, Registered Nurse (RN), Social Worker ObjectivesAt the conclusion of this activity, learners should be able to:\n1. Describe the emotional, social, and developmental impacts of serious illness and bereavement on siblings, including common challenges and unmet needs.\n2. Apply evidence-informed strategies to support siblings across settings by incorporating them into care conversations, validating their experiences, and coordinating with family, school, a",
-      "url": "https://events.stanford.edu/event/books-bonds-and-bereavement-helping-siblings-process-loss",
-      "start_datetime": "2026-10-08T23:00:00",
-      "end_datetime": "2026-10-09T00:00:00",
-      "timezone": "America/Los_Angeles",
-      "location": "Online",
-      "organizer": null,
-      "source": "stanford_virtual",
-      "category": "Class/Seminar",
-      "tags": [],
-      "access_restriction": "Public",
-      "registration_url": null,
-      "recording_url": null
-    },
     {
       "id": "2f442eaefd0abfe5",
       "title": "TWiV 1364: Clinical Update with Dr. Daniel Griffin",
@@ -369,6 +352,23 @@
       "description": "[Podcast: This Week in Virology]\n\nIn his weekly clinical update, Daniel Griffin and Vincent Racaniello are cautiously elated by results of election day 2026 on the backdrop of additional measles associated deaths in Wisconsin, Pennsylvania and New York, return of mpox, Chagas disease in Texas, hippopotami dying from anthrax infections, increase in dengue cases in Florida before Dr. Griffin deep dives into recent statistics RSV, influenza, SARS-CoV-2 infections and measles, susceptibility of human neural stem cells to SARS-CoV-2 infection, chemosensory dysfunction after COVID-19 vaccination, low dose naltrexone for Post-COVID Fatigue Syndrome, effect of metformin at the time of SARS-CoV-2 infection and the FDA approved package inserts for the influenza and COVID-19 mRNA vaccines. Click arrow to play Download TWiV 1372 (32 MB .mp3, 53 min) Subscribe (free): Apple Podcasts , RSS , email Become a&nbsp; patron &nbsp;of&nbsp;TWiV! Links for this episode Wilma Glodean Rudolph (Wikipedia) Democratic doctors win big in 2026 midterm elections (CIDRAP) Democratic Doctors Elected for First Time in Nearly 60 Years Flip U.S. Senate (3.14 ACTION) Child Dies From Measles in New York State\u2019s First Fatal Case in 30 Years (NY Times) Pennsylvania Department of Health Confirms Sixth Measles-Associated Death , Provides Statewide Update on Measles Outbreak as Cases Reach 1,467 in 45 Counties (Pennsylvaina Department of Health) Pennsylvania reports another measles-related death , the 2nd in Jefferson County (CIDRAP) DHS Reports a De",
       "url": "https://www.microbe.tv/twiv/twiv-1372/",
       "start_datetime": "2026-11-07T05:00:00",
+      "end_datetime": null,
+      "timezone": "UTC",
+      "location": "Podcast",
+      "organizer": "This Week in Virology",
+      "source": "twiv_podcast",
+      "category": "Podcast - TWiV",
+      "tags": [],
+      "access_restriction": "Public",
+      "registration_url": null,
+      "recording_url": null
+    },
+    {
+      "id": "b562f58b4918698d",
+      "title": "TWiV 1373: Challenging Dengue and RIGging Flu",
+      "description": "[Podcast: This Week in Virology]\n\nTWiV explains results of a dengue virus human challenge which reveals that preexisting immunity shapes viral replication and broadly protective responses, and how influenza virus antagonizes self-sensing by RIG-I to enhance viral replication. Hosts: Vincent Racaniello , Alan Dove , Kathy Spindler , and Brianne Barker Click arrow to play Download TWiV 1373 (66 MB .mp3, 110 min) Subscribe (free): Apple Podcasts , RSS , email Become a&nbsp; patron &nbsp;of&nbsp;TWiV! Links for this episode Support science education at MicrobeTV Democratic doctors win big in 2026 midterm elections (CIDRAP) Florida\u2019s dengue total jumps to 485 (CIDRAP) Dengue virus human challenge study (Sci Transl Med) Influenza virus and self sensing of host by RIG-I (Cell Rep) Letters read on TWiV 1373 Timestamps by&nbsp; Jolene Ramsey. Thanks! Picks of the Week Brianne &#8211; Five Science-Backed Benefits of &#8216;grandma hobbies&#8217; Kathy &#8211; Bird of the Week from Ben Tonelli Alan &#8211; The Dark Frontier , by Jeffrey Marlow Vincent &#8211; Where Do Photons Actually Go When You Turn Off The Light ? Intro music is by&nbsp; Ronald Jenkees Send your virology questions and comments to twiv@microbe.tv Content in this podcast should not be construed as medical advice. The post TWiV 1373: Challenging Dengue and RIGging Flu first appeared on This Week in Virology .",
+      "url": "https://www.microbe.tv/twiv/twiv-1373/",
+      "start_datetime": "2026-11-08T05:00:00",
       "end_datetime": null,
       "timezone": "UTC",
       "location": "Podcast",
