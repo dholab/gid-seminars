@@ -2,7 +2,7 @@
   "metadata": {
     "title": "GID Seminars Feed",
     "description": "Aggregated seminars and webinars for Global Infectious Disease research",
-    "generated_at": "2026-11-09T06:12:43.692558Z",
+    "generated_at": "2026-11-10T06:09:41.554324Z",
     "time_window": {
       "days_behind": 30,
       "days_ahead": 30
@@ -45,6 +45,7 @@
       "Immunology",
       "Lecture/Presentation/Talk",
       "Modelling",
+      "Other",
       "PhD Defense",
       "Podcast - IDSA",
       "Podcast - TWiV",
@@ -57,23 +58,6 @@
     ]
   },
   "events": [
-    {
-      "id": "3ddc66725e866652",
-      "title": "TWiV 1365: Andes Virus Up Close",
-      "description": "[Podcast: This Week in Virology]\n\nTWiV travels to Porto, Portugal for the annual meeting of the European Society for Clinical Virology, where he speaks with Catherine and Corinne about their work on the Andes virus outbreak on the MV Hondius. Host:&nbsp; Vincent Racaniello Guests: Catherine Houlihan and Corinne Guerts van Kessel Click arrow to play Download TWiV 1365 (34 MB .mp3, 56 min) Subscribe (free):&nbsp; Apple Podcasts ,&nbsp; RSS ,&nbsp; email Become a&nbsp; patron &nbsp;of&nbsp;TWiV! Links for this episode Support science education at MicrobeTV Transient Andes RNA detection in asymptomatic healthcare worker (Eurosurveill) 35:30 Timestamps by&nbsp; Jolene Ramsey. Thanks! Intro music is by&nbsp; Ronald Jenkees Send your virology questions and comments to twiv@microbe.tv Content in this podcast should not be construed as medical advice. The post TWiV 1365: Andes Virus Up Close first appeared on This Week in Virology .",
-      "url": "https://www.microbe.tv/twiv/twiv-1365/",
-      "start_datetime": "2026-10-11T04:00:00",
-      "end_datetime": null,
-      "timezone": "UTC",
-      "location": "Podcast",
-      "organizer": "This Week in Virology",
-      "source": "twiv_podcast",
-      "category": "Podcast - TWiV",
-      "tags": [],
-      "access_restriction": "Public",
-      "registration_url": null,
-      "recording_url": null
-    },
     {
       "id": "4bf32e202f8ecdb0",
       "title": "TWiV 1366: Clinical Update with Dr. Daniel Griffin",
@@ -264,7 +248,7 @@
     {
       "id": "5eb53822aced4eda",
       "title": "TWiV 1370: Clinical Update with Dr. Daniel Griffin",
-      "description": "[Podcast: This Week in Virology]\n\nIn his weekly clinical update, Daniel Griffin and Vincent Racaniello are distressed by the continued upheaval of leadership at the CDC, recent news of H5 highly pathogenic influenza virus found on mink farms in Utah and in the polar bear population of Greenland, continuing spread of dengue virus in Florida and screwworm in the US, the Ebola outbreak in Kenya, identification of cross-reactive T cells following administration of VSV-ZEBOV-GP vaccine and re-addressing vaccination policy changes in Florida and the global burden of measles infection before Dr. Griffin deep dives into recent statistics RSV, influenza, SARS-CoV-2 infections and measles, ineffectiveness of the measles vaccine in infants under 9 months old, efficacy of high dose and standard dose of the influenza vaccine for the elderly, familial susceptibility to SARS-CoV-2 infection and contacting your federal government representative to stop the assault on science and biomedical research. Click arrow to play Download TWiV 1370 (37 MB .mp3, 61 min) Subscribe (free): Apple Podcasts , RSS , email Become a&nbsp; patron &nbsp;of&nbsp;TWiV! Links for this episode C.D.C. Deputy Director Resigns After Four Months in the JobFinds(NY Times) Preliminary report on H5N1 highly pathogenic avian influenza in Utah mink , August 2026(Virological) Evidence of Exposure to Highly Pathogenic Avian Influenza H5 Viruses in East Greenland Polar Bears (CDC: Emerging Infectious Diseases) Florida counties declare emergency over wildly unusu",
+      "description": "[Podcast: This Week in Virology]\n\nIn his weekly clinical update, Daniel Griffin and Vincent Racaniello are distressed by the continued upheaval of leadership at the CDC, recent news of H5 highly pathogenic influenza virus found on mink farms in Utah and in the polar bear population of Greenland, continuing spread of dengue virus in Florida and screwworm in the US, the Ebola outbreak in Kenya, identification of cross-reactive T cells following administration of VSV-ZEBOV-GP vaccine and re-addressing vaccination policy changes in Florida and the global burden of measles infection before Dr. Griffin deep dives into recent statistics RSV, influenza, SARS-CoV-2 infections and measles, ineffectiveness of the measles vaccine in infants under 9 months old, efficacy of &nbsp;high dose and standard dose of the influenza vaccine for the elderly, familial susceptibility to SARS-CoV-2 infection and contacting your federal government representative to stop the assault on science and biomedical research. Click arrow to play Download&nbsp; TWiV 1370 (37 MB .mp3, 61 min) Subscribe (free):&nbsp; Apple Podcasts , RSS ,&nbsp; email Become a&nbsp; patron &nbsp;of&nbsp;TWiV! Links for this episode C.D.C. Deputy Director Resigns After Four Months in the Job (NY Times) 2:35 Preliminary report on H5N1 highly pathogenic avian influenza in Utah mink , August 2026 (Virological) 4:35 Evidence of Exposure to Highly Pathogenic Avian Influenza H5 Viruses in East Greenland Polar Bears (CDC: Emerging Infectious Diseases) 9:15 Florida counties",
       "url": "https://www.microbe.tv/twiv/twiv-1370/",
       "start_datetime": "2026-10-31T04:00:00",
       "end_datetime": null,
@@ -281,7 +265,7 @@
     {
       "id": "2e5d6a0efa7ed4df",
       "title": "TWiV 1371: How to Bat Away Marburg Virus",
-      "description": "[Podcast: This Week in Virology]\n\nTWiV discusses an outbreak of H5N1 influenza viruses in Utah farmed mink, and divergent species-specific antiviral responses in Marburg virus infected cells from reservoir bats and humans. Hosts: Vincent Racaniello , Alan Dove , and Rich Condit Click arrow to play Download TWiV 1371 (66 MB .mp3, 110 min) Subscribe (free): Apple Podcasts , RSS , email Become a&nbsp; patron &nbsp;of&nbsp;TWiV! Links for this episode Support science education at MicrobeTV H5N1 influenza virus in Utah farmed mink (virological.org) Species specific responses to Marburg virus (Cell Rep) Letters read on TWiV 1371 Timestamps by&nbsp; Jolene Ramsey. Thanks! Picks of the Week Rich &#8211; The effect of a hiding box on stress levels and body weight in Dutch shelter cats; a randomized controlled trial Alan &#8211; Edward Gorey&#8217;s version of a tarot card deck Vincent &#8211; Wellcome Global Monitor 2026: Trust in science under pressure Listener Pick Anne &#8211; Blockers, by Michael Lewis Intro music is by&nbsp; Ronald Jenkees Send your virology questions and comments to twiv@microbe.tv Content in this podcast should not be construed as medical advice. The post TWiV 1371: How to Bat Away Marburg Virus first appeared on This Week in Virology .",
+      "description": "[Podcast: This Week in Virology]\n\nTWiV discusses an outbreak of H5N1 influenza viruses in Utah farmed mink, and divergent species-specific antiviral responses in Marburg virus infected cells from reservoir bats and humans. Hosts:&nbsp; Vincent Racaniello , Alan Dove , and Rich Condit Click arrow to play Download TWiV 1371 (66 MB .mp3, 110 min) Subscribe (free):&nbsp; Apple Podcasts ,&nbsp; RSS ,&nbsp; email Become a&nbsp; patron &nbsp;of&nbsp;TWiV! Links for this episode Support science education at MicrobeTV 2:34 H5N1 influenza virus in Utah farmed mink (virological.org) 10:55 Species specific responses to Marburg virus (Cell Rep) 42:17 Letters read on TWiV 1371 1:02:47 Timestamps by&nbsp; Jolene Ramsey. Thanks! Picks of the Week 1:32:30 Rich &#8211; The effect of a hiding box on stress levels and body weight in Dutch shelter cats; a randomized controlled trial Alan &#8211; Edward Gorey&#8217;s version of a tarot card deck Vincent &#8211; Wellcome Global Monitor 2026: Trust in science under pressure Listener Pick Anne &#8211; Blockers, by Michael Lewis Intro music is by&nbsp; Ronald Jenkees Send your virology questions and comments to twiv@microbe.tv Content in this podcast should not be construed as medical advice. The post TWiV 1371: How to Bat Away Marburg Virus first appeared on This Week in Virology .",
       "url": "https://www.microbe.tv/twiv/twiv-1371/",
       "start_datetime": "2026-11-01T04:00:00",
       "end_datetime": null,
@@ -332,7 +316,7 @@
     {
       "id": "9f424e7b1b7220e9",
       "title": "TWiV 1372: Clinical Update with Dr. Daniel Griffin",
-      "description": "[Podcast: This Week in Virology]\n\nIn his weekly clinical update, Daniel Griffin and Vincent Racaniello are cautiously elated by results of election day 2026 on the backdrop of additional measles associated deaths in Wisconsin, Pennsylvania and New York, return of mpox, Chagas disease in Texas, hippopotami dying from anthrax infections, increase in dengue cases in Florida before Dr. Griffin deep dives into recent statistics RSV, influenza, SARS-CoV-2 infections and measles, susceptibility of human neural stem cells to SARS-CoV-2 infection, chemosensory dysfunction after COVID-19 vaccination, low dose naltrexone for Post-COVID Fatigue Syndrome, effect of metformin at the time of SARS-CoV-2 infection and the FDA approved package inserts for the influenza and COVID-19 mRNA vaccines. Click arrow to play Download TWiV 1372 (32 MB .mp3, 53 min) Subscribe (free): Apple Podcasts , RSS , email Become a&nbsp; patron &nbsp;of&nbsp;TWiV! Links for this episode Wilma Glodean Rudolph (Wikipedia) Democratic doctors win big in 2026 midterm elections (CIDRAP) Democratic Doctors Elected for First Time in Nearly 60 Years Flip U.S. Senate (3.14 ACTION) Child Dies From Measles in New York State\u2019s First Fatal Case in 30 Years (NY Times) Pennsylvania Department of Health Confirms Sixth Measles-Associated Death , Provides Statewide Update on Measles Outbreak as Cases Reach 1,467 in 45 Counties (Pennsylvania Department of Health) Pennsylvania reports another measles-related death , the 2nd in Jefferson County (CIDRAP) DHS Reports a De",
+      "description": "[Podcast: This Week in Virology]\n\nIn his weekly clinical update, Daniel Griffin and Vincent Racaniello are cautiously elated by results of election day 2026 on the backdrop of additional measles associated deaths in Wisconsin, Pennsylvania and New York, return of mpox, Chagas disease in Texas, hippopotami dying from anthrax infections, increase in dengue cases in Florida before Dr. Griffin deep dives into recent statistics RSV, influenza, SARS-CoV-2 infections and measles, susceptibility of human neural stem cells to SARS-CoV-2 infection, chemosensory dysfunction after COVID-19 vaccination, low dose naltrexone for Post-COVID Fatigue Syndrome, effect of metformin at the time of SARS-CoV-2 infection and the FDA approved package inserts for the influenza and COVID-19 mRNA vaccines. Click arrow to play Download&nbsp; TWiV 1372 (32 MB .mp3, 53 min) Subscribe (free):&nbsp; Apple Podcasts , RSS ,&nbsp; email Become a&nbsp; patron &nbsp;of&nbsp;TWiV! Links for this episode Wilma Glodean Rudolph (Wikipedia) 1:38 Democratic doctors win big in 2026 midterm elections (CIDRAP) Democratic Doctors Elected for First Time in Nearly 60 Years Flip U.S. Senate (3.14 ACTION) 3:12 Child Dies From Measles in New York State\u2019s First Fatal Case in 30 Years (NY Times) 8:07 Pennsylvania Department of Health Confirms Sixth Measles-Associated Death , Provides Statewide Update on Measles Outbreak as Cases Reach 1,467 in 45 Counties (Pennsylvania Department of Health) 9:02 Pennsylvania reports another measles-related death , the 2nd in Jeff",
       "url": "https://www.microbe.tv/twiv/twiv-1372/",
       "start_datetime": "2026-11-07T05:00:00",
       "end_datetime": null,
@@ -349,7 +333,7 @@
     {
       "id": "b562f58b4918698d",
       "title": "TWiV 1373: Challenging Dengue and RIGging Flu",
-      "description": "[Podcast: This Week in Virology]\n\nTWiV explains results of a dengue virus human challenge which reveals that preexisting immunity shapes viral replication and broadly protective responses, and how influenza virus antagonizes self-sensing by RIG-I to enhance viral replication. Hosts:&nbsp; Vincent Racaniello , Alan Dove , Kathy Spindler , and Brianne Barker Click arrow to play Download TWiV 1373 (66 MB .mp3, 110 min) Subscribe (free):&nbsp; Apple Podcasts ,&nbsp; RSS ,&nbsp; email Become a&nbsp; patron &nbsp;of&nbsp;TWiV! Links for this episode Support science education at MicrobeTV Democratic doctors win big in 2026 midterm elections (CIDRAP) Florida\u2019s dengue total jumps to 485 (CIDRAP) Dengue virus human challenge study (Sci Transl Med) Influenza virus and self sensing of host by RIG-I (Cell Rep) Letters read on TWiV 1373 Timestamps by&nbsp; Jolene Ramsey. Thanks! Picks of the Week Brianne &#8211; Five Science-Backed Benefits of &#8216;grandma hobbies&#8217; Kathy &#8211; Bird of the Week from Ben Tonelli Alan &#8211; The Dark Frontier , by Jeffrey Marlow Vincent &#8211; Where Do Photons Actually Go When You Turn Off The Light ? Intro music is by&nbsp; Ronald Jenkees Send your virology questions and comments to twiv@microbe.tv Content in this podcast should not be construed as medical advice. The post TWiV 1373: Challenging Dengue and RIGging Flu first appeared on This Week in Virology .",
+      "description": "[Podcast: This Week in Virology]\n\nTWiV explains results of a dengue virus human challenge which reveals that preexisting immunity shapes viral replication and broadly protective responses, and how influenza virus antagonizes self-sensing by RIG-I to enhance viral replication. Hosts:&nbsp; Vincent Racaniello , Alan Dove , Kathy Spindler , and Brianne Barker Click arrow to play Download TWiV 1373 (66 MB .mp3, 110 min) Subscribe (free):&nbsp; Apple Podcasts ,&nbsp; RSS ,&nbsp; email Become a&nbsp; patron &nbsp;of&nbsp;TWiV! Links for this episode Support science education at MicrobeTV 3:05 Democratic doctors win big in 2026 midterm elections (CIDRAP) 4:31 Florida\u2019s dengue total jumps to 485 (CIDRAP) 7:19 Dengue virus human challenge study (Sci Transl Med) 8:48 Influenza virus and self sensing of host by RIG-I (Cell Rep) 55:05 Letters read on TWiV 1373 1:24:47 Timestamps by&nbsp; Jolene Ramsey. Thanks! Picks of the Week 1:38:04 Brianne &#8211; Five Science-Backed Benefits of &#8216;grandma hobbies&#8217; Kathy &#8211; Bird of the Week from Ben Tonelli Alan &#8211; The Dark Frontier , by Jeffrey Marlow Vincent &#8211; Where Do Photons Actually Go When You Turn Off The Light ? Intro music is by&nbsp; Ronald Jenkees Send your virology questions and comments to twiv@microbe.tv Content in this podcast should not be construed as medical advice. The post TWiV 1373: Challenging Dengue and RIGging Flu first appeared on This Week in Virology .",
       "url": "https://www.microbe.tv/twiv/twiv-1373/",
       "start_datetime": "2026-11-08T05:00:00",
       "end_datetime": null,
@@ -358,23 +342,6 @@
       "organizer": "This Week in Virology",
       "source": "twiv_podcast",
       "category": "Podcast - TWiV",
-      "tags": [],
-      "access_restriction": "Public",
-      "registration_url": null,
-      "recording_url": null
-    },
-    {
-      "id": "a9e897348a429dd0",
-      "title": "COP31 Health Pavilion",
-      "description": "WHO in collaboration with the Wellcome Trust and the health community will host the Health Pavilion at the COP31 UN Climate Conference, taking place in Antalya, Turkiye, from 9 to 20 November 2026. The Health Pavilion will convene the global health community and key stakeholders across various sectors to ensure health and equity are placed at the centre of climate negotiations. It will offer a rich 2-week programme of events showcasing evidence, initiatives and solutions to maximize the health benefits of tackling climate change across regions, sectors and communities.",
-      "url": "https://www.who.int/news-room/events/detail/2026/11/09/default-calendar/cop31-health-pavilion",
-      "start_datetime": "2026-11-09T00:00:00",
-      "end_datetime": "2026-11-21T00:00:00",
-      "timezone": "UTC",
-      "location": "Online/Geneva",
-      "organizer": "World Health Organization",
-      "source": "who_events",
-      "category": "WHO",
       "tags": [],
       "access_restriction": "Public",
       "registration_url": null,
@@ -568,6 +535,23 @@
       "recording_url": null
     },
     {
+      "id": "f4d9a59946838fa7",
+      "title": "WHO Health Emergencies EPI-WIN webinar: Mpox clinical care: what\u2019s new in the WHO clinical guidelines?",
+      "description": "Since the global Mpox outbreak in 2022, our understanding of the disease has evolved considerably. Mpox continues to affect communities in different regions of the world, with outbreaks linked to multiple virus clades and ongoing transmission through close contact. In response to this changing situation, WHO has released its 2026 Clinical Management and Infection Prevention and Control Guideline for Mpox. This EPI-WIN webinar will highlight the key changes in the 2026 guidance, and share a patient\u2019s lived experience.",
+      "url": "https://www.who.int/news-room/events/detail/2026/11/18/default-calendar/who-health-emergencies-epi-win-webinar-mpox-clinical-care-what-s-new-in-the-who-clinical-guidelines",
+      "start_datetime": "2026-11-18T12:00:00",
+      "end_datetime": "2026-11-18T13:00:00",
+      "timezone": "UTC",
+      "location": "Online/Geneva",
+      "organizer": "World Health Organization",
+      "source": "who_events",
+      "category": "WHO",
+      "tags": [],
+      "access_restriction": "Public",
+      "registration_url": null,
+      "recording_url": null
+    },
+    {
       "id": "5d0633e268402a57",
       "title": "Make a Gutsy Move for Better Health",
       "description": "The gut microbiome is a diverse colony of bacteria that resides in each of us. Emerging research shows these bacteria play a key role in a healthy immune system. They are also associated with conditions such as obesity, diabetes, irritable bowel syndrome, depression, and a variety of cancers. Yet most of us don\u2019t know much about gut health or what to do to improve it.\n\nIn this noontime webinar, you will be introduced to this secret world inside each of us through evidence-based research related to gut health. You will learn how the microbiota within the gut function, including their role in health promotion and disease. We will discuss the difference between prebiotics and probiotics and identify sources in food and supplements. We will also address the role of nutrition in supporting the microbiome and the practical steps you can take now to support your gut health and improve your well-being.\n\nThis class will be recorded and a one-week link to the recording will be shared with all registered participants. \n\nTo receive incentive points, attend at least 80% of the live session or listen to the entire recording within one week.\n\nRequest disability accommodations and access info.\n\nClass details are subject to change.",
@@ -596,6 +580,23 @@
       "organizer": null,
       "source": "uw_madison_seminars",
       "category": "University - UW-Madison",
+      "tags": [],
+      "access_restriction": "Public",
+      "registration_url": null,
+      "recording_url": null
+    },
+    {
+      "id": "1f2059f21153b7b2",
+      "title": "Hackathon: Do you want to collaborate with the world\u2019s first zero-waste restaurant?",
+      "description": "Join Chef-in-Residence Douglas McMaster and the Hill-Maini Lab at Stanford University to give an edible MOLD a new name, a new story and a new life on the plate.\n\nTHE HACKATHON\n\nNeurospora is a bright orange, fast-growing fungus that turns waste into food. It is also a mold, which makes it a hard sell. Student teams will rebrand it: a name, a visual identity, and the stories and dishes that make people want a bite. Douglas works with teams remotely first, then on campus in March\u2013April 2027.\n\nTHE PRIZE\n\nDouglas picks the winner. The winning design is used for a printed zine made with the design school community printshop, posters, and possible branding for a food product.\n\nTHE TIMELINE\n\nNov 19th - Applications close\nDec 3rd - Communication Strategies Workshop with Jennifer Stonaker\nJan 10th - Official Launch\nJan 30th - Winner chosen by the chef\n\nMORE INFORMATION\n\nQuestions? Please contact Alessandra Massa at massaa@stanford.edu.",
+      "url": "https://events.stanford.edu/event/hackathon-neurospora",
+      "start_datetime": "2026-11-19T00:00:00",
+      "end_datetime": "2026-11-19T01:00:00",
+      "timezone": "America/Los_Angeles",
+      "location": "Online",
+      "organizer": null,
+      "source": "stanford_virtual",
+      "category": "Other",
       "tags": [],
       "access_restriction": "Public",
       "registration_url": null,
