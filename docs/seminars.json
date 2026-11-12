@@ -2,12 +2,12 @@
   "metadata": {
     "title": "GID Seminars Feed",
     "description": "Aggregated seminars and webinars for Global Infectious Disease research",
-    "generated_at": "2026-11-11T06:09:37.181089Z",
+    "generated_at": "2026-11-12T06:09:53.200134Z",
     "time_window": {
       "days_behind": 30,
       "days_ahead": 30
     },
-    "total_events": 41,
+    "total_events": 45,
     "sources": [
       "astmh_events",
       "avac_events",
@@ -382,6 +382,23 @@
       "recording_url": null
     },
     {
+      "id": "82611bf06d1c79a6",
+      "title": "TWiV Special: Measles Mini Symposium",
+      "description": "[Podcast: This Week in Virology]\n\nVincent travels to the 8th Measles Mini Symposium at the Mayo Clinic in Rochester, MN where he meets with Paul Rota and Patrick Sinn to discuss their careers and their work on measles virus. Host: Vincent Racaniello Guests: Paul Rota and Patrick Sinn Click arrow to play Download TWiV Special (32 MB .mp3, 53 min) Subscribe (free): Apple Podcasts , RSS , email Become a&nbsp; patron &nbsp;of&nbsp;TWiV! Intro music is by&nbsp; Ronald Jenkees Send your virology questions and comments to twiv@microbe.tv Content in this podcast should not be construed as medical advice. The post TWiV Special: Measles Mini Symposium first appeared on This Week in Virology .",
+      "url": "https://www.microbe.tv/twiv/twiv-special-measles-mini-symposium/",
+      "start_datetime": "2026-11-12T05:00:00",
+      "end_datetime": null,
+      "timezone": "UTC",
+      "location": "Podcast",
+      "organizer": "This Week in Virology",
+      "source": "twiv_podcast",
+      "category": "Podcast - TWiV",
+      "tags": [],
+      "access_restriction": "Public",
+      "registration_url": null,
+      "recording_url": null
+    },
+    {
       "id": "f0cd141147028203",
       "title": "WHO Health Emergencies EPI-WIN webinar: Update on the current Ebola Bundibugyo virus disease outbreak",
       "description": "Since the outbreak of Ebola disease caused by Bundibugyo virus (BVD) was declared in May 2026, it has become the largest Ebola outbreak ever recorded in the Democratic Republic of the Congo (DRC). The webinar will offer participants an opportunity to hear directly from technical experts and engage in a discussion on key public health considerations.",
@@ -620,6 +637,23 @@
       "recording_url": null
     },
     {
+      "id": "7eea1e24ff074382",
+      "title": "NYC World AIDS Day at Times Square",
+      "description": null,
+      "url": "https://avac.org/event/nyc-world-aids-day-at-times-square/",
+      "start_datetime": "2026-12-01T00:00:00",
+      "end_datetime": null,
+      "timezone": "America/New_York",
+      "location": null,
+      "organizer": "AVAC",
+      "source": "avac_events",
+      "category": "AVAC",
+      "tags": [],
+      "access_restriction": "Public",
+      "registration_url": null,
+      "recording_url": null
+    },
+    {
       "id": "48a9726de81672dd",
       "title": "Human metapneumovirus (hMPV) 25 years on",
       "description": "1 December 2026 - 2PM - 3.30PM  GMT, Online webinar",
@@ -747,6 +781,40 @@
       "end_datetime": "2026-12-04T23:30:00",
       "timezone": "America/Los_Angeles",
       "location": "Fred Hutch Cancer Center, South Lake Union Campus, Seattle, WA, Room details will be provided to registered participants",
+      "organizer": null,
+      "source": "uw_cfar",
+      "category": "Fred Hutch Center for AIDS Research (CFAR)",
+      "tags": [],
+      "access_restriction": "Public",
+      "registration_url": null,
+      "recording_url": null
+    },
+    {
+      "id": "374e352e29346d9a",
+      "title": "Understanding Anal Pleasure and Health: There\u2019s Always More to Know",
+      "description": null,
+      "url": "https://avac.org/event/understanding-anal-pleasure-and-health-always-more-to-know/",
+      "start_datetime": "2026-12-09T00:00:00",
+      "end_datetime": null,
+      "timezone": "America/New_York",
+      "location": "Online",
+      "organizer": "AVAC",
+      "source": "avac_events",
+      "category": "AVAC",
+      "tags": [],
+      "access_restriction": "Public",
+      "registration_url": null,
+      "recording_url": null
+    },
+    {
+      "id": "c7c1287ea83ebdd3",
+      "title": "Grantwriting for Qualitative Research Workshop-Data Sciences and Methods Core",
+      "description": "Event interval: Single day event\nAccessibility Contact: lmng@uw.edu\nEvent Types: Lectures/Seminars\n\nEvent details TBD",
+      "url": null,
+      "start_datetime": "2026-12-11T17:00:00",
+      "end_datetime": "2026-12-11T20:00:00",
+      "timezone": "America/Los_Angeles",
+      "location": "Online",
       "organizer": null,
       "source": "uw_cfar",
       "category": "Fred Hutch Center for AIDS Research (CFAR)",
