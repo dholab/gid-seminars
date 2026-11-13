@@ -2,12 +2,12 @@
   "metadata": {
     "title": "GID Seminars Feed",
     "description": "Aggregated seminars and webinars for Global Infectious Disease research",
-    "generated_at": "2026-11-12T06:09:53.200134Z",
+    "generated_at": "2026-11-13T06:09:44.305419Z",
     "time_window": {
       "days_behind": 30,
       "days_ahead": 30
     },
-    "total_events": 45,
+    "total_events": 44,
     "sources": [
       "astmh_events",
       "avac_events",
@@ -393,23 +393,6 @@
       "organizer": "This Week in Virology",
       "source": "twiv_podcast",
       "category": "Podcast - TWiV",
-      "tags": [],
-      "access_restriction": "Public",
-      "registration_url": null,
-      "recording_url": null
-    },
-    {
-      "id": "f0cd141147028203",
-      "title": "WHO Health Emergencies EPI-WIN webinar: Update on the current Ebola Bundibugyo virus disease outbreak",
-      "description": "Since the outbreak of Ebola disease caused by Bundibugyo virus (BVD) was declared in May 2026, it has become the largest Ebola outbreak ever recorded in the Democratic Republic of the Congo (DRC). The webinar will offer participants an opportunity to hear directly from technical experts and engage in a discussion on key public health considerations.",
-      "url": "https://www.who.int/news-room/events/detail/2026/11/12/default-calendar/who-health-emergencies-epi-win-webinar-update-on-the-current-ebola-bundibugyo-virus-disease-outbreak",
-      "start_datetime": "2026-11-12T11:00:00",
-      "end_datetime": "2026-11-12T12:00:00",
-      "timezone": "UTC",
-      "location": "Online/Geneva",
-      "organizer": "World Health Organization",
-      "source": "who_events",
-      "category": "WHO",
       "tags": [],
       "access_restriction": "Public",
       "registration_url": null,
