@@ -2,12 +2,12 @@
   "metadata": {
     "title": "GID Seminars Feed",
     "description": "Aggregated seminars and webinars for Global Infectious Disease research",
-    "generated_at": "2026-11-15T06:08:27.032501Z",
+    "generated_at": "2026-11-16T06:14:18.994338Z",
     "time_window": {
       "days_behind": 30,
       "days_ahead": 30
     },
-    "total_events": 47,
+    "total_events": 48,
     "sources": [
       "astmh_events",
       "avac_events",
@@ -847,6 +847,23 @@
       "url": "https://www.who.int/news-room/events/detail/2026/12/14/default-calendar/technical-consultation-on-mers-cov-vaccination-in-camels-as-a-one-health-intervention",
       "start_datetime": "2026-12-14T00:00:00",
       "end_datetime": "2027-01-16T00:00:00",
+      "timezone": "UTC",
+      "location": "Online/Geneva",
+      "organizer": "World Health Organization",
+      "source": "who_events",
+      "category": "WHO",
+      "tags": [],
+      "access_restriction": "Public",
+      "registration_url": null,
+      "recording_url": null
+    },
+    {
+      "id": "e51e24a8e7089112",
+      "title": "Webinar \u2013 From financing opportunities to results: What has worked and what comes next",
+      "description": "Sustainable financing is essential to achieving and sustaining progress towards the elimination of onchocerciasis and other neglected tropical diseases (NTDs), particularly as the global financing landscape continues to evolve.",
+      "url": "https://www.who.int/news-room/events/detail/2026/12/15/default-calendar/webinar--from-financing-opportunities-to-results--what-has-worked-and-what-comes-next",
+      "start_datetime": "2026-12-15T13:00:00",
+      "end_datetime": "2026-12-15T14:30:00",
       "timezone": "UTC",
       "location": "Online/Geneva",
       "organizer": "World Health Organization",
