@@ -2,12 +2,12 @@
   "metadata": {
     "title": "GID Seminars Feed",
     "description": "Aggregated seminars and webinars for Global Infectious Disease research",
-    "generated_at": "2026-11-16T06:14:18.994338Z",
+    "generated_at": "2026-11-17T06:10:13.246034Z",
     "time_window": {
       "days_behind": 30,
       "days_ahead": 30
     },
-    "total_events": 48,
+    "total_events": 46,
     "sources": [
       "astmh_events",
       "avac_events",
@@ -51,6 +51,7 @@
       "Podcast - TWiV",
       "TEPHI",
       "Talks",
+      "University - Stanford",
       "University - UCSF",
       "University - USask",
       "University - UW-Madison",
@@ -58,23 +59,6 @@
     ]
   },
   "events": [
-    {
-      "id": "3b1f2a0dfe853e15",
-      "title": "TWiV 1367: Turning Off Hepatitis B Virus Without Cutting its DNA",
-      "description": "[Podcast: This Week in Virology]\n\nTWiV explains a study which shows that influenza A virus infection induces immune dysregulation in the placenta and fetus without vertical transmission in nonhuman primates, and development of an epigenetic silencer therapy to transcriptionally inactivate viral DNA in chronic hepatitis B. Hosts:&nbsp; Vincent Racaniello , Rich Condit , Kathy Spindler, and Brianne Barker Click arrow to play Download TWiV 1367 (68 MB .mp3, 113 min) Subscribe (free):&nbsp; Apple Podcasts ,&nbsp; RSS ,&nbsp; email Become a&nbsp; patron &nbsp;of&nbsp;TWiV! Links for this episode Support science education at MicrobeTV Helen Branswell , 69 (STAT) 4:07 Influenza A virus and fetal immune dysregulation (Sci Adv) 5:52 Epigenetic silencing for hepatitis B (Nat Biomed Eng) 35:45 Letters read on TWiV 1367 1:23:05 Timestamps by&nbsp; Jolene Ramsey. Thanks! Picks of the Week 1:34:20 Brianne &#8211; A healing touch for coral bleaching Kathy &#8211; Saturday Morning Physics especially The Science of Survey Research Rich &#8211; Everything is Tuberculosis by John Green Vincent &#8211; Death by Black Hole: And Other Cosmic Quandaries by Neil deGrasse Tyson Intro music is by&nbsp; Ronald Jenkees Send your virology questions and comments to twiv@microbe.tv Content in this podcast should not be construed as medical advice. The post TWiV 1367: Turning Off Hepatitis B Virus Without Cutting its DNA first appeared on This Week in Virology .",
-      "url": "https://www.microbe.tv/twiv/twiv-1367/",
-      "start_datetime": "2026-10-18T04:00:00",
-      "end_datetime": null,
-      "timezone": "UTC",
-      "location": "Podcast",
-      "organizer": "This Week in Virology",
-      "source": "twiv_podcast",
-      "category": "Podcast - TWiV",
-      "tags": [],
-      "access_restriction": "Public",
-      "registration_url": null,
-      "recording_url": null
-    },
     {
       "id": "5b66d55cf499ef46",
       "title": "PhD Dissertation Defense: Santiago Mille Fragoso",
@@ -384,7 +368,7 @@
     {
       "id": "3af0c8677d2e1a0a",
       "title": "TWiV 1374: Clinical Update with Dr. Daniel Griffin",
-      "description": "[Podcast: This Week in Virology]\n\nIn his weekly clinical update, Daniel Griffin and Vincent Racaniello discuss the identification of a type 1 poliovirus outbreak in Syria, the loss of US measles elimination status, use of the influenza vaccine against melanoma, death in Florida from dengue virus infection and return of the virus to the US, wider use of the Ebola ERVEBO vaccine, before Dr. Griffin deep dives into recent statistics on RSV, influenza, SARS-CoV-2 infections and measles, the FDA-approved package inserts for the RSV biologic products, and the magnitude and durability of the immune response following administration of the COVID-19 vaccine in children. Click arrow to play Download&nbsp; TWiV 1374 (36 MB .mp3, 59 min) Subscribe (free):&nbsp; Apple Podcasts , RSS ,&nbsp; email Become a&nbsp; patron &nbsp;of&nbsp;TWiV! Links for this episode Syrian Arab Republic launches coordinated public health response following poliovirus detection in Deir Ezzor (WHO) The U.S. Has Lost Its Measles-Elimination Status, Data Suggests (NY Times) Intralesional Influenza Vaccine for the Treatment of Stage I-IV Melanoma (Clinical Trials.gov) 501 Phase 1b trial of intratumoral administration of the seasonal influenza vaccine in patients with melanoma (BMJ Journals: Journal for ImmunoTherapy of Cancer) Why the simple flu shot could be a surprise weapon against cancer (Washington Post) Dengue (WHO: Dengue) Her Death From Dengue May Signal That the Disease Is Here to Stay (NY Times) Why H5N1 in mink is concerning (JPWeiland: X",
+      "description": "[Podcast: This Week in Virology]\n\nIn his weekly clinical update, Daniel Griffin and Vincent Racaniello discuss the identification of a type 1 poliovirus outbreak in Syria, the loss of US measles elimination status, use of the influenza vaccine against melanoma, death in Florida from dengue virus infection and return of the virus to the US, wider use of the Ebola ERVEBO vaccine, before Dr. Griffin deep dives into recent statistics on RSV, influenza, SARS-CoV-2 infections and measles, the FDA-approved package inserts for the RSV biologic products, and the magnitude and durability of the immune response following administration of the COVID-19 vaccine in children. Click arrow to play Download&nbsp; TWiV 1374 (36 MB .mp3, 59 min) Subscribe (free):&nbsp; Apple Podcasts , RSS ,&nbsp; email Become a&nbsp; patron &nbsp;of&nbsp;TWiV! Links for this episode Syrian Arab Republic launches coordinated public health response following poliovirus detection in Deir Ezzor (WHO) 3:53 The U.S. Has Lost Its Measles-Elimination Status, Data Suggests (NY Times) 6:19 Intralesional Influenza Vaccine for the Treatment of Stage I-IV Melanoma (Clinical Trials.gov) 501 Phase 1b trial of intratumoral administration of the seasonal influenza vaccine in patients with melanoma (BMJ Journals: Journal for ImmunoTherapy of Cancer) 7:10 Why the simple flu shot could be a surprise weapon against cancer (Washington Post) 10:56 Dengue (WHO: Dengue) Her Death From Dengue May Signal That the Disease Is Here to Stay (NY Times) 12:54 Why H5N1 in mink ",
       "url": "https://www.microbe.tv/twiv/twiv-1374/",
       "start_datetime": "2026-11-14T05:00:00",
       "end_datetime": null,
@@ -401,7 +385,7 @@
     {
       "id": "9dec2b4e3eb07ee1",
       "title": "TWiV 1375: One Virus is Not Enough",
-      "description": "[Podcast: This Week in Virology]\n\nTWiV explains how bacteriophages in meromictic lakes may control metabolic activities in sulfur-cycling bacteria, and the requirement for more than one virus particle to infect a cell to suppress innate immune sensors. Hosts:&nbsp; Vincent Racaniello , Brianne Barker , and Jolene Ramsey Click arrow to play Download TWiV 1375 (65 MB .mp3, 109 min) Subscribe (free): Apple Podcasts , RSS , email Become a&nbsp; patron &nbsp;of&nbsp;TWiV! Links for this episode Support science education at MicrobeTV 3:05 Bundibugyo mRNA vaccine to phase 2/3 (Moderna) Phage infections in meromictic lakes (ISME J) Purple sulfur bacteria video (Silveira lab) Supra-unitary virus infection to suppress innate sensors (Cell) Timestamps by&nbsp; Jolene Ramsey. Thanks! Picks of the Week Brianne &#8211; The U.S. Has Lost Its Measles-Elimination Status, Data Suggests Jolene &#8211; Gathering Moss: A natural and cultural history of mosses by Robin Wall Kimmerer Vincent &#8211; NEUROPSYCHOLOGY Summarized Intro music is by&nbsp; Ronald Jenkees Send your virology questions and comments to twiv@microbe.tv Content in this podcast should not be construed as medical advice. The post TWiV 1375: One Virus is Not Enough first appeared on This Week in Virology .",
+      "description": "[Podcast: This Week in Virology]\n\nTWiV explains how bacteriophages in meromictic lakes may control metabolic activities in sulfur-cycling bacteria, and the requirement for more than one virus particle to infect a cell to suppress innate immune sensors. Hosts:&nbsp; Vincent Racaniello , Brianne Barker , and Jolene Ramsey Click arrow to play Download TWiV 1375 (65 MB .mp3, 109 min) Subscribe (free):&nbsp; Apple Podcasts ,&nbsp; RSS ,&nbsp; email Become a&nbsp; patron &nbsp;of&nbsp;TWiV! Links for this episode Support science education at MicrobeTV 4:09 Bundibugyo mRNA vaccine to phase 2/3 (Moderna) 8:45 Phage infections in meromictic lakes (ISME J) 12:44 Purple sulfur bacteria video (Silveira lab) 21:30 Supra-unitary virus infection to suppress innate sensors (Cell) 51:06 Timestamps by&nbsp; Jolene Ramsey. Thanks! Picks of the Week 1:35:23 Brianne &#8211; The U.S. Has Lost Its Measles-Elimination Status, Data Suggests Jolene &#8211; Gathering Moss: A natural and cultural history of mosses by Robin Wall Kimmerer Vincent &#8211; NEUROPSYCHOLOGY Summarized Intro music is by&nbsp; Ronald Jenkees Send your virology questions and comments to twiv@microbe.tv Content in this podcast should not be construed as medical advice. The post TWiV 1375: One Virus is Not Enough first appeared on This Week in Virology .",
       "url": "https://www.microbe.tv/twiv/twiv-1375/",
       "start_datetime": "2026-11-15T05:00:00",
       "end_datetime": null,
@@ -410,23 +394,6 @@
       "organizer": "This Week in Virology",
       "source": "twiv_podcast",
       "category": "Podcast - TWiV",
-      "tags": [],
-      "access_restriction": "Public",
-      "registration_url": null,
-      "recording_url": null
-    },
-    {
-      "id": "2c90bf48ebf5eba8",
-      "title": "New Congress, who dis? Understanding how power has shifted after the election",
-      "description": null,
-      "url": "https://avac.org/event/new-congress-understanding-power-shift-after-election/",
-      "start_datetime": "2026-11-16T00:00:00",
-      "end_datetime": null,
-      "timezone": "America/New_York",
-      "location": "Online",
-      "organizer": "AVAC",
-      "source": "avac_events",
-      "category": "AVAC",
       "tags": [],
       "access_restriction": "Public",
       "registration_url": null,
