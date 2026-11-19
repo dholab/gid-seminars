@@ -2,12 +2,12 @@
   "metadata": {
     "title": "GID Seminars Feed",
     "description": "Aggregated seminars and webinars for Global Infectious Disease research",
-    "generated_at": "2026-11-18T06:09:37.967502Z",
+    "generated_at": "2026-11-19T06:10:10.457504Z",
     "time_window": {
       "days_behind": 30,
       "days_ahead": 30
     },
-    "total_events": 48,
+    "total_events": 44,
     "sources": [
       "astmh_events",
       "avac_events",
@@ -59,23 +59,6 @@
     ]
   },
   "events": [
-    {
-      "id": "5b66d55cf499ef46",
-      "title": "PhD Dissertation Defense: Santiago Mille Fragoso",
-      "description": "Title: Computational and Synthetic Design of Modular Molecular Devices\n\nAbstract: Cells use molecular mechanisms to detect environmental signals and convert them into functional responses. Engineering this capability could enable programmable cell behaviors, diagnostics, and therapies, yet these sensors remain difficult to adapt to new inputs and outputs. I propose new strategies for designing molecular devices, introducing methods to design binders to proteins of interest (POIs) and a post-transcriptional mechanism that converts the binding of a molecule into an output, thereby contributing complementary approaches to program the sensing, processing, and actuation layers of synthetic molecular sensors. First, I present LIDAR (Ligand-Induced Dimerization Activating RNA editing), a post-transcriptional receptor platform that couples ligand-dependent protein proximity to ADAR-mediated RNA editing. LIDAR functions across architectures and ligand classes to produce functional outputs. Second, I present Germinal, a computational pipeline for designing antibodies for therapeutic and synthetic biology applications. By jointly optimizing antibody structure and sequence with AlphaFold-Multimer and an antibody language model, I generated VHH and scFv binders against four proteins using tens of tested designs per target, with structural and mutational analyses confirming their binding modes. Finally, I outline how these advances could converge in LIDAR-inspired synthetic receptors that couple antibody-based recognition of intracellular proteins to RNA editing. Together, these two projects establish a path toward modular molecular devices whose inputs and outputs can be selected by design.\n\nPlease contact Sofia Rakicevic-More for the Zoom link.",
-      "url": "https://events.stanford.edu/event/phd-dissertation-defense-santiago-mille-fragoso",
-      "start_datetime": "2026-10-19T20:00:00",
-      "end_datetime": "2026-10-19T21:00:00",
-      "timezone": "America/Los_Angeles",
-      "location": "Clark Center, S360",
-      "organizer": null,
-      "source": "stanford_virtual",
-      "category": "PhD Defense",
-      "tags": [],
-      "access_restriction": "Public",
-      "registration_url": null,
-      "recording_url": null
-    },
     {
       "id": "23cfa312bb85523d",
       "title": "Plagues and Icons: The Stories that Shaped ID | Calvin Kunin: A Life in Infectious Diseases (Part 1)",
@@ -400,57 +383,6 @@
       "recording_url": null
     },
     {
-      "id": "62f09638c6c42d39",
-      "title": "Advancing Access to LEN for PrEP in Kenya, Malawi, and Uganda",
-      "description": null,
-      "url": "https://avac.org/event/len-access/",
-      "start_datetime": "2026-11-18T00:00:00",
-      "end_datetime": null,
-      "timezone": "America/New_York",
-      "location": "Online",
-      "organizer": "AVAC",
-      "source": "avac_events",
-      "category": "AVAC",
-      "tags": [],
-      "access_restriction": "Public",
-      "registration_url": null,
-      "recording_url": null
-    },
-    {
-      "id": "3f7c170bf87935f7",
-      "title": "World AMR Awareness Week 2026: One Health, One Action: Prevent AMR Now",
-      "description": null,
-      "url": "https://www.who.int/news-room/events/detail/2026/11/18/default-calendar/world-amr-awareness-week-2026",
-      "start_datetime": "2026-11-18T08:00:00",
-      "end_datetime": "2026-11-24T17:00:00",
-      "timezone": "UTC",
-      "location": "Online/Geneva",
-      "organizer": "World Health Organization",
-      "source": "who_events",
-      "category": "WHO",
-      "tags": [],
-      "access_restriction": "Public",
-      "registration_url": null,
-      "recording_url": null
-    },
-    {
-      "id": "f4d9a59946838fa7",
-      "title": "WHO Health Emergencies EPI-WIN webinar: Mpox clinical care: what\u2019s new in the WHO clinical guidelines",
-      "description": "Since the global Mpox outbreak in 2022, our understanding of the disease has evolved considerably. Mpox continues to affect communities in different regions of the world, with outbreaks linked to multiple virus clades and ongoing transmission through close contact. In response to this changing situation, WHO has released its 2026 Clinical Management and Infection Prevention and Control Guideline for Mpox. This EPI-WIN webinar will highlight the key changes in the 2026 guidance, and share a patient\u2019s lived experience.",
-      "url": "https://www.who.int/news-room/events/detail/2026/11/18/default-calendar/who-health-emergencies-epi-win-webinar-mpox-clinical-care-what-s-new-in-the-who-clinical-guidelines",
-      "start_datetime": "2026-11-18T12:00:00",
-      "end_datetime": "2026-11-18T13:00:00",
-      "timezone": "UTC",
-      "location": "Online/Geneva",
-      "organizer": "World Health Organization",
-      "source": "who_events",
-      "category": "WHO",
-      "tags": [],
-      "access_restriction": "Public",
-      "registration_url": null,
-      "recording_url": null
-    },
-    {
       "id": "5d0633e268402a57",
       "title": "Make a Gutsy Move for Better Health",
       "description": "The gut microbiome is a diverse colony of bacteria that resides in each of us. Emerging research shows these bacteria play a key role in a healthy immune system. They are also associated with conditions such as obesity, diabetes, irritable bowel syndrome, depression, and a variety of cancers. Yet most of us don\u2019t know much about gut health or what to do to improve it.\n\nIn this noontime webinar, you will be introduced to this secret world inside each of us through evidence-based research related to gut health. You will learn how the microbiota within the gut function, including their role in health promotion and disease. We will discuss the difference between prebiotics and probiotics and identify sources in food and supplements. We will also address the role of nutrition in supporting the microbiome and the practical steps you can take now to support your gut health and improve your well-being.\n\nThis class will be recorded and a one-week link to the recording will be shared with all registered participants. \n\nTo receive incentive points, attend at least 80% of the live session or listen to the entire recording within one week.\n\nRequest disability accommodations and access info.\n\nClass details are subject to change.",
@@ -759,7 +691,7 @@
     {
       "id": "e6f0e18f57d88b4f",
       "title": "CFAR Seminar with Dr. Priscilla Hsue",
-      "description": "Event interval: Single day event\nOnline Meeting Link: https://washington.zoom.us/meeting/register/4398xTkSRSicLrkE6HK7hw\nAccessibility Contact: g0201@uw.edu\nEvent Types: Lectures/Seminars\n\nTalk title: TBD\nBio: \nDr. Priscilla Hsue completed her medical school, residency and cardiology fellowship at the University of California-San Francisco, where she joined the faculty in 2002 and was the Chief of Cardiology at Zuckerberg San Francisco General Hospital at UCSF since 2020 where she founded the HIV Cardiology Clinic and co-directed the UCSF Center for Vascular Excellence. In July 2024 she became Chief of Cardiology at UCLA, holds the Chizuko and Nobuyuki Kawata Chair in Cardiology, and is Professor of Medicine at the David Geffen School of Medicine at UCLA. \nDr. Hsue\u2019s research interest is in the pathogenesis, clinical manifestations, and treatment of cardiovascular disease in the setting of infectious disease with a focus on HIV-associated inflammation and atherosclerosis.  Throughout her career, she has developed multidisciplinary research collaborations and oversees a portfolio of clinical and translational studies in the U.S. and internationally.  She has had extensive experience in leading both single center and multicenter clinical trials using cardiometabolic, anti-inflammatory, immunomodulatory interventions, and polypill in the setting of atherosclerosis, HIV, rheumatoid arthritis, COVID-19, and heart failure.  Recently, she has started global work to evaluate the cardiopulmonary sequelae of TB infection at the Uganda Heart Institute.  Since 2005, she has been a continuous recipient of NIH funding and is currently PI on numerous NIH grants.\nDr. Hsue is the immediate past president of the American Society of Clinical Investigation (ASCI), prior chair of several  National Heart, Lung, and Blood study sections, is a member of the Association of American Physicians, Association of University Cardiologists, and is the Chair of the Sarnoff Cardiovascular Research F",
+      "description": "Event interval: Single day event\nOnline Meeting Link: https://washington.zoom.us/meeting/register/4398xTkSRSicLrkE6HK7hw\nAccessibility Contact: g0201@uw.edu\nEvent Types: Lectures/Seminars\n\nREGISTER NOW!\nRegister via this link for virtual attendance: \nZoom registration: \nhttps://washington.zoom.us/meeting/register/4398xTkSRSicLrkE6HK7hw\n\n--------------------------------------------------------------------------------\n\nSeminar Speaker: Priscilla Hsue, FACC, FAHA\nTalk title: \u201cImmunomodulation and Cardiovascular Disease: Lessons learned from HIV and COVID-19\u201d\nBio:\nDr. Priscilla Hsue, FACC, FAHA completed her medical school, residency and cardiology fellowship at the University of California-San Francisco, where she joined the faculty in 2002 and was the Chief of Cardiology at Zuckerberg San Francisco General Hospital at UCSF since 2020 where she founded the HIV Cardiology Clinic and co-directed the UCSF Center for Vascular Excellence. In July 2024 she became Chief of Cardiology at UCLA, holds the Chizuko and Nobuyuki Kawata Chair in Cardiology, and is Professor of Medicine at the David Geffen School of Medicine at UCLA. \nDr. Hsue\u2019s research interest is in the pathogenesis, clinical manifestations, and treatment of cardiovascular disease in the setting of infectious disease with a focus on HIV-associated inflammation and atherosclerosis.  Throughout her career, she has developed multidisciplinary research collaborations and oversees a portfolio of clinical and translational studies in the U.S. and internationally.  She has had extensive experience in leading both single center and multicenter clinical trials using cardiometabolic, anti-inflammatory, immunomodulatory interventions, and polypill in the setting of atherosclerosis, HIV, rheumatoid arthritis, COVID-19, and heart failure.  Recently, she has started global work to evaluate the cardiopulmonary sequelae of TB infection at the Uganda Heart Institute.  Since 2005, she has been a continuous recipient of NIH funding ",
       "url": "https://washington.zoom.us/meeting/register/4398xTkSRSicLrkE6HK7hw",
       "start_datetime": "2026-12-04T00:00:00",
       "end_datetime": "2026-12-04T01:00:00",
