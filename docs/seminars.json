@@ -2,12 +2,12 @@
   "metadata": {
     "title": "GID Seminars Feed",
     "description": "Aggregated seminars and webinars for Global Infectious Disease research",
-    "generated_at": "2026-11-23T06:13:00.533990Z",
+    "generated_at": "2026-11-24T06:09:45.949326Z",
     "time_window": {
       "days_behind": 30,
       "days_ahead": 30
     },
-    "total_events": 48,
+    "total_events": 47,
     "sources": [
       "astmh_events",
       "avac_events",
@@ -58,23 +58,6 @@
     ]
   },
   "events": [
-    {
-      "id": "5ef7cfd18ece7201",
-      "title": "TWiV 1369: Florida Model Makes Measles Great Again",
-      "description": "[Podcast: This Week in Virology]\n\nTWiV explains projected effects of removing school-entry vaccination requirements on measles transmission in Florida and evidence that HLA class I escape drives the evolution of SARS-CoV-2 in human populations. Hosts:&nbsp; Vincent Racaniello , Alan Dove , Rich Condit , Brianne Barker Click arrow to play Download TWiV 1369 (71 MB .mp3, 117 min) Subscribe (free):&nbsp; Apple Podcasts ,&nbsp; RSS ,&nbsp; email Become a&nbsp; patron &nbsp;of&nbsp;TWiV! Links for this episode Support science education at MicrobeTV 7:05 Effects of removing Florida school vaccination mandates (PNAS) 7:23 HLA escape drives SARS-CoV-2 evolution (PNAS) 37:34 The other landscape of SARS-CoV-2 evolution (PNAS) 38:30 Letters read on TWiV 1369 1:21:44 Timestamps by&nbsp; Jolene Ramsey. Thanks! Picks of the Week 1:38:41 Brianne &#8211; Astronomers Discover the First Green Star Rich &#8211; Inside the Johns Hopkins Psilocybin Playlist by Marc Shapiro (2020) Alan &#8211; The Wreck of the Mentor , by Eric Jay Dolin Vincent &#8211; The Apollo 11 Code is Open Source (and its\u2019 hilarious) Intro music is by&nbsp; Ronald Jenkees Send your virology questions and comments to twiv@microbe.tv Content in this podcast should not be construed as medical advice. The post TWiV 1369: Florida Model Makes Measles Great Again first appeared on This Week in Virology .",
-      "url": "https://www.microbe.tv/twiv/twiv-1369/",
-      "start_datetime": "2026-10-25T04:00:00",
-      "end_datetime": null,
-      "timezone": "UTC",
-      "location": "Podcast",
-      "organizer": "This Week in Virology",
-      "source": "twiv_podcast",
-      "category": "Podcast - TWiV",
-      "tags": [],
-      "access_restriction": "Public",
-      "registration_url": null,
-      "recording_url": null
-    },
     {
       "id": "69a9b11beb3a9f3f",
       "title": "Plagues and Icons: The Stories that Shaped ID | Calvin Kunin: A Life in Infectious Diseases (Part 2)",
