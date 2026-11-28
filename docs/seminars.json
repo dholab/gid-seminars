@@ -2,12 +2,12 @@
   "metadata": {
     "title": "GID Seminars Feed",
     "description": "Aggregated seminars and webinars for Global Infectious Disease research",
-    "generated_at": "2026-11-27T06:10:00.990436Z",
+    "generated_at": "2026-11-28T06:09:05.424304Z",
     "time_window": {
       "days_behind": 30,
       "days_ahead": 30
     },
-    "total_events": 45,
+    "total_events": 44,
     "sources": [
       "astmh_events",
       "avac_events",
@@ -58,40 +58,6 @@
     ]
   },
   "events": [
-    {
-      "id": "69a9b11beb3a9f3f",
-      "title": "Plagues and Icons: The Stories that Shaped ID | Calvin Kunin: A Life in Infectious Diseases (Part 2)",
-      "description": "[Podcast: Let's Talk ID] Duration: 1592\n\nIn Part 2 of Plagues and Icons: The Stories That Shaped ID , IDSA President-Elect Max Brito, MD, MPH, FIDSA, continues his conversation with Calvin Kunin, MD, FIDSA, 97, about his pioneering UTI research and remarkable career in infectious diseases.",
-      "url": "https://www.buzzsprout.com/2019912/episodes/20034835-plagues-and-icons-the-stories-that-shaped-id-calvin-kunin-a-life-in-infectious-diseases-part-2.mp3",
-      "start_datetime": "2026-10-28T10:00:00",
-      "end_datetime": null,
-      "timezone": "UTC",
-      "location": "Podcast",
-      "organizer": "Let's Talk ID",
-      "source": "idsa_podcast",
-      "category": "Podcast - IDSA",
-      "tags": [],
-      "access_restriction": "Public",
-      "registration_url": null,
-      "recording_url": null
-    },
-    {
-      "id": "b2f84ad6e55c12e0",
-      "title": "Medicine Grand Rounds with Emmanuel Mignot, MD, PhD",
-      "description": "Stanford Department of Medicine would like to invite all Stanford community members to attend this instance of the Medicine Grand Rounds (MGR) series, which will feature Emmanuel Mignot, MD, PhD, a Stanford sleep medicine pioneer who discovered that narcolepsy is caused by an immune-mediated loss of brain cells \u2014 work that earned him a 2023 Breakthrough Prize in Life Sciences and the 2026 Albert Lasker Basic Medical Research Award.\n\nCE accreditation info here.\n\nCME Activity ID: 58647\n\nMOC Credit (1): Complete this form after each session; reflective statement (1-2 sentences) required.",
-      "url": "https://events.stanford.edu/event/medicine-grand-rounds-with-emmanuel-mignot",
-      "start_datetime": "2026-10-28T19:00:00",
-      "end_datetime": "2026-10-28T20:00:00",
-      "timezone": "America/Los_Angeles",
-      "location": "Li Ka Shing Center, Berg Hall",
-      "organizer": null,
-      "source": "stanford_virtual",
-      "category": "Lecture/Presentation/Talk",
-      "tags": [],
-      "access_restriction": "Public",
-      "registration_url": null,
-      "recording_url": null
-    },
     {
       "id": "22e82769191c4a51",
       "title": "Zeming Lin and Roshan Rao from Biohub - Day 1",
@@ -455,6 +421,23 @@
       "description": "[Podcast: This Week in Virology]\n\nVincent visits Brianne at Drew University where they discuss how human adenovirus protein VII inhibits type I IFN, before an audience of the 60 top high school science students in New Jersey, part of the New Jersey Governor&#8217;s School in the Sciences. Hosts:&nbsp; Vincent Racaniello and Brianne Barker Click arrow to play Download TWiV 1377 (48 MB .mp3, 80 min) Subscribe (free):&nbsp; Apple Podcasts ,&nbsp; RSS ,&nbsp; email Become a&nbsp; patron &nbsp;of&nbsp;TWiV! Links for this episode Support science education at MicrobeTV Ad antagonizes RIG-I (Cell Rep) 10:27 Timestamps by&nbsp; Jolene Ramsey. Thanks! Intro music is by&nbsp; Ronald Jenkees Send your virology questions and comments to twiv@microbe.tv Content in this podcast should not be construed as medical advice. The post TWiV 1377: The Brightest Teen Scientists in New Jersey first appeared on This Week in Virology .",
       "url": "https://www.microbe.tv/twiv/twiv-1377/",
       "start_datetime": "2026-11-22T05:00:00",
+      "end_datetime": null,
+      "timezone": "UTC",
+      "location": "Podcast",
+      "organizer": "This Week in Virology",
+      "source": "twiv_podcast",
+      "category": "Podcast - TWiV",
+      "tags": [],
+      "access_restriction": "Public",
+      "registration_url": null,
+      "recording_url": null
+    },
+    {
+      "id": "4ea9ecd7c58e7e22",
+      "title": "TWiV 1378: Clinical Update with Dr. Daniel Griffin",
+      "description": "[Podcast: This Week in Virology]\n\nRecorded during pediatric infectious disease grand rounds at Weill/Cornell in New York City, Daniel Griffin and Vincent Racaniello are once again horror-struck by 13 measles-associated deaths in the US before Thanksgiving, reporting long-term circulation of Hantavirus in Patagonia, how the COVID-19 pandemic facilitated the increase in confirmed opportunistic disease diagnoses, and the association of HSV-1 infection and neurological complications before Dr. Griffin deep dives into recent statistics on RSV, influenza, SARS-CoV-2 infections and measles, and the FDA-approved package inserts for the RSV biologic products. Click arrow to play Download TWiV 1378 (33 MB .mp3, 55 min) Subscribe (free): Apple Podcasts , RSS , email Become a&nbsp; patron &nbsp;of&nbsp;TWiV! Links for this episode Long-term local circulation of an Andes virus lineage in northern Patagonia is linked to the M/V Hondius outbreak (Science) Persistent Fungal Mortality in the United States Following the COVID-19 Pandemic Peak, 2022-2025 (Public Health Reports) Respiratory Illnesses Data Channel (CDC: Respiratory Illnesses) Association Between Herpes Simplex Virus-1 Infection and Dementia or Alzheimer\u2019s Disease: A Systematic Review and Meta-Analysis (OFID) Welcome back, measles! (reddit) Measles, Mumps, Rubella Immunization and the Resurgence of Measles in America (Annals of Internal Medicine) Virginia Department of Health Announces First Measles-Associated Death in 2026 (VDH: Virginia Department of Health) Mea",
+      "url": "https://www.microbe.tv/twiv/twiv-1378/",
+      "start_datetime": "2026-11-28T05:00:00",
       "end_datetime": null,
       "timezone": "UTC",
       "location": "Podcast",
